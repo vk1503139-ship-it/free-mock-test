@@ -1,37 +1,18 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
-  // Mock test categories data
-  const testCategories = [
-    { id: 1, name: 'Bihar Daroga', icon: '👮', color: '#e74c3c', tests: 24, bg: '#fde8e8' },
-    { id: 2, name: 'Bihar Police', icon: '🚔', color: '#f39c12', tests: 18, bg: '#fef3e2' },
-    { id: 3, name: 'BPSC', icon: '📜', color: '#2ecc71', tests: 32, bg: '#e8f8ed' },
-    { id: 4, name: 'UPSC', icon: '🇮🇳', color: '#3498db', tests: 45, bg: '#e3f0fa' },
-    { id: 5, name: 'Group D', icon: '👥', color: '#9b59b6', tests: 15, bg: '#f3e8f9' },
-    { id: 6, name: 'IBPS PO', icon: '🏦', color: '#1abc9c', tests: 28, bg: '#e6f7f3' },
-    { id: 7, name: 'IBPS Clerk', icon: '📋', color: '#e67e22', tests: 22, bg: '#fdf0e2' },
-    { id: 8, name: 'SSC GD', icon: '🛡️', color: '#e74c3c', tests: 20, bg: '#fde8e8' },
-    { id: 9, name: 'Bank PO', icon: '💰', color: '#2ecc71', tests: 26, bg: '#e8f8ed' },
-    { id: 10, name: 'Current Affairs', icon: '📰', color: '#3498db', tests: 50, bg: '#e3f0fa' },
-    { id: 11, name: 'Daily Current Affairs', icon: '📅', color: '#9b59b6', tests: 365, bg: '#f3e8f9' },
-    { id: 12, name: 'Special Science', icon: '🔬', color: '#1abc9c', tests: 30, bg: '#e6f7f3' },
-    { id: 13, name: 'Mathematics', icon: '📐', color: '#e67e22', tests: 35, bg: '#fdf0e2' },
-    { id: 14, name: 'Social Science', icon: '🌍', color: '#f39c12', tests: 28, bg: '#fef3e2' },
-    { id: 15, name: 'English', icon: '📚', color: '#e74c3c', tests: 25, bg: '#fde8e8' },
-    { id: 16, name: 'General Knowledge', icon: '🧠', color: '#2ecc71', tests: 40, bg: '#e8f8ed' },
-    { id: 17, name: 'Reasoning', icon: '🧩', color: '#3498db', tests: 32, bg: '#e3f0fa' },
-    { id: 18, name: 'Computer Awareness', icon: '💻', color: '#9b59b6', tests: 20, bg: '#f3e8f9' },
-  ];
+  const navigate = useNavigate();
 
-  // Popular tests data
-  const popularTests = [
-    { id: 101, title: 'BPSC Mains 2025 Mock Test-1', category: 'BPSC', questions: 120, time: '2 Hours', attempts: 3400, level: 'Advanced' },
-    { id: 102, title: 'UPSC Prelims GS Paper-1', category: 'UPSC', questions: 100, time: '2 Hours', attempts: 2800, level: 'Expert' },
-    { id: 103, title: 'Bihar Daroga Practice Set-5', category: 'Bihar Daroga', questions: 80, time: '90 Min', attempts: 1900, level: 'Medium' },
-    { id: 104, title: 'SSC GD Reasoning Special', category: 'SSC GD', questions: 50, time: '60 Min', attempts: 1500, level: 'Easy' },
-    { id: 105, title: 'IBPS PO Quantitative Aptitude', category: 'IBPS PO', questions: 35, time: '45 Min', attempts: 2100, level: 'Advanced' },
-    { id: 106, title: 'Current Affairs Weekly Digest', category: 'Current Affairs', questions: 60, time: '30 Min', attempts: 4200, level: 'Medium' },
-  ];
+  // Handle navigation to Daily Current Affairs
+  const handleDailyAffairsClick = () => {
+    navigate('/daily-current-affairs');
+  };
+
+  // Handle navigation to My Courses
+  const handleExploreCourses = () => {
+    navigate('/my-courses');
+  };
 
   return (
     <div className="home-page">
@@ -66,8 +47,12 @@ const Home = () => {
               </div>
             </div>
             <div className="header-actions">
-              <button className="primary-btn">Explore Tests →</button>
-              <button className="secondary-btn">Learn More</button>
+              <button className="primary-btn" onClick={handleExploreCourses}>
+                Explore Courses →
+              </button>
+              <button className="secondary-btn" onClick={handleDailyAffairsClick}>
+                Daily Current Affairs
+              </button>
             </div>
           </div>
         </div>
@@ -97,152 +82,145 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Trending Tests */}
-        <div className="trending-section">
-          <div className="section-header">
-            <div className="header-left">
-              <span className="trending-icon">🔥</span>
-              <h2>Trending Mock Tests</h2>
-            </div>
-            <a href="#" className="view-all">View All →</a>
-          </div>
-          <div className="trending-grid">
-            {popularTests.slice(0, 3).map((test) => (
-              <div key={test.id} className="trending-card">
-                <div className="trending-badge">{test.category}</div>
-                <div className="trending-level" style={{ 
-                  background: test.level === 'Expert' ? '#e74c3c' : 
-                              test.level === 'Advanced' ? '#e67e22' : 
-                              test.level === 'Medium' ? '#f39c12' : '#2ecc71'
-                }}>{test.level}</div>
-                <h3>{test.title}</h3>
-                <div className="trending-meta">
-                  <span>📝 {test.questions} Questions</span>
-                  <span>⏱️ {test.time}</span>
-                </div>
-                <div className="trending-footer">
-                  <span className="attempts">👥 {test.attempts.toLocaleString()} attempts</span>
-                  <span className="trending-view">View Details →</span>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Popular Tests Grid */}
-        <div className="popular-section">
-          <div className="section-header">
-            <h2>⭐ Popular Mock Tests</h2>
-            <span className="view-all">See All (24+) →</span>
-          </div>
-          <div className="popular-grid">
-            {popularTests.map((test) => (
-              <div key={test.id} className="popular-card">
-                <div className="popular-header">
-                  <span className="popular-category">{test.category}</span>
-                  <span className="popular-level" style={{
-                    background: test.level === 'Expert' ? '#e74c3c' : 
-                                test.level === 'Advanced' ? '#e67e22' : 
-                                test.level === 'Medium' ? '#f39c12' : '#2ecc71'
-                  }}>{test.level}</span>
-                </div>
-                <h4>{test.title}</h4>
-                <div className="popular-meta">
-                  <span>📝 {test.questions} Qs</span>
-                  <span>⏱️ {test.time}</span>
-                  <span>👥 {test.attempts.toLocaleString()}</span>
-                </div>
-                <div className="popular-progress">
-                  <div className="progress-bar">
-                    <div className="progress-fill" style={{ width: `${Math.min(100, (test.attempts / 5000) * 100)}%` }}></div>
-                  </div>
-                  <span className="progress-label">Popularity</span>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* All Categories - Modern Grid */}
-        <div className="categories-section">
-          <div className="section-header">
-            <h2>📚 All Mock Test Categories</h2>
-            <span className="category-count">{testCategories.length} Categories</span>
-          </div>
-
-          <div className="categories-grid">
-            {testCategories.map((category) => (
-              <div key={category.id} className="category-card-modern" style={{ 
-                borderBottom: `4px solid ${category.color}`,
-                background: category.bg 
-              }}>
-                <div className="category-icon-modern" style={{ background: category.color }}>
-                  {category.icon}
-                </div>
-                <div className="category-info-modern">
-                  <h3>{category.name}</h3>
-                  <p>{category.tests} Tests</p>
-                </div>
-                <div className="category-arrow">→</div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Special Offers / Features Banner */}
-        <div className="features-banner">
-          <div className="features-grid">
-            <div className="feature-box">
-              <div className="feature-icon">🎯</div>
-              <h4>Topic-wise Tests</h4>
-              <p>Practice specific topics with targeted tests</p>
-            </div>
-            <div className="feature-box">
-              <div className="feature-icon">📊</div>
-              <h4>Performance Analytics</h4>
-              <p>Get detailed insights and improvement tips</p>
-            </div>
-            <div className="feature-box">
-              <div className="feature-icon">🏆</div>
-              <h4>Leaderboard</h4>
-              <p>Compete with thousands of aspirants</p>
-            </div>
-            <div className="feature-box">
-              <div className="feature-icon">📱</div>
-              <h4>Mobile Friendly</h4>
-              <p>Practice anytime, anywhere on any device</p>
-            </div>
-          </div>
-        </div>
-
-        {/* Daily Current Affairs Section */}
-        <div className="daily-affairs">
-          <div className="daily-header">
-            <span className="daily-icon">📅</span>
-            <div>
+        {/* Daily Current Affairs - Main Feature Section */}
+        <div className="daily-affairs-main">
+          <div className="daily-affairs-hero">
+            <div className="daily-affairs-content">
+              <div className="daily-affairs-badge">📅 Daily Update</div>
               <h2>Daily Current Affairs</h2>
-              <p>Stay updated with today's important news and events</p>
+              <p>Stay ahead with today's most important news, events, and analysis curated specifically for competitive exams.</p>
+              <div className="daily-affairs-stats">
+                <div className="daily-stat">
+                  <span className="daily-stat-number">365</span>
+                  <span className="daily-stat-label">Daily Updates</span>
+                </div>
+                <div className="daily-stat">
+                  <span className="daily-stat-number">50+</span>
+                  <span className="daily-stat-label">Topics Covered</span>
+                </div>
+                <div className="daily-stat">
+                  <span className="daily-stat-number">10K+</span>
+                  <span className="daily-stat-label">Questions</span>
+                </div>
+              </div>
+              <button className="daily-affairs-cta" onClick={handleDailyAffairsClick}>
+                View Today's Digest →
+              </button>
             </div>
-            <button className="daily-btn">View Today's Digest →</button>
+            <div className="daily-affairs-visual">
+              <div className="floating-cards">
+                <div className="float-card card-1">📰</div>
+                <div className="float-card card-2">🌍</div>
+                <div className="float-card card-3">📊</div>
+                <div className="float-card card-4">⚡</div>
+              </div>
+            </div>
           </div>
-          <div className="daily-grid">
-            <div className="daily-card">
-              <span className="daily-badge">🔥 Top Story</span>
+
+          <div className="daily-affairs-grid">
+            <div className="daily-affairs-card featured">
+              <span className="daily-affairs-tag">🔥 Top Story</span>
               <h4>Union Budget 2025-26 Highlights</h4>
-              <p>Key announcements and policy changes for the fiscal year</p>
-              <span className="daily-time">📅 March 14, 2025</span>
+              <p>Key announcements and policy changes for the fiscal year including tax reforms, infrastructure spending, and social welfare schemes.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 25 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
             </div>
-            <div className="daily-card">
-              <span className="daily-badge">📰 Important</span>
+
+            <div className="daily-affairs-card">
+              <span className="daily-affairs-tag" style={{ background: '#2ecc71' }}>📰 Important</span>
               <h4>New Education Policy Updates</h4>
-              <p>Major reforms in higher education and research</p>
-              <span className="daily-time">📅 March 14, 2025</span>
+              <p>Major reforms in higher education and research including new curriculum structure and digital learning initiatives.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 18 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
             </div>
-            <div className="daily-card">
-              <span className="daily-badge">🌍 Global</span>
+
+            <div className="daily-affairs-card">
+              <span className="daily-affairs-tag" style={{ background: '#3498db' }}>🌍 Global</span>
               <h4>International Relations: India's New Initiatives</h4>
-              <p>Diplomatic developments and trade agreements</p>
-              <span className="daily-time">📅 March 14, 2025</span>
+              <p>Diplomatic developments, trade agreements, and strategic partnerships shaping India's global standing.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 20 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
+            </div>
+
+            <div className="daily-affairs-card">
+              <span className="daily-affairs-tag" style={{ background: '#e67e22' }}>💼 Economy</span>
+              <h4>GDP Growth & Economic Outlook 2025</h4>
+              <p>Analysis of India's economic performance, growth projections, and key sectoral developments.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 22 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
+            </div>
+
+            <div className="daily-affairs-card">
+              <span className="daily-affairs-tag" style={{ background: '#9b59b6' }}>🔬 Science</span>
+              <h4>ISRO's New Space Missions</h4>
+              <p>Latest updates on India's space exploration programs, satellite launches, and scientific achievements.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 15 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
+            </div>
+
+            <div className="daily-affairs-card">
+              <span className="daily-affairs-tag" style={{ background: '#1abc9c' }}>🌿 Environment</span>
+              <h4>Climate Action & Sustainability</h4>
+              <p>Global climate initiatives, renewable energy targets, and environmental conservation efforts.</p>
+              <div className="daily-affairs-meta">
+                <span>📅 March 14, 2025</span>
+                <span>📝 16 Questions</span>
+              </div>
+              <button className="daily-affairs-card-btn" onClick={handleDailyAffairsClick}>
+                Start Practice →
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Why Daily Current Affairs Section */}
+        <div className="why-section">
+          <h2>🎯 Why Daily Current Affairs Matters</h2>
+          <div className="why-grid">
+            <div className="why-card">
+              <div className="why-icon">📊</div>
+              <h4>Exam Relevance</h4>
+              <p>70% of competitive exams include current affairs questions. Stay updated to score high.</p>
+            </div>
+            <div className="why-card">
+              <div className="why-icon">🧠</div>
+              <h4>Boost General Knowledge</h4>
+              <p>Develop a strong understanding of national and international events for better decision-making.</p>
+            </div>
+            <div className="why-card">
+              <div className="why-icon">🏆</div>
+              <h4>Competitive Edge</h4>
+              <p>Regular practice with daily current affairs gives you an edge over other aspirants.</p>
+            </div>
+            <div className="why-card">
+              <div className="why-icon">⏰</div>
+              <h4>Time Management</h4>
+              <p>Learn to quickly analyze and answer current affairs questions within time constraints.</p>
             </div>
           </div>
         </div>
@@ -253,7 +231,7 @@ const Home = () => {
           <div className="testimonial-grid">
             <div className="testimonial-card">
               <div className="stars">⭐⭐⭐⭐⭐</div>
-              <p>"The mock tests here are incredibly helpful! I cleared my BPSC exam with the practice tests."</p>
+              <p>"The daily current affairs section is a game-changer! It helped me stay updated and ace my exams."</p>
               <div className="student-info">
                 <span className="student-name">Amit Kumar</span>
                 <span className="student-exam">BPSC Topper 2024</span>
@@ -261,7 +239,7 @@ const Home = () => {
             </div>
             <div className="testimonial-card">
               <div className="stars">⭐⭐⭐⭐⭐</div>
-              <p>"Best platform for UPSC preparation. The quality of questions is excellent."</p>
+              <p>"Best platform for current affairs preparation. The questions are always relevant and up-to-date."</p>
               <div className="student-info">
                 <span className="student-name">Priya Singh</span>
                 <span className="student-exam">UPSC CSE 2024</span>
@@ -269,11 +247,27 @@ const Home = () => {
             </div>
             <div className="testimonial-card">
               <div className="stars">⭐⭐⭐⭐⭐</div>
-              <p>"Daily current affairs helped me stay updated. Highly recommended for all aspirants!"</p>
+              <p>"Daily practice with current affairs boosted my confidence. Highly recommended for all aspirants!"</p>
               <div className="student-info">
                 <span className="student-name">Rahul Sharma</span>
                 <span className="student-exam">Bank PO 2024</span>
               </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Call to Action */}
+        <div className="cta-section">
+          <div className="cta-content">
+            <h3>Ready to Master Current Affairs?</h3>
+            <p>Join thousands of aspirants who practice daily and achieve their dream careers.</p>
+            <div className="cta-buttons">
+              <button className="cta-primary" onClick={handleDailyAffairsClick}>
+                Start Daily Practice →
+              </button>
+              <button className="cta-secondary" onClick={handleExploreCourses}>
+                Explore All Courses
+              </button>
             </div>
           </div>
         </div>
@@ -371,6 +365,7 @@ const Home = () => {
           justify-content: center;
           gap: 50px;
           margin-bottom: 35px;
+          flex-wrap: wrap;
         }
 
         .stat-item {
@@ -395,6 +390,7 @@ const Home = () => {
           display: flex;
           gap: 15px;
           justify-content: center;
+          flex-wrap: wrap;
         }
 
         .primary-btn {
@@ -466,6 +462,7 @@ const Home = () => {
         .filter-group {
           display: flex;
           gap: 8px;
+          flex-wrap: wrap;
         }
 
         .filter-select {
@@ -500,437 +497,286 @@ const Home = () => {
           box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
         }
 
-        /* Section Header */
-        .section-header {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          margin-bottom: 20px;
-        }
-
-        .section-header h2 {
-          color: #1a1a2e;
-          font-size: 1.6rem;
-          font-weight: 700;
-        }
-
-        .view-all {
-          color: #667eea;
-          text-decoration: none;
-          font-weight: 600;
-          font-size: 0.95rem;
-          cursor: pointer;
-          transition: all 0.3s ease;
-        }
-
-        .view-all:hover {
-          color: #764ba2;
-        }
-
-        .header-left {
-          display: flex;
-          align-items: center;
-          gap: 10px;
-        }
-
-        .trending-icon {
-          font-size: 1.8rem;
-        }
-
-        .category-count {
-          background: linear-gradient(135deg, #667eea, #764ba2);
-          color: white;
-          padding: 4px 16px;
-          border-radius: 20px;
-          font-size: 0.85rem;
-          font-weight: 600;
-        }
-
-        /* Trending */
-        .trending-section {
+        /* Daily Current Affairs Main Section */
+        .daily-affairs-main {
           margin-bottom: 40px;
         }
 
-        .trending-grid {
+        .daily-affairs-hero {
+          background: linear-gradient(135deg, #1a1a2e 0%, #2d1b69 50%, #1a1a2e 100%);
+          border-radius: 24px;
+          padding: 45px 50px;
           display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-          gap: 20px;
+          grid-template-columns: 1.5fr 1fr;
+          gap: 40px;
+          margin-bottom: 30px;
+          position: relative;
+          overflow: hidden;
         }
 
-        .trending-card {
-          background: white;
-          border-radius: 16px;
-          padding: 22px;
-          box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+        .daily-affairs-hero::before {
+          content: '';
+          position: absolute;
+          top: -50%;
+          right: -30%;
+          width: 500px;
+          height: 500px;
+          background: radial-gradient(circle, rgba(102, 126, 234, 0.1) 0%, transparent 70%);
+          animation: float 6s ease-in-out infinite;
+        }
+
+        @keyframes float {
+          0%, 100% { transform: translate(0, 0); }
+          50% { transform: translate(-20px, -20px); }
+        }
+
+        .daily-affairs-content {
+          position: relative;
+          z-index: 2;
+          color: white;
+        }
+
+        .daily-affairs-badge {
+          display: inline-block;
+          background: rgba(255, 215, 0, 0.2);
+          border: 1px solid rgba(255, 215, 0, 0.3);
+          padding: 6px 20px;
+          border-radius: 50px;
+          font-size: 0.8rem;
+          color: #ffd700;
+          font-weight: 600;
+          margin-bottom: 15px;
+        }
+
+        .daily-affairs-content h2 {
+          font-size: 2.8rem;
+          font-weight: 800;
+          margin-bottom: 12px;
+          background: linear-gradient(135deg, #fff, #f093fb);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+        }
+
+        .daily-affairs-content p {
+          font-size: 1.1rem;
+          opacity: 0.8;
+          line-height: 1.6;
+          margin-bottom: 25px;
+        }
+
+        .daily-affairs-stats {
+          display: flex;
+          gap: 30px;
+          margin-bottom: 25px;
+        }
+
+        .daily-stat {
+          display: flex;
+          flex-direction: column;
+        }
+
+        .daily-stat-number {
+          font-size: 1.8rem;
+          font-weight: 800;
+          color: #ffd700;
+        }
+
+        .daily-stat-label {
+          font-size: 0.85rem;
+          opacity: 0.7;
+        }
+
+        .daily-affairs-cta {
+          padding: 14px 40px;
+          background: linear-gradient(135deg, #f093fb, #667eea);
+          border: none;
+          border-radius: 50px;
+          color: white;
+          font-size: 1.05rem;
+          font-weight: 700;
+          cursor: pointer;
           transition: all 0.3s ease;
+          box-shadow: 0 4px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .daily-affairs-cta:hover {
+          transform: translateY(-3px);
+          box-shadow: 0 8px 35px rgba(102, 126, 234, 0.5);
+        }
+
+        .daily-affairs-visual {
+          position: relative;
+          z-index: 2;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        .floating-cards {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 15px;
           position: relative;
         }
 
-        .trending-card:hover {
+        .float-card {
+          width: 70px;
+          height: 70px;
+          background: rgba(255, 255, 255, 0.1);
+          backdrop-filter: blur(10px);
+          border-radius: 16px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 2rem;
+          border: 1px solid rgba(255, 255, 255, 0.1);
+          animation: floatCards 4s ease-in-out infinite;
+        }
+
+        .float-card.card-1 { animation-delay: 0s; }
+        .float-card.card-2 { animation-delay: 0.5s; }
+        .float-card.card-3 { animation-delay: 1s; }
+        .float-card.card-4 { animation-delay: 1.5s; }
+
+        @keyframes floatCards {
+          0%, 100% { transform: translateY(0px) rotate(0deg); }
+          50% { transform: translateY(-10px) rotate(5deg); }
+        }
+
+        /* Daily Affairs Grid */
+        .daily-affairs-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+          gap: 20px;
+        }
+
+        .daily-affairs-card {
+          background: white;
+          border-radius: 16px;
+          padding: 22px 24px;
+          box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+          transition: all 0.3s ease;
+          border-left: 4px solid #667eea;
+        }
+
+        .daily-affairs-card:hover {
           transform: translateY(-6px);
           box-shadow: 0 12px 40px rgba(0,0,0,0.12);
         }
 
-        .trending-badge {
+        .daily-affairs-card.featured {
+          border-left-color: #ffd700;
+          background: linear-gradient(135deg, #fff, #fffbe6);
+          grid-column: 1 / -1;
+        }
+
+        .daily-affairs-tag {
           display: inline-block;
-          background: #f0f2f5;
-          color: #555;
           padding: 3px 14px;
           border-radius: 12px;
           font-size: 0.7rem;
-          font-weight: 600;
+          font-weight: 700;
+          text-transform: uppercase;
+          background: #667eea;
+          color: white;
+          margin-bottom: 10px;
+        }
+
+        .daily-affairs-card h4 {
+          font-size: 1.05rem;
+          color: #1a1a2e;
           margin-bottom: 8px;
         }
 
-        .trending-level {
-          position: absolute;
-          top: 15px;
-          right: 15px;
-          padding: 3px 12px;
-          border-radius: 12px;
-          font-size: 0.65rem;
-          font-weight: 700;
-          color: white;
-        }
-
-        .trending-card h3 {
-          font-size: 1rem;
-          color: #1a1a2e;
-          margin-bottom: 10px;
-          line-height: 1.4;
-          padding-right: 60px;
-        }
-
-        .trending-meta {
-          display: flex;
-          gap: 15px;
-          font-size: 0.85rem;
+        .daily-affairs-card p {
+          font-size: 0.9rem;
           color: #666;
+          line-height: 1.5;
           margin-bottom: 12px;
         }
 
-        .trending-footer {
+        .daily-affairs-meta {
           display: flex;
-          justify-content: space-between;
-          align-items: center;
-          border-top: 1px solid #eee;
-          padding-top: 12px;
-        }
-
-        .attempts {
-          font-size: 0.85rem;
-          color: #888;
-        }
-
-        .trending-view {
-          color: #667eea;
-          font-weight: 600;
-          font-size: 0.85rem;
-          cursor: pointer;
-          transition: all 0.3s ease;
-        }
-
-        .trending-view:hover {
-          color: #764ba2;
-        }
-
-        /* Popular */
-        .popular-section {
-          margin-bottom: 40px;
-        }
-
-        .popular-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-          gap: 18px;
-        }
-
-        .popular-card {
-          background: white;
-          border-radius: 14px;
-          padding: 18px 20px;
-          box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-          transition: all 0.3s ease;
-        }
-
-        .popular-card:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-
-        .popular-header {
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          margin-bottom: 8px;
-        }
-
-        .popular-category {
-          font-size: 0.75rem;
-          font-weight: 600;
-          color: #667eea;
-          background: #eef0ff;
-          padding: 2px 12px;
-          border-radius: 10px;
-        }
-
-        .popular-level {
-          font-size: 0.65rem;
-          font-weight: 700;
-          color: white;
-          padding: 2px 10px;
-          border-radius: 10px;
-        }
-
-        .popular-card h4 {
-          font-size: 0.95rem;
-          color: #1a1a2e;
-          margin-bottom: 8px;
-          line-height: 1.3;
-        }
-
-        .popular-meta {
-          display: flex;
-          gap: 12px;
+          gap: 15px;
           font-size: 0.8rem;
           color: #888;
-          margin-bottom: 10px;
+          margin-bottom: 12px;
         }
 
-        .popular-progress {
-          display: flex;
-          align-items: center;
-          gap: 10px;
-        }
-
-        .progress-bar {
-          flex: 1;
-          height: 4px;
-          background: #f0f0f0;
-          border-radius: 4px;
-          overflow: hidden;
-        }
-
-        .progress-fill {
-          height: 100%;
-          background: linear-gradient(90deg, #667eea, #764ba2);
-          border-radius: 4px;
-          transition: width 0.5s ease;
-        }
-
-        .progress-label {
-          font-size: 0.7rem;
-          color: #888;
-          font-weight: 500;
-        }
-
-        /* Categories Modern */
-        .categories-section {
-          margin-bottom: 40px;
-        }
-
-        .categories-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
-          gap: 14px;
-        }
-
-        .category-card-modern {
-          background: white;
-          border-radius: 14px;
-          padding: 16px 18px;
-          display: flex;
-          align-items: center;
-          gap: 14px;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-          transition: all 0.3s ease;
-          cursor: pointer;
-          border-bottom: 4px solid transparent;
-        }
-
-        .category-card-modern:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-
-        .category-icon-modern {
-          width: 44px;
-          height: 44px;
-          border-radius: 12px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 1.3rem;
+        .daily-affairs-card-btn {
+          padding: 8px 25px;
+          background: linear-gradient(135deg, #667eea, #764ba2);
+          border: none;
+          border-radius: 25px;
           color: white;
-          flex-shrink: 0;
-        }
-
-        .category-info-modern {
-          flex: 1;
-        }
-
-        .category-info-modern h3 {
-          font-size: 0.9rem;
-          color: #1a1a2e;
+          font-size: 0.85rem;
           font-weight: 600;
-          margin-bottom: 2px;
-        }
-
-        .category-info-modern p {
-          font-size: 0.7rem;
-          color: #888;
-        }
-
-        .category-arrow {
-          color: #ccc;
-          font-size: 1.2rem;
+          cursor: pointer;
           transition: all 0.3s ease;
         }
 
-        .category-card-modern:hover .category-arrow {
-          color: #667eea;
-          transform: translateX(4px);
+        .daily-affairs-card-btn:hover {
+          transform: scale(1.05);
+          box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
         }
 
-        /* Features Banner */
-        .features-banner {
+        /* Why Section */
+        .why-section {
           background: white;
           border-radius: 20px;
-          padding: 35px 30px;
+          padding: 40px 30px;
           margin-bottom: 40px;
           box-shadow: 0 4px 20px rgba(0,0,0,0.06);
         }
 
-        .features-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-          gap: 25px;
-        }
-
-        .feature-box {
+        .why-section h2 {
           text-align: center;
-          padding: 10px;
+          color: #1a1a2e;
+          font-size: 1.8rem;
+          margin-bottom: 25px;
         }
 
-        .feature-icon {
+        .why-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+          gap: 20px;
+        }
+
+        .why-card {
+          text-align: center;
+          padding: 20px 15px;
+          background: #f8f9fa;
+          border-radius: 14px;
+          transition: all 0.3s ease;
+        }
+
+        .why-card:hover {
+          transform: translateY(-4px);
+          box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+        }
+
+        .why-icon {
           font-size: 2.5rem;
           margin-bottom: 10px;
           display: block;
         }
 
-        .feature-box h4 {
+        .why-card h4 {
           color: #1a1a2e;
           font-size: 1rem;
           margin-bottom: 5px;
         }
 
-        .feature-box p {
+        .why-card p {
           color: #888;
           font-size: 0.85rem;
-          line-height: 1.4;
-        }
-
-        /* Daily Affairs */
-        .daily-affairs {
-          background: linear-gradient(135deg, #1a1a2e, #16213e);
-          border-radius: 20px;
-          padding: 30px 35px;
-          margin-bottom: 40px;
-          color: white;
-        }
-
-        .daily-header {
-          display: flex;
-          align-items: center;
-          gap: 20px;
-          margin-bottom: 25px;
-          flex-wrap: wrap;
-        }
-
-        .daily-icon {
-          font-size: 2.5rem;
-        }
-
-        .daily-header h2 {
-          font-size: 1.5rem;
-          margin-bottom: 2px;
-        }
-
-        .daily-header p {
-          opacity: 0.7;
-          font-size: 0.95rem;
-        }
-
-        .daily-btn {
-          margin-left: auto;
-          padding: 10px 25px;
-          background: linear-gradient(135deg, #667eea, #764ba2);
-          border: none;
-          border-radius: 30px;
-          color: white;
-          font-weight: 600;
-          cursor: pointer;
-          transition: all 0.3s ease;
-        }
-
-        .daily-btn:hover {
-          transform: scale(1.03);
-          box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
-        }
-
-        .daily-grid {
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-          gap: 15px;
-        }
-
-        .daily-card {
-          background: rgba(255, 255, 255, 0.06);
-          backdrop-filter: blur(10px);
-          border-radius: 14px;
-          padding: 18px 20px;
-          transition: all 0.3s ease;
-          border: 1px solid rgba(255, 255, 255, 0.06);
-        }
-
-        .daily-card:hover {
-          background: rgba(255, 255, 255, 0.1);
-          transform: translateY(-3px);
-        }
-
-        .daily-badge {
-          display: inline-block;
-          padding: 2px 12px;
-          border-radius: 10px;
-          font-size: 0.6rem;
-          font-weight: 700;
-          text-transform: uppercase;
-          background: #ffd700;
-          color: #1a1a2e;
-          margin-bottom: 8px;
-        }
-
-        .daily-card h4 {
-          font-size: 0.95rem;
-          margin-bottom: 5px;
-          color: white;
-        }
-
-        .daily-card p {
-          font-size: 0.85rem;
-          opacity: 0.7;
-          margin-bottom: 8px;
-          line-height: 1.4;
-        }
-
-        .daily-time {
-          font-size: 0.75rem;
-          opacity: 0.5;
+          line-height: 1.5;
         }
 
         /* Testimonials */
         .testimonials {
-          margin-bottom: 20px;
+          margin-bottom: 40px;
         }
 
         .testimonials h2 {
@@ -990,15 +836,87 @@ const Home = () => {
           color: #667eea;
         }
 
+        /* CTA Section */
+        .cta-section {
+          background: linear-gradient(135deg, #667eea, #764ba2);
+          border-radius: 20px;
+          padding: 45px 40px;
+          text-align: center;
+          color: white;
+        }
+
+        .cta-content h3 {
+          font-size: 2rem;
+          font-weight: 800;
+          margin-bottom: 10px;
+        }
+
+        .cta-content p {
+          font-size: 1.1rem;
+          opacity: 0.9;
+          margin-bottom: 25px;
+        }
+
+        .cta-buttons {
+          display: flex;
+          gap: 15px;
+          justify-content: center;
+          flex-wrap: wrap;
+        }
+
+        .cta-primary {
+          padding: 14px 40px;
+          background: white;
+          border: none;
+          border-radius: 50px;
+          color: #667eea;
+          font-size: 1.05rem;
+          font-weight: 700;
+          cursor: pointer;
+          transition: all 0.3s ease;
+        }
+
+        .cta-primary:hover {
+          transform: translateY(-3px);
+          box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+        }
+
+        .cta-secondary {
+          padding: 14px 35px;
+          background: transparent;
+          border: 2px solid rgba(255, 255, 255, 0.4);
+          border-radius: 50px;
+          color: white;
+          font-size: 1.05rem;
+          font-weight: 600;
+          cursor: pointer;
+          transition: all 0.3s ease;
+        }
+
+        .cta-secondary:hover {
+          background: rgba(255, 255, 255, 0.1);
+          border-color: white;
+          transform: translateY(-3px);
+        }
+
         /* Responsive */
         @media (max-width: 992px) {
-          .header-content h1 {
-            font-size: 2.5rem;
+          .daily-affairs-hero {
+            grid-template-columns: 1fr;
+            text-align: center;
+            padding: 35px 30px;
           }
 
-          .header-stats {
-            gap: 30px;
-            flex-wrap: wrap;
+          .daily-affairs-stats {
+            justify-content: center;
+          }
+
+          .daily-affairs-content h2 {
+            font-size: 2.2rem;
+          }
+
+          .header-content h1 {
+            font-size: 2.5rem;
           }
         }
 
@@ -1012,7 +930,7 @@ const Home = () => {
           }
 
           .header-stats {
-            gap: 15px;
+            gap: 20px;
           }
 
           .stat-number {
@@ -1040,25 +958,37 @@ const Home = () => {
 
           .search-btn {
             width: 100%;
-            padding: 14px;
           }
 
-          .daily-header {
+          .daily-affairs-hero {
+            padding: 30px 20px;
+          }
+
+          .daily-affairs-content h2 {
+            font-size: 1.8rem;
+          }
+
+          .daily-affairs-stats {
             flex-direction: column;
-            text-align: center;
+            gap: 10px;
+            align-items: center;
           }
 
-          .daily-btn {
-            margin-left: 0;
-            width: 100%;
-          }
-
-          .popular-grid {
+          .daily-affairs-grid {
             grid-template-columns: 1fr;
           }
 
-          .categories-grid {
+          .why-grid {
             grid-template-columns: 1fr 1fr;
+          }
+
+          .cta-buttons {
+            flex-direction: column;
+            align-items: center;
+          }
+
+          .cta-primary, .cta-secondary {
+            width: 100%;
           }
         }
 
@@ -1067,24 +997,26 @@ const Home = () => {
             font-size: 1.6rem;
           }
 
-          .categories-grid {
-            grid-template-columns: 1fr;
+          .daily-affairs-content h2 {
+            font-size: 1.5rem;
           }
 
-          .trending-grid {
+          .why-grid {
             grid-template-columns: 1fr;
-          }
-
-          .features-grid {
-            grid-template-columns: 1fr 1fr;
           }
 
           .testimonial-grid {
             grid-template-columns: 1fr;
           }
 
-          .daily-grid {
-            grid-template-columns: 1fr;
+          .float-card {
+            width: 50px;
+            height: 50px;
+            font-size: 1.5rem;
+          }
+
+          .daily-affairs-card.featured {
+            grid-column: 1;
           }
         }
       `}</style>
