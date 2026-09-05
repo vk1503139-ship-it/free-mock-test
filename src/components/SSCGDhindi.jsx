@@ -1,10 +1,107 @@
 // SSCGDMockTest.jsx
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import html2canvas from "html2canvas";
 
-// --- Question Banks ---
+// --- Hindi Question Banks ---
 
-// Mathematics (20 questions)
+// Mathematics (20 questions) - Hindi
 const mathQuestions = [
+  { question: "25 + 37 क्या है?", options: ["52", "62", "72", "82"], answer: "62" },
+  { question: "15 × 6 क्या है?", options: ["80", "85", "90", "95"], answer: "90" },
+  { question: "144 का वर्गमूल क्या है?", options: ["10", "11", "12", "13"], answer: "12" },
+  { question: "100 ÷ 4 क्या है?", options: ["20", "25", "30", "35"], answer: "25" },
+  { question: "3⁴ क्या है?", options: ["27", "54", "81", "108"], answer: "81" },
+  { question: "7 × 8 क्या है?", options: ["48", "54", "56", "64"], answer: "56" },
+  { question: "45 + 56 क्या है?", options: ["99", "100", "101", "102"], answer: "101" },
+  { question: "12 × 12 क्या है?", options: ["124", "134", "144", "154"], answer: "144" },
+  { question: "π (पाई) का अनुमानित मान क्या है?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
+  { question: "1/2 + 1/2 क्या है?", options: ["1/4", "1/2", "1", "2"], answer: "1" },
+  { question: "5! (फैक्टोरियल) क्या है?", options: ["20", "60", "120", "240"], answer: "120" },
+  { question: "200 का 25% क्या है?", options: ["25", "50", "75", "100"], answer: "50" },
+  { question: "5, 10, 15 का औसत क्या है?", options: ["8", "10", "12", "15"], answer: "10" },
+  { question: "18 × 5 क्या है?", options: ["80", "85", "90", "95"], answer: "90" },
+  { question: "144 ÷ 12 क्या है?", options: ["10", "11", "12", "13"], answer: "12" },
+  { question: "2⁶ क्या है?", options: ["32", "48", "64", "72"], answer: "64" },
+  { question: "9 × 9 क्या है?", options: ["71", "81", "91", "99"], answer: "81" },
+  { question: "150 + 250 क्या है?", options: ["300", "350", "400", "450"], answer: "400" },
+  { question: "500 का 20% क्या है?", options: ["50", "80", "100", "120"], answer: "100" },
+  { question: "12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?", options: ["24", "36", "48", "72"], answer: "36" },
+];
+
+// Reasoning (20 questions) - Hindi
+const reasoningQuestions = [
+  { question: "विषम को खोजें: 2, 4, 6, 9", options: ["2", "4", "6", "9"], answer: "9" },
+  { question: "यदि 'APPLE' को 'BQQMF' लिखा जाता है, तो 'MANGO' को क्या लिखा जाएगा?", options: ["NBOF", "NBPH", "NBOH", "NBOI"], answer: "NBOH" },
+  { question: "अगली संख्या ज्ञात करें: 2, 6, 12, 20, ?", options: ["28", "30", "32", "34"], answer: "30" },
+  { question: "कौन सा शब्द भिन्न है? सेब, आम, गाजर, केला", options: ["सेब", "आम", "गाजर", "केला"], answer: "गाजर" },
+  { question: "अगला अक्षर क्या होगा: A, C, E, G, ?", options: ["H", "I", "J", "K"], answer: "I" },
+  { question: "यदि 2=5, 3=10, 4=17, तो 5=?", options: ["22", "24", "26", "28"], answer: "26" },
+  { question: "लुप्त संख्या ज्ञात करें: 2, 5, 10, 17, ?", options: ["24", "25", "26", "27"], answer: "26" },
+  { question: "विषम शब्द चुनें: मेज, कुर्सी, स्टूल, किताब", options: ["मेज", "कुर्सी", "स्टूल", "किताब"], answer: "किताब" },
+  { question: "यदि 'PEN' को 'QFO' लिखा जाता है, तो 'BOOK' को क्या लिखा जाएगा?", options: ["CPPL", "CQPL", "CPQL", "CQOL"], answer: "CPPL" },
+  { question: "अगली संख्या क्या है: 1, 4, 9, 16, ?", options: ["20", "22", "25", "30"], answer: "25" },
+  { question: "विषम को खोजें: कार, बस, बाइक, हवाई जहाज", options: ["कार", "बस", "बाइक", "हवाई जहाज"], answer: "हवाई जहाज" },
+  { question: "यदि 'A' = 1, 'B' = 2, तो 'Z' = ?", options: ["24", "25", "26", "27"], answer: "26" },
+  { question: "अगला क्या आएगा: 3, 8, 13, 18, ?", options: ["21", "22", "23", "24"], answer: "23" },
+  { question: "विषम संख्या चुनें: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60", options: ["3", "6", "9", "12"], answer: "12" },
+  { question: "यदि 'CAT' को 'DBU' लिखा जाता है, तो 'DOG' को क्या लिखा जाएगा?", options: ["EPH", "EPI", "EQH", "EPG"], answer: "EPH" },
+  { question: "अगला क्या आएगा: Z, X, V, T, ?", options: ["R", "S", "Q", "P"], answer: "R" },
+  { question: "लुप्त संख्या ज्ञात करें: 7, 14, 28, 56, ?", options: ["84", "96", "102", "112"], answer: "112" },
+  { question: "विषम शब्द चुनें: पेन, पेंसिल, रबर, किताब, मेज", options: ["पेन", "पेंसिल", "रबर", "किताब", "मेज"], answer: "मेज" },
+  { question: "यदि 3=7, 4=13, 5=21, तो 6=?", options: ["27", "29", "31", "33"], answer: "31" },
+  { question: "अगली संख्या क्या है: 2, 3, 5, 7, 11, ?", options: ["12", "13", "14", "15"], answer: "13" },
+];
+
+// General Knowledge (20 questions) - Hindi
+const gkQuestions = [
+  { question: "भारत की राजधानी क्या है?", options: ["मुंबई", "नई दिल्ली", "कोलकाता", "चेन्नई"], answer: "नई दिल्ली" },
+  { question: "किस देश को 'उगते सूरज की भूमि' कहा जाता है?", options: ["चीन", "जापान", "दक्षिण कोरिया", "भारत"], answer: "जापान" },
+  { question: "भारत का राष्ट्रीय पशु क्या है?", options: ["शेर", "बाघ", "हाथी", "मोर"], answer: "बाघ" },
+  { question: "2026 में भारत के राष्ट्रपति कौन हैं?", options: ["द्रौपदी मुर्मू", "राम नाथ कोविंद", "प्रणब मुखर्जी", "एपीजे अब्दुल कलाम"], answer: "द्रौपदी मुर्मू" },
+  { question: "भारत का राष्ट्रीय पुष्प क्या है?", options: ["कमल", "गुलाब", "सूरजमुखी", "गेंदा"], answer: "कमल" },
+  { question: "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन सा है?", options: ["उत्तर प्रदेश", "मध्य प्रदेश", "राजस्थान", "महाराष्ट्र"], answer: "राजस्थान" },
+  { question: "भारतीय संविधान के जनक कौन कहलाते हैं?", options: ["महात्मा गांधी", "डॉ. बी.आर. अंबेडकर", "जवाहरलाल नेहरू", "सरदार पटेल"], answer: "डॉ. बी.आर. अंबेडकर" },
+  { question: "किस नदी को 'दक्षिण की गंगा' कहा जाता है?", options: ["गोदावरी", "कृष्णा", "कावेरी", "नर्मदा"], answer: "कावेरी" },
+  { question: "GDP का पूर्ण रूप क्या है?", options: ["सकल घरेलू उत्पाद", "सामान्य विकास योजना", "वैश्विक घरेलू उत्पाद", "विकास और वृद्धि योजना"], answer: "सकल घरेलू उत्पाद" },
+  { question: "भारत के किस राज्य की जनसंख्या सबसे अधिक है?", options: ["उत्तर प्रदेश", "महाराष्ट्र", "बिहार", "पश्चिम बंगाल"], answer: "उत्तर प्रदेश" },
+  { question: "भारतीय राष्ट्रीय गान किसने लिखा?", options: ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "महात्मा गांधी", "सुभाष चंद्र बोस"], answer: "रवींद्रनाथ टैगोर" },
+  { question: "जापान की मुद्रा क्या है?", options: ["युआन", "येन", "वोन", "रिंगित"], answer: "येन" },
+  { question: "किस ग्रह को 'लाल ग्रह' कहा जाता है?", options: ["शुक्र", "मंगल", "बृहस्पति", "शनि"], answer: "मंगल" },
+  { question: "विश्व का सबसे बड़ा महासागर कौन सा है?", options: ["अटलांटिक महासागर", "हिंद महासागर", "प्रशांत महासागर", "आर्कटिक महासागर"], answer: "प्रशांत महासागर" },
+  { question: "टेलीफोन का आविष्कार किसने किया?", options: ["थॉमस एडिसन", "अलेक्जेंडर ग्राहम बेल", "निकोला टेस्ला", "अल्बर्ट आइंस्टीन"], answer: "अलेक्जेंडर ग्राहम बेल" },
+  { question: "पानी का रासायनिक सूत्र क्या है?", options: ["H2O", "CO2", "NaCl", "HCl"], answer: "H2O" },
+  { question: "सबसे छोटा महाद्वीप कौन सा है?", options: ["यूरोप", "ऑस्ट्रेलिया", "अंटार्कटिका", "दक्षिण अमेरिका"], answer: "ऑस्ट्रेलिया" },
+  { question: "भारत का राष्ट्रीय खेल क्या है?", options: ["क्रिकेट", "हॉकी", "फुटबॉल", "बैडमिंटन"], answer: "हॉकी" },
+  { question: "भारत के पहले प्रधानमंत्री कौन थे?", options: ["जवाहरलाल नेहरू", "महात्मा गांधी", "सरदार पटेल", "राजेंद्र प्रसाद"], answer: "जवाहरलाल नेहरू" },
+  { question: "ऑस्ट्रेलिया की राजधानी क्या है?", options: ["सिडनी", "मेलबर्न", "कैनबरा", "पर्थ"], answer: "कैनबरा" },
+];
+
+// English (20 questions) - Hindi
+const englishQuestions = [
+  { question: "'child' का बहुवचन क्या है?", options: ["Childs", "Children", "Childrens", "Childes"], answer: "Children" },
+  { question: "'happy' का पर्यायवाची शब्द क्या है?", options: ["Sad", "Joyful", "Angry", "Tired"], answer: "Joyful" },
+  { question: "'go' का past tense क्या है?", options: ["Goed", "Went", "Gone", "Going"], answer: "Went" },
+  { question: "संज्ञा (Noun) कौन सा है?", options: ["Run", "Beautiful", "Happiness", "Quickly"], answer: "Happiness" },
+  { question: "'big' का विलोम शब्द क्या है?", options: ["Large", "Small", "Tall", "Wide"], answer: "Small" },
+  { question: "सही वर्तनी चुनें:", options: ["Acomodate", "Accommodate", "Acommodate", "Accomadate"], answer: "Accommodate" },
+  { question: "'quick' का पर्यायवाची शब्द क्या है?", options: ["Slow", "Fast", "Lazy", "Steady"], answer: "Fast" },
+  { question: "पूर्वसर्ग (Preposition) कौन सा है?", options: ["Run", "In", "Happy", "Quickly"], answer: "In" },
+  { question: "'mouse' का बहुवचन क्या है?", options: ["Mouses", "Mice", "Mices", "Mousies"], answer: "Mice" },
+  { question: "'write' का past tense क्या है?", options: ["Writed", "Wrote", "Written", "Writing"], answer: "Wrote" },
+  { question: "सही आर्टिकल चुनें: I saw ___ elephant.", options: ["A", "An", "The", "None"], answer: "An" },
+  { question: "'hot' का विलोम शब्द क्या है?", options: ["Warm", "Cold", "Spicy", "Boiling"], answer: "Cold" },
+  { question: "क्रिया (Verb) कौन सा शब्द है?", options: ["Beautiful", "Happiness", "Run", "Quickly"], answer: "Run" },
+  { question: "'good' का comparative form क्या है?", options: ["Gooder", "Better", "Best", "More good"], answer: "Better" },
+  { question: "'foot' का बहुवचन क्या है?", options: ["Foots", "Feet", "Feets", "Footes"], answer: "Feet" },
+  { question: "विशेषण (Adjective) कौन सा है?", options: ["Slowly", "Beautiful", "Run", "Happiness"], answer: "Beautiful" },
+  { question: "'see' का past tense क्या है?", options: ["Seed", "Saw", "Seen", "Seeing"], answer: "Saw" },
+  { question: "सही सर्वनाम चुनें: ___ is my friend.", options: ["He", "Him", "His", "Himself"], answer: "He" },
+  { question: "'city' का बहुवचन क्या है?", options: ["Citys", "Cities", "Cityes", "Cites"], answer: "Cities" },
+  { question: "समुच्चयबोधक (Conjunction) कौन सा है?", options: ["And", "Run", "Happy", "Quickly"], answer: "And" },
+];
+
+// --- English Translated Questions (for English mode) ---
+const mathQuestionsEnglish = [
   { question: "What is 25 + 37?", options: ["52", "62", "72", "82"], answer: "62" },
   { question: "What is 15 × 6?", options: ["80", "85", "90", "95"], answer: "90" },
   { question: "What is the square root of 144?", options: ["10", "11", "12", "13"], answer: "12" },
@@ -13,7 +110,7 @@ const mathQuestions = [
   { question: "What is 7 × 8?", options: ["48", "54", "56", "64"], answer: "56" },
   { question: "What is 45 + 56?", options: ["99", "100", "101", "102"], answer: "101" },
   { question: "What is 12 × 12?", options: ["124", "134", "144", "154"], answer: "144" },
-  { question: "What is the value of π (pi) approximately?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
+  { question: "What is the approximate value of π (pi)?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
   { question: "What is 1/2 + 1/2?", options: ["1/4", "1/2", "1", "2"], answer: "1" },
   { question: "What is 5! (factorial)?", options: ["20", "60", "120", "240"], answer: "120" },
   { question: "What is 25% of 200?", options: ["25", "50", "75", "100"], answer: "50" },
@@ -27,8 +124,7 @@ const mathQuestions = [
   { question: "What is the LCM of 12 and 18?", options: ["24", "36", "48", "72"], answer: "36" },
 ];
 
-// Reasoning (20 questions)
-const reasoningQuestions = [
+const reasoningQuestionsEnglish = [
   { question: "Find the odd one out: 2, 4, 6, 9", options: ["2", "4", "6", "9"], answer: "9" },
   { question: "If 'APPLE' is coded as 'BQQMF', what is 'MANGO' coded as?", options: ["NBOF", "NBPH", "NBOH", "NBOI"], answer: "NBOH" },
   { question: "Find the next number: 2, 6, 12, 20, ?", options: ["28", "30", "32", "34"], answer: "30" },
@@ -51,8 +147,7 @@ const reasoningQuestions = [
   { question: "What is the next number: 2, 3, 5, 7, 11, ?", options: ["12", "13", "14", "15"], answer: "13" },
 ];
 
-// General Knowledge (20 questions)
-const gkQuestions = [
+const gkQuestionsEnglish = [
   { question: "What is the capital of India?", options: ["Mumbai", "New Delhi", "Kolkata", "Chennai"], answer: "New Delhi" },
   { question: "Which country is known as the 'Land of Rising Sun'?", options: ["China", "Japan", "South Korea", "India"], answer: "Japan" },
   { question: "What is the national animal of India?", options: ["Lion", "Tiger", "Elephant", "Peacock"], answer: "Tiger" },
@@ -75,8 +170,7 @@ const gkQuestions = [
   { question: "What is the capital of Australia?", options: ["Sydney", "Melbourne", "Canberra", "Perth"], answer: "Canberra" },
 ];
 
-// English (20 questions)
-const englishQuestions = [
+const englishQuestionsEnglish = [
   { question: "What is the plural of 'child'?", options: ["Childs", "Children", "Childrens", "Childes"], answer: "Children" },
   { question: "Which word is a synonym of 'happy'?", options: ["Sad", "Joyful", "Angry", "Tired"], answer: "Joyful" },
   { question: "What is the past tense of 'go'?", options: ["Goed", "Went", "Gone", "Going"], answer: "Went" },
@@ -106,12 +200,26 @@ const getRandomQuestions = (category, count) => {
 };
 
 // --- Build the complete question paper (80 questions) ---
-const buildQuestionPaper = () => {
+const buildQuestionPaper = (lang) => {
+  let math, reasoning, gk, english;
+  
+  if (lang === 'hi') {
+    math = mathQuestions;
+    reasoning = reasoningQuestions;
+    gk = gkQuestions;
+    english = englishQuestions;
+  } else {
+    math = mathQuestionsEnglish;
+    reasoning = reasoningQuestionsEnglish;
+    gk = gkQuestionsEnglish;
+    english = englishQuestionsEnglish;
+  }
+  
   const paper = [
-    ...getRandomQuestions(mathQuestions, 20),
-    ...getRandomQuestions(reasoningQuestions, 20),
-    ...getRandomQuestions(gkQuestions, 20),
-    ...getRandomQuestions(englishQuestions, 20),
+    ...getRandomQuestions(math, 20),
+    ...getRandomQuestions(reasoning, 20),
+    ...getRandomQuestions(gk, 20),
+    ...getRandomQuestions(english, 20),
   ];
   return paper.sort(() => Math.random() - 0.5);
 };
@@ -120,13 +228,30 @@ const buildQuestionPaper = () => {
 export default function SSCGDMockTest() {
   const [started, setStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
-  const [timer, setTimer] = useState(3600); // 60 minutes = 3600 seconds
-  const [questions] = useState(buildQuestionPaper);
+  const [timer, setTimer] = useState(3600);
+  const [language, setLanguage] = useState('hi'); // 'hi' or 'en'
+  const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(0);
   const [resultDetails, setResultDetails] = useState([]);
   const [showTimerWarning, setShowTimerWarning] = useState(false);
+  const resultRef = useRef(null);
+
+  // Initialize questions when language changes
+  useEffect(() => {
+    if (started) {
+      setQuestions(buildQuestionPaper(language));
+      setAnswers({});
+      setCurrent(0);
+    }
+  }, [language]);
+
+  // Start exam with current language
+  const startExam = () => {
+    setQuestions(buildQuestionPaper(language));
+    setStarted(true);
+  };
 
   useEffect(() => {
     if (started && !submitted && timer > 0) {
@@ -143,10 +268,6 @@ export default function SSCGDMockTest() {
     }
   }, [started, submitted, timer]);
 
-  const startExam = () => {
-    setStarted(true);
-  };
-
   const submitExam = () => {
     let s = 0;
     const details = questions.map((q, i) => {
@@ -156,7 +277,7 @@ export default function SSCGDMockTest() {
         question: q.question,
         options: q.options,
         correctAnswer: q.answer,
-        userAnswer: answers[i] || "Not Attempted",
+        userAnswer: answers[i] || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
         isCorrect: isCorrect,
       };
     });
@@ -165,7 +286,30 @@ export default function SSCGDMockTest() {
     setSubmitted(true);
   };
 
-  // Home Page - Mobile Optimized
+  // Download Result as Image
+  const downloadResult = () => {
+    if (resultRef.current) {
+      html2canvas(resultRef.current, {
+        scale: 2,
+        backgroundColor: '#ffffff',
+        logging: false,
+      }).then((canvas) => {
+        const link = document.createElement('a');
+        link.download = `SSC_GD_Result_${new Date().toISOString().slice(0,10)}.png`;
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+      });
+    }
+  };
+
+  // Language Toggle
+  const toggleLanguage = () => {
+    if (!started) {
+      setLanguage(language === 'hi' ? 'en' : 'hi');
+    }
+  };
+
+  // Home Page
   if (!started) {
     return (
       <div style={{
@@ -205,18 +349,66 @@ export default function SSCGDMockTest() {
             width: "60px"
           }}></div>
           
+          {/* Language Toggle */}
+          <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            gap: "12px",
+            marginTop: "15px",
+            marginBottom: "15px"
+          }}>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'hi' ? "700" : "400",
+              color: language === 'hi' ? "#1a1a2e" : "#999"
+            }}>हिन्दी</span>
+            <button
+              onClick={toggleLanguage}
+              style={{
+                width: "50px",
+                height: "26px",
+                borderRadius: "13px",
+                background: language === 'hi' ? "#0f3460" : "#4a90d9",
+                border: "none",
+                cursor: "pointer",
+                position: "relative",
+                transition: "all 0.3s ease"
+              }}
+            >
+              <div style={{
+                width: "20px",
+                height: "20px",
+                borderRadius: "50%",
+                background: "white",
+                position: "absolute",
+                top: "3px",
+                left: language === 'hi' ? "3px" : "27px",
+                transition: "all 0.3s ease",
+                boxShadow: "0 2px 4px rgba(0,0,0,0.2)"
+              }}></div>
+            </button>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'en' ? "700" : "400",
+              color: language === 'en' ? "#1a1a2e" : "#999"
+            }}>English</span>
+          </div>
+          
           <div style={{
             display: "grid",
             gridTemplateColumns: "1fr 1fr",
             gap: "10px",
-            marginTop: "15px"
+            marginTop: "10px"
           }}>
             <div style={{ 
               backgroundColor: "#e8f0fe", 
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>📝 Questions</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>
+                {language === 'hi' ? "📝 प्रश्न" : "📝 Questions"}
+              </div>
               <div style={{ fontSize: "22px", fontWeight: "bold", color: "#1a1a2e" }}>80</div>
             </div>
             <div style={{ 
@@ -224,32 +416,12 @@ export default function SSCGDMockTest() {
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>⏱️Time</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>
+                {language === 'hi' ? "⏱️ समय" : "⏱️ Time"}
+              </div>
               <div style={{ fontSize: "22px", fontWeight: "bold", color: "#1a1a2e" }}>60 min</div>
             </div>
           </div>
-
-          {/* <div style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "5px",
-            marginTop: "10px",
-            fontSize: "11px",
-            color: "#555"
-          }}>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              📐 <strong>20</strong> Math
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              🧠 <strong>20</strong> Reasoning
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              🌍 <strong>20</strong> GK
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              📖 <strong>20</strong> English
-            </div>
-          </div> */}
 
           <div style={{
             backgroundColor: "#f8f9fa",
@@ -260,11 +432,11 @@ export default function SSCGDMockTest() {
             color: "#555",
             textAlign: "left"
           }}>
-            <strong>📋 निर्देश:</strong>
+            <strong>{language === 'hi' ? "📋 निर्देश:" : "📋 Instructions:"}</strong>
             <ul style={{ margin: "5px 0 0 0", paddingLeft: "18px" }}>
-              <li>All questions are compulsory</li>
-              <li>Each question carries <strong>1 mark</strong></li>
-              <li><strong>No negative marking</strong></li>
+              <li>{language === 'hi' ? "सभी प्रश्न अनिवार्य हैं" : "All questions are compulsory"}</li>
+              <li>{language === 'hi' ? "प्रत्येक प्रश्न 1 अंक का है" : "Each question carries 1 mark"}</li>
+              <li>{language === 'hi' ? "कोई नकारात्मक अंकन नहीं" : "No negative marking"}</li>
             </ul>
           </div>
 
@@ -285,14 +457,14 @@ export default function SSCGDMockTest() {
               boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
             }}
           >
-            🚀 Start Exam
+            {language === 'hi' ? "🚀 परीक्षा शुरू करें" : "🚀 Start Exam"}
           </button>
         </div>
       </div>
     );
   }
 
-  // Result Page - Mobile Optimized
+  // Result Page
   if (submitted) {
     const percentage = ((score / questions.length) * 100).toFixed(2);
     const isPassed = percentage >= 60;
@@ -307,8 +479,8 @@ export default function SSCGDMockTest() {
           maxWidth: "800px",
           margin: "0 auto"
         }}>
-          {/* Result Card */}
-          <div style={{
+          {/* Result Card - For Download */}
+          <div ref={resultRef} style={{
             backgroundColor: "white",
             borderRadius: "16px",
             padding: "25px 20px",
@@ -347,6 +519,34 @@ export default function SSCGDMockTest() {
             }}>
               {percentage}% {isPassed ? "✔️ Passed" : "❌ Failed"}
             </div>
+            <div style={{
+              marginTop: "10px",
+              fontSize: "13px",
+              color: "#718096"
+            }}>
+              {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"}
+            </div>
+          </div>
+
+          {/* Download Button */}
+          <div style={{ textAlign: "center", marginBottom: "20px" }}>
+            <button
+              onClick={downloadResult}
+              style={{
+                padding: "12px 30px",
+                fontSize: "15px",
+                fontWeight: "bold",
+                background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
+                color: "white",
+                border: "none",
+                borderRadius: "50px",
+                cursor: "pointer",
+                boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)",
+                transition: "all 0.3s ease"
+              }}
+            >
+              📥 Download Result
+            </button>
           </div>
 
           {/* Answer Review */}
@@ -363,7 +563,7 @@ export default function SSCGDMockTest() {
               fontSize: "18px",
               color: "#2d3748"
             }}>
-              📋 Answer Review
+              {language === 'hi' ? "📋 उत्तर समीक्षा" : "📋 Answer Review"}
             </h2>
             {resultDetails.map((item, index) => (
               <div
@@ -392,14 +592,14 @@ export default function SSCGDMockTest() {
                 </div>
                 <div style={{ marginTop: "8px", marginLeft: "5px", fontSize: "13px" }}>
                   <p style={{ margin: "3px 0" }}>
-                    <strong>Your Answer:</strong>{" "}
+                    <strong>{language === 'hi' ? "आपका उत्तर:" : "Your Answer:"}</strong>{" "}
                     <span style={{ color: item.isCorrect ? "#48bb78" : "#fc8181" }}>
                       {item.userAnswer}
                     </span>
                   </p>
                   {!item.isCorrect && (
                     <p style={{ margin: "3px 0" }}>
-                      <strong>Correct Answer:</strong>{" "}
+                      <strong>{language === 'hi' ? "सही उत्तर:" : "Correct Answer:"}</strong>{" "}
                       <span style={{ color: "#48bb78" }}>{item.correctAnswer}</span>
                     </p>
                   )}
@@ -417,6 +617,7 @@ export default function SSCGDMockTest() {
                 setResultDetails([]);
                 setTimer(3600);
                 setShowTimerWarning(false);
+                setQuestions([]);
               }}
               style={{
                 padding: "14px 35px",
@@ -432,7 +633,7 @@ export default function SSCGDMockTest() {
                 boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
               }}
             >
-              🔄 Take New Test
+              {language === 'hi' ? "🔄 नई परीक्षा लें" : "🔄 Take New Test"}
             </button>
           </div>
         </div>
@@ -440,8 +641,8 @@ export default function SSCGDMockTest() {
     );
   }
 
-  // Exam Page - Mobile Optimized
-  const q = questions[current];
+  // Exam Page
+  const q = questions[current] || { question: "", options: [], answer: "" };
   const answeredCount = Object.keys(answers).length;
 
   return (
@@ -455,7 +656,7 @@ export default function SSCGDMockTest() {
         maxWidth: "800px",
         margin: "0 auto"
       }}>
-        {/* Header - Mobile Optimized with Timer on Right */}
+        {/* Header */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -479,7 +680,7 @@ export default function SSCGDMockTest() {
               fontSize: "10px", 
               color: "#a0aec0"
             }}>
-              Answered: {answeredCount}/{questions.length}
+              {language === 'hi' ? "उत्तर दिए:" : "Answered:"} {answeredCount}/{questions.length}
             </p>
           </div>
           <div style={{
@@ -514,7 +715,7 @@ export default function SSCGDMockTest() {
           </h3>
 
           <div style={{ marginTop: "5px" }}>
-            {q.options.map((op, idx) => (
+            {q.options && q.options.map((op, idx) => (
               <div
                 key={idx}
                 style={{
@@ -555,7 +756,7 @@ export default function SSCGDMockTest() {
           </div>
         </div>
 
-        {/* Navigation - Mobile Optimized */}
+        {/* Navigation */}
         <div style={{
           display: "flex",
           gap: "8px",
@@ -578,7 +779,7 @@ export default function SSCGDMockTest() {
                 transition: "all 0.2s"
               }}
             >
-              ⬅ Prev
+              ⬅ {language === 'hi' ? "पिछला" : "Prev"}
             </button>
             <button
               onClick={() => setCurrent(Math.min(questions.length - 1, current + 1))}
@@ -595,7 +796,7 @@ export default function SSCGDMockTest() {
                 transition: "all 0.2s"
               }}
             >
-              Next ➡
+              {language === 'hi' ? "अगला" : "Next"} ➡
             </button>
           </div>
 
@@ -614,11 +815,11 @@ export default function SSCGDMockTest() {
               boxShadow: "0 2px 8px rgba(72, 187, 120, 0.3)"
             }}
           >
-            📤 Submit
+            📤 {language === 'hi' ? "जमा करें" : "Submit"}
           </button>
         </div>
 
-        {/* Question Navigator - Mobile Optimized */}
+        {/* Question Navigator */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -632,7 +833,7 @@ export default function SSCGDMockTest() {
             fontSize: "11px", 
             fontWeight: "600" 
           }}>
-            Question Navigator
+            {language === 'hi' ? "प्रश्न नेविगेटर" : "Question Navigator"}
           </p>
           <div style={{
             display: "flex",
@@ -670,9 +871,9 @@ export default function SSCGDMockTest() {
             color: "#4a5568",
             flexWrap: "wrap"
           }}>
-            <span>🟢 Answered</span>
-            <span>🔵 Current</span>
-            <span>⚪ Unanswered</span>
+            <span>🟢 {language === 'hi' ? "उत्तर दिया" : "Answered"}</span>
+            <span>🔵 {language === 'hi' ? "वर्तमान" : "Current"}</span>
+            <span>⚪ {language === 'hi' ? "अनुत्तरित" : "Unanswered"}</span>
           </div>
         </div>
 
@@ -695,7 +896,7 @@ export default function SSCGDMockTest() {
             maxWidth: "400px",
             margin: "0 auto"
           }}>
-            ⚠️ Less than 1 minute remaining!
+            ⚠️ {language === 'hi' ? "1 मिनट से कम समय शेष!" : "Less than 1 minute remaining!"}
           </div>
         )}
       </div>
