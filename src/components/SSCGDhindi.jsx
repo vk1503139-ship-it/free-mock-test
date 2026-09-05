@@ -1,6 +1,5 @@
 // SSCGDMockTest.jsx
 import React, { useState, useEffect, useRef } from "react";
-import html2canvas from "html2canvas";
 
 // --- Hindi Question Banks ---
 
@@ -229,7 +228,7 @@ export default function SSCGDMockTest() {
   const [started, setStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [timer, setTimer] = useState(3600);
-  const [language, setLanguage] = useState('hi'); // 'hi' or 'en'
+  const [language, setLanguage] = useState('hi');
   const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
@@ -237,21 +236,6 @@ export default function SSCGDMockTest() {
   const [resultDetails, setResultDetails] = useState([]);
   const [showTimerWarning, setShowTimerWarning] = useState(false);
   const resultRef = useRef(null);
-
-  // Initialize questions when language changes
-  useEffect(() => {
-    if (started) {
-      setQuestions(buildQuestionPaper(language));
-      setAnswers({});
-      setCurrent(0);
-    }
-  }, [language]);
-
-  // Start exam with current language
-  const startExam = () => {
-    setQuestions(buildQuestionPaper(language));
-    setStarted(true);
-  };
 
   useEffect(() => {
     if (started && !submitted && timer > 0) {
@@ -267,6 +251,15 @@ export default function SSCGDMockTest() {
       submitExam();
     }
   }, [started, submitted, timer]);
+
+  const startExam = () => {
+    setQuestions(buildQuestionPaper(language));
+    setStarted(true);
+    setTimer(3600);
+    setAnswers({});
+    setCurrent(0);
+    setShowTimerWarning(false);
+  };
 
   const submitExam = () => {
     let s = 0;
@@ -286,23 +279,39 @@ export default function SSCGDMockTest() {
     setSubmitted(true);
   };
 
-  // Download Result as Image
   const downloadResult = () => {
     if (resultRef.current) {
-      html2canvas(resultRef.current, {
-        scale: 2,
-        backgroundColor: '#ffffff',
-        logging: false,
-      }).then((canvas) => {
-        const link = document.createElement('a');
-        link.download = `SSC_GD_Result_${new Date().toISOString().slice(0,10)}.png`;
-        link.href = canvas.toDataURL('image/png');
-        link.click();
-      });
+      // Simple print-based download
+      const printWindow = window.open('', '_blank');
+      if (printWindow) {
+        const content = resultRef.current.innerHTML;
+        printWindow.document.write(`
+          <html>
+            <head>
+              <title>SSC GD Result</title>
+              <style>
+                body { font-family: Arial, sans-serif; padding: 20px; }
+                .result-card { text-align: center; padding: 20px; border: 2px solid #1a1a2e; border-radius: 10px; }
+                .score { font-size: 40px; font-weight: bold; color: #1a1a2e; }
+                .status { font-size: 20px; margin: 10px 0; }
+                .pass { color: #28a745; }
+                .fail { color: #dc3545; }
+                .details { margin-top: 20px; }
+                .item { padding: 10px; margin: 5px 0; border-left: 4px solid #48bb78; }
+                .item.wrong { border-left-color: #fc8181; }
+              </style>
+            </head>
+            <body>
+              ${content}
+            </body>
+          </html>
+        `);
+        printWindow.document.close();
+        printWindow.print();
+      }
     }
   };
 
-  // Language Toggle
   const toggleLanguage = () => {
     if (!started) {
       setLanguage(language === 'hi' ? 'en' : 'hi');
@@ -545,7 +554,7 @@ export default function SSCGDMockTest() {
                 transition: "all 0.3s ease"
               }}
             >
-              📥 Download Result
+              📥 Download / Print Result
             </button>
           </div>
 
