@@ -7,7 +7,7 @@ const MyCourses = () => {
   const tests = [
     {
       id: 2,
-      title: "Bihar STET Paper 1 pyq 20+ sets",
+      title: "Bihar STET Art & Teaching pyq 20+ sets",
       button: "Start",
       link: "/Bstet"
     },
