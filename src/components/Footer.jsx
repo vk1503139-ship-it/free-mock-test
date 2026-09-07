@@ -1,5 +1,18 @@
 import React from 'react';
-import { FaFacebook, FaTwitter, FaInstagram, FaYoutube, FaPhone, FaEnvelope, FaMapMarkerAlt, FaHeart, FaArrowUp } from 'react-icons/fa';
+import { 
+  FaFacebook, 
+  FaTwitter, 
+  FaInstagram, 
+  FaYoutube, 
+  FaPhone, 
+  FaEnvelope, 
+  FaMapMarkerAlt, 
+  FaHeart, 
+  FaArrowUp,
+  FaTelegramPlane,
+  FaClock,
+  FaGlobe
+} from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import logo from '../assets/vivek.png'; // Adjust the path according to your project structure
 
@@ -8,8 +21,16 @@ const Footer = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  // Social media links
+  const socialLinks = {
+    facebook: 'https://www.facebook.com/share/p/1D43hrh22o/',
+    youtube: 'https://www.youtube.com/@biharspecialmocktest',
+    telegram: 'https://t.me/+pFsRLpD0wORkZTQ1',
+    instagram: 'https://www.instagram.com/rockymahto8?stkn=MWZiN2Q4dTAxOHJybg=='
+  };
+
   return (
-    <footer className="bg-gray-900 text-white py-12 mt-16 border-t border-gray-700">
+    <footer className="bg-gradient-to-b from-gray-900 to-gray-950 text-white py-12 mt-16 border-t border-gray-700">
       <div className="max-w-7xl mx-auto px-6 sm:px-10 lg:px-12">
         
         {/* Main Footer Content */}
@@ -17,59 +38,108 @@ const Footer = () => {
           
           {/* Company Info with Logo */}
           <div className="flex flex-col items-center md:items-start">
-            <Link to="/" onClick={scrollToTop} className="flex items-center gap-3 mb-4">
-              <img src={logo} alt="Mock Test Logo" className="h-12 w-auto" />
-              <span className="text-2xl font-bold text-blue-500">MOCKTEST</span>
+            <Link to="/" onClick={scrollToTop} className="flex items-center gap-3 mb-4 group">
+              <img src={logo} alt="Mock Test Logo" className="h-12 w-auto transform group-hover:scale-110 transition-transform duration-300" />
+              <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
+                MOCKTEST
+              </span>
             </Link>
-            <p className="text-gray-300 text-sm text-center md:text-left leading-relaxed">
+            <p className="text-gray-300 text-sm text-center md:text-left leading-relaxed mb-4">
               Your trusted platform for practice tests, exam preparation, and skill assessment.
             </p>
-            <div className="flex space-x-3 mt-4">
-              <a href="#" className="text-gray-400 hover:text-blue-500 transition duration-300">
-                <FaFacebook size={20} />
+            
+            {/* Social Media Icons - Updated */}
+            <div className="flex space-x-3">
+              <a 
+                href={socialLinks.facebook} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="bg-gray-800 p-2 rounded-full hover:bg-blue-600 transform hover:scale-110 transition-all duration-300"
+                aria-label="Facebook"
+              >
+                <FaFacebook size={20} className="hover:text-white" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition duration-300">
-                <FaTwitter size={20} />
+              <a 
+                href={socialLinks.youtube} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="bg-gray-800 p-2 rounded-full hover:bg-red-600 transform hover:scale-110 transition-all duration-300"
+                aria-label="YouTube"
+              >
+                <FaYoutube size={20} className="hover:text-white" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-pink-500 transition duration-300">
-                <FaInstagram size={20} />
+              <a 
+                href={socialLinks.telegram} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="bg-gray-800 p-2 rounded-full hover:bg-blue-400 transform hover:scale-110 transition-all duration-300"
+                aria-label="Telegram"
+              >
+                <FaTelegramPlane size={20} className="hover:text-white" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition duration-300">
-                <FaYoutube size={20} />
+              <a 
+                href={socialLinks.instagram} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="bg-gray-800 p-2 rounded-full hover:bg-pink-600 transform hover:scale-110 transition-all duration-300"
+                aria-label="Instagram"
+              >
+                <FaInstagram size={20} className="hover:text-white" />
               </a>
             </div>
           </div>
 
           {/* Quick Links */}
           <div className="flex flex-col items-center md:items-start">
-            <h3 className="text-lg font-bold mb-4 text-blue-400">Quick Links</h3>
+            <h3 className="text-lg font-bold mb-4 text-blue-400 flex items-center gap-2">
+              <span className="w-8 h-0.5 bg-blue-400"></span>
+              Quick Links
+            </h3>
             <div className="flex flex-col space-y-3 text-center md:text-left">
-              <Link to="/" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Home</Link>
-              <Link to="/mock-test" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Mock Test</Link>
-              <Link to="/about" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">About Us</Link>
-              <Link to="/contact" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Contact</Link>
+              <Link to="/" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Home</Link>
+              <Link to="/mock-test" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Mock Test</Link>
+              <Link to="/about" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">About Us</Link>
+              <Link to="/contact" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Contact</Link>
             </div>
           </div>
 
           {/* Exam Categories */}
           <div className="flex flex-col items-center md:items-start">
-            <h3 className="text-lg font-bold mb-4 text-green-400">Exam Categories</h3>
+            <h3 className="text-lg font-bold mb-4 text-green-400 flex items-center gap-2">
+              <span className="w-8 h-0.5 bg-green-400"></span>
+              Exam Categories
+            </h3>
             <div className="flex flex-col space-y-3 text-center md:text-left">
-              <Link to="/exam/aptitude" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Aptitude Tests</Link>
-              <Link to="/exam/reasoning" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Reasoning Tests</Link>
-              <Link to="/exam/english" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">English Language</Link>
-              <Link to="/exam/technical" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Technical Tests</Link>
+              <Link to="/exam/aptitude" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Aptitude Tests</Link>
+              <Link to="/exam/reasoning" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Reasoning Tests</Link>
+              <Link to="/exam/english" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">English Language</Link>
+              <Link to="/exam/technical" onClick={scrollToTop} className="text-gray-300 hover:text-white hover:translate-x-2 transition-all duration-300">Technical Tests</Link>
             </div>
           </div>
 
-          {/* Support */}
+          {/* Contact Info */}
           <div className="flex flex-col items-center md:items-start">
-            <h3 className="text-lg font-bold mb-4 text-yellow-400">Support</h3>
-            <div className="flex flex-col space-y-3 text-center md:text-left">
-              <Link to="/help" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Help Center</Link>
-              <Link to="/contact" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Contact Us</Link>
-              <Link to="/faq" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">FAQ</Link>
-              <Link to="/privacy" onClick={scrollToTop} className="text-gray-300 hover:text-white transition duration-300">Privacy Policy</Link>
+            <h3 className="text-lg font-bold mb-4 text-yellow-400 flex items-center gap-2">
+              <span className="w-8 h-0.5 bg-yellow-400"></span>
+              Get in Touch
+            </h3>
+            <div className="flex flex-col space-y-4 text-center md:text-left">
+              <div className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-300">
+                <FaMapMarkerAlt className="text-yellow-400 flex-shrink-0" />
+                <span className="text-sm">123 MockTest St, India</span>
+              </div>
+              <div className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-300">
+                <FaPhone className="text-yellow-400 flex-shrink-0" />
+                <span className="text-sm">+91 1234567890</span>
+              </div>
+              <div className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-300">
+                <FaEnvelope className="text-yellow-400 flex-shrink-0" />
+                <span className="text-sm">info@mocktest.com</span>
+              </div>
+              <div className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors duration-300">
+                <FaClock className="text-yellow-400 flex-shrink-0" />
+                <span className="text-sm">Mon-Fri: 9AM - 6PM</span>
+              </div>
             </div>
           </div>
         </div>
@@ -81,22 +151,24 @@ const Footer = () => {
             {/* Copyright */}
             <div className="text-gray-400 text-sm text-center md:text-left">
               &copy; 2024 <span className="text-blue-400 font-semibold">MockTest</span>. All rights reserved.
+              <span className="hidden sm:inline-block mx-2">|</span>
+              <span className="text-xs text-gray-500">Made with <FaHeart className="inline text-red-500 animate-pulse" /> in India</span>
             </div>
 
             {/* Legal Links */}
             <div className="flex flex-wrap justify-center gap-4 text-gray-400 text-sm">
-              <Link to="/privacy" onClick={scrollToTop} className="hover:text-white transition duration-300">Privacy</Link>
-              <Link to="/terms" onClick={scrollToTop} className="hover:text-white transition duration-300">Terms</Link>
-              <Link to="/safety" onClick={scrollToTop} className="hover:text-white transition duration-300">Safety</Link>
-              <Link to="/contact" onClick={scrollToTop} className="hover:text-white transition duration-300">Support</Link>
+              <Link to="/privacy" onClick={scrollToTop} className="hover:text-white hover:underline transition-all duration-300">Privacy</Link>
+              <Link to="/terms" onClick={scrollToTop} className="hover:text-white hover:underline transition-all duration-300">Terms</Link>
+              <Link to="/safety" onClick={scrollToTop} className="hover:text-white hover:underline transition-all duration-300">Safety</Link>
+              <Link to="/contact" onClick={scrollToTop} className="hover:text-white hover:underline transition-all duration-300">Support</Link>
             </div>
 
             {/* Scroll to Top */}
             <button
               onClick={scrollToTop}
-              className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg text-sm transition duration-300"
+              className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 px-4 py-2 rounded-lg text-sm transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/30 transform hover:scale-105"
             >
-              <FaArrowUp />
+              <FaArrowUp className="animate-bounce" />
               Back to Top
             </button>
           </div>
