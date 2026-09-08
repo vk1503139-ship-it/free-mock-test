@@ -9,7 +9,7 @@ const MyCourses = () => {
       id: 2,
       title: "Bihar STET Art & Teaching pyq 20+ sets",
       button: "Start",
-      link: "/Bstet"
+      link: "/bihar-exam"
     },
     {
       id: 1,
