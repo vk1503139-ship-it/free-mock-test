@@ -23,10 +23,10 @@ const Footer = () => {
 
   // Social media links
   const socialLinks = {
-    facebook: 'https://www.facebook.com/share/p/1D43hrh22o/',
+    facebook: 'https://www.facebook.com/profile.php?id=61593944892381',
     youtube: 'https://www.youtube.com/@biharspecialmocktest',
     telegram: 'https://t.me/+pFsRLpD0wORkZTQ1',
-    instagram: 'https://www.instagram.com/rockymahto8?stkn=MWZiN2Q4dTAxOHJybg=='
+    instagram: 'https://www.instagram.com/mastertest2?stkn=MW43bjh4a25wOHoxcw=='
   };
 
   return (
