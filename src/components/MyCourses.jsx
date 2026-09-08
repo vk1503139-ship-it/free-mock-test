@@ -7,7 +7,7 @@ const MyCourses = () => {
   const tests = [
     {
       id: 2,
-      title: "Bihar STET Art & Teaching pyq 20+ sets",
+      title: "Bihar All Exam Mock Tests",
       button: "Start",
       link: "/bihar-exam"
     },
@@ -43,45 +43,15 @@ const MyCourses = () => {
     },
     {
       id: 3,
-      title: "Pre Bihar Daroga pyq 10 year +",
+      title: "BSEB 10th + 12th Class all Mock Tests",
       button: "Start",
-      link: "/bihar-daroga"
+      link: "/bseb-10-12"
     },
     {
       id: 7,
-      title: "BSEB 10th Hindi objective questions",
+      title: "CBSE 10th + 12th Class all Mock Tests",
       button: "Start",
-      link: "/class-10-hindi"
-    },
-    {
-      id: 8,
-      title: "BSEB 10th Social Science objective questions",
-      button: "Start",
-      link: "/class-10-social-science"
-    },
-    {
-      id: 9,
-      title: "BSEB 10th Science objective questions",
-      button: "Start",
-      link: "/class-10-science"
-    },
-    {
-      id: 10,
-      title: "BSEB 10th English objective questions",
-      button: "Start",
-      link: "/class-10-english"
-    },
-    {
-      id: 11,
-      title: "BSEB 10th Math objective questions",
-      button: "Start",
-      link: "/class-10-math"
-    },
-    {
-      id: 12,
-      title: "BSEB 10th Sanskrit objective questions",
-      button: "Start",
-      link: "/class-10-sanskrit"
+      link: "/cbse-10-12"
     }
   ];
 
