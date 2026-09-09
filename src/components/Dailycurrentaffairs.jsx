@@ -1,8 +1,123 @@
 // DailyCurrentAffairsQuiz.jsx
 import React, { useState, useEffect } from "react";
 
-// --- Current Affairs Question Bank (100+ questions) ---
-const allCurrentAffairsQuestions = [
+// --- Current Affairs Question Bank (100+ questions) - Hindi & English ---
+
+// Hindi Questions
+const currentAffairsHindi = [
+  // National Affairs
+  { question: "भारत के वर्तमान प्रधानमंत्री कौन हैं?", options: ["नरेंद्र मोदी", "राहुल गांधी", "अमित शाह", "अरविंद केजरीवाल"], answer: "नरेंद्र मोदी" },
+  { question: "2026 में भारत के राष्ट्रपति कौन हैं?", options: ["द्रौपदी मुर्मू", "राम नाथ कोविंद", "प्रणब मुखर्जी", "एपीजे अब्दुल कलाम"], answer: "द्रौपदी मुर्मू" },
+  { question: "भारत के वर्तमान उपराष्ट्रपति कौन हैं?", options: ["जगदीप धनखड़", "वेंकैया नायडू", "हामिद अंसारी", "प्रणब मुखर्जी"], answer: "जगदीप धनखड़" },
+  { question: "दिल्ली के मुख्यमंत्री कौन हैं?", options: ["अरविंद केजरीवाल", "मनीष सिसोदिया", "अमित शाह", "राहुल गांधी"], answer: "अरविंद केजरीवाल" },
+  { question: "भारत के किस राज्य की जनसंख्या सबसे अधिक है?", options: ["उत्तर प्रदेश", "महाराष्ट्र", "बिहार", "पश्चिम बंगाल"], answer: "उत्तर प्रदेश" },
+  { question: "किस राज्य की साक्षरता दर सबसे अधिक है?", options: ["केरल", "तमिलनाडु", "महाराष्ट्र", "गुजरात"], answer: "केरल" },
+  { question: "भारत की राजधानी क्या है?", options: ["मुंबई", "नई दिल्ली", "कोलकाता", "चेन्नई"], answer: "नई दिल्ली" },
+  { question: "भारत की मुद्रा क्या है?", options: ["रुपया", "डॉलर", "पाउंड", "येन"], answer: "रुपया" },
+  { question: "भारत का राष्ट्रीय पशु क्या है?", options: ["शेर", "बाघ", "हाथी", "मोर"], answer: "बाघ" },
+  { question: "भारत का राष्ट्रीय पुष्प क्या है?", options: ["कमल", "गुलाब", "सूरजमुखी", "गेंदा"], answer: "कमल" },
+  { question: "भारत का राष्ट्रीय खेल क्या है?", options: ["क्रिकेट", "हॉकी", "फुटबॉल", "बैडमिंटन"], answer: "हॉकी" },
+  { question: "भारतीय राष्ट्रीय गान किसने लिखा?", options: ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "महात्मा गांधी", "सुभाष चंद्र बोस"], answer: "रवींद्रनाथ टैगोर" },
+  { question: "ISRO का पूर्ण रूप क्या है?", options: ["भारतीय अंतरिक्ष अनुसंधान संगठन", "अंतर्राष्ट्रीय अंतरिक्ष अनुसंधान संगठन", "भारतीय अंतरिक्ष अनुसंधान कार्यालय", "अंतर्राष्ट्रीय अंतरिक्ष अनुसंधान कार्यालय"], answer: "भारतीय अंतरिक्ष अनुसंधान संगठन" },
+  { question: "किस शहर को भारत का सिलिकॉन वैली कहा जाता है?", options: ["मुंबई", "दिल्ली", "बेंगलुरु", "चेन्नई"], answer: "बेंगलुरु" },
+  { question: "किस नदी को 'दक्षिण की गंगा' कहा जाता है?", options: ["गोदावरी", "कृष्णा", "कावेरी", "नर्मदा"], answer: "कावेरी" },
+
+  // International Affairs
+  { question: "2023 में G20 शिखर सम्मेलन की मेजबानी किस देश ने की?", options: ["भारत", "USA", "UK", "चीन"], answer: "भारत" },
+  { question: "USA की राजधानी क्या है?", options: ["न्यूयॉर्क", "वाशिंगटन D.C.", "लॉस एंजिल्स", "शिकागो"], answer: "वाशिंगटन D.C." },
+  { question: "जापान की मुद्रा क्या है?", options: ["युआन", "येन", "वोन", "रिंगित"], answer: "येन" },
+  { question: "ऑस्ट्रेलिया की राजधानी क्या है?", options: ["सिडनी", "मेलबर्न", "कैनबरा", "पर्थ"], answer: "कैनबरा" },
+  { question: "किस देश को 'उगते सूरज की भूमि' कहा जाता है?", options: ["चीन", "जापान", "दक्षिण कोरिया", "भारत"], answer: "जापान" },
+  { question: "USA के वर्तमान राष्ट्रपति कौन हैं?", options: ["जो बाइडेन", "डोनाल्ड ट्रम्प", "बराक ओबामा", "जॉर्ज बुश"], answer: "जो बाइडेन" },
+  { question: "फ्रांस की राजधानी क्या है?", options: ["लंदन", "पेरिस", "बर्लिन", "मैड्रिड"], answer: "पेरिस" },
+  { question: "रूस की राजधानी क्या है?", options: ["मॉस्को", "सेंट पीटर्सबर्ग", "कीव", "मिन्स्क"], answer: "मॉस्को" },
+  { question: "विश्व में सबसे अधिक जनसंख्या वाला देश कौन सा है?", options: ["भारत", "चीन", "USA", "इंडोनेशिया"], answer: "भारत" },
+  { question: "UK की मुद्रा क्या है?", options: ["डॉलर", "यूरो", "पाउंड", "येन"], answer: "पाउंड" },
+
+  // Economy & Business
+  { question: "GDP का पूर्ण रूप क्या है?", options: ["सकल घरेलू उत्पाद", "सामान्य विकास योजना", "वैश्विक घरेलू उत्पाद", "विकास और वृद्धि योजना"], answer: "सकल घरेलू उत्पाद" },
+  { question: "भारत की पहली बुलेट ट्रेन परियोजना का नाम क्या है?", options: ["बुलेट इंडिया", "हाई-स्पीड रेल", "मुंबई-अहमदाबाद", "दिल्ली-मुंबई"], answer: "मुंबई-अहमदाबाद" },
+  { question: "विश्व की सबसे बड़ी अर्थव्यवस्था कौन सी है?", options: ["USA", "चीन", "जापान", "जर्मनी"], answer: "USA" },
+  { question: "RBI का पूर्ण रूप क्या है?", options: ["भारतीय रिजर्व बैंक", "भारतीय क्षेत्रीय बैंक", "भारतीय शाही बैंक", "भारतीय गणराज्य बैंक"], answer: "भारतीय रिजर्व बैंक" },
+  { question: "भारत का सबसे बड़ा स्टॉक एक्सचेंज कौन सा है?", options: ["BSE", "NSE", "MCX", "NCDEX"], answer: "NSE" },
+
+  // Science & Technology
+  { question: "भारत की पहली परमाणु पनडुब्बी का नाम क्या है?", options: ["INS अरिहंत", "INS विक्रांत", "INS कलवरी", "INS चक्र"], answer: "INS अरिहंत" },
+  { question: "भारत का पहला AI-संचालित स्कूल कौन सा है?", options: ["AI Academy", "Coding School", "नालंदा AI स्कूल", "डिजिटल स्कूल"], answer: "नालंदा AI स्कूल" },
+  { question: "पहला AI चैटबॉट किस कंपनी ने लॉन्च किया?", options: ["Google", "OpenAI", "Microsoft", "Amazon"], answer: "OpenAI" },
+  { question: "भारत के चंद्र मिशन का नाम क्या है?", options: ["चंद्रयान", "मंगलयान", "गगनयान", "आदित्य"], answer: "चंद्रयान" },
+  { question: "अंतरिक्ष में सबसे अधिक उपग्रह किस देश के हैं?", options: ["USA", "चीन", "रूस", "भारत"], answer: "USA" },
+
+  // Sports
+  { question: "भारतीय क्रिकेट टीम के वर्तमान कप्तान कौन हैं?", options: ["रोहित शर्मा", "विराट कोहली", "MS धोनी", "केएल राहुल"], answer: "रोहित शर्मा" },
+  { question: "क्रिकेट विश्व कप 2023 किस देश ने जीता?", options: ["ऑस्ट्रेलिया", "भारत", "इंग्लैंड", "न्यूजीलैंड"], answer: "ऑस्ट्रेलिया" },
+  { question: "वर्तमान विश्व शतरंज चैंपियन कौन हैं?", options: ["मैग्नस कार्लसन", "विश्वनाथन आनंद", "गैरी कास्पारोव", "बॉबी फिशर"], answer: "मैग्नस कार्लसन" },
+  { question: "एथलेटिक्स में ओलंपिक स्वर्ण जीतने वाले पहले भारतीय कौन हैं?", options: ["नीरज चोपड़ा", "पीटी उषा", "मिल्खा सिंह", "अभिनव बिंद्रा"], answer: "नीरज चोपड़ा" },
+  { question: "जापान का राष्ट्रीय खेल क्या है?", options: ["सूमो कुश्ती", "बेसबॉल", "कराटे", "जूडो"], answer: "सूमो कुश्ती" },
+
+  // History & Culture
+  { question: "किस भारतीय राज्य में सबसे अधिक यूनेस्को विश्व धरोहर स्थल हैं?", options: ["तमिलनाडु", "उत्तर प्रदेश", "महाराष्ट्र", "राजस्थान"], answer: "राजस्थान" },
+  { question: "ताजमहल किसने बनवाया?", options: ["शाहजहाँ", "अकबर", "औरंगज़ेब", "जहाँगीर"], answer: "शाहजहाँ" },
+  { question: "सबसे पुरानी सभ्यता कौन सी है?", options: ["सिंधु घाटी", "मेसोपोटामिया", "मिस्र", "चीनी"], answer: "मेसोपोटामिया" },
+  { question: "भारतीय संविधान के जनक कौन कहलाते हैं?", options: ["महात्मा गांधी", "डॉ. बी.आर. अंबेडकर", "जवाहरलाल नेहरू", "सरदार पटेल"], answer: "डॉ. बी.आर. अंबेडकर" },
+  { question: "'पुनर्जागरण' का क्या अर्थ है?", options: ["पुनर्जन्म", "क्रांति", "सुधार", "विद्रोह"], answer: "पुनर्जन्म" },
+
+  // Environment & Geography
+  { question: "विश्व का सबसे बड़ा महासागर कौन सा है?", options: ["अटलांटिक महासागर", "हिंद महासागर", "प्रशांत महासागर", "आर्कटिक महासागर"], answer: "प्रशांत महासागर" },
+  { question: "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?", options: ["सहारा", "गोबी", "कालाहारी", "अरेबियन"], answer: "सहारा" },
+  { question: "विश्व की सबसे ऊंची पर्वत चोटी कौन सी है?", options: ["माउंट एवरेस्ट", "K2", "कंचनजंगा", "ल्होत्से"], answer: "माउंट एवरेस्ट" },
+  { question: "विश्व की सबसे लंबी नदी कौन सी है?", options: ["नील", "अमेज़न", "यांग्त्ज़ी", "मिसिसिपी"], answer: "नील" },
+  { question: "सबसे बड़ा महाद्वीप कौन सा है?", options: ["अफ्रीका", "एशिया", "उत्तरी अमेरिका", "यूरोप"], answer: "एशिया" },
+
+  // Awards & Honors
+  { question: "भारत का सर्वोच्च नागरिक पुरस्कार कौन सा है?", options: ["भारत रत्न", "पद्म विभूषण", "पद्म भूषण", "पद्म श्री"], answer: "भारत रत्न" },
+  { question: "2023 का नोबेल शांति पुरस्कार किसे मिला?", options: ["नर्गिस मोहम्मदी", "मलाला यूसुफ़ज़ई", "ग्रेटा थुनबर्ग", "जेसिंडा अर्डर्न"], answer: "नर्गिस मोहम्मदी" },
+  { question: "भारत का सर्वोच्च सैन्य पुरस्कार कौन सा है?", options: ["परम वीर चक्र", "अशोक चक्र", "वीर चक्र", "महा वीर चक्र"], answer: "परम वीर चक्र" },
+  { question: "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन हैं?", options: ["रवींद्रनाथ टैगोर", "सीवी रमन", "मदर टेरेसा", "अमर्त्य सेन"], answer: "रवींद्रनाथ टैगोर" },
+
+  // Defense & Security
+  { question: "भारत की पहली स्वदेशी विमान वाहक पोत का नाम क्या है?", options: ["INS विक्रांत", "INS विक्रमादित्य", "INS विराट", "INS विशाल"], answer: "INS विक्रांत" },
+  { question: "भारत के वर्तमान सेना प्रमुख कौन हैं?", options: ["जनरल मनोज पांडे", "जनरल एमएम नरवाने", "जनरल बिपिन रावत", "जनरल दलबीर सिंह"], answer: "जनरल मनोज पांडे" },
+  { question: "DRDO का पूर्ण रूप क्या है?", options: ["रक्षा अनुसंधान एवं विकास संगठन", "रक्षा अनुसंधान एवं विकास कार्यालय", "रक्षा अनुसंधान एवं विकास संचालन", "रक्षा अनुसंधान एवं विकास संगठन"], answer: "रक्षा अनुसंधान एवं विकास संगठन" },
+
+  // Miscellaneous
+  { question: "UNICEF का पूर्ण रूप क्या है?", options: ["संयुक्त राष्ट्र अंतर्राष्ट्रीय बाल आपातकालीन कोष", "संयुक्त राष्ट्र अंतर्राष्ट्रीय बाल शिक्षा कोष", "संयुक्त राष्ट्र अंतर्राष्ट्रीय बाल पर्यावरण कोष", "संयुक्त राष्ट्र अंतर्राष्ट्रीय बाल रोजगार कोष"], answer: "संयुक्त राष्ट्र अंतर्राष्ट्रीय बाल आपातकालीन कोष" },
+  { question: "WHO का पूर्ण रूप क्या है?", options: ["विश्व स्वास्थ्य संगठन", "विश्व स्वास्थ्य कार्यालय", "विश्व स्वास्थ्य संचालन", "विश्व स्वास्थ्य संगठन"], answer: "विश्व स्वास्थ्य संगठन" },
+  { question: "UNESCO का पूर्ण रूप क्या है?", options: ["संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संगठन", "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक कार्यालय", "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संचालन", "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संगठन"], answer: "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संगठन" },
+  { question: "NATO का पूर्ण रूप क्या है?", options: ["उत्तरी अटलांटिक संधि संगठन", "उत्तरी अमेरिकी संधि संगठन", "उत्तरी अटलांटिक व्यापार संगठन", "उत्तरी अमेरिकी व्यापार संगठन"], answer: "उत्तरी अटलांटिक संधि संगठन" },
+  { question: "SAARC का पूर्ण रूप क्या है?", options: ["दक्षिण एशियाई क्षेत्रीय सहयोग संघ", "दक्षिण अमेरिकी क्षेत्रीय सहयोग संघ", "दक्षिण एशियाई क्षेत्रीय समुदाय संघ", "दक्षिण एशियाई गठबंधन क्षेत्रीय सहयोग"], answer: "दक्षिण एशियाई क्षेत्रीय सहयोग संघ" },
+
+  // Additional Questions
+  { question: "कॉफी का सबसे बड़ा उत्पादक देश कौन सा है?", options: ["ब्राजील", "वियतनाम", "कोलंबिया", "इथियोपिया"], answer: "ब्राजील" },
+  { question: "सोने का रासायनिक प्रतीक क्या है?", options: ["Au", "Ag", "Fe", "Cu"], answer: "Au" },
+  { question: "किस ग्रह को 'लाल ग्रह' कहा जाता है?", options: ["शुक्र", "मंगल", "बृहस्पति", "शनि"], answer: "मंगल" },
+  { question: "मानव शरीर का सबसे बड़ा अंग कौन सा है?", options: ["यकृत", "हृदय", "त्वचा", "मस्तिष्क"], answer: "त्वचा" },
+  { question: "प्रकाश की गति लगभग कितनी है?", options: ["3 × 10⁸ m/s", "3 × 10⁹ m/s", "3 × 10⁷ m/s", "3 × 10⁶ m/s"], answer: "3 × 10⁸ m/s" },
+  { question: "पृथ्वी के वायुमंडल में सबसे प्रचुर गैस कौन सी है?", options: ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "आर्गन"], answer: "नाइट्रोजन" },
+  { question: "मीथेन का रासायनिक सूत्र क्या है?", options: ["CH4", "C2H6", "C3H8", "C4H10"], answer: "CH4" },
+  { question: "लाल रक्त कोशिकाओं का मुख्य कार्य क्या है?", options: ["संक्रमण से लड़ना", "ऑक्सीजन ले जाना", "रक्त का थक्का बनाना", "भोजन पचाना"], answer: "ऑक्सीजन ले जाना" },
+  { question: "पौधों द्वारा भोजन बनाने की प्रक्रिया को क्या कहते हैं?", options: ["श्वसन", "प्रकाश संश्लेषण", "किण्वन", "पाचन"], answer: "प्रकाश संश्लेषण" },
+  { question: "कौन सा विटामिन सूर्य के प्रकाश से बनता है?", options: ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"], answer: "विटामिन D" },
+  { question: "बल की इकाई क्या है?", options: ["न्यूटन", "जूल", "वाट", "पास्कल"], answer: "न्यूटन" },
+  { question: "हमारे सौर मंडल का सबसे बड़ा ग्रह कौन सा है?", options: ["शनि", "बृहस्पति", "नेपच्यून", "यूरेनस"], answer: "बृहस्पति" },
+  { question: "पानी का क्वथनांक क्या है?", options: ["90°C", "95°C", "100°C", "105°C"], answer: "100°C" },
+  { question: "पानी का हिमांक क्या है?", options: ["-5°C", "0°C", "5°C", "10°C"], answer: "0°C" },
+  { question: "सूर्य के सबसे निकट कौन सा ग्रह है?", options: ["शुक्र", "बुध", "मंगल", "पृथ्वी"], answer: "बुध" },
+  { question: "ऑक्सीजन का रासायनिक प्रतीक क्या है?", options: ["O", "O2", "Ox", "Om"], answer: "O" },
+  { question: "जीवित जीवों के अध्ययन को क्या कहते हैं?", options: ["भौतिकी", "जीव विज्ञान", "रसायन विज्ञान", "भूविज्ञान"], answer: "जीव विज्ञान" },
+  { question: "किस ग्रह के सबसे अधिक चंद्रमा हैं?", options: ["बृहस्पति", "शनि", "यूरेनस", "नेपच्यून"], answer: "शनि" },
+  { question: "सबसे कठोर प्राकृतिक पदार्थ कौन सा है?", options: ["सोना", "लोहा", "हीरा", "प्लैटिनम"], answer: "हीरा" },
+  { question: "कार्बन डाइऑक्साइड का रासायनिक सूत्र क्या है?", options: ["CO", "CO2", "C2O", "C2O2"], answer: "CO2" },
+  { question: "सामान्य नमक का रासायनिक सूत्र क्या है?", options: ["NaCl", "NaOH", "HCl", "KCl"], answer: "NaCl" },
+  { question: "मानव शरीर में कौन सा अंग रक्त पंप करता है?", options: ["मस्तिष्क", "यकृत", "हृदय", "फेफड़े"], answer: "हृदय" },
+  { question: "लोहे का रासायनिक प्रतीक क्या है?", options: ["Fe", "Ir", "In", "I"], answer: "Fe" },
+  { question: "चांदी का रासायनिक प्रतीक क्या है?", options: ["Si", "Ag", "Au", "Fe"], answer: "Ag" },
+  { question: "भारत का राष्ट्रीय पक्षी क्या है?", options: ["मोर", "तोता", "कोयल", "गरुड़"], answer: "मोर" },
+  { question: "भारत का राष्ट्रीय वृक्ष क्या है?", options: ["बरगद", "पीपल", "नीम", "आम"], answer: "बरगद" },
+];
+
+// English Questions
+const currentAffairsEnglish = [
   // National Affairs
   { question: "Who is the current Prime Minister of India?", options: ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"], answer: "Narendra Modi" },
   { question: "Who is the President of India in 2026?", options: ["Droupadi Murmu", "Ram Nath Kovind", "Pranab Mukherjee", "APJ Abdul Kalam"], answer: "Droupadi Murmu" },
@@ -85,7 +200,7 @@ const allCurrentAffairsQuestions = [
   { question: "What is the full form of NATO?", options: ["North Atlantic Treaty Organisation", "North American Treaty Organisation", "North Atlantic Trade Organisation", "North American Trade Organisation"], answer: "North Atlantic Treaty Organisation" },
   { question: "What is the full form of SAARC?", options: ["South Asian Association for Regional Cooperation", "South American Association for Regional Cooperation", "South Asian Association for Regional Communities", "South Asian Alliance for Regional Cooperation"], answer: "South Asian Association for Regional Cooperation" },
 
-  // Add more questions to reach 100+
+  // Additional Questions
   { question: "Which country is the largest producer of coffee?", options: ["Brazil", "Vietnam", "Colombia", "Ethiopia"], answer: "Brazil" },
   { question: "What is the chemical symbol for gold?", options: ["Au", "Ag", "Fe", "Cu"], answer: "Au" },
   { question: "Which planet is known as the Red Planet?", options: ["Venus", "Mars", "Jupiter", "Saturn"], answer: "Mars" },
@@ -110,10 +225,14 @@ const allCurrentAffairsQuestions = [
   { question: "Which organ pumps blood in the human body?", options: ["Brain", "Liver", "Heart", "Lungs"], answer: "Heart" },
   { question: "What is the chemical symbol for iron?", options: ["Fe", "Ir", "In", "I"], answer: "Fe" },
   { question: "What is the chemical symbol for silver?", options: ["Si", "Ag", "Au", "Fe"], answer: "Ag" },
+  { question: "What is the national bird of India?", options: ["Peacock", "Parrot", "Cuckoo", "Eagle"], answer: "Peacock" },
+  { question: "What is the national tree of India?", options: ["Banyan", "Peepal", "Neem", "Mango"], answer: "Banyan" },
 ];
 
 // --- Helper: Get daily questions based on date ---
-const getDailyQuestions = () => {
+const getDailyQuestions = (lang) => {
+  const questionBank = lang === 'hi' ? currentAffairsHindi : currentAffairsEnglish;
+  
   // Get today's date as seed
   const today = new Date();
   const dateString = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
@@ -124,7 +243,7 @@ const getDailyQuestions = () => {
     return x - Math.floor(x);
   };
 
-  const shuffled = [...allCurrentAffairsQuestions];
+  const shuffled = [...questionBank];
   let seed = 0;
   for (let i = 0; i < dateString.length; i++) {
     seed += dateString.charCodeAt(i);
@@ -147,7 +266,8 @@ export default function DailyCurrentAffairsQuiz() {
   const [started, setStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [timer, setTimer] = useState(1800); // 30 minutes = 1800 seconds
-  const [questions] = useState(getDailyQuestions);
+  const [language, setLanguage] = useState('hi');
+  const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(0);
@@ -181,7 +301,12 @@ export default function DailyCurrentAffairsQuiz() {
   }, [started, submitted, timer]);
 
   const startExam = () => {
+    setQuestions(getDailyQuestions(language));
     setStarted(true);
+    setTimer(1800);
+    setAnswers({});
+    setCurrent(0);
+    setShowTimerWarning(false);
   };
 
   const submitExam = () => {
@@ -193,7 +318,7 @@ export default function DailyCurrentAffairsQuiz() {
         question: q.question,
         options: q.options,
         correctAnswer: q.answer,
-        userAnswer: answers[i] || "Not Attempted",
+        userAnswer: answers[i] || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
         isCorrect: isCorrect,
       };
     });
@@ -202,7 +327,47 @@ export default function DailyCurrentAffairsQuiz() {
     setSubmitted(true);
   };
 
-  // Home Page - Mobile Optimized
+  const toggleLanguage = () => {
+    if (!started) {
+      setLanguage(language === 'hi' ? 'en' : 'hi');
+    }
+  };
+
+  const getText = (key) => {
+    const texts = {
+      'title': { hi: '📰 दैनिक सामयिकी क्विज़', en: '📰 Daily Current Affairs Quiz' },
+      'subtitle': { hi: 'अपने ज्ञान को परखें', en: 'Test Your Knowledge' },
+      'questions': { hi: '📝 प्रश्न', en: '📝 Questions' },
+      'time': { hi: '⏱️ समय', en: '⏱️ Time' },
+      'instructions': { hi: '📋 निर्देश:', en: '📋 Instructions:' },
+      'compulsory': { hi: 'सभी प्रश्न अनिवार्य हैं', en: 'All questions are compulsory' },
+      'marks': { hi: 'प्रत्येक प्रश्न 1 अंक का है', en: 'Each question carries 1 mark' },
+      'negative': { hi: 'कोई नकारात्मक अंकन नहीं', en: 'No negative marking' },
+      'start': { hi: '🚀 क्विज़ शुरू करें', en: '🚀 Start Quiz' },
+      'answered': { hi: 'उत्तर दिए:', en: 'Answered:' },
+      'prev': { hi: '⬅ पिछला', en: '⬅ Prev' },
+      'next': { hi: 'अगला ➡', en: 'Next ➡' },
+      'submit': { hi: '📤 जमा करें', en: '📤 Submit' },
+      'navigator': { hi: 'प्रश्न नेविगेटर', en: 'Question Navigator' },
+      'answered_status': { hi: '🟢 उत्तर दिया', en: '🟢 Answered' },
+      'current_status': { hi: '🔵 वर्तमान', en: '🔵 Current' },
+      'unanswered_status': { hi: '⚪ अनुत्तरित', en: '⚪ Unanswered' },
+      'congrats': { hi: '🎉 उत्कृष्ट कार्य!', en: '🎉 Excellent Work!' },
+      'practice': { hi: '📖 सीखते रहें!', en: '📖 Keep Learning!' },
+      'passed': { hi: '✔️ उत्तीर्ण', en: '✔️ Passed' },
+      'failed': { hi: '❌ सुधार की आवश्यकता', en: '❌ Needs Improvement' },
+      'review': { hi: '📋 उत्तर समीक्षा', en: '📋 Answer Review' },
+      'your_answer': { hi: 'आपका उत्तर:', en: 'Your Answer:' },
+      'correct_answer': { hi: 'सही उत्तर:', en: 'Correct Answer:' },
+      'new_quiz': { hi: '🔄 नई क्विज़ लें', en: '🔄 Take New Quiz' },
+      'warning': { hi: '⚠️ 1 मिनट से कम समय शेष!', en: '⚠️ Less than 1 minute remaining!' },
+      'daily_quiz': { hi: 'आज की क्विज़ में', en: 'Today\'s quiz has' },
+      'questions_selected': { hi: 'प्रश्न चुने गए हैं', en: 'questions selected' },
+    };
+    return texts[key]?.[language] || texts[key]?.['en'] || key;
+  };
+
+  // Home Page
   if (!started) {
     return (
       <div style={{
@@ -221,7 +386,8 @@ export default function DailyCurrentAffairsQuiz() {
           boxShadow: "0 20px 60px rgba(0,0,0,0.6)",
           textAlign: "center",
           maxWidth: "500px",
-          width: "100%"
+          width: "100%",
+          animation: "fadeInUp 0.6s ease"
         }}>
           <div style={{ fontSize: "48px", marginBottom: "5px" }}>📰</div>
           <h1 style={{ 
@@ -230,7 +396,7 @@ export default function DailyCurrentAffairsQuiz() {
             fontSize: "22px",
             fontWeight: "700"
           }}>
-            Daily Current Affairs
+            {getText('title')}
           </h1>
           <p style={{ color: "#666", fontSize: "12px", marginBottom: "15px" }}>
             🗓️ {todayDate}
@@ -242,27 +408,75 @@ export default function DailyCurrentAffairsQuiz() {
             width: "60px"
           }}></div>
           
+          {/* Language Toggle */}
+          <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            gap: "12px",
+            marginTop: "15px",
+            marginBottom: "15px"
+          }}>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'hi' ? "700" : "400",
+              color: language === 'hi' ? "#0d1b2a" : "#999"
+            }}>हिन्दी</span>
+            <button
+              onClick={toggleLanguage}
+              style={{
+                width: "50px",
+                height: "26px",
+                borderRadius: "13px",
+                background: language === 'hi' ? "#2c5a6e" : "#4a90d9",
+                border: "none",
+                cursor: "pointer",
+                position: "relative",
+                transition: "all 0.3s ease"
+              }}
+            >
+              <div style={{
+                width: "20px",
+                height: "20px",
+                borderRadius: "50%",
+                background: "white",
+                position: "absolute",
+                top: "3px",
+                left: language === 'hi' ? "3px" : "27px",
+                transition: "all 0.3s ease",
+                boxShadow: "0 2px 4px rgba(0,0,0,0.2)"
+              }}></div>
+            </button>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'en' ? "700" : "400",
+              color: language === 'en' ? "#0d1b2a" : "#999"
+            }}>English</span>
+          </div>
+          
           <div style={{
             display: "grid",
             gridTemplateColumns: "1fr 1fr",
             gap: "10px",
-            marginTop: "15px"
+            marginTop: "10px"
           }}>
             <div style={{ 
-              backgroundColor: "#f0f7ff", 
+              backgroundColor: "#e8f0fe", 
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>📝 प्रश्न</div>
-              <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>{questions.length}</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>{getText('questions')}</div>
+              <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>
+                {language === 'hi' ? currentAffairsHindi.length : currentAffairsEnglish.length}
+              </div>
             </div>
             <div style={{ 
-              backgroundColor: "#f0f7ff", 
+              backgroundColor: "#e8f0fe", 
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>⏱️ समय</div>
-              <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>30 मिनट</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>{getText('time')}</div>
+              <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>30 min</div>
             </div>
           </div>
 
@@ -274,7 +488,7 @@ export default function DailyCurrentAffairsQuiz() {
             fontSize: "12px",
             color: "#1b3a4b"
           }}>
-            💡 {questions.length} questions selected for today's quiz
+            💡 {getText('daily_quiz')} {getRandomQuestionsCount(language)} {getText('questions_selected')}
           </div>
 
           <div style={{
@@ -286,11 +500,11 @@ export default function DailyCurrentAffairsQuiz() {
             color: "#555",
             textAlign: "left"
           }}>
-            <strong>📋 निर्देश:</strong>
+            <strong>{getText('instructions')}</strong>
             <ul style={{ margin: "5px 0 0 0", paddingLeft: "18px" }}>
-              <li>All questions are based on current affairs</li>
-              <li>Each question carries <strong>1 mark</strong></li>
-              <li><strong>No negative marking</strong></li>
+              <li>{getText('compulsory')}</li>
+              <li>{getText('marks')}</li>
+              <li>{getText('negative')}</li>
             </ul>
           </div>
 
@@ -310,15 +524,17 @@ export default function DailyCurrentAffairsQuiz() {
               transition: "transform 0.3s, box-shadow 0.3s",
               boxShadow: "0 4px 15px rgba(44, 90, 110, 0.4)"
             }}
+            onMouseEnter={(e) => e.target.style.transform = "scale(1.02)"}
+            onMouseLeave={(e) => e.target.style.transform = "scale(1)"}
           >
-            🚀 Start Quiz
+            {getText('start')}
           </button>
         </div>
       </div>
     );
   }
 
-  // Result Page - Mobile Optimized
+  // Result Page
   if (submitted) {
     const percentage = ((score / questions.length) * 100).toFixed(2);
     const isPassed = percentage >= 60;
@@ -333,21 +549,21 @@ export default function DailyCurrentAffairsQuiz() {
           maxWidth: "800px",
           margin: "0 auto"
         }}>
-          {/* Result Card */}
           <div style={{
             backgroundColor: "white",
             borderRadius: "16px",
             padding: "25px 20px",
             boxShadow: "0 10px 40px rgba(0,0,0,0.1)",
             textAlign: "center",
-            marginBottom: "20px"
+            marginBottom: "20px",
+            animation: "slideIn 0.5s ease"
           }}>
             <h1 style={{ 
               fontSize: "24px", 
               marginBottom: "5px",
               color: "#2d3748"
             }}>
-              {isPassed ? "🎉 Excellent Work!" : "📖 Keep Learning!"}
+              {isPassed ? getText('congrats') : getText('practice')}
             </h1>
             <p style={{ color: "#888", fontSize: "12px" }}>🗓️ {todayDate}</p>
             <div style={{
@@ -372,11 +588,17 @@ export default function DailyCurrentAffairsQuiz() {
               marginTop: "5px",
               fontWeight: "600"
             }}>
-              {percentage}% {isPassed ? "✔️ Passed" : "❌ Needs Improvement"}
+              {percentage}% {isPassed ? getText('passed') : getText('failed')}
+            </div>
+            <div style={{
+              marginTop: "10px",
+              fontSize: "13px",
+              color: "#718096"
+            }}>
+              {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"} • {getText('negative')}
             </div>
           </div>
 
-          {/* Answer Review */}
           <div style={{
             backgroundColor: "white",
             borderRadius: "16px",
@@ -390,7 +612,7 @@ export default function DailyCurrentAffairsQuiz() {
               fontSize: "18px",
               color: "#2d3748"
             }}>
-              📋 Answer Review
+              {getText('review')}
             </h2>
             {resultDetails.map((item, index) => (
               <div
@@ -400,7 +622,8 @@ export default function DailyCurrentAffairsQuiz() {
                   borderLeft: `4px solid ${item.isCorrect ? "#48bb78" : "#fc8181"}`,
                   padding: "12px 15px",
                   marginBottom: "12px",
-                  borderRadius: "8px"
+                  borderRadius: "8px",
+                  animation: `fadeIn 0.3s ease ${index * 0.05}s`
                 }}
               >
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
@@ -419,14 +642,14 @@ export default function DailyCurrentAffairsQuiz() {
                 </div>
                 <div style={{ marginTop: "8px", marginLeft: "5px", fontSize: "13px" }}>
                   <p style={{ margin: "3px 0" }}>
-                    <strong>Your Answer:</strong>{" "}
+                    <strong>{getText('your_answer')}</strong>{" "}
                     <span style={{ color: item.isCorrect ? "#48bb78" : "#fc8181" }}>
                       {item.userAnswer}
                     </span>
                   </p>
                   {!item.isCorrect && (
                     <p style={{ margin: "3px 0" }}>
-                      <strong>Correct Answer:</strong>{" "}
+                      <strong>{getText('correct_answer')}</strong>{" "}
                       <span style={{ color: "#48bb78" }}>{item.correctAnswer}</span>
                     </p>
                   )}
@@ -444,7 +667,7 @@ export default function DailyCurrentAffairsQuiz() {
                 setResultDetails([]);
                 setTimer(1800);
                 setShowTimerWarning(false);
-                window.location.reload();
+                setQuestions([]);
               }}
               style={{
                 padding: "14px 35px",
@@ -457,10 +680,13 @@ export default function DailyCurrentAffairsQuiz() {
                 cursor: "pointer",
                 width: "100%",
                 maxWidth: "300px",
-                boxShadow: "0 4px 15px rgba(44, 90, 110, 0.4)"
+                boxShadow: "0 4px 15px rgba(44, 90, 110, 0.4)",
+                transition: "transform 0.3s ease"
               }}
+              onMouseEnter={(e) => e.target.style.transform = "scale(1.02)"}
+              onMouseLeave={(e) => e.target.style.transform = "scale(1)"}
             >
-              🔄 Take New Quiz
+              {getText('new_quiz')}
             </button>
           </div>
         </div>
@@ -468,8 +694,25 @@ export default function DailyCurrentAffairsQuiz() {
     );
   }
 
-  // Exam Page - Mobile Optimized
-  const q = questions[current];
+  // Helper function for home page
+  function getRandomQuestionsCount(lang) {
+    const bank = lang === 'hi' ? currentAffairsHindi : currentAffairsEnglish;
+    const today = new Date();
+    const dateString = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
+    let seed = 0;
+    for (let i = 0; i < dateString.length; i++) {
+      seed += dateString.charCodeAt(i);
+    }
+    const seededRandom = (s) => {
+      const x = Math.sin(s) * 10000;
+      return x - Math.floor(x);
+    };
+    seed = (seed * 9301 + 49297) % 233280;
+    return 30 + Math.floor(seededRandom(seed + 1) * 11);
+  }
+
+  // Exam Page
+  const q = questions[current] || { question: "", options: [], answer: "" };
   const answeredCount = Object.keys(answers).length;
 
   return (
@@ -483,7 +726,6 @@ export default function DailyCurrentAffairsQuiz() {
         maxWidth: "800px",
         margin: "0 auto"
       }}>
-        {/* Header - Mobile Optimized with Timer on Right */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -507,7 +749,7 @@ export default function DailyCurrentAffairsQuiz() {
               fontSize: "10px", 
               color: "#a0aec0"
             }}>
-              Answered: {answeredCount}/{questions.length}
+              {getText('answered')} {answeredCount}/{questions.length}
             </p>
           </div>
           <div style={{
@@ -523,13 +765,13 @@ export default function DailyCurrentAffairsQuiz() {
           </div>
         </div>
 
-        {/* Question Card */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
           padding: "16px",
           boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-          marginBottom: "10px"
+          marginBottom: "10px",
+          animation: "fadeIn 0.3s ease"
         }}>
           <div style={{
             display: "inline-block",
@@ -540,7 +782,7 @@ export default function DailyCurrentAffairsQuiz() {
             color: "#1b3a4b",
             marginBottom: "12px"
           }}>
-            📌 Current Affairs
+            📌 {language === 'hi' ? 'सामयिकी' : 'Current Affairs'}
           </div>
           <h3 style={{
             fontSize: "16px",
@@ -553,7 +795,7 @@ export default function DailyCurrentAffairsQuiz() {
           </h3>
 
           <div style={{ marginTop: "5px" }}>
-            {q.options.map((op, idx) => (
+            {q.options && q.options.map((op, idx) => (
               <div
                 key={idx}
                 style={{
@@ -563,11 +805,24 @@ export default function DailyCurrentAffairsQuiz() {
                   border: answers[current] === op ? "2px solid #2c5a6e" : "2px solid transparent",
                   borderRadius: "8px",
                   cursor: "pointer",
-                  transition: "all 0.2s",
+                  transition: "all 0.3s ease",
                   display: "flex",
-                  alignItems: "center"
+                  alignItems: "center",
+                  transform: answers[current] === op ? "scale(1.01)" : "scale(1)"
                 }}
                 onClick={() => setAnswers({ ...answers, [current]: op })}
+                onMouseEnter={(e) => {
+                  if (answers[current] !== op) {
+                    e.currentTarget.style.backgroundColor = "#f0f0f0";
+                    e.currentTarget.style.transform = "scale(1.005)";
+                  }
+                }}
+                onMouseLeave={(e) => {
+                  if (answers[current] !== op) {
+                    e.currentTarget.style.backgroundColor = "#f7fafc";
+                    e.currentTarget.style.transform = "scale(1)";
+                  }
+                }}
               >
                 <input
                   type="radio"
@@ -594,7 +849,6 @@ export default function DailyCurrentAffairsQuiz() {
           </div>
         </div>
 
-        {/* Navigation - Mobile Optimized */}
         <div style={{
           display: "flex",
           gap: "8px",
@@ -614,10 +868,20 @@ export default function DailyCurrentAffairsQuiz() {
                 borderRadius: "8px",
                 cursor: current === 0 ? "not-allowed" : "pointer",
                 fontWeight: "600",
-                transition: "all 0.2s"
+                transition: "all 0.3s ease"
+              }}
+              onMouseEnter={(e) => {
+                if (current !== 0) {
+                  e.target.style.transform = "scale(1.05)";
+                  e.target.style.boxShadow = "0 4px 12px rgba(44, 90, 110, 0.3)";
+                }
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "scale(1)";
+                e.target.style.boxShadow = "none";
               }}
             >
-              ⬅ Prev
+              {getText('prev')}
             </button>
             <button
               onClick={() => setCurrent(Math.min(questions.length - 1, current + 1))}
@@ -631,10 +895,20 @@ export default function DailyCurrentAffairsQuiz() {
                 borderRadius: "8px",
                 cursor: current === questions.length - 1 ? "not-allowed" : "pointer",
                 fontWeight: "600",
-                transition: "all 0.2s"
+                transition: "all 0.3s ease"
+              }}
+              onMouseEnter={(e) => {
+                if (current !== questions.length - 1) {
+                  e.target.style.transform = "scale(1.05)";
+                  e.target.style.boxShadow = "0 4px 12px rgba(44, 90, 110, 0.3)";
+                }
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "scale(1)";
+                e.target.style.boxShadow = "none";
               }}
             >
-              Next ➡
+              {getText('next')}
             </button>
           </div>
 
@@ -649,15 +923,22 @@ export default function DailyCurrentAffairsQuiz() {
               borderRadius: "8px",
               cursor: "pointer",
               fontWeight: "600",
-              transition: "all 0.2s",
+              transition: "all 0.3s ease",
               boxShadow: "0 2px 8px rgba(72, 187, 120, 0.3)"
             }}
+            onMouseEnter={(e) => {
+              e.target.style.transform = "scale(1.05)";
+              e.target.style.boxShadow = "0 4px 15px rgba(72, 187, 120, 0.5)";
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.transform = "scale(1)";
+              e.target.style.boxShadow = "0 2px 8px rgba(72, 187, 120, 0.3)";
+            }}
           >
-            📤 Submit
+            {getText('submit')}
           </button>
         </div>
 
-        {/* Question Navigator - Mobile Optimized */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -671,7 +952,7 @@ export default function DailyCurrentAffairsQuiz() {
             fontSize: "11px", 
             fontWeight: "600" 
           }}>
-            Question Navigator
+            {getText('navigator')}
           </p>
           <div style={{
             display: "flex",
@@ -694,7 +975,14 @@ export default function DailyCurrentAffairsQuiz() {
                   borderRadius: "6px",
                   cursor: "pointer",
                   fontWeight: "bold",
-                  transition: "all 0.2s"
+                  transition: "all 0.3s ease",
+                  transform: answers[idx] ? "scale(1.05)" : "scale(1)"
+                }}
+                onMouseEnter={(e) => {
+                  e.target.style.transform = "scale(1.1)";
+                }}
+                onMouseLeave={(e) => {
+                  e.target.style.transform = answers[idx] ? "scale(1.05)" : "scale(1)";
                 }}
               >
                 {idx + 1}
@@ -709,13 +997,12 @@ export default function DailyCurrentAffairsQuiz() {
             color: "#4a5568",
             flexWrap: "wrap"
           }}>
-            <span>🟢 Answered</span>
-            <span>🔵 Current</span>
-            <span>⚪ Unanswered</span>
+            <span>{getText('answered_status')}</span>
+            <span>{getText('current_status')}</span>
+            <span>{getText('unanswered_status')}</span>
           </div>
         </div>
 
-        {/* Timer Warning */}
         {showTimerWarning && (
           <div style={{
             position: "fixed",
@@ -734,16 +1021,28 @@ export default function DailyCurrentAffairsQuiz() {
             maxWidth: "400px",
             margin: "0 auto"
           }}>
-            ⚠️ Less than 1 minute remaining!
+            {getText('warning')}
           </div>
         )}
       </div>
       <style>
         {`
           @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.6; }
-            100% { opacity: 1; }
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.6; transform: scale(0.98); }
+            100% { opacity: 1; transform: scale(1); }
+          }
+          @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes fadeIn {
+            from { opacity: 0; transform: translateX(-10px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
           }
         `}
       </style>
