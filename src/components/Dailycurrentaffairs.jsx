@@ -766,7 +766,8 @@ export default function DailyCurrentAffairsQuiz() {
                       </span>
                     )}
                   </p>
-                  {!item.isCorrect && item.isAttempted && (
+                  {/* ✅ FIX: Show correct answer for NOT ATTEMPTED questions too */}
+                  {!item.isCorrect && (
                     <p style={{ margin: "3px 0" }}>
                       <strong>{getText('correct_answer')}</strong>{" "}
                       <span style={{ color: "#48bb78", fontWeight: "bold" }}>{item.correctAnswer}</span>
