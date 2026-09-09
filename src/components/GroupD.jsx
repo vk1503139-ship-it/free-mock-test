@@ -1,10 +1,128 @@
 // RRBGroupDMockTest.jsx
 import React, { useState, useEffect } from "react";
 
-// --- Question Banks ---
+// --- Hindi Question Banks ---
 
-// Mathematics (25 questions)
+// Mathematics (25 questions) - Hindi
 const mathQuestions = [
+  { question: "25 + 37 क्या है?", options: ["52", "62", "72", "82"], answer: "62" },
+  { question: "15 × 6 क्या है?", options: ["80", "85", "90", "95"], answer: "90" },
+  { question: "144 का वर्गमूल क्या है?", options: ["10", "11", "12", "13"], answer: "12" },
+  { question: "100 ÷ 4 क्या है?", options: ["20", "25", "30", "35"], answer: "25" },
+  { question: "3⁴ क्या है?", options: ["27", "54", "81", "108"], answer: "81" },
+  { question: "7 × 8 क्या है?", options: ["48", "54", "56", "64"], answer: "56" },
+  { question: "45 + 56 क्या है?", options: ["99", "100", "101", "102"], answer: "101" },
+  { question: "12 × 12 क्या है?", options: ["124", "134", "144", "154"], answer: "144" },
+  { question: "π (पाई) का अनुमानित मान क्या है?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
+  { question: "1/2 + 1/2 क्या है?", options: ["1/4", "1/2", "1", "2"], answer: "1" },
+  { question: "5! (फैक्टोरियल) क्या है?", options: ["20", "60", "120", "240"], answer: "120" },
+  { question: "200 का 25% क्या है?", options: ["25", "50", "75", "100"], answer: "50" },
+  { question: "5, 10, 15 का औसत क्या है?", options: ["8", "10", "12", "15"], answer: "10" },
+  { question: "18 × 5 क्या है?", options: ["80", "85", "90", "95"], answer: "90" },
+  { question: "144 ÷ 12 क्या है?", options: ["10", "11", "12", "13"], answer: "12" },
+  { question: "2⁶ क्या है?", options: ["32", "48", "64", "72"], answer: "64" },
+  { question: "9 × 9 क्या है?", options: ["71", "81", "91", "99"], answer: "81" },
+  { question: "150 + 250 क्या है?", options: ["300", "350", "400", "450"], answer: "400" },
+  { question: "500 का 20% क्या है?", options: ["50", "80", "100", "120"], answer: "100" },
+  { question: "12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?", options: ["24", "36", "48", "72"], answer: "36" },
+  { question: "11 × 11 क्या है?", options: ["111", "121", "131", "141"], answer: "121" },
+  { question: "72 ÷ 8 क्या है?", options: ["7", "8", "9", "10"], answer: "9" },
+  { question: "300 का 30% क्या है?", options: ["60", "70", "80", "90"], answer: "90" },
+  { question: "24 और 36 का महत्तम समापवर्तक (HCF) क्या है?", options: ["6", "8", "10", "12"], answer: "12" },
+  { question: "0.5 × 0.5 क्या है?", options: ["0.25", "0.5", "0.75", "1.0"], answer: "0.25" },
+];
+
+// Reasoning (30 questions) - Hindi
+const reasoningQuestions = [
+  { question: "विषम को खोजें: 2, 4, 6, 9", options: ["2", "4", "6", "9"], answer: "9" },
+  { question: "यदि 'APPLE' को 'BQQMF' लिखा जाता है, तो 'MANGO' को क्या लिखा जाएगा?", options: ["NBOF", "NBPH", "NBOH", "NBOI"], answer: "NBOH" },
+  { question: "अगली संख्या ज्ञात करें: 2, 6, 12, 20, ?", options: ["28", "30", "32", "34"], answer: "30" },
+  { question: "कौन सा शब्द भिन्न है? सेब, आम, गाजर, केला", options: ["सेब", "आम", "गाजर", "केला"], answer: "गाजर" },
+  { question: "अगला अक्षर क्या होगा: A, C, E, G, ?", options: ["H", "I", "J", "K"], answer: "I" },
+  { question: "यदि 2=5, 3=10, 4=17, तो 5=?", options: ["22", "24", "26", "28"], answer: "26" },
+  { question: "लुप्त संख्या ज्ञात करें: 2, 5, 10, 17, ?", options: ["24", "25", "26", "27"], answer: "26" },
+  { question: "विषम शब्द चुनें: मेज, कुर्सी, स्टूल, किताब", options: ["मेज", "कुर्सी", "स्टूल", "किताब"], answer: "किताब" },
+  { question: "यदि 'PEN' को 'QFO' लिखा जाता है, तो 'BOOK' को क्या लिखा जाएगा?", options: ["CPPL", "CQPL", "CPQL", "CQOL"], answer: "CPPL" },
+  { question: "अगली संख्या क्या है: 1, 4, 9, 16, ?", options: ["20", "22", "25", "30"], answer: "25" },
+  { question: "विषम को खोजें: कार, बस, बाइक, हवाई जहाज", options: ["कार", "बस", "बाइक", "हवाई जहाज"], answer: "हवाई जहाज" },
+  { question: "यदि 'A' = 1, 'B' = 2, तो 'Z' = ?", options: ["24", "25", "26", "27"], answer: "26" },
+  { question: "अगला क्या आएगा: 3, 8, 13, 18, ?", options: ["21", "22", "23", "24"], answer: "23" },
+  { question: "विषम संख्या चुनें: 3, 6, 9, 12, 15", options: ["3", "6", "9", "12", "15"], answer: "12" },
+  { question: "यदि 'CAT' को 'DBU' लिखा जाता है, तो 'DOG' को क्या लिखा जाएगा?", options: ["EPH", "EPI", "EQH", "EPG"], answer: "EPH" },
+  { question: "अगला क्या आएगा: Z, X, V, T, ?", options: ["R", "S", "Q", "P"], answer: "R" },
+  { question: "लुप्त संख्या ज्ञात करें: 7, 14, 28, 56, ?", options: ["84", "96", "102", "112"], answer: "112" },
+  { question: "विषम शब्द चुनें: पेन, पेंसिल, रबर, किताब, मेज", options: ["पेन", "पेंसिल", "रबर", "किताब", "मेज"], answer: "मेज" },
+  { question: "यदि 3=7, 4=13, 5=21, तो 6=?", options: ["27", "29", "31", "33"], answer: "31" },
+  { question: "अगली संख्या क्या है: 2, 3, 5, 7, 11, ?", options: ["12", "13", "14", "15"], answer: "13" },
+  { question: "विषम को खोजें: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100", options: ["25", "36", "49", "64"], answer: "64" },
+  { question: "यदि 'BALL' को 'CBNM' लिखा जाता है, तो 'GOAL' को क्या लिखा जाएगा?", options: ["HPBM", "HPBN", "HPBO", "HPBL"], answer: "HPBM" },
+  { question: "अगला क्या आएगा: 2, 4, 8, 16, 32, ?", options: ["48", "56", "64", "72"], answer: "64" },
+  { question: "लुप्त संख्या ज्ञात करें: 9, 16, 25, 36, ?", options: ["49", "50", "52", "54"], answer: "49" },
+  { question: "विषम शब्द चुनें: पृथ्वी, मंगल, बृहस्पति, सूर्य, शुक्र", options: ["पृथ्वी", "मंगल", "बृहस्पति", "सूर्य", "शुक्र"], answer: "सूर्य" },
+  { question: "यदि 'A' = 1, 'B' = 2, तो 'M' = ?", options: ["11", "12", "13", "14"], answer: "13" },
+  { question: "अगला क्या आएगा: 1, 3, 6, 10, 15, ?", options: ["18", "20", "21", "22"], answer: "21" },
+  { question: "विषम को खोजें: 2, 5, 10, 17, 26, 37, 50, 65, 82, 101", options: ["26", "37", "50", "65"], answer: "50" },
+  { question: "यदि 'TIGER' को 'UJHFS' लिखा जाता है, तो 'LION' को क्या लिखा जाएगा?", options: ["MJPO", "MJPP", "MKPO", "MJPN"], answer: "MJPO" },
+  { question: "अगली संख्या क्या है: 0, 1, 1, 2, 3, 5, 8, 13, ?", options: ["18", "20", "21", "22"], answer: "21" },
+];
+
+// Science (25 questions) - Hindi
+const scienceQuestions = [
+  { question: "पानी का रासायनिक सूत्र क्या है?", options: ["H2O", "CO2", "NaCl", "HCl"], answer: "H2O" },
+  { question: "किस ग्रह को 'लाल ग्रह' कहा जाता है?", options: ["शुक्र", "मंगल", "बृहस्पति", "शनि"], answer: "मंगल" },
+  { question: "मानव शरीर का सबसे बड़ा अंग कौन सा है?", options: ["यकृत", "हृदय", "त्वचा", "मस्तिष्क"], answer: "त्वचा" },
+  { question: "सोने का रासायनिक प्रतीक क्या है?", options: ["Au", "Ag", "Fe", "Cu"], answer: "Au" },
+  { question: "पौधे वातावरण से कौन सी गैस अवशोषित करते हैं?", options: ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"], answer: "कार्बन डाइऑक्साइड" },
+  { question: "सबसे कठोर प्राकृतिक पदार्थ कौन सा है?", options: ["सोना", "लोहा", "हीरा", "प्लैटिनम"], answer: "हीरा" },
+  { question: "प्रकाश की गति लगभग कितनी है?", options: ["3 × 10⁸ m/s", "3 × 10⁹ m/s", "3 × 10⁷ m/s", "3 × 10⁶ m/s"], answer: "3 × 10⁸ m/s" },
+  { question: "सामान्य नमक का रासायनिक सूत्र क्या है?", options: ["NaCl", "NaOH", "HCl", "KCl"], answer: "NaCl" },
+  { question: "मानव शरीर में कौन सा अंग रक्त पंप करता है?", options: ["मस्तिष्क", "यकृत", "हृदय", "फेफड़े"], answer: "हृदय" },
+  { question: "लोहे का रासायनिक प्रतीक क्या है?", options: ["Fe", "Ir", "In", "I"], answer: "Fe" },
+  { question: "पृथ्वी के वायुमंडल में सबसे प्रचुर गैस कौन सी है?", options: ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "आर्गन"], answer: "नाइट्रोजन" },
+  { question: "पानी का क्वथनांक क्या है?", options: ["90°C", "95°C", "100°C", "105°C"], answer: "100°C" },
+  { question: "मीथेन का रासायनिक सूत्र क्या है?", options: ["CH4", "C2H6", "C3H8", "C4H10"], answer: "CH4" },
+  { question: "सूर्य के सबसे निकट कौन सा ग्रह है?", options: ["शुक्र", "बुध", "मंगल", "पृथ्वी"], answer: "बुध" },
+  { question: "लाल रक्त कोशिकाओं का मुख्य कार्य क्या है?", options: ["संक्रमण से लड़ना", "ऑक्सीजन ले जाना", "रक्त का थक्का बनाना", "भोजन पचाना"], answer: "ऑक्सीजन ले जाना" },
+  { question: "चांदी का रासायनिक प्रतीक क्या है?", options: ["Si", "Ag", "Au", "Fe"], answer: "Ag" },
+  { question: "पौधों द्वारा भोजन बनाने की प्रक्रिया को क्या कहते हैं?", options: ["श्वसन", "प्रकाश संश्लेषण", "किण्वन", "पाचन"], answer: "प्रकाश संश्लेषण" },
+  { question: "हमारे सौर मंडल का सबसे बड़ा ग्रह कौन सा है?", options: ["शनि", "बृहस्पति", "नेपच्यून", "यूरेनस"], answer: "बृहस्पति" },
+  { question: "कार्बन डाइऑक्साइड का रासायनिक सूत्र क्या है?", options: ["CO", "CO2", "C2O", "C2O2"], answer: "CO2" },
+  { question: "पानी का हिमांक क्या है?", options: ["-5°C", "0°C", "5°C", "10°C"], answer: "0°C" },
+  { question: "बल की इकाई क्या है?", options: ["न्यूटन", "जूल", "वाट", "पास्कल"], answer: "न्यूटन" },
+  { question: "कौन सा विटामिन सूर्य के प्रकाश से बनता है?", options: ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"], answer: "विटामिन D" },
+  { question: "ऑक्सीजन का रासायनिक प्रतीक क्या है?", options: ["O", "O2", "Ox", "Om"], answer: "O" },
+  { question: "जीवित जीवों के अध्ययन को क्या कहते हैं?", options: ["भौतिकी", "जीव विज्ञान", "रसायन विज्ञान", "भूविज्ञान"], answer: "जीव विज्ञान" },
+  { question: "किस ग्रह के सबसे अधिक चंद्रमा हैं?", options: ["बृहस्पति", "शनि", "यूरेनस", "नेपच्यून"], answer: "शनि" },
+];
+
+// Current Affairs (20 questions) - Hindi
+const currentAffairsQuestions = [
+  { question: "भारत के वर्तमान प्रधानमंत्री कौन हैं?", options: ["नरेंद्र मोदी", "राहुल गांधी", "अमित शाह", "अरविंद केजरीवाल"], answer: "नरेंद्र मोदी" },
+  { question: "भारत की राजधानी क्या है?", options: ["मुंबई", "नई दिल्ली", "कोलकाता", "चेन्नई"], answer: "नई दिल्ली" },
+  { question: "2026 में भारत के राष्ट्रपति कौन हैं?", options: ["द्रौपदी मुर्मू", "राम नाथ कोविंद", "प्रणब मुखर्जी", "एपीजे अब्दुल कलाम"], answer: "द्रौपदी मुर्मू" },
+  { question: "2023 में G20 शिखर सम्मेलन की मेजबानी किस देश ने की?", options: ["भारत", "USA", "UK", "चीन"], answer: "भारत" },
+  { question: "भारत का पहला AI-संचालित स्कूल कौन सा है?", options: ["AI Academy", "Coding School", "नालंदा AI स्कूल", "डिजिटल स्कूल"], answer: "नालंदा AI स्कूल" },
+  { question: "भारत के किस राज्य की जनसंख्या सबसे अधिक है?", options: ["उत्तर प्रदेश", "महाराष्ट्र", "बिहार", "पश्चिम बंगाल"], answer: "उत्तर प्रदेश" },
+  { question: "भारत की मुद्रा क्या है?", options: ["रुपया", "डॉलर", "पाउंड", "येन"], answer: "रुपया" },
+  { question: "दिल्ली के मुख्यमंत्री कौन हैं?", options: ["अरविंद केजरीवाल", "मनीष सिसोदिया", "अमित शाह", "राहुल गांधी"], answer: "अरविंद केजरीवाल" },
+  { question: "भारत का राष्ट्रीय खेल क्या है?", options: ["क्रिकेट", "हॉकी", "फुटबॉल", "बैडमिंटन"], answer: "हॉकी" },
+  { question: "किस नदी को 'दक्षिण की गंगा' कहा जाता है?", options: ["गोदावरी", "कृष्णा", "कावेरी", "नर्मदा"], answer: "कावेरी" },
+  { question: "ISRO का पूर्ण रूप क्या है?", options: ["भारतीय अंतरिक्ष अनुसंधान संगठन", "अंतर्राष्ट्रीय अंतरिक्ष अनुसंधान संगठन", "भारतीय अंतरिक्ष अनुसंधान कार्यालय", "अंतर्राष्ट्रीय अंतरिक्ष अनुसंधान कार्यालय"], answer: "भारतीय अंतरिक्ष अनुसंधान संगठन" },
+  { question: "किस शहर को भारत का सिलिकॉन वैली कहा जाता है?", options: ["मुंबई", "दिल्ली", "बेंगलुरु", "चेन्नई"], answer: "बेंगलुरु" },
+  { question: "भारतीय राष्ट्रीय गान किसने लिखा?", options: ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "महात्मा गांधी", "सुभाष चंद्र बोस"], answer: "रवींद्रनाथ टैगोर" },
+  { question: "भारत का राष्ट्रीय पशु क्या है?", options: ["शेर", "बाघ", "हाथी", "मोर"], answer: "बाघ" },
+  { question: "किस राज्य की साक्षरता दर सबसे अधिक है?", options: ["केरल", "तमिलनाडु", "महाराष्ट्र", "गुजरात"], answer: "केरल" },
+  { question: "भारत की पहली बुलेट ट्रेन परियोजना का नाम क्या है?", options: ["बुलेट इंडिया", "हाई-स्पीड रेल", "मुंबई-अहमदाबाद", "दिल्ली-मुंबई"], answer: "मुंबई-अहमदाबाद" },
+  { question: "भारत के वर्तमान उपराष्ट्रपति कौन हैं?", options: ["जगदीप धनखड़", "वेंकैया नायडू", "हामिद अंसारी", "प्रणब मुखर्जी"], answer: "जगदीप धनखड़" },
+  { question: "भारत का राष्ट्रीय पुष्प क्या है?", options: ["कमल", "गुलाब", "सूरजमुखी", "गेंदा"], answer: "कमल" },
+  { question: "किस भारतीय राज्य में सबसे अधिक यूनेस्को विश्व धरोहर स्थल हैं?", options: ["तमिलनाडु", "उत्तर प्रदेश", "महाराष्ट्र", "राजस्थान"], answer: "राजस्थान" },
+  { question: "भारत की पहली परमाणु पनडुब्बी का नाम क्या है?", options: ["INS अरिहंत", "INS विक्रांत", "INS कलवरी", "INS चक्र"], answer: "INS अरिहंत" },
+];
+
+// --- English Question Banks (Translated) ---
+
+// Mathematics (25 questions) - English
+const mathQuestionsEnglish = [
   { question: "What is 25 + 37?", options: ["52", "62", "72", "82"], answer: "62" },
   { question: "What is 15 × 6?", options: ["80", "85", "90", "95"], answer: "90" },
   { question: "What is the square root of 144?", options: ["10", "11", "12", "13"], answer: "12" },
@@ -13,7 +131,7 @@ const mathQuestions = [
   { question: "What is 7 × 8?", options: ["48", "54", "56", "64"], answer: "56" },
   { question: "What is 45 + 56?", options: ["99", "100", "101", "102"], answer: "101" },
   { question: "What is 12 × 12?", options: ["124", "134", "144", "154"], answer: "144" },
-  { question: "What is the value of π (pi) approximately?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
+  { question: "What is the approximate value of π (pi)?", options: ["3.14", "3.41", "3.13", "3.11"], answer: "3.14" },
   { question: "What is 1/2 + 1/2?", options: ["1/4", "1/2", "1", "2"], answer: "1" },
   { question: "What is 5! (factorial)?", options: ["20", "60", "120", "240"], answer: "120" },
   { question: "What is 25% of 200?", options: ["25", "50", "75", "100"], answer: "50" },
@@ -32,8 +150,8 @@ const mathQuestions = [
   { question: "What is 0.5 × 0.5?", options: ["0.25", "0.5", "0.75", "1.0"], answer: "0.25" },
 ];
 
-// Reasoning (30 questions)
-const reasoningQuestions = [
+// Reasoning (30 questions) - English
+const reasoningQuestionsEnglish = [
   { question: "Find the odd one out: 2, 4, 6, 9", options: ["2", "4", "6", "9"], answer: "9" },
   { question: "If 'APPLE' is coded as 'BQQMF', what is 'MANGO' coded as?", options: ["NBOF", "NBPH", "NBOH", "NBOI"], answer: "NBOH" },
   { question: "Find the next number: 2, 6, 12, 20, ?", options: ["28", "30", "32", "34"], answer: "30" },
@@ -66,8 +184,8 @@ const reasoningQuestions = [
   { question: "What is the next number: 0, 1, 1, 2, 3, 5, 8, 13, ?", options: ["18", "20", "21", "22"], answer: "21" },
 ];
 
-// Science (25 questions)
-const scienceQuestions = [
+// Science (25 questions) - English
+const scienceQuestionsEnglish = [
   { question: "What is the chemical symbol for water?", options: ["H2O", "CO2", "NaCl", "HCl"], answer: "H2O" },
   { question: "Which planet is known as the Red Planet?", options: ["Venus", "Mars", "Jupiter", "Saturn"], answer: "Mars" },
   { question: "What is the largest organ in the human body?", options: ["Liver", "Heart", "Skin", "Brain"], answer: "Skin" },
@@ -95,8 +213,8 @@ const scienceQuestions = [
   { question: "Which planet has the most moons?", options: ["Jupiter", "Saturn", "Uranus", "Neptune"], answer: "Saturn" },
 ];
 
-// Current Affairs (20 questions)
-const currentAffairsQuestions = [
+// Current Affairs (20 questions) - English
+const currentAffairsQuestionsEnglish = [
   { question: "Who is the current Prime Minister of India?", options: ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"], answer: "Narendra Modi" },
   { question: "What is the capital of India?", options: ["Mumbai", "New Delhi", "Kolkata", "Chennai"], answer: "New Delhi" },
   { question: "Who is the President of India in 2026?", options: ["Droupadi Murmu", "Ram Nath Kovind", "Pranab Mukherjee", "APJ Abdul Kalam"], answer: "Droupadi Murmu" },
@@ -126,12 +244,26 @@ const getRandomQuestions = (category, count) => {
 };
 
 // --- Build the complete question paper (100 questions) ---
-const buildQuestionPaper = () => {
+const buildQuestionPaper = (lang) => {
+  let math, reasoning, science, currentAffairs;
+  
+  if (lang === 'hi') {
+    math = mathQuestions;
+    reasoning = reasoningQuestions;
+    science = scienceQuestions;
+    currentAffairs = currentAffairsQuestions;
+  } else {
+    math = mathQuestionsEnglish;
+    reasoning = reasoningQuestionsEnglish;
+    science = scienceQuestionsEnglish;
+    currentAffairs = currentAffairsQuestionsEnglish;
+  }
+  
   const paper = [
-    ...getRandomQuestions(mathQuestions, 25),
-    ...getRandomQuestions(reasoningQuestions, 30),
-    ...getRandomQuestions(scienceQuestions, 25),
-    ...getRandomQuestions(currentAffairsQuestions, 20),
+    ...getRandomQuestions(math, 25),
+    ...getRandomQuestions(reasoning, 30),
+    ...getRandomQuestions(science, 25),
+    ...getRandomQuestions(currentAffairs, 20),
   ];
   return paper.sort(() => Math.random() - 0.5);
 };
@@ -141,7 +273,8 @@ export default function RRBGroupDMockTest() {
   const [started, setStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [timer, setTimer] = useState(5400); // 90 minutes = 5400 seconds
-  const [questions] = useState(buildQuestionPaper);
+  const [language, setLanguage] = useState('hi');
+  const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
   const [score, setScore] = useState(0);
@@ -164,28 +297,77 @@ export default function RRBGroupDMockTest() {
   }, [started, submitted, timer]);
 
   const startExam = () => {
+    setQuestions(buildQuestionPaper(language));
     setStarted(true);
+    setTimer(5400);
+    setAnswers({});
+    setCurrent(0);
+    setShowTimerWarning(false);
   };
 
   const submitExam = () => {
-    let s = 0;
+    let correctCount = 0;
+    let totalMarks = 0;
     const details = questions.map((q, i) => {
       const isCorrect = answers[i] === q.answer;
-      if (isCorrect) s++;
+      if (isCorrect) {
+        correctCount++;
+        totalMarks += 1; // +1 for correct answer
+      } else if (answers[i] !== undefined) {
+        totalMarks -= 0.25; // -0.25 for wrong answer (negative marking)
+      }
       return {
         question: q.question,
         options: q.options,
         correctAnswer: q.answer,
-        userAnswer: answers[i] || "Not Attempted",
+        userAnswer: answers[i] || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
         isCorrect: isCorrect,
       };
     });
-    setScore(s);
+    setScore(Math.max(0, totalMarks)); // Score can't be negative
     setResultDetails(details);
     setSubmitted(true);
   };
 
-  // Home Page - Mobile Optimized
+  const toggleLanguage = () => {
+    if (!started) {
+      setLanguage(language === 'hi' ? 'en' : 'hi');
+    }
+  };
+
+  const getText = (key) => {
+    const texts = {
+      'title': { hi: '🚂 RRB Group D Mock Test', en: '🚂 RRB Group D Mock Test' },
+      'subtitle': { hi: 'भारतीय रेलवे भर्ती', en: 'Indian Railways Recruitment' },
+      'questions': { hi: '📝 प्रश्न', en: '📝 Questions' },
+      'time': { hi: '⏱️ समय', en: '⏱️ Time' },
+      'instructions': { hi: '📋 निर्देश:', en: '📋 Instructions:' },
+      'compulsory': { hi: 'सभी प्रश्न अनिवार्य हैं', en: 'All questions are compulsory' },
+      'marks': { hi: 'प्रत्येक प्रश्न 1 अंक का है', en: 'Each question carries 1 mark' },
+      'negative': { hi: 'गलत उत्तर पर -0.25 अंक', en: '-0.25 marks for wrong answer' },
+      'start': { hi: '🚀 परीक्षा शुरू करें', en: '🚀 Start Exam' },
+      'answered': { hi: 'उत्तर दिए:', en: 'Answered:' },
+      'prev': { hi: '⬅ पिछला', en: '⬅ Prev' },
+      'next': { hi: 'अगला ➡', en: 'Next ➡' },
+      'submit': { hi: '📤 जमा करें', en: '📤 Submit' },
+      'navigator': { hi: 'प्रश्न नेविगेटर', en: 'Question Navigator' },
+      'answered_status': { hi: '🟢 उत्तर दिया', en: '🟢 Answered' },
+      'current_status': { hi: '🔵 वर्तमान', en: '🔵 Current' },
+      'unanswered_status': { hi: '⚪ अनुत्तरित', en: '⚪ Unanswered' },
+      'congrats': { hi: '🎉 बधाई हो!', en: '🎉 Congratulations!' },
+      'practice': { hi: '📖 अभ्यास जारी रखें!', en: '📖 Keep Practicing!' },
+      'passed': { hi: '✔️ उत्तीर्ण', en: '✔️ Passed' },
+      'failed': { hi: '❌ अनुत्तीर्ण', en: '❌ Failed' },
+      'review': { hi: '📋 उत्तर समीक्षा', en: '📋 Answer Review' },
+      'your_answer': { hi: 'आपका उत्तर:', en: 'Your Answer:' },
+      'correct_answer': { hi: 'सही उत्तर:', en: 'Correct Answer:' },
+      'new_test': { hi: '🔄 नई परीक्षा लें', en: '🔄 Take New Test' },
+      'warning': { hi: '⚠️ 1 मिनट से कम समय शेष!', en: '⚠️ Less than 1 minute remaining!' },
+    };
+    return texts[key]?.[language] || texts[key]?.['en'] || key;
+  };
+
+  // Home Page
   if (!started) {
     return (
       <div style={{
@@ -204,7 +386,8 @@ export default function RRBGroupDMockTest() {
           boxShadow: "0 20px 60px rgba(0,0,0,0.6)",
           textAlign: "center",
           maxWidth: "500px",
-          width: "100%"
+          width: "100%",
+          animation: "fadeInUp 0.6s ease"
         }}>
           <div style={{ fontSize: "48px", marginBottom: "5px" }}>🚂</div>
           <h1 style={{ 
@@ -213,10 +396,10 @@ export default function RRBGroupDMockTest() {
             fontSize: "22px",
             fontWeight: "700"
           }}>
-            RRB Group D Mock Test
+            {getText('title')}
           </h1>
           <p style={{ color: "#666", fontSize: "12px", marginBottom: "15px" }}>
-            Indian Railways Recruitment
+            {getText('subtitle')}
           </p>
           <div style={{
             height: "3px",
@@ -225,18 +408,64 @@ export default function RRBGroupDMockTest() {
             width: "60px"
           }}></div>
           
+          {/* Language Toggle */}
+          <div style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            gap: "12px",
+            marginTop: "15px",
+            marginBottom: "15px"
+          }}>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'hi' ? "700" : "400",
+              color: language === 'hi' ? "#0f0c29" : "#999"
+            }}>हिन्दी</span>
+            <button
+              onClick={toggleLanguage}
+              style={{
+                width: "50px",
+                height: "26px",
+                borderRadius: "13px",
+                background: language === 'hi' ? "#302b63" : "#4a90d9",
+                border: "none",
+                cursor: "pointer",
+                position: "relative",
+                transition: "all 0.3s ease"
+              }}
+            >
+              <div style={{
+                width: "20px",
+                height: "20px",
+                borderRadius: "50%",
+                background: "white",
+                position: "absolute",
+                top: "3px",
+                left: language === 'hi' ? "3px" : "27px",
+                transition: "all 0.3s ease",
+                boxShadow: "0 2px 4px rgba(0,0,0,0.2)"
+              }}></div>
+            </button>
+            <span style={{ 
+              fontSize: "14px", 
+              fontWeight: language === 'en' ? "700" : "400",
+              color: language === 'en' ? "#0f0c29" : "#999"
+            }}>English</span>
+          </div>
+          
           <div style={{
             display: "grid",
             gridTemplateColumns: "1fr 1fr",
             gap: "10px",
-            marginTop: "15px"
+            marginTop: "10px"
           }}>
             <div style={{ 
               backgroundColor: "#e8f0fe", 
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>📝 Questions</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>{getText('questions')}</div>
               <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0f0c29" }}>100</div>
             </div>
             <div style={{ 
@@ -244,32 +473,10 @@ export default function RRBGroupDMockTest() {
               padding: "12px", 
               borderRadius: "10px"
             }}>
-              <div style={{ fontSize: "11px", color: "#666" }}>⏱️ Time</div>
+              <div style={{ fontSize: "11px", color: "#666" }}>{getText('time')}</div>
               <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0f0c29" }}>90 min</div>
             </div>
           </div>
-
-          {/* <div style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "5px",
-            marginTop: "10px",
-            fontSize: "11px",
-            color: "#555"
-          }}>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              📐 <strong>25</strong> Math
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              🧠 <strong>30</strong> Reasoning
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              🔬 <strong>25</strong> Science
-            </div>
-            <div style={{ backgroundColor: "#f5f5f5", padding: "5px", borderRadius: "6px" }}>
-              🌍 <strong>20</strong> Current Affairs
-            </div>
-          </div> */}
 
           <div style={{
             backgroundColor: "#f8f9fa",
@@ -280,11 +487,11 @@ export default function RRBGroupDMockTest() {
             color: "#555",
             textAlign: "left"
           }}>
-            <strong>📋 निर्देश:</strong>
+            <strong>{getText('instructions')}</strong>
             <ul style={{ margin: "5px 0 0 0", paddingLeft: "18px" }}>
-              <li>All questions are compulsory</li>
-              <li>Each question carries <strong>1 mark</strong></li>
-              <li><strong>No negative marking</strong></li>
+              <li>{getText('compulsory')}</li>
+              <li>{getText('marks')}</li>
+              <li>{getText('negative')}</li>
             </ul>
           </div>
 
@@ -304,15 +511,17 @@ export default function RRBGroupDMockTest() {
               transition: "transform 0.3s, box-shadow 0.3s",
               boxShadow: "0 4px 15px rgba(48, 43, 99, 0.4)"
             }}
+            onMouseEnter={(e) => e.target.style.transform = "scale(1.02)"}
+            onMouseLeave={(e) => e.target.style.transform = "scale(1)"}
           >
-            🚀 Start Exam
+            {getText('start')}
           </button>
         </div>
       </div>
     );
   }
 
-  // Result Page - Mobile Optimized
+  // Result Page
   if (submitted) {
     const percentage = ((score / questions.length) * 100).toFixed(2);
     const isPassed = percentage >= 60;
@@ -327,21 +536,21 @@ export default function RRBGroupDMockTest() {
           maxWidth: "800px",
           margin: "0 auto"
         }}>
-          {/* Result Card */}
           <div style={{
             backgroundColor: "white",
             borderRadius: "16px",
             padding: "25px 20px",
             boxShadow: "0 10px 40px rgba(0,0,0,0.1)",
             textAlign: "center",
-            marginBottom: "20px"
+            marginBottom: "20px",
+            animation: "slideIn 0.5s ease"
           }}>
             <h1 style={{ 
               fontSize: "24px", 
               marginBottom: "5px",
               color: "#2d3748"
             }}>
-              {isPassed ? "🎉 Congratulations!" : "📖 Keep Practicing!"}
+              {isPassed ? getText('congrats') : getText('practice')}
             </h1>
             <div style={{
               width: "80px",
@@ -357,7 +566,7 @@ export default function RRBGroupDMockTest() {
               {isPassed ? "✅" : "📝"}
             </div>
             <div style={{ fontSize: "40px", fontWeight: "bold", color: "#0f0c29" }}>
-              {score} <span style={{ fontSize: "20px", color: "#888" }}>/ {questions.length}</span>
+              {score.toFixed(2)} <span style={{ fontSize: "20px", color: "#888" }}>/ {questions.length}</span>
             </div>
             <div style={{ 
               fontSize: "18px", 
@@ -365,11 +574,17 @@ export default function RRBGroupDMockTest() {
               marginTop: "5px",
               fontWeight: "600"
             }}>
-              {percentage}% {isPassed ? "✔️ Passed" : "❌ Failed"}
+              {percentage}% {isPassed ? getText('passed') : getText('failed')}
+            </div>
+            <div style={{
+              marginTop: "10px",
+              fontSize: "13px",
+              color: "#718096"
+            }}>
+              {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"} • {getText('negative')}
             </div>
           </div>
 
-          {/* Answer Review */}
           <div style={{
             backgroundColor: "white",
             borderRadius: "16px",
@@ -383,7 +598,7 @@ export default function RRBGroupDMockTest() {
               fontSize: "18px",
               color: "#2d3748"
             }}>
-              📋 Answer Review
+              {getText('review')}
             </h2>
             {resultDetails.map((item, index) => (
               <div
@@ -393,7 +608,8 @@ export default function RRBGroupDMockTest() {
                   borderLeft: `4px solid ${item.isCorrect ? "#48bb78" : "#fc8181"}`,
                   padding: "12px 15px",
                   marginBottom: "12px",
-                  borderRadius: "8px"
+                  borderRadius: "8px",
+                  animation: `fadeIn 0.3s ease ${index * 0.05}s`
                 }}
               >
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
@@ -412,14 +628,19 @@ export default function RRBGroupDMockTest() {
                 </div>
                 <div style={{ marginTop: "8px", marginLeft: "5px", fontSize: "13px" }}>
                   <p style={{ margin: "3px 0" }}>
-                    <strong>Your Answer:</strong>{" "}
+                    <strong>{getText('your_answer')}</strong>{" "}
                     <span style={{ color: item.isCorrect ? "#48bb78" : "#fc8181" }}>
                       {item.userAnswer}
                     </span>
                   </p>
+                  {!item.isCorrect && item.userAnswer !== (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted") && (
+                    <p style={{ margin: "3px 0", color: "#dc3545", fontSize: "12px" }}>
+                      -0.25 {language === 'hi' ? 'अंक' : 'marks'}
+                    </p>
+                  )}
                   {!item.isCorrect && (
                     <p style={{ margin: "3px 0" }}>
-                      <strong>Correct Answer:</strong>{" "}
+                      <strong>{getText('correct_answer')}</strong>{" "}
                       <span style={{ color: "#48bb78" }}>{item.correctAnswer}</span>
                     </p>
                   )}
@@ -437,6 +658,7 @@ export default function RRBGroupDMockTest() {
                 setResultDetails([]);
                 setTimer(5400);
                 setShowTimerWarning(false);
+                setQuestions([]);
               }}
               style={{
                 padding: "14px 35px",
@@ -449,10 +671,13 @@ export default function RRBGroupDMockTest() {
                 cursor: "pointer",
                 width: "100%",
                 maxWidth: "300px",
-                boxShadow: "0 4px 15px rgba(48, 43, 99, 0.4)"
+                boxShadow: "0 4px 15px rgba(48, 43, 99, 0.4)",
+                transition: "transform 0.3s ease"
               }}
+              onMouseEnter={(e) => e.target.style.transform = "scale(1.02)"}
+              onMouseLeave={(e) => e.target.style.transform = "scale(1)"}
             >
-              🔄 Take New Test
+              {getText('new_test')}
             </button>
           </div>
         </div>
@@ -460,8 +685,8 @@ export default function RRBGroupDMockTest() {
     );
   }
 
-  // Exam Page - Mobile Optimized
-  const q = questions[current];
+  // Exam Page
+  const q = questions[current] || { question: "", options: [], answer: "" };
   const answeredCount = Object.keys(answers).length;
 
   return (
@@ -475,7 +700,6 @@ export default function RRBGroupDMockTest() {
         maxWidth: "800px",
         margin: "0 auto"
       }}>
-        {/* Header - Mobile Optimized with Timer on Right */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -499,7 +723,7 @@ export default function RRBGroupDMockTest() {
               fontSize: "10px", 
               color: "#a0aec0"
             }}>
-              Answered: {answeredCount}/{questions.length}
+              {getText('answered')} {answeredCount}/{questions.length}
             </p>
           </div>
           <div style={{
@@ -515,13 +739,13 @@ export default function RRBGroupDMockTest() {
           </div>
         </div>
 
-        {/* Question Card */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
           padding: "16px",
           boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-          marginBottom: "10px"
+          marginBottom: "10px",
+          animation: "fadeIn 0.3s ease"
         }}>
           <h3 style={{
             fontSize: "16px",
@@ -534,7 +758,7 @@ export default function RRBGroupDMockTest() {
           </h3>
 
           <div style={{ marginTop: "5px" }}>
-            {q.options.map((op, idx) => (
+            {q.options && q.options.map((op, idx) => (
               <div
                 key={idx}
                 style={{
@@ -544,11 +768,24 @@ export default function RRBGroupDMockTest() {
                   border: answers[current] === op ? "2px solid #302b63" : "2px solid transparent",
                   borderRadius: "8px",
                   cursor: "pointer",
-                  transition: "all 0.2s",
+                  transition: "all 0.3s ease",
                   display: "flex",
-                  alignItems: "center"
+                  alignItems: "center",
+                  transform: answers[current] === op ? "scale(1.01)" : "scale(1)"
                 }}
                 onClick={() => setAnswers({ ...answers, [current]: op })}
+                onMouseEnter={(e) => {
+                  if (answers[current] !== op) {
+                    e.currentTarget.style.backgroundColor = "#f0f0f0";
+                    e.currentTarget.style.transform = "scale(1.005)";
+                  }
+                }}
+                onMouseLeave={(e) => {
+                  if (answers[current] !== op) {
+                    e.currentTarget.style.backgroundColor = "#f7fafc";
+                    e.currentTarget.style.transform = "scale(1)";
+                  }
+                }}
               >
                 <input
                   type="radio"
@@ -575,7 +812,6 @@ export default function RRBGroupDMockTest() {
           </div>
         </div>
 
-        {/* Navigation - Mobile Optimized */}
         <div style={{
           display: "flex",
           gap: "8px",
@@ -595,10 +831,20 @@ export default function RRBGroupDMockTest() {
                 borderRadius: "8px",
                 cursor: current === 0 ? "not-allowed" : "pointer",
                 fontWeight: "600",
-                transition: "all 0.2s"
+                transition: "all 0.3s ease"
+              }}
+              onMouseEnter={(e) => {
+                if (current !== 0) {
+                  e.target.style.transform = "scale(1.05)";
+                  e.target.style.boxShadow = "0 4px 12px rgba(48, 43, 99, 0.3)";
+                }
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "scale(1)";
+                e.target.style.boxShadow = "none";
               }}
             >
-              ⬅ Prev
+              {getText('prev')}
             </button>
             <button
               onClick={() => setCurrent(Math.min(questions.length - 1, current + 1))}
@@ -612,10 +858,20 @@ export default function RRBGroupDMockTest() {
                 borderRadius: "8px",
                 cursor: current === questions.length - 1 ? "not-allowed" : "pointer",
                 fontWeight: "600",
-                transition: "all 0.2s"
+                transition: "all 0.3s ease"
+              }}
+              onMouseEnter={(e) => {
+                if (current !== questions.length - 1) {
+                  e.target.style.transform = "scale(1.05)";
+                  e.target.style.boxShadow = "0 4px 12px rgba(48, 43, 99, 0.3)";
+                }
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.transform = "scale(1)";
+                e.target.style.boxShadow = "none";
               }}
             >
-              Next ➡
+              {getText('next')}
             </button>
           </div>
 
@@ -630,15 +886,22 @@ export default function RRBGroupDMockTest() {
               borderRadius: "8px",
               cursor: "pointer",
               fontWeight: "600",
-              transition: "all 0.2s",
+              transition: "all 0.3s ease",
               boxShadow: "0 2px 8px rgba(72, 187, 120, 0.3)"
             }}
+            onMouseEnter={(e) => {
+              e.target.style.transform = "scale(1.05)";
+              e.target.style.boxShadow = "0 4px 15px rgba(72, 187, 120, 0.5)";
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.transform = "scale(1)";
+              e.target.style.boxShadow = "0 2px 8px rgba(72, 187, 120, 0.3)";
+            }}
           >
-            📤 Submit
+            {getText('submit')}
           </button>
         </div>
 
-        {/* Question Navigator - Mobile Optimized */}
         <div style={{
           backgroundColor: "white",
           borderRadius: "12px",
@@ -652,7 +915,7 @@ export default function RRBGroupDMockTest() {
             fontSize: "11px", 
             fontWeight: "600" 
           }}>
-            Question Navigator
+            {getText('navigator')}
           </p>
           <div style={{
             display: "flex",
@@ -675,7 +938,14 @@ export default function RRBGroupDMockTest() {
                   borderRadius: "6px",
                   cursor: "pointer",
                   fontWeight: "bold",
-                  transition: "all 0.2s"
+                  transition: "all 0.3s ease",
+                  transform: answers[idx] ? "scale(1.05)" : "scale(1)"
+                }}
+                onMouseEnter={(e) => {
+                  e.target.style.transform = "scale(1.1)";
+                }}
+                onMouseLeave={(e) => {
+                  e.target.style.transform = answers[idx] ? "scale(1.05)" : "scale(1)";
                 }}
               >
                 {idx + 1}
@@ -690,13 +960,12 @@ export default function RRBGroupDMockTest() {
             color: "#4a5568",
             flexWrap: "wrap"
           }}>
-            <span>🟢 Answered</span>
-            <span>🔵 Current</span>
-            <span>⚪ Unanswered</span>
+            <span>{getText('answered_status')}</span>
+            <span>{getText('current_status')}</span>
+            <span>{getText('unanswered_status')}</span>
           </div>
         </div>
 
-        {/* Timer Warning */}
         {showTimerWarning && (
           <div style={{
             position: "fixed",
@@ -715,16 +984,28 @@ export default function RRBGroupDMockTest() {
             maxWidth: "400px",
             margin: "0 auto"
           }}>
-            ⚠️ Less than 1 minute remaining!
+            {getText('warning')}
           </div>
         )}
       </div>
       <style>
         {`
           @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.6; }
-            100% { opacity: 1; }
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.6; transform: scale(0.98); }
+            100% { opacity: 1; transform: scale(1); }
+          }
+          @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes fadeIn {
+            from { opacity: 0; transform: translateX(-10px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
           }
         `}
       </style>
