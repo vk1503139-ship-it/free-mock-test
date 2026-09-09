@@ -1,7 +1,7 @@
 // DailyCurrentAffairsQuiz.jsx
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
-// --- Current Affairs Question Bank (100+ questions) - Hindi & English ---
+// --- Current Affairs Question Bank (88 questions) - Hindi & English ---
 
 // Hindi Questions
 const currentAffairsHindi = [
@@ -116,7 +116,7 @@ const currentAffairsHindi = [
   { question: "भारत का राष्ट्रीय वृक्ष क्या है?", options: ["बरगद", "पीपल", "नीम", "आम"], answer: "बरगद" },
 ];
 
-// English Questions
+// English Questions (same 88 questions translated)
 const currentAffairsEnglish = [
   // National Affairs
   { question: "Who is the current Prime Minister of India?", options: ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"], answer: "Narendra Modi" },
@@ -229,43 +229,22 @@ const currentAffairsEnglish = [
   { question: "What is the national tree of India?", options: ["Banyan", "Peepal", "Neem", "Mango"], answer: "Banyan" },
 ];
 
-// --- Helper: Get daily questions based on date ---
-const getDailyQuestions = (lang) => {
+// --- Helper: Get 34 random questions ---
+const getRandomQuestions = (lang) => {
   const questionBank = lang === 'hi' ? currentAffairsHindi : currentAffairsEnglish;
-  
-  // Get today's date as seed
-  const today = new Date();
-  const dateString = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
-  
-  // Create a deterministic shuffle based on date
-  const seededRandom = (seed) => {
-    const x = Math.sin(seed) * 10000;
-    return x - Math.floor(x);
-  };
-
   const shuffled = [...questionBank];
-  let seed = 0;
-  for (let i = 0; i < dateString.length; i++) {
-    seed += dateString.charCodeAt(i);
-  }
-
-  // Fisher-Yates shuffle with seed
   for (let i = shuffled.length - 1; i > 0; i--) {
-    seed = (seed * 9301 + 49297) % 233280;
-    const j = Math.floor(seededRandom(seed) * (i + 1));
+    const j = Math.floor(Math.random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
-
-  // Select 30-40 random questions based on date
-  const count = 30 + Math.floor(seededRandom(seed + 1) * 11); // 30-40
-  return shuffled.slice(0, count);
+  return shuffled.slice(0, 34);
 };
 
 // --- Component ---
 export default function DailyCurrentAffairsQuiz() {
   const [started, setStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
-  const [timer, setTimer] = useState(1800); // 30 minutes = 1800 seconds
+  const [timer, setTimer] = useState(1800); // 30 minutes
   const [language, setLanguage] = useState('hi');
   const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
@@ -274,6 +253,7 @@ export default function DailyCurrentAffairsQuiz() {
   const [resultDetails, setResultDetails] = useState([]);
   const [showTimerWarning, setShowTimerWarning] = useState(false);
   const [todayDate, setTodayDate] = useState("");
+  const resultRef = useRef(null);
 
   useEffect(() => {
     const now = new Date();
@@ -301,7 +281,7 @@ export default function DailyCurrentAffairsQuiz() {
   }, [started, submitted, timer]);
 
   const startExam = () => {
-    setQuestions(getDailyQuestions(language));
+    setQuestions(getRandomQuestions(language));
     setStarted(true);
     setTimer(1800);
     setAnswers({});
@@ -320,6 +300,7 @@ export default function DailyCurrentAffairsQuiz() {
         correctAnswer: q.answer,
         userAnswer: answers[i] || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
         isCorrect: isCorrect,
+        isAttempted: answers[i] !== undefined,
       };
     });
     setScore(s);
@@ -333,11 +314,60 @@ export default function DailyCurrentAffairsQuiz() {
     }
   };
 
+  const downloadResult = () => {
+    if (resultRef.current) {
+      const printWindow = window.open('', '_blank');
+      if (printWindow) {
+        const content = resultRef.current.innerHTML;
+        printWindow.document.write(`
+          <html>
+            <head>
+              <title>${language === 'hi' ? 'दैनिक सामयिकी परिणाम' : 'Daily Current Affairs Result'}</title>
+              <style>
+                body { font-family: Arial, sans-serif; padding: 20px; }
+                .result-container { max-width: 800px; margin: 0 auto; }
+                .header { text-align: center; padding: 20px; background: linear-gradient(135deg, #0d1b2a, #2c5a6e); color: white; border-radius: 10px; margin-bottom: 20px; }
+                .score-card { text-align: center; padding: 20px; border: 2px solid #0d1b2a; border-radius: 10px; margin-bottom: 20px; }
+                .score { font-size: 40px; font-weight: bold; color: #0d1b2a; }
+                .status { font-size: 20px; margin: 10px 0; }
+                .pass { color: #28a745; }
+                .fail { color: #dc3545; }
+                .question-item { padding: 15px; margin: 10px 0; border-radius: 8px; border-left: 4px solid #28a745; background: #f8f9fa; }
+                .question-item.wrong { border-left-color: #dc3545; background: #fff5f5; }
+                .question-item.not-attempted { border-left-color: #ffc107; background: #fff3cd; }
+                .q { font-weight: bold; font-size: 14px; }
+                .your-answer { margin-top: 5px; font-size: 13px; }
+                .correct-answer { margin-top: 3px; font-size: 13px; color: #28a745; font-weight: bold; }
+                .wrong-answer { color: #dc3545; }
+                .correct-answer-text { color: #28a745; }
+                .not-attempted-text { color: #ffc107; }
+                .footer { text-align: center; margin-top: 20px; padding: 10px; color: #666; font-size: 12px; border-top: 1px solid #ddd; }
+                .summary { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin: 15px 0; }
+                .summary-item { padding: 10px; border-radius: 8px; text-align: center; }
+                .summary-correct { background: #d4edda; color: #155724; }
+                .summary-wrong { background: #f8d7da; color: #721c24; }
+                .summary-not { background: #fff3cd; color: #856404; }
+              </style>
+            </head>
+            <body>
+              <div class="result-container">
+                ${content}
+              </div>
+            </body>
+          </html>
+        `);
+        printWindow.document.close();
+        printWindow.print();
+      }
+    }
+  };
+
   const getText = (key) => {
     const texts = {
       'title': { hi: '📰 दैनिक सामयिकी क्विज़', en: '📰 Daily Current Affairs Quiz' },
       'subtitle': { hi: 'अपने ज्ञान को परखें', en: 'Test Your Knowledge' },
-      'questions': { hi: '📝 प्रश्न', en: '📝 Questions' },
+      'questions': { hi: '📝 कुल प्रश्न', en: '📝 Total Questions' },
+      'asked': { hi: '❓ पूछे गए', en: '❓ Asked' },
       'time': { hi: '⏱️ समय', en: '⏱️ Time' },
       'instructions': { hi: '📋 निर्देश:', en: '📋 Instructions:' },
       'compulsory': { hi: 'सभी प्रश्न अनिवार्य हैं', en: 'All questions are compulsory' },
@@ -361,14 +391,17 @@ export default function DailyCurrentAffairsQuiz() {
       'correct_answer': { hi: 'सही उत्तर:', en: 'Correct Answer:' },
       'new_quiz': { hi: '🔄 नई क्विज़ लें', en: '🔄 Take New Quiz' },
       'warning': { hi: '⚠️ 1 मिनट से कम समय शेष!', en: '⚠️ Less than 1 minute remaining!' },
-      'daily_quiz': { hi: 'आज की क्विज़ में', en: 'Today\'s quiz has' },
-      'questions_selected': { hi: 'प्रश्न चुने गए हैं', en: 'questions selected' },
+      'correct': { hi: 'सही', en: 'Correct' },
+      'wrong': { hi: 'गलत', en: 'Wrong' },
+      'not_attempted': { hi: 'प्रयास नहीं किया', en: 'Not Attempted' },
+      'download': { hi: '📥 परिणाम डाउनलोड करें', en: '📥 Download Result' },
     };
     return texts[key]?.[language] || texts[key]?.['en'] || key;
   };
 
   // Home Page
   if (!started) {
+    const totalQuestions = language === 'hi' ? currentAffairsHindi.length : currentAffairsEnglish.length;
     return (
       <div style={{
         minHeight: "100vh",
@@ -456,8 +489,8 @@ export default function DailyCurrentAffairsQuiz() {
           
           <div style={{
             display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "10px",
+            gridTemplateColumns: "1fr 1fr 1fr",
+            gap: "8px",
             marginTop: "10px"
           }}>
             <div style={{ 
@@ -467,8 +500,16 @@ export default function DailyCurrentAffairsQuiz() {
             }}>
               <div style={{ fontSize: "11px", color: "#666" }}>{getText('questions')}</div>
               <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>
-                {language === 'hi' ? currentAffairsHindi.length : currentAffairsEnglish.length}
+                {totalQuestions}
               </div>
+            </div>
+            <div style={{ 
+              backgroundColor: "#e8f0fe", 
+              padding: "12px", 
+              borderRadius: "10px"
+            }}>
+              <div style={{ fontSize: "11px", color: "#666" }}>{getText('asked')}</div>
+              <div style={{ fontSize: "22px", fontWeight: "bold", color: "#0d1b2a" }}>34</div>
             </div>
             <div style={{ 
               backgroundColor: "#e8f0fe", 
@@ -488,7 +529,7 @@ export default function DailyCurrentAffairsQuiz() {
             fontSize: "12px",
             color: "#1b3a4b"
           }}>
-            💡 {getText('daily_quiz')} {getRandomQuestionsCount(language)} {getText('questions_selected')}
+            💡 {totalQuestions} {language === 'hi' ? 'प्रश्नों में से 34 यादृच्छिक प्रश्न पूछे जाएंगे' : 'random questions will be asked from 34 questions'}
           </div>
 
           <div style={{
@@ -538,6 +579,8 @@ export default function DailyCurrentAffairsQuiz() {
   if (submitted) {
     const percentage = ((score / questions.length) * 100).toFixed(2);
     const isPassed = percentage >= 60;
+    const totalQuestions = language === 'hi' ? currentAffairsHindi.length : currentAffairsEnglish.length;
+    
     return (
       <div style={{
         minHeight: "100vh",
@@ -549,7 +592,8 @@ export default function DailyCurrentAffairsQuiz() {
           maxWidth: "800px",
           margin: "0 auto"
         }}>
-          <div style={{
+          {/* Result Card - For Download */}
+          <div ref={resultRef} style={{
             backgroundColor: "white",
             borderRadius: "16px",
             padding: "25px 20px",
@@ -558,14 +602,26 @@ export default function DailyCurrentAffairsQuiz() {
             marginBottom: "20px",
             animation: "slideIn 0.5s ease"
           }}>
-            <h1 style={{ 
-              fontSize: "24px", 
+            <div className="header" style={{
+              background: "linear-gradient(135deg, #0d1b2a, #2c5a6e)",
+              color: "white",
+              padding: "15px",
+              borderRadius: "10px",
+              marginBottom: "15px"
+            }}>
+              <h1 style={{ margin: "0", fontSize: "22px" }}>{getText('title')}</h1>
+              <p style={{ margin: "5px 0 0", fontSize: "12px", opacity: 0.9 }}>
+                🗓️ {todayDate}
+              </p>
+            </div>
+            
+            <h2 style={{ 
+              fontSize: "20px", 
               marginBottom: "5px",
               color: "#2d3748"
             }}>
               {isPassed ? getText('congrats') : getText('practice')}
-            </h1>
-            <p style={{ color: "#888", fontSize: "12px" }}>🗓️ {todayDate}</p>
+            </h2>
             <div style={{
               width: "80px",
               height: "80px",
@@ -597,8 +653,60 @@ export default function DailyCurrentAffairsQuiz() {
             }}>
               {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"} • {getText('negative')}
             </div>
+
+            <div style={{
+              marginTop: "15px",
+              display: "grid",
+              gridTemplateColumns: "1fr 1fr 1fr",
+              gap: "10px",
+              fontSize: "13px"
+            }}>
+              <div style={{ backgroundColor: "#d4edda", padding: "8px", borderRadius: "8px", color: "#155724" }}>
+                ✅ {getText('correct')}: {resultDetails.filter(r => r.isCorrect).length}
+              </div>
+              <div style={{ backgroundColor: "#f8d7da", padding: "8px", borderRadius: "8px", color: "#721c24" }}>
+                ❌ {getText('wrong')}: {resultDetails.filter(r => !r.isCorrect && r.isAttempted).length}
+              </div>
+              <div style={{ backgroundColor: "#fff3cd", padding: "8px", borderRadius: "8px", color: "#856404" }}>
+                ⚪ {getText('not_attempted')}: {resultDetails.filter(r => !r.isAttempted).length}
+              </div>
+            </div>
+            <div style={{
+              marginTop: "10px",
+              fontSize: "12px",
+              color: "#718096",
+              borderTop: "1px solid #eee",
+              paddingTop: "10px"
+            }}>
+              📊 {language === 'hi' ? 'कुल प्रश्न बैंक' : 'Total Question Bank'}: {totalQuestions} | 
+              {language === 'hi' ? ' पूछे गए' : ' Asked'}: {questions.length}
+            </div>
           </div>
 
+          {/* Download Button */}
+          <div style={{ textAlign: "center", marginBottom: "20px" }}>
+            <button
+              onClick={downloadResult}
+              style={{
+                padding: "12px 30px",
+                fontSize: "15px",
+                fontWeight: "bold",
+                background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
+                color: "white",
+                border: "none",
+                borderRadius: "50px",
+                cursor: "pointer",
+                boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)",
+                transition: "all 0.3s ease"
+              }}
+              onMouseEnter={(e) => e.target.style.transform = "scale(1.02)"}
+              onMouseLeave={(e) => e.target.style.transform = "scale(1)"}
+            >
+              {getText('download')}
+            </button>
+          </div>
+
+          {/* Answer Review */}
           <div style={{
             backgroundColor: "white",
             borderRadius: "16px",
@@ -618,8 +726,10 @@ export default function DailyCurrentAffairsQuiz() {
               <div
                 key={index}
                 style={{
-                  backgroundColor: item.isCorrect ? "#f0fff4" : "#fff5f5",
-                  borderLeft: `4px solid ${item.isCorrect ? "#48bb78" : "#fc8181"}`,
+                  backgroundColor: item.isCorrect ? "#f0fff4" : 
+                                   item.isAttempted ? "#fff5f5" : "#fff3cd",
+                  borderLeft: `4px solid ${item.isCorrect ? "#48bb78" : 
+                              item.isAttempted ? "#fc8181" : "#ffc107"}`,
                   padding: "12px 15px",
                   marginBottom: "12px",
                   borderRadius: "8px",
@@ -637,20 +747,29 @@ export default function DailyCurrentAffairsQuiz() {
                     Q{index + 1}. {item.question}
                   </h4>
                   <span style={{ fontSize: "18px", flexShrink: 0 }}>
-                    {item.isCorrect ? "✅" : "❌"}
+                    {item.isCorrect ? "✅" : item.isAttempted ? "❌" : "⚪"}
                   </span>
                 </div>
                 <div style={{ marginTop: "8px", marginLeft: "5px", fontSize: "13px" }}>
                   <p style={{ margin: "3px 0" }}>
                     <strong>{getText('your_answer')}</strong>{" "}
-                    <span style={{ color: item.isCorrect ? "#48bb78" : "#fc8181" }}>
+                    <span style={{ 
+                      color: item.isCorrect ? "#48bb78" : 
+                             item.isAttempted ? "#dc3545" : "#ffc107",
+                      fontWeight: item.isAttempted ? "bold" : "normal"
+                    }}>
                       {item.userAnswer}
                     </span>
+                    {!item.isAttempted && (
+                      <span style={{ color: "#ffc107", marginLeft: "5px" }}>
+                        ({getText('not_attempted')})
+                      </span>
+                    )}
                   </p>
-                  {!item.isCorrect && (
+                  {!item.isCorrect && item.isAttempted && (
                     <p style={{ margin: "3px 0" }}>
                       <strong>{getText('correct_answer')}</strong>{" "}
-                      <span style={{ color: "#48bb78" }}>{item.correctAnswer}</span>
+                      <span style={{ color: "#48bb78", fontWeight: "bold" }}>{item.correctAnswer}</span>
                     </p>
                   )}
                 </div>
@@ -692,23 +811,6 @@ export default function DailyCurrentAffairsQuiz() {
         </div>
       </div>
     );
-  }
-
-  // Helper function for home page
-  function getRandomQuestionsCount(lang) {
-    const bank = lang === 'hi' ? currentAffairsHindi : currentAffairsEnglish;
-    const today = new Date();
-    const dateString = `${today.getFullYear()}-${today.getMonth()}-${today.getDate()}`;
-    let seed = 0;
-    for (let i = 0; i < dateString.length; i++) {
-      seed += dateString.charCodeAt(i);
-    }
-    const seededRandom = (s) => {
-      const x = Math.sin(s) * 10000;
-      return x - Math.floor(x);
-    };
-    seed = (seed * 9301 + 49297) % 233280;
-    return 30 + Math.floor(seededRandom(seed + 1) * 11);
   }
 
   // Exam Page
