@@ -24,6 +24,12 @@ import {
 const About = () => {
   const navigate = useNavigate();
 
+  // 🔝 Helper: scroll to top + navigate
+  const goToPage = (path) => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    navigate(path);
+  };
+
   const features = [
     {
       icon: <FaBookOpen className="text-3xl text-white" />,
@@ -51,7 +57,6 @@ const About = () => {
     }
   ];
 
-  // Each exam now has a `path` matching your App.jsx routes
   const exams = [
     {
       name: "Bihar Daroga",
@@ -169,7 +174,6 @@ const About = () => {
       
       {/* ==================== Hero Section ==================== */}
       <section className="relative bg-gradient-to-br from-indigo-700 via-purple-700 to-pink-700 text-white py-20 md:py-28 overflow-hidden">
-        {/* Decorative blobs */}
         <div className="absolute top-0 left-0 w-72 h-72 bg-white/10 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2"></div>
         <div className="absolute bottom-0 right-0 w-96 h-96 bg-pink-400/20 rounded-full blur-3xl translate-x-1/3 translate-y-1/3"></div>
         <div className="absolute top-1/2 left-1/2 w-64 h-64 bg-blue-400/20 rounded-full blur-3xl"></div>
@@ -195,20 +199,20 @@ const About = () => {
             </p>
           </div>
 
-          {/* Quick CTA in hero */}
+          {/* Quick CTA in hero — USING onClick to scroll top */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mt-10">
-            <Link
-              to="/my-courses"
+            <button
+              onClick={() => goToPage('/my-courses')}
               className="bg-white text-indigo-700 px-8 py-3 rounded-full font-bold hover:bg-gray-100 transition-all shadow-lg hover:shadow-2xl hover:scale-105 inline-flex items-center justify-center gap-2"
             >
               Explore Tests <FaArrowRight />
-            </Link>
-            <Link
-              to="/contact"
+            </button>
+            <button
+              onClick={() => goToPage('/contact')}
               className="border-2 border-white text-white px-8 py-3 rounded-full font-bold hover:bg-white hover:text-indigo-700 transition-all inline-flex items-center justify-center gap-2"
             >
               Contact Us
-            </Link>
+            </button>
           </div>
         </div>
       </section>
@@ -217,7 +221,6 @@ const About = () => {
       <section className="py-16 md:py-20 bg-white">
         <div className="container mx-auto px-4 md:px-6">
           <div className="grid md:grid-cols-2 gap-8 lg:gap-12 max-w-6xl mx-auto">
-            {/* Mission */}
             <div className="group relative bg-gradient-to-br from-indigo-50 to-purple-50 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 border border-indigo-100 hover:-translate-y-2">
               <div className="flex items-center gap-4 mb-6">
                 <div className="bg-gradient-to-br from-indigo-500 to-purple-600 p-4 rounded-2xl shadow-lg group-hover:scale-110 transition-transform">
@@ -232,7 +235,6 @@ const About = () => {
               </p>
             </div>
 
-            {/* Vision */}
             <div className="group relative bg-gradient-to-br from-pink-50 to-rose-50 p-8 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 border border-pink-100 hover:-translate-y-2">
               <div className="flex items-center gap-4 mb-6">
                 <div className="bg-gradient-to-br from-pink-500 to-rose-600 p-4 rounded-2xl shadow-lg group-hover:scale-110 transition-transform">
@@ -288,7 +290,6 @@ const About = () => {
 
       {/* ==================== Stats Section ==================== */}
       <section className="py-16 md:py-20 bg-gradient-to-r from-indigo-600 via-purple-700 to-pink-700 text-white relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNSI+PHBhdGggZD0iTTM2IDM0djJoLTJ2LTJoMnptMC00djJoLTJ2LTJoMnptLTQgNHYyaC0ydi0yaDJ6bTAgNHYyaC0ydi0yaDJ6bTQgNHYyaC0ydi0yaDJ6Ii8+PC9nPjwvZz48L3N2Zz4=')] opacity-50"></div>
         <div className="container mx-auto px-4 md:px-6 relative z-10">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 max-w-5xl mx-auto text-center">
             {achievements.map((stat, index) => (
@@ -307,7 +308,7 @@ const About = () => {
         </div>
       </section>
 
-      {/* ==================== Exams Section (NOW CLICKABLE) ==================== */}
+      {/* ==================== Exams Section ==================== */}
       <section className="py-16 md:py-20 bg-white">
         <div className="container mx-auto px-4 md:px-6">
           <div className="text-center mb-16">
@@ -325,12 +326,12 @@ const About = () => {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             {exams.map((exam, index) => (
-              <Link
+              // 👇 Using button + onClick instead of Link, to guarantee scroll-to-top
+              <button
                 key={index}
-                to={exam.path}
-                className={`group relative bg-gradient-to-br ${exam.color} p-6 rounded-2xl text-white shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 overflow-hidden block`}
+                onClick={() => goToPage(exam.path)}
+                className={`group relative bg-gradient-to-br ${exam.color} p-6 rounded-2xl text-white shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 overflow-hidden text-left w-full`}
               >
-                {/* Decorative circle */}
                 <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2 group-hover:scale-150 transition-transform duration-500"></div>
                 
                 <div className="relative z-10">
@@ -346,7 +347,7 @@ const About = () => {
                     Start Practicing <FaArrowRight className="group-hover:translate-x-2 transition-transform" />
                   </div>
                 </div>
-              </Link>
+              </button>
             ))}
           </div>
         </div>
@@ -419,7 +420,6 @@ const About = () => {
               </ul>
             </div>
 
-            {/* CTA Card */}
             <div className="relative bg-gradient-to-br from-indigo-600 via-purple-700 to-pink-700 rounded-3xl p-8 md:p-10 text-white shadow-2xl overflow-hidden">
               <div className="absolute top-0 right-0 w-40 h-40 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2"></div>
               <div className="absolute bottom-0 left-0 w-32 h-32 bg-white/10 rounded-full translate-y-1/2 -translate-x-1/2"></div>
@@ -432,12 +432,12 @@ const About = () => {
                 <p className="mb-6 text-indigo-100 text-lg">
                   Join 50,000+ students who are already preparing for their dream exams with us.
                 </p>
-                <Link
-                  to="/my-courses"
+                <button
+                  onClick={() => goToPage('/my-courses')}
                   className="inline-flex items-center gap-2 bg-white text-indigo-700 px-8 py-4 rounded-full font-bold hover:bg-gray-100 transition-all shadow-lg hover:shadow-2xl hover:scale-105 w-full justify-center"
                 >
                   Start Free Trial <FaArrowRight />
-                </Link>
+                </button>
                 <p className="text-center text-sm mt-4 text-indigo-200">
                   No credit card required • Free forever plan
                 </p>
@@ -463,18 +463,18 @@ const About = () => {
             Access the best mock tests in Bihar and take the first step towards your dream career
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              to="/my-courses"
+            <button
+              onClick={() => goToPage('/my-courses')}
               className="bg-white text-indigo-700 px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-all shadow-lg hover:shadow-2xl hover:scale-105 inline-flex items-center justify-center gap-2"
             >
               Explore Tests <FaArrowRight />
-            </Link>
-            <Link
-              to="/bihar-exam"
+            </button>
+            <button
+              onClick={() => goToPage('/bihar-exam')}
               className="border-2 border-white text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-white hover:text-indigo-700 transition-all inline-flex items-center justify-center gap-2"
             >
               View All Exams
-            </Link>
+            </button>
           </div>
         </div>
       </section>
