@@ -1,9 +1,9 @@
 // SSCGDMockTest.jsx
 import React, { useState, useEffect, useRef } from "react";
 
-// --- Question Banks (100+ questions per subject) ---
+// --- Question Banks ---
 
-// Mathematics Questions (25+ questions)
+// Mathematics Questions (30 questions)
 const mathQuestions = [
   { question: "25 + 37 क्या है?", options: ["52", "62", "72", "82"], answer: "62" },
   { question: "15 × 6 क्या है?", options: ["80", "85", "90", "95"], answer: "90" },
@@ -37,7 +37,7 @@ const mathQuestions = [
   { question: "1000 का 10% का 10% = ?", options: ["1", "10", "100", "1000"], answer: "10" }
 ];
 
-// Reasoning Questions (25+ questions)
+// Reasoning Questions (26 questions)
 const reasoningQuestions = [
   { question: "विषम को खोजें: 2, 4, 6, 9", options: ["2", "4", "6", "9"], answer: "9" },
   { question: "यदि 'APPLE' को 'BQQMF' लिखा जाता है, तो 'MANGO' को क्या लिखा जाएगा?", options: ["NBOF", "NBPH", "NBOH", "NBOI"], answer: "NBOH" },
@@ -67,7 +67,7 @@ const reasoningQuestions = [
   { question: "लुप्त संख्या: 4, 9, 16, 25, ?", options: ["30", "36", "42", "49"], answer: "36" }
 ];
 
-// General Knowledge Questions (25+ questions)
+// General Knowledge Questions (26 questions)
 const gkQuestions = [
   { question: "भारत की राजधानी क्या है?", options: ["मुंबई", "नई दिल्ली", "कोलकाता", "चेन्नई"], answer: "नई दिल्ली" },
   { question: "किस देश को 'उगते सूरज की भूमि' कहा जाता है?", options: ["चीन", "जापान", "दक्षिण कोरिया", "भारत"], answer: "जापान" },
@@ -97,7 +97,7 @@ const gkQuestions = [
   { question: "भारत का राष्ट्रीय गीत किसने लिखा?", options: ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "महात्मा गांधी", "सुभाष चंद्र बोस"], answer: "बंकिम चंद्र चट्टोपाध्याय" }
 ];
 
-// English Questions (25+ questions)
+// English Questions (26 questions)
 const englishQuestions = [
   { question: "'child' का बहुवचन क्या है?", options: ["Childs", "Children", "Childrens", "Childes"], answer: "Children" },
   { question: "'happy' का पर्यायवाची शब्द क्या है?", options: ["Sad", "Joyful", "Angry", "Tired"], answer: "Joyful" },
@@ -127,7 +127,7 @@ const englishQuestions = [
   { question: "Choose the correct spelling:", options: ["Recieve", "Receive", "Receeve", "Receve"], answer: "Receive" }
 ];
 
-// --- Helper: Get random questions from a category ---
+// --- Helper: Get random questions ---
 const getRandomQuestions = (category, count) => {
   const shuffled = [...category].sort(() => Math.random() - 0.5);
   return shuffled.slice(0, Math.min(count, category.length));
@@ -141,7 +141,7 @@ const SUBJECTS = [
   { id: 'english', name: 'अंग्रेजी / English', nameEn: 'English', color: '#9f7aea', icon: '📖' }
 ];
 
-const SUBJECT_TIME = 15 * 60; // 15 minutes in seconds
+const SUBJECT_TIME = 15 * 60; // 15 minutes
 const QUESTIONS_PER_SUBJECT = 25;
 
 // --- Component ---
@@ -155,7 +155,6 @@ export default function SSCGDMockTest() {
   const [answers, setAnswers] = useState({});
   const [timer, setTimer] = useState(SUBJECT_TIME);
   const [subjectCompleted, setSubjectCompleted] = useState(false);
-  const [score, setScore] = useState(0);
   const [resultDetails, setResultDetails] = useState([]);
   const [showSubjectTransition, setShowSubjectTransition] = useState(false);
   const [showTimerWarning, setShowTimerWarning] = useState(false);
@@ -178,7 +177,6 @@ export default function SSCGDMockTest() {
   }, [started, submitted, timer, subjectCompleted]);
 
   const startExam = () => {
-    // Build questions for each subject
     const questions = {
       math: getRandomQuestions(mathQuestions, QUESTIONS_PER_SUBJECT),
       gk: getRandomQuestions(gkQuestions, QUESTIONS_PER_SUBJECT),
@@ -210,34 +208,37 @@ export default function SSCGDMockTest() {
       setShowSubjectTransition(false);
       setShowTimerWarning(false);
     } else {
-      // All subjects done - submit exam
       submitExam();
     }
   };
 
   const submitExam = () => {
-    let totalScore = 0;
     const details = [];
 
     SUBJECTS.forEach((subject) => {
       const questions = subjectQuestions[subject.id] || [];
       questions.forEach((q, idx) => {
         const key = `${subject.id}-${idx}`;
-        const isCorrect = answers[key] === q.answer;
-        if (isCorrect) totalScore++;
+        const userAns = answers[key];
+        const isCorrect = userAns === q.answer;
+        const isAttempted = userAns !== undefined && userAns !== null;
+
         details.push({
           subject: subject.nameEn,
+          subjectNameHi: subject.name,
           subjectId: subject.id,
+          color: subject.color,
+          icon: subject.icon,
           question: q.question,
           options: q.options,
           correctAnswer: q.answer,
-          userAnswer: answers[key] || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
+          userAnswer: userAns || (language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"),
           isCorrect: isCorrect,
+          isAttempted: isAttempted,
         });
       });
     });
 
-    setScore(totalScore);
     setResultDetails(details);
     setSubmitted(true);
   };
@@ -254,19 +255,12 @@ export default function SSCGDMockTest() {
               <style>
                 body { font-family: Arial, sans-serif; padding: 20px; }
                 .result-card { text-align: center; padding: 20px; border: 2px solid #1a1a2e; border-radius: 10px; }
-                .score { font-size: 40px; font-weight: bold; color: #1a1a2e; }
-                .status { font-size: 20px; margin: 10px 0; }
-                .pass { color: #28a745; }
-                .fail { color: #dc3545; }
-                .details { margin-top: 20px; }
                 .item { padding: 10px; margin: 5px 0; border-left: 4px solid #48bb78; }
                 .item.wrong { border-left-color: #fc8181; }
-                .subject-tag { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 10px; margin-bottom: 5px; }
+                .item.skipped { border-left-color: #a0aec0; }
               </style>
             </head>
-            <body>
-              ${content}
-            </body>
+            <body>${content}</body>
           </html>
         `);
         printWindow.document.close();
@@ -283,6 +277,15 @@ export default function SSCGDMockTest() {
 
   const formatTime = (seconds) => {
     return `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, "0")}`;
+  };
+
+  // Calculate result stats
+  const getStats = () => {
+    const total = resultDetails.length;
+    const correct = resultDetails.filter(d => d.isCorrect).length;
+    const wrong = resultDetails.filter(d => d.isAttempted && !d.isCorrect).length;
+    const notAttempted = resultDetails.filter(d => !d.isAttempted).length;
+    return { total, correct, wrong, notAttempted };
   };
 
   // Home Page
@@ -307,90 +310,41 @@ export default function SSCGDMockTest() {
           width: "100%"
         }}>
           <div style={{ fontSize: "48px", marginBottom: "5px" }}>🎯</div>
-          <h1 style={{
-            color: "#1a1a2e",
-            marginBottom: "3px",
-            fontSize: "22px",
-            fontWeight: "700"
-          }}>
+          <h1 style={{ color: "#1a1a2e", marginBottom: "3px", fontSize: "22px", fontWeight: "700" }}>
             SSC CGL Mock Test
           </h1>
           <p style={{ color: "#666", fontSize: "12px", marginBottom: "15px" }}>
             Combined Graduate Level Examination
           </p>
-          <div style={{
-            height: "3px",
-            background: "linear-gradient(90deg, #1a1a2e, #0f3460)",
-            margin: "10px auto",
-            width: "60px"
-          }}></div>
+          <div style={{ height: "3px", background: "linear-gradient(90deg, #1a1a2e, #0f3460)", margin: "10px auto", width: "60px" }}></div>
 
           {/* Language Toggle */}
-          <div style={{
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-            gap: "12px",
-            marginTop: "15px",
-            marginBottom: "15px"
-          }}>
-            <span style={{
-              fontSize: "14px",
-              fontWeight: language === 'hi' ? "700" : "400",
-              color: language === 'hi' ? "#1a1a2e" : "#999"
-            }}>हिन्दी</span>
-            <button
-              onClick={toggleLanguage}
-              style={{
-                width: "50px",
-                height: "26px",
-                borderRadius: "13px",
-                background: language === 'hi' ? "#0f3460" : "#4a90d9",
-                border: "none",
-                cursor: "pointer",
-                position: "relative",
-                transition: "all 0.3s ease"
-              }}
-            >
+          <div style={{ display: "flex", justifyContent: "center", alignItems: "center", gap: "12px", marginTop: "15px", marginBottom: "15px" }}>
+            <span style={{ fontSize: "14px", fontWeight: language === 'hi' ? "700" : "400", color: language === 'hi' ? "#1a1a2e" : "#999" }}>हिन्दी</span>
+            <button onClick={toggleLanguage} style={{
+              width: "50px", height: "26px", borderRadius: "13px",
+              background: language === 'hi' ? "#0f3460" : "#4a90d9",
+              border: "none", cursor: "pointer", position: "relative", transition: "all 0.3s ease"
+            }}>
               <div style={{
-                width: "20px",
-                height: "20px",
-                borderRadius: "50%",
-                background: "white",
-                position: "absolute",
-                top: "3px",
-                left: language === 'hi' ? "3px" : "27px",
-                transition: "all 0.3s ease",
-                boxShadow: "0 2px 4px rgba(0,0,0,0.2)"
+                width: "20px", height: "20px", borderRadius: "50%", background: "white",
+                position: "absolute", top: "3px", left: language === 'hi' ? "3px" : "27px",
+                transition: "all 0.3s ease", boxShadow: "0 2px 4px rgba(0,0,0,0.2)"
               }}></div>
             </button>
-            <span style={{
-              fontSize: "14px",
-              fontWeight: language === 'en' ? "700" : "400",
-              color: language === 'en' ? "#1a1a2e" : "#999"
-            }}>English</span>
+            <span style={{ fontSize: "14px", fontWeight: language === 'en' ? "700" : "400", color: language === 'en' ? "#1a1a2e" : "#999" }}>English</span>
           </div>
 
           {/* Exam Pattern */}
-          <div style={{
-            backgroundColor: "#f8f9fa",
-            padding: "15px",
-            borderRadius: "12px",
-            marginTop: "10px",
-            textAlign: "left"
-          }}>
+          <div style={{ backgroundColor: "#f8f9fa", padding: "15px", borderRadius: "12px", marginTop: "10px", textAlign: "left" }}>
             <h3 style={{ margin: "0 0 10px 0", fontSize: "14px", color: "#1a1a2e" }}>
               📋 {language === 'hi' ? "परीक्षा पैटर्न" : "Exam Pattern"}
             </h3>
             <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
-              {SUBJECTS.map((subject, idx) => (
+              {SUBJECTS.map((subject) => (
                 <div key={subject.id} style={{
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "space-between",
-                  padding: "8px 10px",
-                  backgroundColor: "white",
-                  borderRadius: "8px",
+                  display: "flex", alignItems: "center", justifyContent: "space-between",
+                  padding: "8px 10px", backgroundColor: "white", borderRadius: "8px",
                   borderLeft: `4px solid ${subject.color}`
                 }}>
                   <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
@@ -399,63 +353,30 @@ export default function SSCGDMockTest() {
                       {language === 'hi' ? subject.name : subject.nameEn}
                     </span>
                   </div>
-                  <div style={{ fontSize: "12px", color: "#718096" }}>
-                    {QUESTIONS_PER_SUBJECT} Q | 15 min
-                  </div>
+                  <div style={{ fontSize: "12px", color: "#718096" }}>{QUESTIONS_PER_SUBJECT} Q | 15 min</div>
                 </div>
               ))}
             </div>
           </div>
 
-          <div style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr 1fr",
-            gap: "8px",
-            marginTop: "12px"
-          }}>
-            <div style={{
-              backgroundColor: "#e8f0fe",
-              padding: "10px",
-              borderRadius: "10px",
-              textAlign: "center"
-            }}>
-              <div style={{ fontSize: "10px", color: "#666" }}>
-                {language === 'hi' ? "📝 कुल प्रश्न" : "📝 Total Qs"}
-              </div>
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "8px", marginTop: "12px" }}>
+            <div style={{ backgroundColor: "#e8f0fe", padding: "10px", borderRadius: "10px", textAlign: "center" }}>
+              <div style={{ fontSize: "10px", color: "#666" }}>{language === 'hi' ? "📝 कुल प्रश्न" : "📝 Total Qs"}</div>
               <div style={{ fontSize: "18px", fontWeight: "bold", color: "#1a1a2e" }}>100</div>
             </div>
-            <div style={{
-              backgroundColor: "#e8f0fe",
-              padding: "10px",
-              borderRadius: "10px",
-              textAlign: "center"
-            }}>
-              <div style={{ fontSize: "10px", color: "#666" }}>
-                {language === 'hi' ? "⏱️ कुल समय" : "⏱️ Total Time"}
-              </div>
+            <div style={{ backgroundColor: "#e8f0fe", padding: "10px", borderRadius: "10px", textAlign: "center" }}>
+              <div style={{ fontSize: "10px", color: "#666" }}>{language === 'hi' ? "⏱️ कुल समय" : "⏱️ Total Time"}</div>
               <div style={{ fontSize: "18px", fontWeight: "bold", color: "#1a1a2e" }}>60 min</div>
             </div>
-            <div style={{
-              backgroundColor: "#e8f0fe",
-              padding: "10px",
-              borderRadius: "10px",
-              textAlign: "center"
-            }}>
-              <div style={{ fontSize: "10px", color: "#666" }}>
-                {language === 'hi' ? "🎯 कुल अंक" : "🎯 Total Marks"}
-              </div>
+            <div style={{ backgroundColor: "#e8f0fe", padding: "10px", borderRadius: "10px", textAlign: "center" }}>
+              <div style={{ fontSize: "10px", color: "#666" }}>{language === 'hi' ? "🎯 कुल अंक" : "🎯 Total Marks"}</div>
               <div style={{ fontSize: "18px", fontWeight: "bold", color: "#1a1a2e" }}>100</div>
             </div>
           </div>
 
           <div style={{
-            backgroundColor: "#fff8e1",
-            padding: "10px",
-            borderRadius: "10px",
-            marginTop: "10px",
-            fontSize: "12px",
-            color: "#856404",
-            textAlign: "left"
+            backgroundColor: "#fff8e1", padding: "10px", borderRadius: "10px",
+            marginTop: "10px", fontSize: "12px", color: "#856404", textAlign: "left"
           }}>
             <strong>⚠️ {language === 'hi' ? "महत्वपूर्ण निर्देश:" : "Important Instructions:"}</strong>
             <ul style={{ margin: "5px 0 0 0", paddingLeft: "18px" }}>
@@ -466,23 +387,14 @@ export default function SSCGDMockTest() {
             </ul>
           </div>
 
-          <button
-            onClick={startExam}
-            style={{
-              padding: "14px 40px",
-              fontSize: "18px",
-              fontWeight: "bold",
-              background: "linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%)",
-              color: "white",
-              border: "none",
-              borderRadius: "50px",
-              cursor: "pointer",
-              marginTop: "20px",
-              width: "100%",
-              transition: "transform 0.3s, box-shadow 0.3s",
-              boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
-            }}
-          >
+          <button onClick={startExam} style={{
+            padding: "14px 40px", fontSize: "18px", fontWeight: "bold",
+            background: "linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%)",
+            color: "white", border: "none", borderRadius: "50px", cursor: "pointer",
+            marginTop: "20px", width: "100%",
+            transition: "transform 0.3s, box-shadow 0.3s",
+            boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
+          }}>
             {language === 'hi' ? "🚀 परीक्षा शुरू करें" : "🚀 Start Exam"}
           </button>
         </div>
@@ -498,31 +410,19 @@ export default function SSCGDMockTest() {
 
     return (
       <div style={{
-        minHeight: "100vh",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
+        minHeight: "100vh", display: "flex", justifyContent: "center", alignItems: "center",
         background: "linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)",
-        fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
-        padding: "20px"
+        fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif", padding: "20px"
       }}>
         <div style={{
-          backgroundColor: "white",
-          padding: "35px 25px",
-          borderRadius: "20px",
-          boxShadow: "0 20px 60px rgba(0,0,0,0.5)",
-          textAlign: "center",
-          maxWidth: "400px",
-          width: "100%"
+          backgroundColor: "white", padding: "35px 25px", borderRadius: "20px",
+          boxShadow: "0 20px 60px rgba(0,0,0,0.5)", textAlign: "center",
+          maxWidth: "400px", width: "100%"
         }}>
           <div style={{ fontSize: "56px", marginBottom: "10px" }}>
             {isLastSubject ? "🏁" : "⏰"}
           </div>
-          <h2 style={{
-            color: "#1a1a2e",
-            fontSize: "20px",
-            marginBottom: "8px"
-          }}>
+          <h2 style={{ color: "#1a1a2e", fontSize: "20px", marginBottom: "8px" }}>
             {isLastSubject
               ? (language === 'hi' ? "सभी विषय पूर्ण!" : "All Subjects Complete!")
               : (language === 'hi' ? "विषय समाप्त!" : "Subject Complete!")
@@ -530,11 +430,8 @@ export default function SSCGDMockTest() {
           </h2>
 
           <div style={{
-            backgroundColor: "#f0f5ff",
-            borderRadius: "12px",
-            padding: "15px",
-            margin: "15px 0",
-            border: `2px solid ${currentSubject.color}`
+            backgroundColor: "#f0f5ff", borderRadius: "12px", padding: "15px",
+            margin: "15px 0", border: `2px solid ${currentSubject.color}`
           }}>
             <div style={{ fontSize: "12px", color: "#666", marginBottom: "5px" }}>
               {language === 'hi' ? "पूर्ण किया गया:" : "Completed:"}
@@ -547,10 +444,8 @@ export default function SSCGDMockTest() {
           {!isLastSubject ? (
             <>
               <div style={{
-                backgroundColor: "#fff8e1",
-                borderRadius: "12px",
-                padding: "15px",
-                margin: "15px 0"
+                backgroundColor: "#fff8e1", borderRadius: "12px",
+                padding: "15px", margin: "15px 0"
               }}>
                 <div style={{ fontSize: "12px", color: "#856404", marginBottom: "5px" }}>
                   {language === 'hi' ? "अगला विषय:" : "Next Subject:"}
@@ -559,43 +454,24 @@ export default function SSCGDMockTest() {
                   {nextSubject.icon} {language === 'hi' ? nextSubject.name : nextSubject.nameEn}
                 </div>
               </div>
-
-              <button
-                onClick={goToNextSubject}
-                style={{
-                  padding: "14px 35px",
-                  fontSize: "16px",
-                  fontWeight: "bold",
-                  background: `linear-gradient(135deg, ${nextSubject.color} 0%, ${nextSubject.color}dd 100%)`,
-                  color: "white",
-                  border: "none",
-                  borderRadius: "50px",
-                  cursor: "pointer",
-                  width: "100%",
-                  boxShadow: `0 4px 15px ${nextSubject.color}66`,
-                  transition: "all 0.3s ease"
-                }}
-              >
+              <button onClick={goToNextSubject} style={{
+                padding: "14px 35px", fontSize: "16px", fontWeight: "bold",
+                background: `linear-gradient(135deg, ${nextSubject.color} 0%, ${nextSubject.color}dd 100%)`,
+                color: "white", border: "none", borderRadius: "50px", cursor: "pointer",
+                width: "100%", boxShadow: `0 4px 15px ${nextSubject.color}66`,
+                transition: "all 0.3s ease"
+              }}>
                 {language === 'hi' ? "▶️ अगला विषय शुरू करें" : "▶️ Start Next Subject"}
               </button>
             </>
           ) : (
-            <button
-              onClick={submitExam}
-              style={{
-                padding: "14px 35px",
-                fontSize: "16px",
-                fontWeight: "bold",
-                background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
-                color: "white",
-                border: "none",
-                borderRadius: "50px",
-                cursor: "pointer",
-                width: "100%",
-                boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)",
-                transition: "all 0.3s ease"
-              }}
-            >
+            <button onClick={submitExam} style={{
+              padding: "14px 35px", fontSize: "16px", fontWeight: "bold",
+              background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
+              color: "white", border: "none", borderRadius: "50px", cursor: "pointer",
+              width: "100%", boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)",
+              transition: "all 0.3s ease"
+            }}>
               {language === 'hi' ? "📊 परिणाम देखें" : "📊 View Results"}
             </button>
           )}
@@ -604,94 +480,166 @@ export default function SSCGDMockTest() {
     );
   }
 
-  // Result Page
+  // ====== RESULT PAGE ======
   if (submitted) {
-    const percentage = ((score / 100) * 100).toFixed(2);
+    const stats = getStats();
+    const percentage = ((stats.correct / stats.total) * 100).toFixed(2);
     const isPassed = percentage >= 60;
 
-    // Calculate subject-wise scores
+    // Subject-wise stats
     const subjectScores = {};
     resultDetails.forEach((item) => {
       if (!subjectScores[item.subjectId]) {
-        subjectScores[item.subjectId] = { correct: 0, total: 0 };
+        subjectScores[item.subjectId] = { correct: 0, wrong: 0, notAttempted: 0, total: 0 };
       }
       subjectScores[item.subjectId].total++;
       if (item.isCorrect) subjectScores[item.subjectId].correct++;
+      else if (item.isAttempted) subjectScores[item.subjectId].wrong++;
+      else subjectScores[item.subjectId].notAttempted++;
     });
 
     return (
       <div style={{
-        minHeight: "100vh",
-        background: "#f5f7fa",
-        padding: "15px",
+        minHeight: "100vh", background: "#f5f7fa", padding: "15px",
         fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
       }}>
-        <div style={{ maxWidth: "800px", margin: "0 auto" }}>
-          {/* Result Card */}
+        <div style={{ maxWidth: "850px", margin: "0 auto" }}>
+
+          {/* ===== Main Result Card ===== */}
           <div ref={resultRef} style={{
-            backgroundColor: "white",
-            borderRadius: "16px",
-            padding: "25px 20px",
-            boxShadow: "0 10px 40px rgba(0,0,0,0.1)",
-            textAlign: "center",
-            marginBottom: "20px"
+            backgroundColor: "white", borderRadius: "16px", padding: "25px 20px",
+            boxShadow: "0 10px 40px rgba(0,0,0,0.1)", textAlign: "center", marginBottom: "20px"
           }}>
             <h1 style={{ fontSize: "24px", marginBottom: "5px", color: "#2d3748" }}>
               {isPassed ? "🎉 Congratulations!" : "📖 Keep Practicing!"}
             </h1>
+
+            {/* Score Circle */}
             <div style={{
-              width: "80px",
-              height: "80px",
-              borderRadius: "50%",
+              width: "110px", height: "110px", borderRadius: "50%",
               background: isPassed ? "#d4edda" : "#f8d7da",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              margin: "15px auto",
-              fontSize: "32px"
+              display: "flex", flexDirection: "column", alignItems: "center",
+              justifyContent: "center", margin: "18px auto",
+              border: `4px solid ${isPassed ? "#48bb78" : "#fc8181"}`
             }}>
-              {isPassed ? "✅" : "📝"}
+              <div style={{ fontSize: "34px", fontWeight: "bold", color: isPassed ? "#276749" : "#9b2c2c" }}>
+                {stats.correct}
+              </div>
+              <div style={{ fontSize: "12px", color: "#718096" }}>/ {stats.total}</div>
             </div>
-            <div style={{ fontSize: "40px", fontWeight: "bold", color: "#1a1a2e" }}>
-              {score} <span style={{ fontSize: "20px", color: "#888" }}>/ 100</span>
-            </div>
+
             <div style={{
-              fontSize: "18px",
-              color: isPassed ? "#28a745" : "#dc3545",
-              marginTop: "5px",
-              fontWeight: "600"
+              fontSize: "20px", color: isPassed ? "#28a745" : "#dc3545",
+              marginTop: "5px", fontWeight: "700"
             }}>
               {percentage}% {isPassed ? "✔️ Passed" : "❌ Failed"}
             </div>
-            <div style={{ marginTop: "10px", fontSize: "13px", color: "#718096" }}>
-              {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"}
+
+            {/* ===== Right / Wrong / Not Attempted Cards ===== */}
+            <div style={{
+              display: "grid", gridTemplateColumns: "1fr 1fr 1fr",
+              gap: "12px", marginTop: "22px"
+            }}>
+              {/* Right */}
+              <div style={{
+                backgroundColor: "#f0fff4", border: "2px solid #48bb78",
+                borderRadius: "12px", padding: "15px 10px"
+              }}>
+                <div style={{ fontSize: "26px", marginBottom: "3px" }}>✅</div>
+                <div style={{ fontSize: "26px", fontWeight: "bold", color: "#276749" }}>
+                  {stats.correct}
+                </div>
+                <div style={{ fontSize: "12px", color: "#48bb78", fontWeight: "600" }}>
+                  {language === 'hi' ? "सही" : "Right"}
+                </div>
+              </div>
+
+              {/* Wrong */}
+              <div style={{
+                backgroundColor: "#fff5f5", border: "2px solid #fc8181",
+                borderRadius: "12px", padding: "15px 10px"
+              }}>
+                <div style={{ fontSize: "26px", marginBottom: "3px" }}>❌</div>
+                <div style={{ fontSize: "26px", fontWeight: "bold", color: "#9b2c2c" }}>
+                  {stats.wrong}
+                </div>
+                <div style={{ fontSize: "12px", color: "#fc8181", fontWeight: "600" }}>
+                  {language === 'hi' ? "गलत" : "Wrong"}
+                </div>
+              </div>
+
+              {/* Not Attempted */}
+              <div style={{
+                backgroundColor: "#f7fafc", border: "2px solid #a0aec0",
+                borderRadius: "12px", padding: "15px 10px"
+              }}>
+                <div style={{ fontSize: "26px", marginBottom: "3px" }}>➖</div>
+                <div style={{ fontSize: "26px", fontWeight: "bold", color: "#4a5568" }}>
+                  {stats.notAttempted}
+                </div>
+                <div style={{ fontSize: "12px", color: "#a0aec0", fontWeight: "600" }}>
+                  {language === 'hi' ? "प्रयास नहीं किया" : "Not Attempted"}
+                </div>
+              </div>
             </div>
 
-            {/* Subject-wise Scores */}
-            <div style={{
-              display: "grid",
-              gridTemplateColumns: "1fr 1fr",
-              gap: "10px",
-              marginTop: "20px",
-              textAlign: "left"
+            <div style={{ marginTop: "15px", fontSize: "13px", color: "#718096" }}>
+              {language === 'hi' ? "भाषा: हिन्दी" : "Language: English"}
+            </div>
+          </div>
+
+          {/* ===== Subject-wise Breakdown ===== */}
+          <div style={{
+            backgroundColor: "white", borderRadius: "16px", padding: "20px 15px",
+            boxShadow: "0 10px 40px rgba(0,0,0,0.1)", marginBottom: "20px"
+          }}>
+            <h2 style={{
+              borderBottom: "2px solid #eee", paddingBottom: "12px",
+              marginBottom: "15px", fontSize: "18px", color: "#2d3748"
             }}>
+              {language === 'hi' ? "📊 विषय-वार प्रदर्शन" : "📊 Subject-wise Performance"}
+            </h2>
+
+            <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
               {SUBJECTS.map((subject) => {
-                const s = subjectScores[subject.id] || { correct: 0, total: 0 };
+                const s = subjectScores[subject.id] || { correct: 0, wrong: 0, notAttempted: 0, total: 0 };
                 const pct = s.total > 0 ? ((s.correct / s.total) * 100).toFixed(0) : 0;
                 return (
                   <div key={subject.id} style={{
-                    backgroundColor: "#f8f9fa",
-                    borderRadius: "10px",
-                    padding: "12px",
-                    borderLeft: `4px solid ${subject.color}`
+                    backgroundColor: "#f8f9fa", borderRadius: "10px",
+                    padding: "12px 15px", borderLeft: `4px solid ${subject.color}`
                   }}>
-                    <div style={{ fontSize: "12px", color: "#718096", marginBottom: "3px" }}>
-                      {subject.icon} {language === 'hi' ? subject.name : subject.nameEn}
+                    <div style={{
+                      display: "flex", justifyContent: "space-between",
+                      alignItems: "center", marginBottom: "8px"
+                    }}>
+                      <span style={{ fontSize: "14px", fontWeight: "600", color: "#2d3748" }}>
+                        {subject.icon} {language === 'hi' ? subject.name : subject.nameEn}
+                      </span>
+                      <span style={{ fontSize: "14px", fontWeight: "700", color: subject.color }}>
+                        {s.correct}/{s.total} ({pct}%)
+                      </span>
                     </div>
-                    <div style={{ fontSize: "20px", fontWeight: "bold", color: subject.color }}>
-                      {s.correct}/{s.total}
+                    <div style={{ display: "flex", gap: "8px", fontSize: "11px", flexWrap: "wrap" }}>
+                      <span style={{
+                        backgroundColor: "#f0fff4", color: "#276749",
+                        padding: "3px 8px", borderRadius: "6px", fontWeight: "600"
+                      }}>
+                        ✅ {language === 'hi' ? "सही" : "Right"}: {s.correct}
+                      </span>
+                      <span style={{
+                        backgroundColor: "#fff5f5", color: "#9b2c2c",
+                        padding: "3px 8px", borderRadius: "6px", fontWeight: "600"
+                      }}>
+                        ❌ {language === 'hi' ? "गलत" : "Wrong"}: {s.wrong}
+                      </span>
+                      <span style={{
+                        backgroundColor: "#edf2f7", color: "#4a5568",
+                        padding: "3px 8px", borderRadius: "6px", fontWeight: "600"
+                      }}>
+                        ➖ {language === 'hi' ? "छोड़ा" : "Skipped"}: {s.notAttempted}
+                      </span>
                     </div>
-                    <div style={{ fontSize: "11px", color: "#a0aec0" }}>{pct}%</div>
                   </div>
                 );
               })}
@@ -700,65 +648,51 @@ export default function SSCGDMockTest() {
 
           {/* Download Button */}
           <div style={{ textAlign: "center", marginBottom: "20px" }}>
-            <button
-              onClick={downloadResult}
-              style={{
-                padding: "12px 30px",
-                fontSize: "15px",
-                fontWeight: "bold",
-                background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
-                color: "white",
-                border: "none",
-                borderRadius: "50px",
-                cursor: "pointer",
-                boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)",
-                transition: "all 0.3s ease"
-              }}
-            >
+            <button onClick={downloadResult} style={{
+              padding: "12px 30px", fontSize: "15px", fontWeight: "bold",
+              background: "linear-gradient(135deg, #48bb78 0%, #38a169 100%)",
+              color: "white", border: "none", borderRadius: "50px", cursor: "pointer",
+              boxShadow: "0 4px 15px rgba(72, 187, 120, 0.4)", transition: "all 0.3s ease"
+            }}>
               📥 Download / Print Result
             </button>
           </div>
 
-          {/* Answer Review */}
+          {/* ===== Answer Review ===== */}
           <div style={{
-            backgroundColor: "white",
-            borderRadius: "16px",
-            padding: "20px 15px",
+            backgroundColor: "white", borderRadius: "16px", padding: "20px 15px",
             boxShadow: "0 10px 40px rgba(0,0,0,0.1)"
           }}>
             <h2 style={{
-              borderBottom: "2px solid #eee",
-              paddingBottom: "12px",
-              marginBottom: "15px",
-              fontSize: "18px",
-              color: "#2d3748"
+              borderBottom: "2px solid #eee", paddingBottom: "12px",
+              marginBottom: "15px", fontSize: "18px", color: "#2d3748"
             }}>
               {language === 'hi' ? "📋 उत्तर समीक्षा" : "📋 Answer Review"}
             </h2>
+
             {resultDetails.map((item, index) => {
               const subject = SUBJECTS.find(s => s.id === item.subjectId);
+              let bgColor, borderColor, statusIcon;
+              if (item.isCorrect) {
+                bgColor = "#f0fff4"; borderColor = "#48bb78"; statusIcon = "✅";
+              } else if (item.isAttempted) {
+                bgColor = "#fff5f5"; borderColor = "#fc8181"; statusIcon = "❌";
+              } else {
+                bgColor = "#f7fafc"; borderColor = "#a0aec0"; statusIcon = "➖";
+              }
+
               return (
-                <div
-                  key={index}
-                  style={{
-                    backgroundColor: item.isCorrect ? "#f0fff4" : "#fff5f5",
-                    borderLeft: `4px solid ${item.isCorrect ? "#48bb78" : "#fc8181"}`,
-                    padding: "12px 15px",
-                    marginBottom: "12px",
-                    borderRadius: "8px"
-                  }}
-                >
+                <div key={index} style={{
+                  backgroundColor: bgColor,
+                  borderLeft: `4px solid ${borderColor}`,
+                  padding: "12px 15px", marginBottom: "12px", borderRadius: "8px"
+                }}>
                   <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
                     <div style={{ flex: 1, marginRight: "10px" }}>
                       <span style={{
-                        display: "inline-block",
-                        padding: "2px 8px",
-                        borderRadius: "10px",
-                        fontSize: "10px",
-                        backgroundColor: subject?.color + "22",
-                        color: subject?.color,
-                        fontWeight: "600",
-                        marginBottom: "5px"
+                        display: "inline-block", padding: "2px 8px", borderRadius: "10px",
+                        fontSize: "10px", backgroundColor: subject?.color + "22",
+                        color: subject?.color, fontWeight: "600", marginBottom: "5px"
                       }}>
                         {subject?.icon} {language === 'hi' ? subject?.name : subject?.nameEn}
                       </span>
@@ -766,14 +700,14 @@ export default function SSCGDMockTest() {
                         Q{index + 1}. {item.question}
                       </h4>
                     </div>
-                    <span style={{ fontSize: "18px", flexShrink: 0 }}>
-                      {item.isCorrect ? "✅" : "❌"}
-                    </span>
+                    <span style={{ fontSize: "18px", flexShrink: 0 }}>{statusIcon}</span>
                   </div>
                   <div style={{ marginTop: "8px", marginLeft: "5px", fontSize: "13px" }}>
                     <p style={{ margin: "3px 0" }}>
                       <strong>{language === 'hi' ? "आपका उत्तर:" : "Your Answer:"}</strong>{" "}
-                      <span style={{ color: item.isCorrect ? "#48bb78" : "#fc8181" }}>
+                      <span style={{
+                        color: item.isCorrect ? "#48bb78" : item.isAttempted ? "#fc8181" : "#a0aec0"
+                      }}>
                         {item.userAnswer}
                       </span>
                     </p>
@@ -790,34 +724,25 @@ export default function SSCGDMockTest() {
           </div>
 
           <div style={{ textAlign: "center", marginTop: "20px", paddingBottom: "20px" }}>
-            <button
-              onClick={() => {
-                setStarted(false);
-                setSubmitted(false);
-                setAnswers({});
-                setResultDetails([]);
-                setTimer(SUBJECT_TIME);
-                setShowTimerWarning(false);
-                setSubjectQuestions({});
-                setCurrentSubjectIndex(0);
-                setCurrentQuestionIndex(0);
-                setSubjectCompleted(false);
-                setShowSubjectTransition(false);
-              }}
-              style={{
-                padding: "14px 35px",
-                fontSize: "16px",
-                fontWeight: "bold",
-                background: "linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%)",
-                color: "white",
-                border: "none",
-                borderRadius: "50px",
-                cursor: "pointer",
-                width: "100%",
-                maxWidth: "300px",
-                boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
-              }}
-            >
+            <button onClick={() => {
+              setStarted(false);
+              setSubmitted(false);
+              setAnswers({});
+              setResultDetails([]);
+              setTimer(SUBJECT_TIME);
+              setShowTimerWarning(false);
+              setSubjectQuestions({});
+              setCurrentSubjectIndex(0);
+              setCurrentQuestionIndex(0);
+              setSubjectCompleted(false);
+              setShowSubjectTransition(false);
+            }} style={{
+              padding: "14px 35px", fontSize: "16px", fontWeight: "bold",
+              background: "linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%)",
+              color: "white", border: "none", borderRadius: "50px", cursor: "pointer",
+              width: "100%", maxWidth: "300px",
+              boxShadow: "0 4px 15px rgba(15, 52, 96, 0.4)"
+            }}>
               {language === 'hi' ? "🔄 नई परीक्षा लें" : "🔄 Take New Test"}
             </button>
           </div>
@@ -830,7 +755,7 @@ export default function SSCGDMockTest() {
   const currentSubject = SUBJECTS[currentSubjectIndex];
   const currentQuestions = subjectQuestions[currentSubject.id] || [];
   const q = currentQuestions[currentQuestionIndex] || { question: "", options: [], answer: "" };
-  const answeredInSubject = currentQuestions.filter((_, idx) => 
+  const answeredInSubject = currentQuestions.filter((_, idx) =>
     answers[`${currentSubject.id}-${idx}`]
   ).length;
 
@@ -853,23 +778,16 @@ export default function SSCGDMockTest() {
 
   return (
     <div style={{
-      minHeight: "100vh",
-      background: "#f5f7fa",
-      padding: "10px",
+      minHeight: "100vh", background: "#f5f7fa", padding: "10px",
       fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
     }}>
       <div style={{ maxWidth: "800px", margin: "0 auto" }}>
         {/* Subject Header */}
         <div style={{
-          backgroundColor: currentSubject.color,
-          borderRadius: "12px",
-          padding: "12px 16px",
-          marginBottom: "10px",
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-          color: "white",
-          boxShadow: `0 4px 15px ${currentSubject.color}44`
+          backgroundColor: currentSubject.color, borderRadius: "12px",
+          padding: "12px 16px", marginBottom: "10px",
+          display: "flex", justifyContent: "space-between", alignItems: "center",
+          color: "white", boxShadow: `0 4px 15px ${currentSubject.color}44`
         }}>
           <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
             <span style={{ fontSize: "24px" }}>{currentSubject.icon}</span>
@@ -883,12 +801,9 @@ export default function SSCGDMockTest() {
             </div>
           </div>
           <div style={{
-            fontSize: "22px",
-            fontWeight: "bold",
+            fontSize: "22px", fontWeight: "bold",
             backgroundColor: timer < 60 ? "#fc8181" : "rgba(255,255,255,0.2)",
-            padding: "6px 12px",
-            borderRadius: "10px",
-            color: "white"
+            padding: "6px 12px", borderRadius: "10px", color: "white"
           }}>
             ⏱️ {formatTime(timer)}
           </div>
@@ -896,11 +811,8 @@ export default function SSCGDMockTest() {
 
         {/* Progress Bar */}
         <div style={{
-          backgroundColor: "white",
-          borderRadius: "12px",
-          padding: "10px 14px",
-          boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-          marginBottom: "10px"
+          backgroundColor: "white", borderRadius: "12px", padding: "10px 14px",
+          boxShadow: "0 2px 8px rgba(0,0,0,0.08)", marginBottom: "10px"
         }}>
           <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "6px" }}>
             <span style={{ fontSize: "12px", color: "#718096" }}>
@@ -911,77 +823,48 @@ export default function SSCGDMockTest() {
             </span>
           </div>
           <div style={{
-            height: "6px",
-            backgroundColor: "#e2e8f0",
-            borderRadius: "3px",
-            overflow: "hidden"
+            height: "6px", backgroundColor: "#e2e8f0",
+            borderRadius: "3px", overflow: "hidden"
           }}>
             <div style={{
               height: "100%",
               width: `${((currentQuestionIndex + 1) / currentQuestions.length) * 100}%`,
-              backgroundColor: currentSubject.color,
-              transition: "width 0.3s ease"
+              backgroundColor: currentSubject.color, transition: "width 0.3s ease"
             }}></div>
           </div>
         </div>
 
         {/* Question Card */}
         <div style={{
-          backgroundColor: "white",
-          borderRadius: "12px",
-          padding: "16px",
-          boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-          marginBottom: "10px"
+          backgroundColor: "white", borderRadius: "12px", padding: "16px",
+          boxShadow: "0 2px 8px rgba(0,0,0,0.08)", marginBottom: "10px"
         }}>
           <h3 style={{
-            fontSize: "16px",
-            color: "#1a1a2e",
-            marginBottom: "16px",
-            fontWeight: "600",
-            lineHeight: "1.5"
+            fontSize: "16px", color: "#1a1a2e", marginBottom: "16px",
+            fontWeight: "600", lineHeight: "1.5"
           }}>
             {q.question}
           </h3>
 
           <div style={{ marginTop: "5px" }}>
             {q.options && q.options.map((op, idx) => (
-              <div
-                key={idx}
-                style={{
-                  padding: "10px 12px",
-                  margin: "5px 0",
-                  backgroundColor: answers[`${currentSubject.id}-${currentQuestionIndex}`] === op
-                    ? "#ebf8ff"
-                    : "#f7fafc",
-                  border: answers[`${currentSubject.id}-${currentQuestionIndex}`] === op
-                    ? `2px solid ${currentSubject.color}`
-                    : "2px solid transparent",
-                  borderRadius: "8px",
-                  cursor: "pointer",
-                  transition: "all 0.2s",
-                  display: "flex",
-                  alignItems: "center"
-                }}
-                onClick={() => handleAnswer(op)}
-              >
-                <input
-                  type="radio"
-                  id={`q${currentQuestionIndex}-opt${idx}`}
+              <div key={idx} style={{
+                padding: "10px 12px", margin: "5px 0",
+                backgroundColor: answers[`${currentSubject.id}-${currentQuestionIndex}`] === op
+                  ? "#ebf8ff" : "#f7fafc",
+                border: answers[`${currentSubject.id}-${currentQuestionIndex}`] === op
+                  ? `2px solid ${currentSubject.color}` : "2px solid transparent",
+                borderRadius: "8px", cursor: "pointer", transition: "all 0.2s",
+                display: "flex", alignItems: "center"
+              }} onClick={() => handleAnswer(op)}>
+                <input type="radio" id={`q${currentQuestionIndex}-opt${idx}`}
                   name={`question-${currentQuestionIndex}`}
                   checked={answers[`${currentSubject.id}-${currentQuestionIndex}`] === op}
                   onChange={() => {}}
-                  style={{ marginRight: "10px", width: "16px", height: "16px", flexShrink: 0 }}
-                />
-                <label
-                  htmlFor={`q${currentQuestionIndex}-opt${idx}`}
-                  style={{
-                    fontSize: "14px",
-                    cursor: "pointer",
-                    flex: 1,
-                    margin: "0",
-                    color: "#2d3748"
-                  }}
-                >
+                  style={{ marginRight: "10px", width: "16px", height: "16px", flexShrink: 0 }} />
+                <label htmlFor={`q${currentQuestionIndex}-opt${idx}`} style={{
+                  fontSize: "14px", cursor: "pointer", flex: 1, margin: "0", color: "#2d3748"
+                }}>
                   {op}
                 </label>
               </div>
@@ -990,114 +873,66 @@ export default function SSCGDMockTest() {
         </div>
 
         {/* Navigation */}
-        <div style={{
-          display: "flex",
-          gap: "8px",
-          flexWrap: "wrap",
-          justifyContent: "space-between"
-        }}>
+        <div style={{ display: "flex", gap: "8px", flexWrap: "wrap", justifyContent: "space-between" }}>
           <div style={{ display: "flex", gap: "8px" }}>
-            <button
-              onClick={handlePrevQuestion}
-              disabled={currentQuestionIndex === 0}
-              style={{
-                padding: "8px 14px",
-                fontSize: "13px",
-                backgroundColor: currentQuestionIndex === 0 ? "#e2e8f0" : currentSubject.color,
-                color: currentQuestionIndex === 0 ? "#a0aec0" : "white",
-                border: "none",
-                borderRadius: "8px",
-                cursor: currentQuestionIndex === 0 ? "not-allowed" : "pointer",
-                fontWeight: "600",
-                transition: "all 0.2s"
-              }}
-            >
+            <button onClick={handlePrevQuestion} disabled={currentQuestionIndex === 0} style={{
+              padding: "8px 14px", fontSize: "13px",
+              backgroundColor: currentQuestionIndex === 0 ? "#e2e8f0" : currentSubject.color,
+              color: currentQuestionIndex === 0 ? "#a0aec0" : "white",
+              border: "none", borderRadius: "8px",
+              cursor: currentQuestionIndex === 0 ? "not-allowed" : "pointer",
+              fontWeight: "600", transition: "all 0.2s"
+            }}>
               ⬅ {language === 'hi' ? "पिछला" : "Prev"}
             </button>
-            <button
-              onClick={handleNextQuestion}
-              disabled={currentQuestionIndex === currentQuestions.length - 1}
-              style={{
-                padding: "8px 14px",
-                fontSize: "13px",
+            <button onClick={handleNextQuestion}
+              disabled={currentQuestionIndex === currentQuestions.length - 1} style={{
+                padding: "8px 14px", fontSize: "13px",
                 backgroundColor: currentQuestionIndex === currentQuestions.length - 1
-                  ? "#e2e8f0"
-                  : currentSubject.color,
+                  ? "#e2e8f0" : currentSubject.color,
                 color: currentQuestionIndex === currentQuestions.length - 1
-                  ? "#a0aec0"
-                  : "white",
-                border: "none",
-                borderRadius: "8px",
+                  ? "#a0aec0" : "white",
+                border: "none", borderRadius: "8px",
                 cursor: currentQuestionIndex === currentQuestions.length - 1
-                  ? "not-allowed"
-                  : "pointer",
-                fontWeight: "600",
-                transition: "all 0.2s"
-              }}
-            >
+                  ? "not-allowed" : "pointer",
+                fontWeight: "600", transition: "all 0.2s"
+              }}>
               {language === 'hi' ? "अगला" : "Next"} ➡
             </button>
           </div>
 
-          <button
-            onClick={handleSubjectComplete}
-            style={{
-              padding: "8px 18px",
-              fontSize: "13px",
-              backgroundColor: "#48bb78",
-              color: "white",
-              border: "none",
-              borderRadius: "8px",
-              cursor: "pointer",
-              fontWeight: "600",
-              transition: "all 0.2s",
-              boxShadow: "0 2px 8px rgba(72, 187, 120, 0.3)"
-            }}
-          >
+          <button onClick={handleSubjectComplete} style={{
+            padding: "8px 18px", fontSize: "13px", backgroundColor: "#48bb78",
+            color: "white", border: "none", borderRadius: "8px", cursor: "pointer",
+            fontWeight: "600", transition: "all 0.2s",
+            boxShadow: "0 2px 8px rgba(72, 187, 120, 0.3)"
+          }}>
             ✅ {language === 'hi' ? "विषय समाप्त करें" : "End Subject"}
           </button>
         </div>
 
         {/* Question Navigator */}
         <div style={{
-          backgroundColor: "white",
-          borderRadius: "12px",
-          padding: "12px",
-          boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-          marginTop: "10px"
+          backgroundColor: "white", borderRadius: "12px", padding: "12px",
+          boxShadow: "0 2px 8px rgba(0,0,0,0.08)", marginTop: "10px"
         }}>
-          <p style={{
-            margin: "0 0 8px 0",
-            color: "#718096",
-            fontSize: "11px",
-            fontWeight: "600"
-          }}>
+          <p style={{ margin: "0 0 8px 0", color: "#718096", fontSize: "11px", fontWeight: "600" }}>
             {language === 'hi' ? "प्रश्न नेविगेटर" : "Question Navigator"}
           </p>
           <div style={{ display: "flex", flexWrap: "wrap", gap: "5px" }}>
             {currentQuestions.map((_, idx) => {
               const key = `${currentSubject.id}-${idx}`;
               return (
-                <button
-                  key={idx}
-                  onClick={() => setCurrentQuestionIndex(idx)}
-                  style={{
-                    width: "32px",
-                    height: "32px",
-                    fontSize: "11px",
-                    backgroundColor: answers[key]
-                      ? currentSubject.color
-                      : currentQuestionIndex === idx
-                        ? "#1a1a2e"
-                        : "#e2e8f0",
-                    color: answers[key] || currentQuestionIndex === idx ? "white" : "#4a5568",
-                    border: currentQuestionIndex === idx ? "2px solid #1a1a2e" : "none",
-                    borderRadius: "6px",
-                    cursor: "pointer",
-                    fontWeight: "bold",
-                    transition: "all 0.2s"
-                  }}
-                >
+                <button key={idx} onClick={() => setCurrentQuestionIndex(idx)} style={{
+                  width: "32px", height: "32px", fontSize: "11px",
+                  backgroundColor: answers[key]
+                    ? currentSubject.color
+                    : currentQuestionIndex === idx ? "#1a1a2e" : "#e2e8f0",
+                  color: answers[key] || currentQuestionIndex === idx ? "white" : "#4a5568",
+                  border: currentQuestionIndex === idx ? "2px solid #1a1a2e" : "none",
+                  borderRadius: "6px", cursor: "pointer",
+                  fontWeight: "bold", transition: "all 0.2s"
+                }}>
                   {idx + 1}
                 </button>
               );
@@ -1108,35 +943,24 @@ export default function SSCGDMockTest() {
         {/* Timer Warning */}
         {showTimerWarning && (
           <div style={{
-            position: "fixed",
-            bottom: "15px",
-            right: "15px",
-            left: "15px",
-            backgroundColor: "#fc8181",
-            color: "white",
-            padding: "12px 18px",
-            borderRadius: "10px",
-            boxShadow: "0 4px 15px rgba(252, 129, 129, 0.4)",
-            textAlign: "center",
-            fontSize: "14px",
-            fontWeight: "600",
+            position: "fixed", bottom: "15px", right: "15px", left: "15px",
+            backgroundColor: "#fc8181", color: "white", padding: "12px 18px",
+            borderRadius: "10px", boxShadow: "0 4px 15px rgba(252, 129, 129, 0.4)",
+            textAlign: "center", fontSize: "14px", fontWeight: "600",
             animation: "pulse 1.5s ease-in-out infinite",
-            maxWidth: "400px",
-            margin: "0 auto"
+            maxWidth: "400px", margin: "0 auto"
           }}>
             ⚠️ {language === 'hi' ? "1 मिनट से कम समय शेष!" : "Less than 1 minute remaining!"}
           </div>
         )}
       </div>
-      <style>
-        {`
-          @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.6; }
-            100% { opacity: 1; }
-          }
-        `}
-      </style>
+      <style>{`
+        @keyframes pulse {
+          0% { opacity: 1; }
+          50% { opacity: 0.6; }
+          100% { opacity: 1; }
+        }
+      `}</style>
     </div>
   );
 }
