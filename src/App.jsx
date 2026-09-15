@@ -36,6 +36,23 @@ import SanskritMockTest from './components/10sanskrit';
 import ScienceMockTest from './components/10science';
 import EnglishMockTest from './components/10english';
 import SocialScienceMockTest from './components/10socialscience';
+import B12Accountancy from "./components/B12accountancy";
+import B12Boilogy from "./components/B12boilogy";
+import B12Business from "./components/B12business";
+import B12Chemistry from "./components/B12chemistry";
+import B12Economics from "./components/B12economics";
+import B12English from "./components/B12english";
+import B12Entepreneurship from "./components/B12entepreneurship";
+import B12Geography from "./components/B12geography";
+import B12Hindi from "./components/B12hindi";
+import B12History from "./components/B12history";
+import B12HomeScience from "./components/B12homescience";
+import B12Math from "./components/B12math";
+import B12Philosophy from "./components/B12philosophy";
+import B12Physic from "./components/B12physic";
+import B12Political from "./components/B12plotical";
+import B12Psychology from "./components/B12psychology";
+import B12Sociology from "./components/B12sociology";
 
 function App() {
   return (
@@ -47,6 +64,23 @@ function App() {
           <Routes>
 
             {/* Main Pages */}
+            <Route path="/class-12-accountancy" element={<B12Accountancy />} />
+<Route path="/class-12-boilogy" element={<B12Boilogy />} />
+<Route path="/class-12-business" element={<B12Business />} />
+<Route path="/class-12-chemistry" element={<B12Chemistry />} />
+<Route path="/class-12-economics" element={<B12Economics />} />
+<Route path="/class-12-english" element={<B12English />} />
+<Route path="/class-12-entepreneurship" element={<B12Entepreneurship />} />
+<Route path="/class-12-geography" element={<B12Geography />} />
+<Route path="/class-12-hindi" element={<B12Hindi />} />
+<Route path="/class-12-history" element={<B12History />} />
+<Route path="/class-12-home-science" element={<B12HomeScience />} />
+<Route path="/class-12-math" element={<B12Math />} />
+<Route path="/class-12-philosophy" element={<B12Philosophy />} />
+<Route path="/class-12-physics" element={<B12Physic />} />
+<Route path="/class-12-political-science" element={<B12Political />} />
+<Route path="/class-12-psychology" element={<B12Psychology />} />
+<Route path="/class-12-sociology" element={<B12Sociology />} />
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
