@@ -45,109 +45,103 @@ const MyCourses = () => {
       id: 7,
       title: "12th Physic Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-physics"
     },
     {
       id: 8,
       title: "12th Chemistry Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-chemistry"
     },
     {
       id: 9,
       title: "12th Biology Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-boilogy"
     },
     {
       id: 10,
       title: "12th Hindi Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-hindi"
     },
     {
       id: 11,
       title: "12th English Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-english"
     },
     {
       id: 12,
       title: "12th Mathematics Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-math"
     },
     {
       id: 13,
       title: "12th Accountancy Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-accountancy"
     },
     {
       id: 14,
       title: "12th Business Studies Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-business"
     },
     {
       id: 15,
       title: "12th Economics Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-economics"
     },
     {
       id: 16,
       title: "12th Entepreneurship Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-entepreneurship"
     },
     {
       id: 17,
       title: "12th History Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-history"
     },
     {
       id: 18,
       title: "12th Poltical Science Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-political-science"
     },
     {
       id: 19,
       title: "12th Geography Test Series",
       button: "Start",
-      link: "/bssc"
-    },
-    {
-      id: 20,
-      title: "12th Economics Test Series",
-      button: "Start",
-      link: "/bssc"
+      link: "/class-12-geography"
     },
     {
       id: 21,
       title: "12th Sociology Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-sociology"
     },
     {
       id: 22,
       title: "12th Psychology Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-psychology"
     },
     {
       id: 23,
       title: "12th Philosophy Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-philosophy"
     },
     {
       id: 24,
       title: "12th Home Science Test Series",
       button: "Start",
-      link: "/bssc"
+      link: "/class-12-home-science"
     },
   ];
 
