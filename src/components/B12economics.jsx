@@ -6136,11 +6136,6132 @@ const economicsHindi = [
 
 // English Questions
 const economicsEnglish = [
-  // Part A: Introductory Macroeconomics
-  // National Income and Related Aggregates
-  { question: "What is macroeconomics?", option: ["Study of whole economy", "Study of individual unit", "Study of only consumer", "None"], answer: "Study of whole economy" },
-  { question: "What is national income?", option: ["Value of goods and services produced in a year", "None", "Both", "None"], answer: "Value of goods and services produced in a year" },
-  
+ {
+    question: "Credit Control of ktthinaaiorN Which of the following is ?",
+    option: [
+        "Bank credit other than bank credit",
+        "all baitoN on absence of control",
+        "Credit of final consumption on absence of control",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "when tk Marginal Utility Positive is, then tk Total upsumik increases  / ",
+        "when Marginal Utility Zero ho jaatii is, then Total Utility is maximum / ",
+        "when Marginal Utility Negative is, then Total Utility ghttne lgtii is / ",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Which accounts are included in the structure of the balance of payments ?",
+    option: [
+        "Current Account",
+        "Capital Account",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "(Total Productn x units on) – Total Productn (X – 1) unit on) of Definition –",
+    option: [
+        "Total Product of",
+        "Average Product of",
+        "Marginal Product of",
+        "None of these"
+    ],
+    answer: "Marginal Product of"
+},
+
+{
+    question: "Which of the following statements is true?",
+    option: [
+        "anivaary Commodities of maaNg locdaar is",
+        "Luxury Goods demand for more locdaa is",
+        "jin Commodities of bdle in any CommodityeN can be used, unof maaNg belocdaar is / ",
+        "jin Commodities of Consumption kuch Time for can be postponed, unof maaNg belocdaar is"
+    ],
+    answer: "Luxury Goods demand for more locdaa is"
+},
+
+{
+    question: "“whichii Commodity of bikrii from praapt hone vaalaa Revenue per unit Average Revenue is called ?” Who gave this definition ?",
+    option: [
+        "Dooley",
+        "Ferguson",
+        "McConnell",
+        "Watson"
+    ],
+    answer: "McConnell"
+},
+
+{
+    question: "In an economy which sector shaamil rhtaa is ?",
+    option: [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which of the following money of Defect is ?",
+    option: [
+        "RnntNtr to encouragement",
+        "Class Struggle of emergence",
+        "temptation to encouragement",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Elasticity of Demand is measured by which of the following methods?",
+    option: [
+        "Total Expenditure Method",
+        "Percentage or Proportionate Method",
+        "Point Method",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money secondary functions of under which of the following is included is included ?",
+    option: [
+        "Standard of Deferred Payments",
+        "Store of Value",
+        "Transfer of Value",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "the ability of a commodity to satisfy human wants to khte",
+    option: [
+        "Producer",
+        "Utility",
+        "Utility",
+        "Satisfaction"
+    ],
+    answer: "Utility"
+},
+
+{
+    question: "Depreciation Expenditure major components of is –",
+    option: [
+        "Normal Wear and Tear",
+        "Obsolescence",
+        "mshiinoN of Accidental Loss",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "In India dvitiiy pNcyeariiy yojnaa when did ... begin?",
+    option: [
+        "Commodity aavshyktaa is",
+        "Commodity aavshyk aavshyktaa",
+        "Commodity aaraamdaayk Commodity is",
+        "Commodity vilaasitaa Commodity is"
+    ],
+    answer: "Commodity aavshyk aavshyktaa"
+},
+
+{
+    question: "“Bank of England” in which year was it established ?",
+    option: [
+        "1619",
+        "1694",
+        "1695",
+        "1805"
+    ],
+    answer: "1694"
+},
+
+{
+    question: "The slope of an indifference curve is-",
+    option: [
+        "right from left",
+        "left from right",
+        "a and b both",
+        "All of these"
+    ],
+    answer: "left from right"
+},
+
+{
+    question: "every market condition in a Firm of Equilibrium for which condition must be satisfied ?",
+    option: [
+        "AR = MC",
+        "MR = MC",
+        "MC. vkr MR vkr to downward from oftte",
+        "(B) and (C) both"
+    ],
+    answer: "(B) and (C) both"
+},
+
+{
+    question: "What is the sum of utility obtained from all units of a commodity called?",
+    option: [
+        "Marginal Utility",
+        "Total Utility",
+        "Maximum sntusstti",
+        "atirikt Utility"
+    ],
+    answer: "Total Utility"
+},
+
+{
+    question: "Which of the following are advantages of a fixed exchange rate ?",
+    option: [
+        "International Trade increase in",
+        "Foreign Capital to encouragement",
+        "Capital Formation increase in",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following factor of production not is ?",
+    option: [
+        "Land",
+        "Labour",
+        "money",
+        "Capital"
+    ],
+    answer: "money"
+},
+
+{
+    question: "nobel pursCar vijetaa amrty fromn belongs to which country ?",
+    option: [
+        "bhaart",
+        "ameriof",
+        "iNglaiNdd",
+        "svittjrlaiNdd"
+    ],
+    answer: "bhaart"
+},
+
+{
+    question: "Foreign Exchange dr is determined –",
+    option: [
+        "videshii Currency demand for by",
+        "videshii Currency supply of by",
+        "Foreign Exchange baajaar in Demand and Supply by",
+        "inin from toii"
+    ],
+    answer: "Foreign Exchange baajaar in Demand and Supply by"
+},
+
+{
+    question: "Money is a commodity—",
+    option: [
+        "jo Measure of Value ho",
+        "jo Exchange as sviiCar kior jaaye",
+        "jo Medium of Exchange ho",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "National disposable income is calculated at which of the following ?",
+    option: [
+        "Market Price",
+        "Factor Cost",
+        "Market Price and Factor Cost both on",
+        "inin from toii nhii"
+    ],
+    answer: "Market Price"
+},
+
+{
+    question: "Income increase in from toii Demand Curve-",
+    option: [
+        "left or khisk jaataa is",
+        "right or khisk jaataa is",
+        "apne swasn on constant rhtaa is",
+        "phle left or phir right or khisk jaataa is"
+    ],
+    answer: "right or khisk jaataa is"
+},
+
+{
+    question: "Microeconomics is the study of-",
+    option: [
+        "National Income of",
+        "National Product of",
+        "a Specific Firm of",
+        "All of these of"
+    ],
+    answer: "a Specific Firm of"
+},
+
+{
+    question: "Who proposed indifference curve analysis / ",
+    option: [
+        "Gossen",
+        "Hicks and Allen",
+        "Hicks",
+        "Samuelson"
+    ],
+    answer: "Hicks and Allen"
+},
+
+{
+    question: "What is the main reason for the law of diminishing returns ?",
+    option: [
+        "Factors of Limitedtaa",
+        "Factors of apuurnn swasnaapnn honaa",
+        "A and B both",
+        "None of these"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "The alternative name for microeconomics is-",
+    option: [
+        "Income Theory",
+        "Consumer Theory",
+        "Price Theory",
+        "Producer Theory"
+    ],
+    answer: "Price Theory"
+},
+
+{
+    question: "The law of demand expresses-",
+    option: [
+        "Commodity price of and Quantity Demanded between Relation to",
+        "do Commodities price of in Relation to",
+        "Consumer of Income and Quantity Demanded between Relation to",
+        "None of these"
+    ],
+    answer: "Commodity price of and Quantity Demanded between Relation to"
+},
+
+{
+    question: "Tax Receipts in shaamil of jaatii is –",
+    option: [
+        "Income Tax",
+        "Property Tax",
+        "Excise Tax",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Equi-marginal Utility Rule of duusraa naam what is",
+    option: [
+        "Law of Diminishing Utility",
+        "Law of Substitution",
+        "Gossen's First Law",
+        "None of these"
+    ],
+    answer: "Law of Substitution"
+},
+
+{
+    question: "Which of the following is true?",
+    option: [
+        "$M_1 = C + DD + OD$",
+        "$M_1 = DD + C + OD$",
+        "$OD = M_1 + M_2 + DD$",
+        "None of these"
+    ],
+    answer: "$M_1 = C + DD + OD$"
+},
+
+{
+    question: "among the following from For what purpose khriidii gii CommodityeN final goods is called ?",
+    option: [
+        "Satisfaction of Wants hetu",
+        "Firm in Investment hetu",
+        "Both A and B",
+        "inin from toii nhii"
+    ],
+    answer: "Satisfaction of Wants hetu"
+},
+
+{
+    question: "When marginal revenue and marginal cost are equal –",
+    option: [
+        "profit is maximized",
+        "profit is minimized",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "profit is maximized"
+},
+
+{
+    question: "What is the consumption of fixed capital called?",
+    option: [
+        "Capital Formation",
+        "Depreciation",
+        "Investment",
+        "All of these"
+    ],
+    answer: "Depreciation"
+},
+
+{
+    question: "A component of the balance of payments is –",
+    option: [
+        "Current Account",
+        "Capital Account",
+        "Both (A) and (B)",
+        "None of these."
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Central Bank Economic Adviser to the Government as which ofm krtaa is ?",
+    option: [
+        "Economic Policies as",
+        "Devaluation as",
+        "Trade Policy as",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which is an indicator of fiscal discipline ?",
+    option: [
+        "Positive Primary Deficit",
+        "Negative Primary Deficit",
+        "Zero Primary Deficit",
+        "None of these"
+    ],
+    answer: "Zero Primary Deficit"
+},
+
+{
+    question: "Barter System of which of the following Benefit is ?",
+    option: [
+        "Simple System",
+        "Mutual Cooperation in increased",
+        "Economic Inequalities not",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Who presented the ordinal theory of utility?",
+    option: [
+        "Marshall",
+        "Pigou",
+        "Hicks and Allen",
+        "riCarddo"
+    ],
+    answer: "Hicks and Allen"
+},
+
+{
+    question: "Macroeconomics studies –",
+    option: [
+        "Business CycleoN theory of",
+        "Economic Development theory of",
+        "General Price Level and money sphiiti theory of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Commercial Bank of Credit Creation of Which of the following-sii siimaaeN are ?",
+    option: [
+        "desh of Quantity of Money",
+        "money of Liquidity Preference",
+        "borjdr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Keynes's theory is related to –",
+    option: [
+        "Effective Demand prvRtti from",
+        "Propensity to Consume from",
+        "Propensity to Save from",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money Medium of Exchange is because –",
+    option: [
+        "this another commodity as easily convertible is",
+        "isof Universal Acceptability is",
+        "money sNpttiyoN in sbfrom liquid is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Under Keynesian thought, the determinant of income equilibrium is among the following which is ?",
+    option: [
+        "Aggregate Demand",
+        "Aggregate Supply",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Which of the following are the primary functions of a commercial bank ?",
+    option: [
+        "Rnn denaa",
+        "Credit Creation",
+        "DepositeN sviiCar krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following is a danger arising from fiscal deficit ?",
+    option: [
+        "Deflationary Pressure",
+        "Inflationary Pressure",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Inflationary Pressure"
+},
+
+{
+    question: "“Elasticity of Supply Price in hone vaale onivrtn of phlsvform Supply in hone vaale onivrtn of prtikrior quantity of is ?” Who said ?",
+    option: [
+        "Marshall",
+        "Samuelson",
+        "Watson",
+        "Robbins"
+    ],
+    answer: "Samuelson"
+},
+
+{
+    question: "In which market is product differentiation found ?",
+    option: [
+        "Perfect Competition",
+        "Monopoly",
+        "net prtisumitaa",
+        "Monopolistic Competition"
+    ],
+    answer: "Monopolistic Competition"
+},
+
+{
+    question: "koNphii of Value increase in hone from caay demand for-",
+    option: [
+        "increases",
+        "None of these",
+        "constant rhtii is",
+        "None of these"
+    ],
+    answer: "increases"
+},
+
+{
+    question: "sbfrom phle ‘Micro’ shbd of prsum krne vaale are-",
+    option: [
+        "Marshall",
+        "bolddiNg",
+        "Keynes",
+        "Ragnar Frisch"
+    ],
+    answer: "Ragnar Frisch"
+},
+
+{
+    question: "Barter System of Which of the following-sii ktthinaaiorN are ?",
+    option: [
+        "Double Coincidence absence of",
+        "Division of Commodities in Difficulty",
+        "Common Measure of Value of Broad Absence",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following are included in the three-sector model ?",
+    option: [
+        "Household",
+        "Government",
+        "Firm",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Keynes of in an economy deficient demand condition of to which of the following naam from called jaataa is ?",
+    option: [
+        "Full Employment Equilibrium",
+        "Underemployment Equilibrium",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Underemployment Equilibrium"
+},
+
+{
+    question: "What is the elasticity of the market-period supply curve ?",
+    option: [
+        "Perfectly Inelastic",
+        "Perfectly Elastic",
+        "Less than Unit",
+        "Greater than Unit"
+    ],
+    answer: "Perfectly Inelastic"
+},
+
+{
+    question: "Distribution of aadhunik siddhaaNt to is called –",
+    option: [
+        "Factor Price Determination demand for and Supply siddhaaNt",
+        "Value theory of",
+        "Theory of Distribution",
+        "All of these"
+    ],
+    answer: "Factor Price Determination demand for and Supply siddhaaNt"
+},
+
+{
+    question: "Which of the following is a danger arising from fiscal deficit ?",
+    option: [
+        "Deflationary Pressure",
+        "Inflationary Pressure",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Inflationary Pressure"
+},
+
+{
+    question: "Which of the following is studied under macroeconomics?",
+    option: [
+        "National Income",
+        "Full Employment",
+        "Total Productn",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Primary Deficit = ?",
+    option: [
+        "Fiscal Deficit – Interest Payments",
+        "Total Income – Total Expenditure",
+        "Fiscal Expenditure – vorj bhugtaan",
+        "None of these"
+    ],
+    answer: "Fiscal Deficit – Interest Payments"
+},
+
+{
+    question: "The major exceptions to the law of supply are –",
+    option: [
+        "naashvaan Commodities on Supply law of laaguu not hotaa",
+        "Agricultural Goods on this not laaguu is",
+        "Social Prestige vaalii Commodities on laaguu not hotaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "In what form does a capital account transaction occur ?",
+    option: [
+        "Flow",
+        "Stock",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Flow"
+},
+
+{
+    question: "Which of the following is included under qualitative credit control ?",
+    option: [
+        "Change in Marginal Requirement of Loans",
+        "Credit Rationing",
+        "Direct Action",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "constant Which of the following are forms of exchange rate ?",
+    option: [
+        "Exchange Rate of svrnnmaan prnnaalii",
+        "Exchange Rate of brettnvudds prnnaalii",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Which of the following affects the elasticity of demand?",
+    option: [
+        "Commodity of Nature",
+        "Commodity of Multiple Uses",
+        "Time Element",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "In which market is AR = MR ?",
+    option: [
+        "Monopoly",
+        "Monopolistic Competition",
+        "Both (A) and (B)",
+        "Perfect Competition"
+    ],
+    answer: "Perfect Competition"
+},
+
+{
+    question: "The forms of the foreign exchange market are –",
+    option: [
+        "Spot or Current Market",
+        "Forward Market",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "‘Bank’ origin of the word ‘Banko’ from huii is, that which language in huii ?",
+    option: [
+        "Italian",
+        "Latin",
+        "American",
+        "None of these"
+    ],
+    answer: "Italian"
+},
+
+{
+    question: "Which of the following are factors of production?",
+    option: [
+        "Land",
+        "Labour and Capital",
+        "vyvswas",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Who is included under the Banking Ombudsman Scheme –",
+    option: [
+        "all Scheduled Banks",
+        "Cooperative Banks",
+        "Commercial Banks",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following is an advantage of a flexible exchange rate?",
+    option: [
+        "Continuous Adjustment",
+        "Simple System",
+        "Capital Formation increase in",
+        "(a) and (b) both"
+    ],
+    answer: "(a) and (b) both"
+},
+
+{
+    question: "at different prices baajaar in present all by producers Quantities Sold to drshaane vaalii taaliof to khte are-",
+    option: [
+        "Individual Demand Schedule",
+        "Individual Supply Schedule",
+        "Market Supply Schedule",
+        "Market Demand Schedule"
+    ],
+    answer: "Market Supply Schedule"
+},
+
+{
+    question: "What types of loans do commercial banks give ?",
+    option: [
+        "Cash Credit",
+        "Overdraft",
+        "Loans and Advances",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The condition for profit maximization of a perfectly competitive firm in the short run is –",
+    option: [
+        "Marginal Income = Marginal Cost",
+        "Marginal Cost bddh' rhii ho",
+        "P > Average onivrtii Cost",
+        "All of these"
+    ],
+    answer: "Marginal Income = Marginal Cost"
+},
+
+{
+    question: "Banking sector reforms in India began –",
+    option: [
+        "1969 in",
+        "1981 in",
+        "1991 in",
+        "2001 in"
+    ],
+    answer: "1991 in"
+},
+
+{
+    question: "a Straight-line Demand Curve of at the midpoint Elasticity of Demand-",
+    option: [
+        "Zero hogii",
+        "unit hogii",
+        "anNt hogii",
+        "None of these"
+    ],
+    answer: "unit hogii"
+},
+
+{
+    question: "Stock a avdhaarnnaa is –",
+    option: [
+        "Static",
+        "Dynamic",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Static"
+},
+
+{
+    question: "Under which of the following conditions will a firm's profit be maximized ?",
+    option: [
+        "Marginal Revenue = Marginal Cost",
+        "Marginal Cost vkr Marginal Input rekhaa to downward from oftttii is / ",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Both A and B"
+},
+
+{
+    question: "Minimum support price is an example of / ",
+    option: [
+        "udsumik Commodity of",
+        "Agricultural Products of",
+        "Consumer Commodities of",
+        "None of these"
+    ],
+    answer: "Agricultural Products of"
+},
+
+{
+    question: "Money is a commodity—",
+    option: [
+        "jo Measure of Value ho",
+        "jo Exchange as sviiCar kior jaaye",
+        "jo Medium of Exchange ho",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Oligopoly Market in—",
+    option: [
+        "do more than vikretaa are",
+        "only do vikretaa are",
+        "kuch vikretaa are",
+        "All of these"
+    ],
+    answer: "kuch vikretaa are"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Commodity price of and usof pti between siidhaa Relationship is / ",
+        "Supply bkr baary from right upwardii or utthtaa is",
+        "Supply to anek tttv prbhaavit krte is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Net national product at factor cost is called—",
+    option: [
+        "National Income",
+        "gross Investment",
+        "ghreluu Income",
+        "None of these"
+    ],
+    answer: "National Income"
+},
+
+{
+    question: "In which market are elements of both monopoly and competition found ?",
+    option: [
+        "Monopolistic Competition",
+        "Monopoly",
+        "Perfect Competition",
+        "vinet Monopolyik prtisumitaa"
+    ],
+    answer: "Monopolistic Competition"
+},
+
+{
+    question: "How many laws of production are there / ",
+    option: [
+        "Law of Increasing Returns",
+        "Law of Constant Returns",
+        "Law of Diminishing Returns",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "People try to-",
+    option: [
+        "apne sNFactors of sbfrom wasteful upsum krne of",
+        "apne sNFactors of good upsum krne of",
+        "apne sNFactors of highest form from upsum krne of",
+        "None of these"
+    ],
+    answer: "apne sNFactors of highest form from upsum krne of"
+},
+
+{
+    question: "Utility is related to-",
+    option: [
+        "Utility from",
+        "naitiktaa from",
+        "Human Wants supply of from",
+        "All of these"
+    ],
+    answer: "Human Wants supply of from"
+},
+
+{
+    question: "Which is the central problem of an economy?",
+    option: [
+        "Allocation of Resources",
+        "Factors of Most Efficient Use",
+        "Economic Development",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "$M_1$ + Commercial Banks of Net Time Deposits) Definition are –",
+    option: [
+        "$M_2$ of",
+        "$M_3$ of",
+        "smst Monetary Resources of",
+        "only (B) and (C)"
+    ],
+    answer: "only (B) and (C)"
+},
+
+{
+    question: "How can fiscal and budget deficits be reduced-",
+    option: [
+        "Tax Revenue in by increasing",
+        "Government Expenditure in cutting krof",
+        "by the government by preventing waste",
+        "All of these n"
+    ],
+    answer: "All of these n"
+},
+
+{
+    question: "which of the followingaccording to, “Money is a commodityN jifrom has universal acceptability is / ”",
+    option: [
+        "Knapp",
+        "Keynes",
+        "Seligman",
+        "Hartley Withers"
+    ],
+    answer: "Seligman"
+},
+
+{
+    question: "a Person of paas Resources are-",
+    option: [
+        "Unlimited",
+        "Limited",
+        "n to Unlimited n Limited",
+        "or to Limited or Unlimited"
+    ],
+    answer: "Limited"
+},
+
+{
+    question: "Which of the following are forms of exchange rate ?",
+    option: [
+        "Fixed Exchange Rate",
+        "Flexible Exchange Rate",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "that taaliof jisin Producer by at different prices Quantities Sold to drshaaor jaataa is, ufrom khte are-",
+    option: [
+        "baajaar Demand Schedule",
+        "Consumer Demand Schedule",
+        "baajaar Supply Schedule",
+        "Producer Supply Schedule"
+    ],
+    answer: "Producer Supply Schedule"
+},
+
+{
+    question: "Which of the following-Component affect the elasticity of demand?",
+    option: [
+        "Income Level",
+        "Commodities of Nature",
+        "Price Level",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Monetary policy is related to –",
+    option: [
+        "Public Expenditure from",
+        "kroN from",
+        "Public Debt from",
+        "Open Market Operations"
+    ],
+    answer: "Open Market Operations"
+},
+
+{
+    question: "Economics in ‘Demand’ shbd from taatony is-",
+    option: [
+        "Commodity of Quantity Consumed",
+        "a nishcit Price on Commodity of Quantity Consumed",
+        "present in the market Commodity quantity of",
+        "by producers Quantity of Goods Produced"
+    ],
+    answer: "a nishcit Price on Commodity of Quantity Consumed"
+},
+
+{
+    question: "ATM what is the full form of ?",
+    option: [
+        "enii ttaaim mnii",
+        "oNl ttaaim mnii",
+        "ottomettedd ttelrmshiin",
+        "None of these"
+    ],
+    answer: "ottomettedd ttelrmshiin"
+},
+
+{
+    question: "Economy to vrgiikRt kior jaa sktaa is?",
+    option: [
+        "Capitalvaadii or baajaar Economy as",
+        "mishrit Economy as",
+        "ofndriikRt niyojit or smaajvaadii Economy as",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following-saa Expenditure a construction of a bridge in is ?",
+    option: [
+        "Capital Expenditure",
+        "Revenue Expenditure",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Capital Expenditure"
+},
+
+{
+    question: "Microeconomics in smmilit is-",
+    option: [
+        "Individual Unit",
+        "chotte-chotte cr",
+        "Individual Price Determination",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Factor of Supply Curve kaisaa is ?",
+    option: [
+        "left from right upward towards",
+        "right from left downward towards",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "left from right upward towards"
+},
+
+{
+    question: "tairtii Exchange Rate of vyvswas under whom aarNbh huaa ?",
+    option: [
+        "aNtrraassttriiy money toss",
+        "vishv Bank",
+        "aNtrraassttriiy vitt sNswasn",
+        "None of these"
+    ],
+    answer: "aNtrraassttriiy money toss"
+},
+
+{
+    question: "What are the major deposits accepted by commercial banks ?",
+    option: [
+        "Savings Deposits",
+        "Time Deposits",
+        "Current Deposits",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following factors affect exchange rates ?",
+    option: [
+        "Trade Changes",
+        "Capital Flows",
+        "Bank Rate",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "FAD siddhaaNt of Formulation In which year kior gor ?",
+    option: [
+        "1998",
+        "1999",
+        "2001",
+        "2005"
+    ],
+    answer: "1998"
+},
+
+{
+    question: "The causes of disequilibrium in the balance of payments are—",
+    option: [
+        "Natural Causes",
+        "Economic Causes",
+        "Political Causes",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The long-run supply curve is –",
+    option: [
+        "atydhik locdaar",
+        "atydhik belocdaar",
+        "less locdaar",
+        "None of these"
+    ],
+    answer: "atydhik locdaar"
+},
+
+{
+    question: "Direct Tax under which of the following is included is included ?",
+    option: [
+        "Income Tax",
+        "uphaarkr",
+        "Both (A) and (B)",
+        "Excise Tax"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Barter System of which of the following Benefit is ?",
+    option: [
+        "Simple System",
+        "Mutual Cooperation in increased",
+        "Economic Inequalities not",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "market classification of among the following which is a basis ?",
+    option: [
+        "Perfect Competition",
+        "Zero prtisumitaa",
+        "aPerfect Competition",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which is the bank of the public ?",
+    option: [
+        "Commercial Bank",
+        "Central Bank",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Commercial Bank"
+},
+
+{
+    question: "Market Price of Relationship among the following from from whom is ?",
+    option: [
+        "Fixed Value",
+        "very short period",
+        "Normal Price",
+        "All of these"
+    ],
+    answer: "very short period"
+},
+
+{
+    question: "The central bank controls credit –",
+    option: [
+        "through Bank Rate",
+        "through Open Market Operations",
+        "through CRR",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "For maximum consumer satisfaction-",
+    option: [
+        "Commodity of Marginal Utility usof Value of equal honii caahie",
+        "vstu of Marginal Utility usof Value more than honii caahie",
+        "Marginal Utility and Value of toii Relationship not is",
+        "None of these"
+    ],
+    answer: "Commodity of Marginal Utility usof Value of equal honii caahie"
+},
+
+{
+    question: "What happens in perfect competition ?",
+    option: [
+        "AR = MR (Average Income = Marginal Income)",
+        "AR > MR (Average Income > Marginal Income)",
+        "AR < MR (Average Income < Marginal Income)",
+        "AR + AC = MR"
+    ],
+    answer: "AR = MR (Average Income = Marginal Income)"
+},
+
+{
+    question: "Who was the originator of the welfare definition of economics-",
+    option: [
+        "Adam Smith",
+        "Marshall",
+        "Robbins",
+        "frommyulsn"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "money incidental functions of under which of the following is included is included ?",
+    option: [
+        "Basis of Credit",
+        "Social Income of Basis of Distribution",
+        "puuNjii of Liquidity mobility in Helpful",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The short-run supply curve is –",
+    option: [
+        "less locdaar",
+        "less belocdaar",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "less locdaar"
+},
+
+{
+    question: "which of the following money of Defect is ?",
+    option: [
+        "RnntNtr to encouragement",
+        "Class Struggle of emergence",
+        "temptation to encouragement",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "‘Mikros’ which means Small, Which of the following-saa shbd is?",
+    option: [
+        "arbii",
+        "Greek",
+        "German",
+        "English"
+    ],
+    answer: "Greek"
+},
+
+{
+    question: "agr Marginal Consumption prvRti 0.5 is to Multiplier (K) what will be?",
+    option: [
+        "$\\frac{1}{2}$",
+        "0",
+        "1",
+        "2"
+    ],
+    answer: "2"
+},
+
+{
+    question: "According to whom, “Exchange Rate a desh of unit currency of bdle duusre Country's Currency of obtained units of is the measure?”",
+    option: [
+        "Crowther",
+        "Sayers",
+        "Dalton",
+        "None of these"
+    ],
+    answer: "Crowther"
+},
+
+{
+    question: "Who issues paper notes in the country ?",
+    option: [
+        "vorvsaayik Bank",
+        "Central Bank",
+        "vishv Bank",
+        "audsumik Bank"
+    ],
+    answer: "Central Bank"
+},
+
+{
+    question: "Which of the following causes changes in exchange rates ?",
+    option: [
+        "Purchase and Sale of Securities",
+        "Speculative Activities",
+        "Political Conditions",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The determinants of demand are-",
+    option: [
+        "Commodity price of",
+        "Income Level",
+        "Related Commodity price of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Equilibrium Price determinants of which of the following is ?",
+    option: [
+        "Commodity demand for",
+        "Commodity supply of",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "English of shbd ‘Macro’ Greek bhaassaa Makros from lior gor is, which means-",
+    option: [
+        "Micro",
+        "Broad",
+        "Individual",
+        "None of these"
+    ],
+    answer: "Broad"
+},
+
+{
+    question: "According to whom Price determination of Marginal Utility by nirdhaarit is ?",
+    option: [
+        "Walras",
+        "Jevons",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "shrii M. Narasimham which were ?",
+    option: [
+        "puurv gvrnr",
+        "Banking reformk",
+        "vit mNtrii",
+        "None of these"
+    ],
+    answer: "puurv gvrnr"
+},
+
+{
+    question: "A market situation in which there is only one seller of a commodity –",
+    option: [
+        "Monopolist",
+        "Monopsony",
+        "Duopoly",
+        "None of these"
+    ],
+    answer: "Monopolist"
+},
+
+{
+    question: "Direct Tax is –",
+    option: [
+        "Income Tax",
+        "uphaar kr",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "among the following which Durable Goods are ?",
+    option: [
+        "Television",
+        "Refrigerator",
+        "Car",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "According to whom “rojgaar siddhaaNt to smuuh Demand siddhaaNt bhii is called / ”",
+    option: [
+        "Pigou",
+        "Keynes",
+        "Marshall",
+        "None of these"
+    ],
+    answer: "Keynes"
+},
+
+{
+    question: "Utility of lessvdhaak sivaan among the following from Who Presented kior?",
+    option: [
+        "Pigou",
+        "Hicks and Allen",
+        "Marshall",
+        "Samuelson"
+    ],
+    answer: "Hicks and Allen"
+},
+
+{
+    question: "What is the elasticity of supply when e = 0 is ?",
+    option: [
+        "puurnntH locdaar Supply",
+        "puurnntH belocdaar Supply",
+        "less locdaar Supply",
+        "Unitary Elasticitydaar Supply"
+    ],
+    answer: "puurnntH belocdaar Supply"
+},
+
+{
+    question: "Gross National Product is the total factor income earned by normal residents of a country in an accounting year, including depreciation / ",
+    option: [
+        "GNP",
+        "NNP",
+        "GNP",
+        "None of these"
+    ],
+    answer: "GNP"
+},
+
+{
+    question: "which of the followingaccording to “Wage Reduction Economy” in Full Employment condition of of svaabhaavik ddhNg from bnaaye rkhtii is ” –",
+    option: [
+        "Pigou",
+        "Keynes",
+        "Marshall",
+        "None of these"
+    ],
+    answer: "Pigou"
+},
+
+{
+    question: "while consuming vibhinn Commodities of choice krte vkt a Consumer rational is-",
+    option: [
+        "when that Preference v Preferences of according to choice krtaa is",
+        "when that Preference v Preferences of against choice krtaa is",
+        "when that apne Relatives of Preference-Preferences of according to choice krtaa is",
+        "when apnii Emotions of according to choice krtaa is"
+    ],
+    answer: "when that Preference v Preferences of according to choice krtaa is"
+},
+
+{
+    question: "What types of loans do commercial banks give ?",
+    option: [
+        "Cash Credit",
+        "Overdraft",
+        "Loans and Advances",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The theory of employment is related to –",
+    option: [
+        "Static Economics",
+        "Macroeconomics",
+        "Microeconomics",
+        "None of these"
+    ],
+    answer: "Macroeconomics"
+},
+
+{
+    question: "toii Supply Curve when daahinii or shiphtt kregii, when –",
+    option: [
+        "Technological Progress ho",
+        "Prices of Inputs decrease in ho",
+        "Per-unit Tax lgaaor jaae",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "Demand in sNkucln then is, when-",
+    option: [
+        "Price increases and Demand decreases",
+        "Price increases and Demand bhii increases",
+        "Price constant rhtii is and Demand decreases",
+        "Price dhaatttii is but Demand constant rhtii is"
+    ],
+    answer: "Price increases and Demand decreases"
+},
+
+{
+    question: "among the following which in an economy Price and niyojn tNtr milkr Central Problems of smaadhaan kior jaataa is?",
+    option: [
+        "mishrit Economy",
+        "smaajvaadii Economy",
+        "Capitalvaadii Economy",
+        "None of these"
+    ],
+    answer: "mishrit Economy"
+},
+
+{
+    question: "“in a financial year estimated monetary receipts received by the government from all sources niiti is called / ”",
+    option: [
+        "Budget Receipts",
+        "Capital Receipts",
+        "Revenue Receipts",
+        "None of these"
+    ],
+    answer: "Budget Receipts"
+},
+
+{
+    question: "The production possibility curve-",
+    option: [
+        "akss towards avntodr is",
+        "akss towards unntodr is",
+        "akss of equalaantr is",
+        "akss from lmbvt is"
+    ],
+    answer: "akss towards unntodr is"
+},
+
+{
+    question: "Which of the following is included under qualitative credit control ?",
+    option: [
+        "Change in Marginal Requirement of Loans",
+        "Credit Rationing",
+        "Direct Action",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Which of the following-saa kthn shii is ?",
+    option: [
+        "Labour demand for Producer by of jaatii is",
+        "Labour demand for usof Producertaa on nirbhr krtii is",
+        "Labour of Marginal Productivity usof Maximum mjduurii is / ",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The law of variable proportions discusses three stages of production, in the first stage of production-",
+    option: [
+        "Average Productn girtaa is",
+        "Marginal Productn increases",
+        "Marginal and Average Productn increases",
+        "Marginal Productn Zero is"
+    ],
+    answer: "Marginal and Average Productn increases"
+},
+
+{
+    question: "Which are the major sectors of an economy ?",
+    option: [
+        "Household Sector",
+        "Producer Sector",
+        "Government Sector",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "What type of Commodities of Value decrease in hone from Demand increase in not is?",
+    option: [
+        "Necessities",
+        "Comfort Goods",
+        "Luxury Goods",
+        "None of these"
+    ],
+    answer: "Necessities"
+},
+
+{
+    question: "money incidental functions of under which of the following is included is included ?",
+    option: [
+        "Basis of Credit",
+        "Social Income of Basis of Distribution",
+        "puuNjii of Liquidity mobility in Helpful",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The economic problem is essentially a problem of?",
+    option: [
+        "Choice of",
+        "Consumer choice of",
+        "Firmchoice of",
+        "None of these"
+    ],
+    answer: "Choice of"
+},
+
+{
+    question: "money primary functions of under which of the following is included is included ?",
+    option: [
+        "Medium of Exchange",
+        "Measure of Value",
+        "Both (A) and (B)",
+        "Store of Value"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Net indirect tax is defined as—",
+    option: [
+        "Indirect Tax-Direct Tax",
+        "Indirect Tax-Depreciation",
+        "Indirect Tax-Subsidy",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "What is an increase in capital stock called ?",
+    option: [
+        "puuNjii haas",
+        "puuNjii Benefit",
+        "Capital Formation",
+        "None of these"
+    ],
+    answer: "Capital Formation"
+},
+
+{
+    question: "“Production is the process by which utility is created in goods / ” Who said ?",
+    option: [
+        "Ely",
+        "Smith",
+        "Thomas",
+        "None of these"
+    ],
+    answer: "Smith"
+},
+
+{
+    question: "only the following are included in the calculation of Gross Domestic Product-",
+    option: [
+        "Final Goods to",
+        "Intermediate Goods to",
+        "Consumption Goods to",
+        "None of these"
+    ],
+    answer: "Final Goods to"
+},
+
+{
+    question: "ationvlorCar Demand vukr among the following from what dikhlaataa is?",
+    option: [
+        "Perfectly Inelastic Demand",
+        "Perfectly Elastic Demand",
+        "unit Demand loc",
+        "None of these"
+    ],
+    answer: "unit Demand loc"
+},
+
+{
+    question: "High-Powered Money is—",
+    option: [
+        "Currency + Reserve",
+        "Currency + Demand Deposit",
+        "Currency + Time Deposits",
+        "None of these"
+    ],
+    answer: "Currency + Reserve"
+},
+
+{
+    question: "Which method of measuring national income calculates the contribution made to production by each producing enterprise within the domestic territory of a country during an accounting year ?",
+    option: [
+        "Product Method",
+        "Value Added Method",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "A firm's value added is—",
+    option: [
+        "Value of Output Intermediate Goods of Value",
+        "Production of at any stage in Factors of Net Contribution",
+        "kr due to Commodity of Value increase in",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "the ability of a commodity to satisfy human wants is",
+    option: [
+        "Consumption",
+        "Utility",
+        "Property",
+        "Preference"
+    ],
+    answer: "Utility"
+},
+
+{
+    question: "The demand curve in perfect competition is ?",
+    option: [
+        "Perfectly Elastic",
+        "Perfectly Inelastic",
+        "belocdaar",
+        "All of these"
+    ],
+    answer: "Perfectly Elastic"
+},
+
+{
+    question: "Balance of Payments of among the following which FeatureeN is ?",
+    option: [
+        "nishcit Time avdhi",
+        "Broadtaa",
+        "krmbddh lekhaa riCardd",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money Medium of Exchange is because –",
+    option: [
+        "this another commodity as easily convertible is",
+        "isof Universal Acceptability is",
+        "money sNpttiyoN in sbfrom liquid is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Marginal Utility hraas Law of prtipaadk are-",
+    option: [
+        "Gossen",
+        "Hicks",
+        "caipmain",
+        "All of these"
+    ],
+    answer: "Gossen"
+},
+
+{
+    question: "Central Bank by which money issue of jaatii is ?",
+    option: [
+        "cln money",
+        "sikof",
+        "Credit money",
+        "All of these"
+    ],
+    answer: "cln money"
+},
+
+{
+    question: "dRshy mdoN under among the following whom is included ?",
+    option: [
+        "mshiin",
+        "kpdd'aa",
+        "siiintt",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "maaNg elasticity of Measurene for Percentage or Proportionate Method of Formulation Who kior?",
+    option: [
+        "Marshall",
+        "phlks",
+        "Hicks",
+        "Robbins"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "Supply of Law of among the following which maanytaaeN are ?",
+    option: [
+        "baajaar in kretaaoN and vikretaaoN of Income Level in toii onivrtn not honaa caahie / ",
+        "factors of productionoN price ofeN constant rhtii is / ",
+        "tkniiof jnyaan of str constant rhtaa is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "if whichii Commodity of Value maaNg elasticity of P -0.5 ho, to Commodity demand for sm-locdaar is-",
+    option: [
+        "locdaar is",
+        "puurnnt belocdaar is",
+        "saapekssik belocdaar is",
+        "puurnntH belocdaar is"
+    ],
+    answer: "locdaar is"
+},
+
+{
+    question: "“Cost phln is Production quantity of of” this what btaataa is ?",
+    option: [
+        "Production phln",
+        "Demand phln",
+        "Producer phln",
+        "None of these"
+    ],
+    answer: "Production phln"
+},
+
+{
+    question: "Oligopolyii a among the following whichof form is ?",
+    option: [
+        "Perfect Competition",
+        "aPerfect Competition",
+        "Monopoly",
+        "None of these"
+    ],
+    answer: "aPerfect Competition"
+},
+
+{
+    question: "shrii M. Narasimham which were ?",
+    option: [
+        "puurv gvrnr",
+        "Banking reformk",
+        "vit mNtrii",
+        "None of these"
+    ],
+    answer: "puurv gvrnr"
+},
+
+{
+    question: "Price us bindu on nirdhaarit is, jhaaN –",
+    option: [
+        "Commodity demand for more ho",
+        "Commodity supply of more ho",
+        "Commodity demand for and Commodity supply of braabr ho",
+        "None of these"
+    ],
+    answer: "Commodity demand for and Commodity supply of braabr ho"
+},
+
+{
+    question: "among the following which Credit Control of onimaannaatmk upaay not is ?",
+    option: [
+        "Bank Rate",
+        "naitik dbaav",
+        "khule baajaar of krioreN",
+        "nkd toss anupaat change in"
+    ],
+    answer: "naitik dbaav"
+},
+
+{
+    question: "Marginal Income Which of the following is ?",
+    option: [
+        "$\\frac{\\Delta TR}{\\Delta Q}$",
+        "$\\frac{TR}{Q}$",
+        "$\\frac{\\Delta AR}{Q}$",
+        "None of these"
+    ],
+    answer: "$\\frac{\\Delta TR}{\\Delta Q}$"
+},
+
+{
+    question: "In India 14 bdd'e anusuucit Commercial Banks of Nationalization kior gor –",
+    option: [
+        "1949 in",
+        "1955 in",
+        "1969 in",
+        "2000 in"
+    ],
+    answer: "1969 in"
+},
+
+{
+    question: "vinet prtisumitaa of Which of the following-saa lkssnn is ?",
+    option: [
+        "baajaar of puurnn jnyaan",
+        "Factors of puurnn gtishiiltaa",
+        "Product of aformtaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "BankoN in graahk fromvaa reform hetu which of the following smiti of gtthn huaa ?",
+    option: [
+        "raajaa claior smiti",
+        "goiporior smiti",
+        "vrmaa smiti",
+        "ckrvtii smiti"
+    ],
+    answer: "goiporior smiti"
+},
+
+{
+    question: "maaNg elasticity of Measurene for Percentage or Proportionate Method of Formulation Who kior?",
+    option: [
+        "Marshall",
+        "phlks",
+        "Hicks",
+        "None of these"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "Monopolistic Competition in Demand Curve is –",
+    option: [
+        "more locdaar",
+        "more belocdaar",
+        "Perfectly Inelastic",
+        "All of these"
+    ],
+    answer: "more locdaar"
+},
+
+{
+    question: "Fixed Exchange Rate of which of the following Defect is ?",
+    option: [
+        "raassttriiy hitoN of athatelnaa",
+        "Capital of Limited Flow",
+        "Exchange RateoN in Incidental uccaavcn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Firm of Equilibrium of prthm condition what is ?",
+    option: [
+        "MC = MR (Marginal Cost = Marginal Income)",
+        "MR = TR (Marginal Income = Total Income)",
+        "MR = AR (Marginal Income = Average Income)",
+        "AC = AR (Average Cost = Average Income)"
+    ],
+    answer: "MC = MR (Marginal Cost = Marginal Income)"
+},
+
+{
+    question: "Capitalvaadii Economy of Central Problem of smaadhaan is-",
+    option: [
+        "ofndriiy by the government",
+        "muul-tNtr by",
+        "ofndriiy niyojn by",
+        "Capitalpti by"
+    ],
+    answer: "muul-tNtr by"
+},
+
+{
+    question: "money of Function in shaamil is –",
+    option: [
+        "Price Determination krnaa",
+        "Medium of Exchange Presented krnaa",
+        "Value sNcit krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following Monopoly utpnn due to is ?",
+    option: [
+        "pettentt moreaar",
+        "kcce maaloN of ofNdriikrnn",
+        "glaa ghoNtt prtisumitaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money primary functions of under which of the following is included is included ?",
+    option: [
+        "Medium of Exchange",
+        "Measure of Value",
+        "Both (A) and (B)",
+        "Store of Value"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "gaunn Sector athvaa Secondary Sector in which is included ?",
+    option: [
+        "gnne from ciinii",
+        "kpaas from kpdd'aa",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Reserve Bank oNph iNddior of swaspnaa huii –",
+    option: [
+        "1947",
+        "1935",
+        "1937",
+        "1945"
+    ],
+    answer: "1935"
+},
+
+{
+    question: "Consumer vythataarof is studied-",
+    option: [
+        "Micro Economics in",
+        "Broad Economics in",
+        "Income Theory in",
+        "None of these"
+    ],
+    answer: "Micro Economics in"
+},
+
+{
+    question: "vorpaar Sector in which mdeN shaamil is ?",
+    option: [
+        "adRshy mdeN",
+        "Capital aNtrnn",
+        "dRshy mdeN",
+        "All of these"
+    ],
+    answer: "dRshy mdeN"
+},
+
+{
+    question: "Primary Sector to jaanaa jaataa is –",
+    option: [
+        "kRssi and Related Sector",
+        "nirmit Sector",
+        "fromvaa Sector",
+        "All of these"
+    ],
+    answer: "kRssi and Related Sector"
+},
+
+{
+    question: "aagm of dhaarnnaaeN are –",
+    option: [
+        "Total Revenue",
+        "Marginal Revenue",
+        "Average Revenue",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which Economics in Income, rojgaar and Production in aNtr not is ?",
+    option: [
+        "Macroeconomics in",
+        "Microeconomics in",
+        "Capitalvaadii Economics in",
+        "None of these"
+    ],
+    answer: "Macroeconomics in"
+},
+
+{
+    question: "a IncometaaCar ationvly Demand Curve for maaNg elasticity of (e) hr biNdu on is –",
+    option: [
+        "e = 0",
+        "e = 1",
+        "e = anNt",
+        "e = constant raashi"
+    ],
+    answer: "e = 1"
+},
+
+{
+    question: "caar Sectoriiy moNddl in among the following which shaamil is ?",
+    option: [
+        "Household, Firm, udsum",
+        "Household, Firm, Government, videshii Sector",
+        "Household, Firm, Government",
+        "None of these"
+    ],
+    answer: "Household, Firm, Government, videshii Sector"
+},
+
+{
+    question: "Marginal upsum prvRtti Which of the following is ?",
+    option: [
+        "$\\frac{\\Delta Y}{\\Delta C}$",
+        "$\\frac{\\Delta C}{\\Delta Y}$",
+        "$\\frac{\\Delta Y}{\\Delta I}$",
+        "None of these"
+    ],
+    answer: "$\\frac{\\Delta C}{\\Delta Y}$"
+},
+
+{
+    question: "Keynes of rojgaar siddhaaNt among the following from which on nirbhr is ?",
+    option: [
+        "Effective Demand",
+        "Supply",
+        "Production kssmtaa",
+        "None of these"
+    ],
+    answer: "Effective Demand"
+},
+
+{
+    question: "Credit Multiplier what is ?",
+    option: [
+        "$\\frac{1}{\\text{nkd toss anupaat}}$",
+        "nkd × $\\frac{1}{\\text{nkd toss anupaat}}$",
+        "nkd × nkd toss anupaat",
+        "None of these"
+    ],
+    answer: "$\\frac{1}{\\text{nkd toss anupaat}}$"
+},
+
+{
+    question: "Marginal Cost vkr Average onivrtn Cost to oftttaa is—",
+    option: [
+        "Minimum bindu on",
+        "Maximum bindu on",
+        "Both (A) and (B)",
+        "inof all"
+    ],
+    answer: "Minimum bindu on"
+},
+
+{
+    question: "Utility of gnnnaavaack Theory among the following from Who Presented kior?",
+    option: [
+        "Marshall",
+        "poguu",
+        "Hicks",
+        "elen"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "a year of avdhi in Productit Final Goods and fromvaaoN of Market Price + videshoN from praapt net Factor Income – ghisaavtt or Capital Consumption is / ",
+    option: [
+        "NNP MP",
+        "NNPFC",
+        "GDP",
+        "None of these"
+    ],
+    answer: "NNP MP"
+},
+
+{
+    question: "Average Product braabr is ?",
+    option: [
+        "TP/L",
+        "LTP",
+        "P/LT",
+        "TILP"
+    ],
+    answer: "TP/L"
+},
+
+{
+    question: "Which of the following Marginal Utility hraas Law of apvaad not is?",
+    option: [
+        "nshiilii Commodity of Consumption",
+        "money of sNcy",
+        "durlbh Commodity of sNgrh",
+        "rottii and duudh"
+    ],
+    answer: "rottii and duudh"
+},
+
+{
+    question: "Perfect Competition in Total Revenue vkr –",
+    option: [
+        "left from right cddh'tii huii siidhii rekhaa hogii",
+        "right from left downward girtii is",
+        "left from right",
+        "None of these"
+    ],
+    answer: "left from right cddh'tii huii siidhii rekhaa hogii"
+},
+
+{
+    question: "aGeneral Benefit In which market paayii jaatii is ?",
+    option: [
+        "Monopoly",
+        "Perfect Competition",
+        "Monopolyik prtisumitaa",
+        "All of these"
+    ],
+    answer: "Monopoly"
+},
+
+{
+    question: "vilaasitaa Commodities of maaNg-",
+    option: [
+        "belocdaar is",
+        "locdaar is",
+        "atydhik locdaar is",
+        "Perfectly Inelastic is"
+    ],
+    answer: "atydhik locdaar is"
+},
+
+{
+    question: "aarthik krioroN of Study of sndrbh in Economics to do shaakhaaoN vysstti and smsstti in among the following Who vibhaajit kior?",
+    option: [
+        "Marshall",
+        "riCarddo",
+        "Ragnar Frisch",
+        "None of these"
+    ],
+    answer: "Ragnar Frisch"
+},
+
+{
+    question: "BankoN in graahk fromvaa reform hetu which of the following smiti of gtthn huaa ?",
+    option: [
+        "raajaa claior smiti",
+        "goiporior smiti",
+        "vrmaa smiti",
+        "ckrvtii smiti"
+    ],
+    answer: "goiporior smiti"
+},
+
+{
+    question: "net Investment of Definition is –",
+    option: [
+        "Total Investment – Valuehaas",
+        "Capitalgt Commodities of Stock increase in",
+        "Total Investment – prtiswaspn Investment",
+        "All of these"
+    ],
+    answer: "Capitalgt Commodities of Stock increase in"
+},
+
+{
+    question: "Average Productk vkr of aakRti kaisii is ?",
+    option: [
+        "ultte U of equal is",
+        "U of equal is",
+        "cpttaa is",
+        "None of these"
+    ],
+    answer: "ultte U of equal is"
+},
+
+{
+    question: "ofphii of Value increase in hone of caay demand for-",
+    option: [
+        "increases",
+        "decreases",
+        "constant rhtii is",
+        "None of these"
+    ],
+    answer: "increases"
+},
+
+{
+    question: "in an economy Credit of sRjn which krtaa is ?",
+    option: [
+        "Government",
+        "bhaartiiy Reserve Bank",
+        "vorvsaayik Bank",
+        "None of these"
+    ],
+    answer: "vorvsaayik Bank"
+},
+
+{
+    question: "Factor Price Determination of Which of the following sNComponent is ?",
+    option: [
+        "lgaan",
+        "mjduurii",
+        "borj",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Keynes of in an economy deficient demand condition of to which of the following naam from called jaataa is ?",
+    option: [
+        "Full Employment Equilibrium",
+        "Underemployment Equilibrium",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Underemployment Equilibrium"
+},
+
+{
+    question: "that taaliof jisin Consumer by at different prices Quantity DemandedoN to drshaaor jaataa is, ufrom khte are-",
+    option: [
+        "baajaar Demand Schedule",
+        "Consumer Demand Schedule",
+        "baajaar Supply Schedule",
+        "Producer Supply Schedule"
+    ],
+    answer: "Consumer Demand Schedule"
+},
+
+{
+    question: "In India 14 bdd'e anusuucit Commercial Banks of Nationalization kior gor –",
+    option: [
+        "1949 in",
+        "1955 in",
+        "1969 in",
+        "2000 in"
+    ],
+    answer: "1969 in"
+},
+
+{
+    question: "among the following from Stock cr which is –",
+    option: [
+        "Income",
+        "Investment",
+        "Consumption",
+        "dhn"
+    ],
+    answer: "dhn"
+},
+
+{
+    question: "which of the followingaccording to, “money that dhurii is jisof caaroN or smst arth vijnyaan ckkr lgaataa is / ”",
+    option: [
+        "Keynes",
+        "raabrttsn",
+        "Marshall",
+        "haane"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "risaav of National Income on what prbhaav pdd'taa is ?",
+    option: [
+        "Contractionaatmk prbhaav",
+        "Negative prbhaav",
+        "Positive prbhaav",
+        "None of these"
+    ],
+    answer: "Contractionaatmk prbhaav"
+},
+
+{
+    question: "Short Runiin Production condition of in a rational Producer which avswas tk Production krnaa psNd kregaa ?",
+    option: [
+        "prthm avswas",
+        "dvitiiy avswas",
+        "tRtiiy avswas",
+        "None of these"
+    ],
+    answer: "dvitiiy avswas"
+},
+
+{
+    question: "among the following which aarthik krioreN Economics of Study saamgrii under smmilit of jaatii is?",
+    option: [
+        "Unlimited aavshyktaaoN from judd'ii aarthik krioreN",
+        "Limited Factors from judd'ii aarthik krioreN",
+        "a and b both",
+        "None of these"
+    ],
+    answer: "a and b both"
+},
+
+{
+    question: "baajaar of among the following which FeatureeN are –",
+    option: [
+        "a Sector",
+        "kretaaoN and vikretaaoN of sthiti",
+        "Commodity of Value",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "when Marginal Utility Negative is, then kl Utility-",
+    option: [
+        "is maximum",
+        "ghttne lgtii is",
+        "decreases dr from increases",
+        "None of these"
+    ],
+    answer: "ghttne lgtii is"
+},
+
+{
+    question: "English of shbd “mnii”(Money) laittin bhaassaa of shbd monettaa (Moneta) from lior gor is which means –",
+    option: [
+        "money",
+        "cek",
+        "ddraaphtt",
+        "None of these"
+    ],
+    answer: "money"
+},
+
+{
+    question: "gair Tax Receipts in whom is included ?",
+    option: [
+        "phiis, laaifromNs and onmitt",
+        "whent smptti",
+        "dnndd and jurmaanaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Production phln in Production whichof phln is ?",
+    option: [
+        "Price of",
+        "Total Expenditure of",
+        "factors of productionoN of",
+        "None of these"
+    ],
+    answer: "factors of productionoN of"
+},
+
+{
+    question: "lgaan is –",
+    option: [
+        "vaastvik lgaan + hstaaNtrnn Income",
+        "vaastvik lgaan – hstaaNtrnn Income",
+        "hstaaNtrnn Income",
+        "None of these"
+    ],
+    answer: "vaastvik lgaan – hstaaNtrnn Income"
+},
+
+{
+    question: "money supply of of Measure M1 in what shaamil is ?",
+    option: [
+        "C = Public of paas Currency",
+        "DD = BankoN by net maaNg Deposit",
+        "OD = Reserve Bank of paas any Deposit",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "which sthiti in sstii Monetary Policy apnaayii jaatii is ?",
+    option: [
+        "deficient demand of sthiti",
+        "atirek maaNg of sthiti",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "deficient demand of sthiti"
+},
+
+{
+    question: "which of the followingaccording to “money that dhurii is jisof caaroN or smst arth vijnyaan ckkr lgaataa is” / ",
+    option: [
+        "Keynes",
+        "roNbrttsn",
+        "Marshall",
+        "haattre"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "among the following which sii Monopoly of Feature not is ?",
+    option: [
+        "nii FirmoN of prvesh on prtibNdh",
+        "a vikretaa and more kretaa",
+        "Commodity of smform iofiorN",
+        "niktt swasnaapnn Commodity absence of"
+    ],
+    answer: "Commodity of smform iofiorN"
+},
+
+{
+    question: "Value increase from ‘giphin’ Commodities of maaNg-",
+    option: [
+        "bddh' jaatii is",
+        "ghtt jaatii is",
+        "constant rhtii is",
+        "aconstant ho jaatii is"
+    ],
+    answer: "bddh' jaatii is"
+},
+
+{
+    question: "which of the followingne said is, “aadhunik BankoN of tiin puurvj are—vorpaarii, mhaajn and sonaar” ?",
+    option: [
+        "Crowther",
+        "Marshall",
+        "raabrttsn",
+        "hrisvhaaitt"
+    ],
+    answer: "Crowther"
+},
+
+{
+    question: "Who said Economics dhn of vijnyaan is?",
+    option: [
+        "Robbins",
+        "Marshall",
+        "J.K. Mehta",
+        "Adam Smith"
+    ],
+    answer: "Adam Smith"
+},
+
+{
+    question: "smMarginal Utility Law of vicaar of muul prtipaadk which were?",
+    option: [
+        "Marshall",
+        "Gossen",
+        "riofddoN",
+        "mil"
+    ],
+    answer: "Gossen"
+},
+
+{
+    question: "‘Bank oNph viins’ of swaspnaa srvprthm saidN huii ?",
+    option: [
+        "1157 in ittlii me",
+        "1157 in ameriof in",
+        "1158 in liibior in",
+        "None of these"
+    ],
+    answer: "1157 in ittlii me"
+},
+
+{
+    question: "when Total Utility is maximum, then Marginal upgitaa",
+    option: [
+        "Zero is",
+        "Negative is / ",
+        "Positive is",
+        "None of these"
+    ],
+    answer: "Zero is"
+},
+
+{
+    question: "in an economy Credit of sRjn which krtaa is ?",
+    option: [
+        "Government",
+        "bhaartiiy Reserve Bank",
+        "vorvsaayik Bank",
+        "None of these"
+    ],
+    answer: "vorvsaayik Bank"
+},
+
+{
+    question: "Foreign Exchange dr is determined –",
+    option: [
+        "mol-tol by",
+        "by the government",
+        "moNg and Supply by",
+        "vishv Bank by"
+    ],
+    answer: "moNg and Supply by"
+},
+
+{
+    question: "whichii Person of Income what is ?",
+    option: [
+        "Stock",
+        "Capital",
+        "Flow",
+        "All of these"
+    ],
+    answer: "Flow"
+},
+
+{
+    question: "Long Run in all CosteN isN –",
+    option: [
+        "onivrtnshiil",
+        "constant",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "onivrtnshiil"
+},
+
+{
+    question: "klaasikl vicaardhaaraa among the following kin tthyoN on Basisit is ?",
+    option: [
+        "from0 of baajaar Law",
+        "mjduurii dr of puurnn locshiiltaa",
+        "borj dr of puurnn locshiiltaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Utility of arth aavshyktaa of sntusstti shkti is / ",
+        "Utility icchaa of tiivrtaa of phln is / ",
+        "Commodity of Consumption of icchaa Utility to jnm detii is / ",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "vorvsaayik Bank major functions of what isN ?",
+    option: [
+        "graahtoN of Deposit sviiCar krnaa",
+        "graahtoN to kr denaa",
+        "nott nirgmn",
+        "only A and B"
+    ],
+    answer: "graahtoN of Deposit sviiCar krnaa"
+},
+
+{
+    question: "Capital receipts major components of is ?",
+    option: [
+        "RnnoN of vsuulii",
+        "Rnn and udhaar",
+        "saarvjnik udymoN of aNshptroN of viInvestment",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "tttsthtaa vkr theory of Who prtipaadit kior",
+    option: [
+        "Marshall",
+        "Hicks and Allen",
+        "Gossen",
+        "saimyulsn"
+    ],
+    answer: "Hicks and Allen"
+},
+
+{
+    question: "“a Producer us Time Equilibrium in hogaa when usof profit is maximized hoNge”-",
+    option: [
+        "Kautilyani",
+        "isnsn",
+        "Watson",
+        "Robbins"
+    ],
+    answer: "Kautilyani"
+},
+
+{
+    question: "videshoN from net Factor Income ho sktii is-",
+    option: [
+        "Positive",
+        "Negative",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Banking reform for kin-kin smitiyoN of gtthn kior gor ?",
+    option: [
+        "nrsimhm smiti (1991)",
+        "goiporior smiti (1991)",
+        "vrmaa smiti (1999)",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Stock under among the following which shaamil is ?",
+    option: [
+        "godaam in rkhe gehuuN quantity of",
+        "money of oniMeasure",
+        "dhn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money of Function in shaamil is –",
+    option: [
+        "Price Determination krnaa",
+        "Medium of Exchange Presented krnaa",
+        "Value sNcit krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "what sty is –",
+    option: [
+        "GNP = GDP + ghisaavtt",
+        "NNP = GNP + ghisaavtt",
+        "NNP = GNP – ghisaavtt",
+        "GNP = NNP – ghisaavtt"
+    ],
+    answer: "NNP = GNP – ghisaavtt"
+},
+
+{
+    question: "puuNjii khaate under which of the following is included is included ?",
+    option: [
+        "Governmentii saude",
+        "nijii saude",
+        "videshii prtykss vinisum",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which of the followingaccording to, “Money is a commodity jo Exchange of maadhym as GeneraltH Universally Acceptable ho and saath hii jo Value sNcy of Function bhii krtii is / ”",
+    option: [
+        "Marshall",
+        "raabrttsn",
+        "Crowther",
+        "Ely"
+    ],
+    answer: "Crowther"
+},
+
+{
+    question: "stt aarthik increase of suuck which is ?",
+    option: [
+        "avsphiitik",
+        "GDP",
+        "hrit GNP",
+        "NNP"
+    ],
+    answer: "hrit GNP"
+},
+
+{
+    question: "saarvjnik Sector of lessjor BankoN of punrjiivn and usof punrsNrcnaa hetu which of the following smiti of gtthn huaa ?",
+    option: [
+        "vrmaa smiti",
+        "rekhii smiti",
+        "goiporior smiti",
+        "nrsimhk smiti"
+    ],
+    answer: "vrmaa smiti"
+},
+
+{
+    question: "Keynesiyn bct Investment dRssttitonn according to Income-rojgaar Equilibrium Determination which of the following biNdu on hogaa ?",
+    option: [
+        "$S>I$",
+        "$I>S$",
+        "$I=S$",
+        "None of these"
+    ],
+    answer: "$I=S$"
+},
+
+{
+    question: "Firm Equilibrium of Total Revenue and Total Cost Method is-",
+    option: [
+        "vythataarik",
+        "avythataarik",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "vythataarik"
+},
+
+{
+    question: "sm vicched bindu then utpnn is jn-",
+    option: [
+        "$TR=TC$",
+        "$MR=MC$",
+        "$TR>TC$",
+        "(a) and (b) both"
+    ],
+    answer: "(a) and (b) both"
+},
+
+{
+    question: "Average constant Cost vkr akssoN to –",
+    option: [
+        "chuutaa not is",
+        "chuutaa is",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "chuutaa not is"
+},
+
+{
+    question: "Utility of Measure of jaa sktii is-",
+    option: [
+        "money by",
+        "Commodities of viLaw by",
+        "Commodity of vjn by",
+        "inin from ofii not"
+    ],
+    answer: "money by"
+},
+
+{
+    question: "Central Bank of which of the following Function is ?",
+    option: [
+        "nott nirgmn of Monopoly",
+        "Government of Bank",
+        "Foreign Exchange tossoN of sNrkssk",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "among the following from nijii which Commodity not is ?",
+    option: [
+        "skuuttr",
+        "saaikil",
+        "rel",
+        "All of these"
+    ],
+    answer: "rel"
+},
+
+{
+    question: "fromNttrl Bank oNph iNddior what is ?",
+    option: [
+        "Commercial Bank",
+        "Central Bank",
+        "nijii Bank",
+        "None of these"
+    ],
+    answer: "Commercial Bank"
+},
+
+{
+    question: "Cark Cost on net raassttriiy Product to khte are –",
+    option: [
+        "nijii Income",
+        "National Income",
+        "Individual Income",
+        "None of these"
+    ],
+    answer: "National Income"
+},
+
+{
+    question: "High-Powered Money is—",
+    option: [
+        "Currency + Reserve",
+        "Currency + Demand Deposit",
+        "Currency + Time Deposits",
+        "None of these"
+    ],
+    answer: "Currency + Reserve"
+},
+
+{
+    question: "Consumer Equilibrium for Commodity of-",
+    option: [
+        "muul Utility = Value",
+        "Marginal Utility =Value",
+        "Average Utility =Value",
+        "None of these"
+    ],
+    answer: "Marginal Utility =Value"
+},
+
+{
+    question: "Marginal upsum prvRtti Which of the following is ?",
+    option: [
+        "$\\frac{\\Delta Y}{\\Delta C}$",
+        "$\\frac{\\Delta C}{\\Delta Y}$",
+        "$\\frac{\\Delta Y}{\\Delta I}$",
+        "None of these"
+    ],
+    answer: "$\\frac{\\Delta C}{\\Delta Y}$"
+},
+
+{
+    question: "dohrii Exchange prnnaalii of aarNbh when did ?",
+    option: [
+        "1 maarc, 1992",
+        "1 maarc, 1993",
+        "30 aprail, 1992",
+        "None of these"
+    ],
+    answer: "1 maarc, 1992"
+},
+
+{
+    question: "Barter System of aavshyk conditione which is ?",
+    option: [
+        "Limited Exchange Sector",
+        "aavshyktaaoN of Limited honaa",
+        "aarthik form from pichdd'aa smaaj",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "National Income gnnnaa in smiikrnn $(I-S)+(G-T)=M-X$ in $M-X$ –",
+    option: [
+        "Incomeaat Expenditure – nirort revenue to",
+        "vorpaar ghaatte to",
+        "bjttiiy ghaatte to",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "ddoN. mnmohn siNh which were ?",
+    option: [
+        "vitmNtrii",
+        "Economicsii",
+        "bhaart of puurv prdhaanmNtrii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "gair-viofsaatmk Expenditure under Which of the following from aate are ?",
+    option: [
+        "pulis",
+        "ofnuun and vyvswas",
+        "increasedaavswas peNshn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which in an economy nijii smptti of astitv and prdhaantaa paayii jaatii is?",
+    option: [
+        "smaajvaad",
+        "mishrit Economy",
+        "Capitalvaad",
+        "None of these"
+    ],
+    answer: "Capitalvaad"
+},
+
+{
+    question: "Perfect Competition in Firm –",
+    option: [
+        "Price to grhnn krtii is",
+        "PriceoN to nirdhaarit krtii is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "Price to grhnn krtii is"
+},
+
+{
+    question: "nrsimhm smiti of Relationship which of the followingfrom are ?",
+    option: [
+        "kr reform",
+        "kRssi reform",
+        "Banking reform",
+        "Basisbhuut sNrcnaa reform"
+    ],
+    answer: "Banking reform"
+},
+
+{
+    question: "vorpaar Equilibrium of what arth is ?",
+    option: [
+        "puuNjii of len-den",
+        "Commodities of Incomet and nirort",
+        "Total kredditt and ddebitt",
+        "All of the above"
+    ],
+    answer: "Commodities of Incomet and nirort"
+},
+
+{
+    question: "Income bddh'ne on Consumer kin Commodities demand for ghttaa detaa is?",
+    option: [
+        "nimntotti of CommodityeN",
+        "General CommodityeN",
+        "giphin Commodity",
+        "a and b both"
+    ],
+    answer: "nimntotti of CommodityeN"
+},
+
+{
+    question: "Commercial Bank of Credit Creation of Which of the following-sii siimaaeN are ?",
+    option: [
+        "desh of Quantity of Money",
+        "money of Liquidity Preference",
+        "borjdr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Perfect Competition baajaar in whichii Firm of maaNg vkr of aaCar kaisaa is ?",
+    option: [
+        "X-akss of equalaantr rekhaa",
+        "Y-akss of equalaantr rekhaa",
+        "IncometaaCar atironvly",
+        "None of these"
+    ],
+    answer: "X-akss of equalaantr rekhaa"
+},
+
+{
+    question: "Production haas Law of Major maanytaaeN which of the following is ?",
+    option: [
+        "constant Factor Limited and durlbh is",
+        "constant Factor avibhaajy is",
+        "onivrtnshiil Factor of smst iofiorN smform isN",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Microeconomics in among the following from whichof is studied?",
+    option: [
+        "Individual Household",
+        "Individual Firm",
+        "Individual udsum",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following vaastvik Investment is ?",
+    option: [
+        "sheyr khriidnaa",
+        "puraanii phaikttrii khriidnaa",
+        "bhvnoN of nirmaann",
+        "Bank in Deposit khaataa kholnaa"
+    ],
+    answer: "bhvnoN of nirmaann"
+},
+
+{
+    question: "Which of the following from baajaar in oflpnik sthiti paaii jaatii is ?",
+    option: [
+        "Perfect Competition baajaar in",
+        "Monopoly baajaar in",
+        "aPerfect Competition in",
+        "Both (A) and (B)"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "sNmMarginal Utility Law to is called-",
+    option: [
+        "Utility buddhi Law",
+        "Utility hraas Law",
+        "Law of Substitution",
+        "None of these"
+    ],
+    answer: "Law of Substitution"
+},
+
+{
+    question: "money major functions of is –",
+    option: [
+        "Medium of Exchange",
+        "Store of Value",
+        "Value of Measuren",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "smsstti upkrnn is –",
+    option: [
+        "Fiscal Policy",
+        "Monetary Policy",
+        "Income niiti",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "bhaartiiy Banking prnnaalii of sNrkssk which is ?",
+    option: [
+        "Reserve Bank oNph iNddior",
+        "sttett Bank oNph iNddior",
+        "yuunitt ttrstt oNph iNddior",
+        "bhaartiiy jiivn biimaa nigm"
+    ],
+    answer: "Reserve Bank oNph iNddior"
+},
+
+{
+    question: "which in an economy Price yNtr of Basis on nirnny liye jaate is?",
+    option: [
+        "smaajvaadii",
+        "Capitalvaadii",
+        "mishrit",
+        "None of these"
+    ],
+    answer: "Capitalvaadii"
+},
+
+{
+    question: "jo vkr phle increases phir constant hokr ghttnaa aarNbh krtaa is that which vkr is called ?",
+    option: [
+        "APP",
+        "MPP",
+        "TPP",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Flow of Relationship is –",
+    option: [
+        "Time biNdu",
+        "nishcit Time",
+        "Time ofl",
+        "All of these"
+    ],
+    answer: "Time ofl"
+},
+
+{
+    question: "sttttaa for money of maaNg asiim is, when –",
+    option: [
+        "borj of dr Minimum str on ho",
+        "Liquidity paash of sthiti in ho",
+        "borj of dr ucctm str on ho",
+        "inin only A and B"
+    ],
+    answer: "inin only A and B"
+},
+
+{
+    question: "Household FirmoN to Which of the following-sii fromvaaeN prdaan krte are ?",
+    option: [
+        "Labour",
+        "Land",
+        "Capital and udym",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "when Average Cost ghtt rhii ho to Marginal Cost Average Cost of tulnaa in which sthiti in is ?",
+    option: [
+        "$MC > AC$",
+        "$MC = AC$",
+        "$MC < AC$",
+        "$MC + AC$"
+    ],
+    answer: "$MC < AC$"
+},
+
+{
+    question: "among the following which constant Cost not is ?",
+    option: [
+        "borj",
+        "phaikttrii of kiraaor",
+        "kcce maal of Cost",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "whichii General Commodity of Demand Curve of ddhaal is-",
+    option: [
+        "Negative",
+        "Positive",
+        "Zero",
+        "aonibhaassit"
+    ],
+    answer: "Negative"
+},
+
+{
+    question: "Foreign Exchange supply of of Major srot which from are ?",
+    option: [
+        "videshoN to Commodities v fromvaaoN of nirort",
+        "gRh-in the country videshiyoN by Investment",
+        "shess sNsaar in bheNtt uphaar praapt krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Credit Multiplier is ?",
+    option: [
+        "$\\frac{1}{CRR}$",
+        "nkd (cash) × $\\frac{1}{CRR}$",
+        "nkd (cash) × $CRR$",
+        "None of these"
+    ],
+    answer: "$\\frac{1}{CRR}$"
+},
+
+{
+    question: "“Broad Economics of Major yNtr National Income vishlessnn is”, Who said ?",
+    option: [
+        "bolddiNg",
+        "shuulj",
+        "spensr",
+        "None of these"
+    ],
+    answer: "shuulj"
+},
+
+{
+    question: "whichii onivrtnshiil Factor of a atirikt unit of or less unit of prsum krne from Total Product in antr aataa is that is called –",
+    option: [
+        "Marginal Product",
+        "Average Product",
+        "Total Product",
+        "All of these"
+    ],
+    answer: "Marginal Product"
+},
+
+{
+    question: "Flow of Major udaahrnn are –",
+    option: [
+        "Consumption",
+        "Investment",
+        "Income",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "tttsthtaa vkr vishlessnn which avdhaarnnaa on Basisit is? (2009A)",
+    option: [
+        "gnnnaavaack Measure",
+        "Ordinal Measure",
+        "(a) and (b) both",
+        "All of these"
+    ],
+    answer: "Ordinal Measure"
+},
+
+{
+    question: "Marshall ne Supply of Basis on Production Time to kitnii avdhiyoN in baaNttaa is ?",
+    option: [
+        "do",
+        "tiin",
+        "caar",
+        "saat"
+    ],
+    answer: "tiin"
+},
+
+{
+    question: "Credit Control of Major uddeshy which of the following is ?",
+    option: [
+        "Price constanttaa. swaspit krnaa",
+        "Foreign Exchange dr in constanttaa laanaa",
+        "Production and rojgaar increase of upaay krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which is the central problem of an economy?",
+    option: [
+        "what Production ho?",
+        "kaifrom Production ho?",
+        "Productit Commodity of Distribution kaifrom ho?",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Production phln of following maanytaaeN which is ?",
+    option: [
+        "Production phln of Relationship nishcit or Timeaavdhi from is / ",
+        "Short Run in Production of kuch Factor constant and any onivrtnshiil are",
+        "Short Run in tkniiof str in toii onivrtn not is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Qualitative Credit Control under which of the following is included is included?",
+    option: [
+        "Change in Marginal Requirement of Loans",
+        "Credit Rationing",
+        "Direct Action",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Central Bank Economic Adviser to the Government as which ofm krtaa is ?",
+    option: [
+        "Economic Policies as",
+        "Devaluation as",
+        "Trade Policy as",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Stock of Relationship is –",
+    option: [
+        "Time biNdu",
+        "whichii nishcit Time",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Which of the following from Economicsii Price Determination in only Supply pkss to hii dhorn in rkhaa ?",
+    option: [
+        "ddevidd riCarddo",
+        "Jevons",
+        "Marshall",
+        "Walras"
+    ],
+    answer: "ddevidd riCarddo"
+},
+
+{
+    question: "Gossen's First Law Which of the following-saa is?",
+    option: [
+        "Demand law of",
+        "Marginal Law of Diminishing Utility",
+        "smMarginal Utility Law",
+        "Consumer of bct"
+    ],
+    answer: "Marginal Law of Diminishing Utility"
+},
+
+{
+    question: "Economics of jnk which were?",
+    option: [
+        "je.bii. from",
+        "maalths",
+        "eddm Smith",
+        "joNn Robbinsn"
+    ],
+    answer: "eddm Smith"
+},
+
+{
+    question: "Supply increase in due to –",
+    option: [
+        "kroN decrease in",
+        "tkniiof prgti",
+        "Subsidy increase in",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "According to whom, “when each Producer of Commodity demand for puurnntH locdaar is to that baajaar puurnn prtisumii baajaar is called / ”?",
+    option: [
+        "pro0 lephttvic",
+        "shriimtii Robbinsn",
+        "sttoniyr and heg",
+        "benhm"
+    ],
+    answer: "shriimtii Robbinsn"
+},
+
+{
+    question: "nimn Economicsii in from which klornnvaadii vicaardhaaraa of not are?",
+    option: [
+        "je.bii.from.",
+        "Marshall",
+        "Pigou",
+        "kainn"
+    ],
+    answer: "kainn"
+},
+
+{
+    question: "Which of the following is true?",
+    option: [
+        "$M_1 = C + DD + OD$",
+        "$M_1 = DD + C + OD$",
+        "$OD = M_1 + M_2 + DD$",
+        "None of these"
+    ],
+    answer: "$M_1 = C + DD + OD$"
+},
+
+{
+    question: "Consumer of bct of Theory of Formulation Who kior?",
+    option: [
+        "Marshall",
+        "ddu pontt",
+        "Hicks",
+        "saimyuualsn"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "Marginal Revenue and Marginal Cost of aNtr what prdrshit krtaa is ?",
+    option: [
+        "haani",
+        "Benefit",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Benefit"
+},
+
+{
+    question: "Marginal Utility kaifrom nioflte are",
+    option: [
+        "$\\frac{\\Delta TU}{\\Delta Q}$",
+        "$\\frac{\\Delta MU}{\\Delta Q}$",
+        "$\\frac{\\Delta Q}{TU}$",
+        "$\\frac{\\Delta Q}{\\Delta MU}$"
+    ],
+    answer: "$\\frac{\\Delta TU}{\\Delta Q}$"
+},
+
+{
+    question: "smsstti aarthik cr Major is –",
+    option: [
+        "National Income",
+        "raassttriiy bct and vinisum",
+        "smgr Demand",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Marshall according to whichii Commodity of Utility to-",
+    option: [
+        "money in Measureaa jaa sktaa is",
+        "money in not Measureaa jaa sktaa is",
+        "sNkhortmk form in Measureaa jaa sktaa is",
+        "a and c both"
+    ],
+    answer: "money in Measureaa jaa sktaa is"
+},
+
+{
+    question: "a balanced bjtt whom khte are ?",
+    option: [
+        "when Expenditure and receipts braabr ho",
+        "when Expenditure receipts less than ho",
+        "when Expenditure receipts more than ho",
+        "None of these"
+    ],
+    answer: "when Expenditure and receipts braabr ho"
+},
+
+{
+    question: "vorvsaayik Bank of Major Function is –",
+    option: [
+        "Credit Control krnaa",
+        "any BankoN to Rnn denaa",
+        "graahtoN of Deposit sviiCar krnaa",
+        "All of these"
+    ],
+    answer: "graahtoN of Deposit sviiCar krnaa"
+},
+
+{
+    question: "when Total Utility is maximum, then Marginal Utility what is?",
+    option: [
+        "Positive",
+        "Negative",
+        "Zero",
+        "None of these"
+    ],
+    answer: "Zero"
+},
+
+{
+    question: "In which market Firm of svtNtr prvesh and bhirgmn is / ",
+    option: [
+        "Monopolistic Competition baajaar",
+        "aPerfect Competition baajaar",
+        "Perfect Competition baajaar",
+        "None of these"
+    ],
+    answer: "Perfect Competition baajaar"
+},
+
+{
+    question: "According to whom “Equilibrium Price that Price is jis on whichii Commodity quantity of, jifrom vikretaa becne to icchuk is us Quantity of braabr is, jifrom kretaa khriidnaa caahtaa is “",
+    option: [
+        "alphredd Marshall",
+        "shriimtii joNn raabinsn",
+        "pro0 lephttvic",
+        "None of these"
+    ],
+    answer: "alphredd Marshall"
+},
+
+{
+    question: "Investment determinants of which from is ?",
+    option: [
+        "puuNjii of Marginal kssmtaa",
+        "borj dr",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Both A and B"
+},
+
+{
+    question: "Perfect Competition under a Firm for Demand Curve is_",
+    option: [
+        "locdaar",
+        "Perfectly Elastic",
+        "belocdaar",
+        "atydhik locdaar"
+    ],
+    answer: "Perfectly Elastic"
+},
+
+{
+    question: "Broad Economics of among the following which Utility is ?",
+    option: [
+        "Governmentii aarthik niiti determination of",
+        "Economic Development",
+        "antrraassttriiy tulnaaeN",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "khaadornn uplbdhtaa giraavtt siddhaaNt of prtipaadk which are ?",
+    option: [
+        "Robbins",
+        "armty fromn",
+        "Hicks",
+        "None of these"
+    ],
+    answer: "armty fromn"
+},
+
+{
+    question: "money secondary functions of under which of the following is included is included ?",
+    option: [
+        "Standard of Deferred Payments",
+        "Store of Value",
+        "Transfer of Value",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following maaNg elasticity of Measurene of Method not is / ",
+    option: [
+        "prtisht Method",
+        "Income prnnaalii",
+        "kuul Expenditure prnnaalii",
+        "bindu Method"
+    ],
+    answer: "Income prnnaalii"
+},
+
+{
+    question: "agr Marginal Consumption prvRti 0.5 is to Multiplier (K) what will be?",
+    option: [
+        "$\\frac{1}{2}$",
+        "0",
+        "1",
+        "2"
+    ],
+    answer: "2"
+},
+
+{
+    question: "Market Price In which market is found ?",
+    option: [
+        "Short Runiin baajaar in",
+        "Long Runiin baajaar in",
+        "ati Long Runiin baajaar in",
+        "None of these"
+    ],
+    answer: "Short Runiin baajaar in"
+},
+
+{
+    question: "which of the followingaccording to, “Money is a commodity jo Exchange of maadhym as GeneraltH Universally Acceptable ho and saath hii jo Value sNcy of Function bhii krtii is / ”",
+    option: [
+        "Marshall",
+        "raabrttsn",
+        "Crowther",
+        "Ely"
+    ],
+    answer: "Crowther"
+},
+
+{
+    question: "Which of the following Indirect Tax is ?",
+    option: [
+        "Product shulk",
+        "siimaa shulk",
+        "bikrii kr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "“aarthik Utility of sRjn hii Production is ?”Who said ?",
+    option: [
+        "Thomas",
+        "ec0 Smith",
+        "Ely",
+        "All of these"
+    ],
+    answer: "Ely"
+},
+
+{
+    question: "ameriiof ddaalr of Devaluation when did was ?",
+    option: [
+        "12 phrvrii, 1973",
+        "12 phrvrii, 1974",
+        "10 phrvrii, 1975",
+        "12 phrvrii, 1972"
+    ],
+    answer: "12 phrvrii, 1973"
+},
+
+{
+    question: "whichii Person of smptti what is ?",
+    option: [
+        "Stock",
+        "Flow",
+        "Capital",
+        "None of these"
+    ],
+    answer: "Stock"
+},
+
+{
+    question: "Oligopolyii baajaar of Major FeatureeN Which of the following from is ?",
+    option: [
+        "kuch vikretaa",
+        "vijnyaapn and vikry Cost",
+        "aDeterminationiiy vkr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Supply change in of mukhy Cause is –",
+    option: [
+        "Supply quantity of change in",
+        "Supply change in",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "es0 es0 taaraapor which were ?",
+    option: [
+        "bhaartiiy Reserve Bank of puurv ddipttii gvrnr",
+        "puurv vitt sciv",
+        "puurv videsh sciv",
+        "None of these"
+    ],
+    answer: "bhaartiiy Reserve Bank of puurv ddipttii gvrnr"
+},
+
+{
+    question: "‘Bank oNph viins’ of swaspnaa srvprthm saidN huii ?",
+    option: [
+        "1157 in ittlii me",
+        "1157 in ameriof in",
+        "1158 in liibior in",
+        "None of these"
+    ],
+    answer: "1157 in ittlii me"
+},
+
+{
+    question: "Microeconomics of shaakhaaeN which is?",
+    option: [
+        "Commodity Price Determination",
+        "Factor Price Determination",
+        "aarthik klornn",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "aNtim Rnndaataa whom said gor is ?",
+    option: [
+        "vorvsaayik Bank to",
+        "graamiinn Sector in mhaajn to",
+        "Sectoriiy graamiinn Bank to",
+        "bhaartiiy Reserve Bank to"
+    ],
+    answer: "bhaartiiy Reserve Bank to"
+},
+
+{
+    question: "viofsshiil raassttroN for which bjtt sbfrom upyukt is ?",
+    option: [
+        "ghaatte of bjtt",
+        "balanced bjtt",
+        "bct of bjtt",
+        "All of these"
+    ],
+    answer: "ghaatte of bjtt"
+},
+
+{
+    question: "sikto of srvprthm prsum saidN huaa was ?",
+    option: [
+        "liiddior",
+        "bhuuttaan",
+        "liibior",
+        "None of these"
+    ],
+    answer: "liiddior"
+},
+
+{
+    question: "Maximum Benefit of puurk (sufficient) condition what is ?",
+    option: [
+        "equaltaa of bindu on MC increases huii honii caahie",
+        "equaltaa of bindu on MC decreases huii honii caahie / ",
+        "Marginal Cost rekhaa Marginal aagm rekhaa to upward from oftte / ",
+        "None of these"
+    ],
+    answer: "equaltaa of bindu on MC increases huii honii caahie"
+},
+
+{
+    question: "sikto of srvprthm prsum saidN huaa was ?",
+    option: [
+        "liiddior",
+        "bhuuttaan",
+        "liibior",
+        "None of these"
+    ],
+    answer: "liiddior"
+},
+
+{
+    question: "baajaar in Commodity price of us bindu on nirdhaarit is jhaaN ?",
+    option: [
+        "Commodity demand for > Commodity supply of",
+        "Commodity of maaNg = Commodity supply of",
+        "Commodity demand for < Commodity supply of",
+        "None of these"
+    ],
+    answer: "Commodity of maaNg = Commodity supply of"
+},
+
+{
+    question: "avsr Cost of vaiklpik naam is –",
+    option: [
+        "Marginal Cost",
+        "Equilibrium Value",
+        "Average Cost",
+        "aarthik Cost"
+    ],
+    answer: "aarthik Cost"
+},
+
+{
+    question: "the ability of a commodity to satisfy human wants to khte are-",
+    option: [
+        "Producertaa",
+        "sntusstti",
+        "Utility",
+        "Utility"
+    ],
+    answer: "Utility"
+},
+
+{
+    question: "a money of duusre money as Price is called-",
+    option: [
+        "dvipkssiiy saaNoftik Exchange Rate",
+        "Exchange Rate",
+        "vaastvik Exchange Rate",
+        "Only (A) and (B)"
+    ],
+    answer: "Exchange Rate"
+},
+
+{
+    question: "whichii Commodity of Value in 20% onivrtn due to Demand in 40% onivrtn ho to Elasticity of Demand what hogii?",
+    option: [
+        "0.5",
+        "2",
+        "1",
+        "2.5"
+    ],
+    answer: "2"
+},
+
+{
+    question: "vorvsaayik Bank major functions of what isN ?",
+    option: [
+        "graahtoN of Deposit sviiCar krnaa",
+        "graahtoN to kr denaa",
+        "nott nirgmn",
+        "only A and B"
+    ],
+    answer: "graahtoN of Deposit sviiCar krnaa"
+},
+
+{
+    question: "National Income of aakln in whichii Commodity or fromvaa of Value a more than baar shaamil krnaa is called –",
+    option: [
+        "al gnnnaa",
+        "dohrii gnnnaa",
+        "bhul gnnnaa",
+        "None of these"
+    ],
+    answer: "dohrii gnnnaa"
+},
+
+{
+    question: "Average constant Cost is –",
+    option: [
+        "IncometaaCar ationvly",
+        "cpttaa",
+        "lmbvt",
+        "None of these"
+    ],
+    answer: "IncometaaCar ationvly"
+},
+
+{
+    question: "“Economics choice of trkshaastr said is” Who said?",
+    option: [
+        "Hicks",
+        "Keynes",
+        "Robbins",
+        "Marshall"
+    ],
+    answer: "Robbins"
+},
+
+{
+    question: "fromNttrl Bank oNph iNddior what is ?",
+    option: [
+        "Commercial Bank",
+        "Central Bank",
+        "nijii Bank",
+        "None of these"
+    ],
+    answer: "Commercial Bank"
+},
+
+{
+    question: "Demand change in of among the following which saa Cause is?",
+    option: [
+        "Consumer of Income change in",
+        "Relationit Commodities price of change in",
+        "jnsNkhor increase",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Consumer vythataar of is studied-",
+    option: [
+        "Micro Economics in",
+        "Income vishlessnn in",
+        "Macroeconomics in",
+        "None of these"
+    ],
+    answer: "Micro Economics in"
+},
+
+{
+    question: "Credit Multiplier is ?",
+    option: [
+        "$\\frac{1}{CRR}$",
+        "nkd (cash) × $\\frac{1}{CRR}$",
+        "nkd (cash) × $CRR$",
+        "None of these"
+    ],
+    answer: "$\\frac{1}{CRR}$"
+},
+
+{
+    question: "Which of the following gair-Durable Goods are ?",
+    option: [
+        "saabun",
+        "pestt",
+        "sbjii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Perfect Competition in what constant rhtaa is ?",
+    option: [
+        "AR",
+        "MR",
+        "AR and MR both",
+        "inin from toii nhii"
+    ],
+    answer: "AR and MR both"
+},
+
+{
+    question: "Investment Multiplier Theory of avdhaarnnaa Who dii ?",
+    option: [
+        "Keynes",
+        "ofhn",
+        "hensn",
+        "Marshall"
+    ],
+    answer: "Keynes"
+},
+
+{
+    question: "Commodity of us Quantity to what khte are jifrom vikretaa nishcit Time, baajaar and Price on becne for taiorr ho is called ?",
+    option: [
+        "Supply",
+        "Demand",
+        "Elasticity of Supply",
+        "Elasticity of Demand"
+    ],
+    answer: "Supply"
+},
+
+{
+    question: "Consumer of Equilibrium us bindu on is, jhaaN-",
+    option: [
+        "Marginal Utility = Value",
+        "Marginal Utility < Value",
+        "Marginal Utility > Value",
+        "None of these"
+    ],
+    answer: "Marginal Utility = Value"
+},
+
+{
+    question: "aifrom Expenditure jo Government for whichii onismptti of sRjn not krte is, what –",
+    option: [
+        "Revenue Expenditure",
+        "puuNjiigt Expenditure",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Revenue Expenditure"
+},
+
+{
+    question: "Which of the following-sii Cost vkr kbhii bhii ‘U’ aaCar in not is ?",
+    option: [
+        "Marginal Cost vkr (MCC)",
+        "Average Cost vkr (ACC)",
+        "Average onivrtniiy Cost (AVC)",
+        "Average constant Cost vkr (AFC)"
+    ],
+    answer: "Average constant Cost vkr (AFC)"
+},
+
+{
+    question: "in an economy tejii and mNdii of smsor to is called –",
+    option: [
+        "Business Cycle",
+        "mndii",
+        "moneysphiiti",
+        "All of these"
+    ],
+    answer: "Business Cycle"
+},
+
+{
+    question: "ATM what is the full form of ?",
+    option: [
+        "enii ttaaim mnii",
+        "oNl ttaaim mnii",
+        "ottomettedd ttelrmshiin",
+        "None of these"
+    ],
+    answer: "ottomettedd ttelrmshiin"
+},
+
+{
+    question: "bjtt in what ho sktaa is ?",
+    option: [
+        "aagm ghaattaa",
+        "beganik ghaattaa",
+        "vittiiy ghaattaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which of the followingaccording to “money that dhurii is jisof caaroN or smst arth vijnyaan ckkr lgaataa is” / ",
+    option: [
+        "Keynes",
+        "roNbrttsn",
+        "Marshall",
+        "haattre"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "Broad Economics of among the following which siimaaeN are ?",
+    option: [
+        "saamuuhik Economicsiiy virodhaabhaas",
+        "vaiyktik units of athatelnaa",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "bjtt of sNComponent among the following which is ?",
+    option: [
+        "Budget Receipts",
+        "bjtt Expenditure",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Central Bank by which money issue of jaatii is ?",
+    option: [
+        "cln money",
+        "sikof",
+        "Credit money",
+        "All of these"
+    ],
+    answer: "cln money"
+},
+
+{
+    question: "viofsaatmk Expenditure under Which of the following from aate are ?",
+    option: [
+        "shikssaa",
+        "svaasthy",
+        "Social klornn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Long Run in Elasticity of Supply –",
+    option: [
+        "more locdaar",
+        "belocdaar",
+        "Perfectly Inelastic",
+        "None of these"
+    ],
+    answer: "more locdaar"
+},
+
+{
+    question: "vaiyktik Income of gnnnaa in ghttaayii jaane vaalii mde which from is ?",
+    option: [
+        "nigm Income Tax",
+        "nigmoN of avitrit Benefit",
+        "Social surkssaa kttautiorN",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "praay: anivaary aavshyktaaoN of Commodities of maaNg elasticity of-",
+    option: [
+        "belocdaar is",
+        "locdaar is",
+        "atydhik belocdaar is",
+        "Perfectly Inelastic is"
+    ],
+    answer: "atydhik belocdaar is"
+},
+
+{
+    question: "maudrik Cost in following mdoN to is included –",
+    option: [
+        "kcce maal on Expenditure",
+        "vijnyaapn Expenditure",
+        "General Benefit",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "that which Price is jo Demand and Supply of shktiyoN by us bindu on nirdhaarit is jhaaN Commodity demand for and Supply aaps in braabr is",
+    option: [
+        "Equilibrium Price",
+        "Price sNyNtr",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Equilibrium Price"
+},
+
+{
+    question: "Which of the following are the primary functions of a commercial bank ?",
+    option: [
+        "Rnn denaa",
+        "Credit Creation",
+        "DepositeN sviiCar krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "among the following from which in an economy nijii Sector and saarvjnik Sector both of sh-astitv is?",
+    option: [
+        "Capitalvaadii",
+        "mishrit Economy",
+        "smaajvaadii",
+        "None of these"
+    ],
+    answer: "mishrit Economy"
+},
+
+{
+    question: "that which Time is jisof Production of all Factor onivrtit kiye jaa skte are / ",
+    option: [
+        "Short Run",
+        "Long Run",
+        "ati Long Run",
+        "inin tiinoN"
+    ],
+    answer: "Long Run"
+},
+
+{
+    question: "Which of the following Economy of Central Problem not is?",
+    option: [
+        "what Production ho",
+        "videsh vorpaar kaifrom bddh'e",
+        "which Method from Production ho",
+        "whichfor Production ho"
+    ],
+    answer: "videsh vorpaar kaifrom bddh'e"
+},
+
+{
+    question: "bhaartiiy Reserve Bank ne phlii baar nijii Sector in nye Bank to laaifromNs issuing for dishaa-nirdesh ghossit kior –",
+    option: [
+        "22 jnvrii, 1993",
+        "15 maarc, 1995",
+        "1 aprail, 1999",
+        "None of these"
+    ],
+    answer: "22 jnvrii, 1993"
+},
+
+{
+    question: "Which of the following Stock of udaahrnn is ?",
+    option: [
+        "Capital",
+        "Quantity of Money",
+        "a ttaiNk in jl",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Long Runiin Production phln of Relationship among the following from whom is ?",
+    option: [
+        "Demand of Law from",
+        "Law of Increasing Returns from",
+        "paimaane of prtiphl Law by",
+        "Elasticity of Demand"
+    ],
+    answer: "paimaane of prtiphl Law by"
+},
+
+{
+    question: "Microeconomics Study krtaa is-",
+    option: [
+        "Individual Unit of",
+        "aarthik smgr of",
+        "National Income of",
+        "None of these"
+    ],
+    answer: "Individual Unit of"
+},
+
+{
+    question: "Who issues paper notes in the country ?",
+    option: [
+        "vorvsaayik Bank",
+        "Central Bank",
+        "vishv Bank",
+        "audsumik Bank"
+    ],
+    answer: "Central Bank"
+},
+
+{
+    question: "Capital bjtt shaamil krtaa is –",
+    option: [
+        "Revenue Receipts and Revenue Expenditure",
+        "Capital Receipts and Capital Expenditure",
+        "prtykss and Indirect Tax",
+        "None of these"
+    ],
+    answer: "Capital Receipts and Capital Expenditure"
+},
+
+{
+    question: "Currency nott of vissy in which kthn shii not is ?",
+    option: [
+        "ifrom ofgjii money khte are",
+        "ifrom vaidhaanik ptr bhii khte are",
+        "isof aaNtrik Value not hotaa",
+        "isof aNkit Value sikof less than is"
+    ],
+    answer: "isof aNkit Value sikof less than is"
+},
+
+{
+    question: "bhaart of financial year is –",
+    option: [
+        "1 aprail from 31 maarc",
+        "1 jnvrii from 31 dismbr",
+        "30 akttuubr from 1 sitNbr",
+        "None of these"
+    ],
+    answer: "1 aprail from 31 maarc"
+},
+
+{
+    question: "According to whom Economics maanv klornn of vijnyaan is?",
+    option: [
+        "e. Marshall",
+        "poNl frommyulsn",
+        "je.es. mil",
+        "Adam Smith"
+    ],
+    answer: "e. Marshall"
+},
+
+{
+    question: "caaluu khaate of among the following which sii mdeN is ?",
+    option: [
+        "dRshy pdoN of Incomeaat",
+        "onytttoN of khrc",
+        "dRshy mdoN of nirort",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Benefit what is ?",
+    option: [
+        "Total Income v Total Cost of aNtr is",
+        "Total Income v Total Cost of sum is",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Total Income v Total Cost of aNtr is"
+},
+
+{
+    question: "Which of the following Flow of udaahrnn is ?",
+    option: [
+        "gti",
+        "ndii of jl",
+        "Capital Formation",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "“Commodity of Value increase in krnaa hii Production is / ” among the following Who said ?",
+    option: [
+        "Ely",
+        "Smith",
+        "thoNms",
+        "None of these"
+    ],
+    answer: "Smith"
+},
+
+{
+    question: "National Income in among the following from whom is included ?",
+    option: [
+        "hstaantrnn bhugtaan",
+        "sheyr and baanndd of bikrii from praapt raashi",
+        "ofle dhNdhe from praapt Income",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "saarvjnik Sector of lessjor BankoN of punrjiivn and usof punrsNrcnaa hetu which of the following smiti of gtthn huaa ?",
+    option: [
+        "vrmaa smiti",
+        "rekhii smiti",
+        "goiporior smiti",
+        "nrsimhk smiti"
+    ],
+    answer: "vrmaa smiti"
+},
+
+{
+    question: "Government of Tax Revenue under among the following which shaamil is ?",
+    option: [
+        "Income Tax",
+        "nigm kr",
+        "siimaa shulk",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "nrsimhm smiti of Relationship which of the followingfrom are ?",
+    option: [
+        "kr reform",
+        "kRssi reform",
+        "Banking reform",
+        "Basisbhuut sNrcnaa reform"
+    ],
+    answer: "Banking reform"
+},
+
+{
+    question: "Demand bk downward jhuktii is left from-",
+    option: [
+        "daahinii or",
+        "left or",
+        "siidhe",
+        "None of these"
+    ],
+    answer: "daahinii or"
+},
+
+{
+    question: "Variable Proportion of laaguu hone of Cause is –",
+    option: [
+        "a or a more than Factors of constant honaa",
+        "Factors of Limitedtaa",
+        "Factors of avibhaajytaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Who said- “Economy kbhii vaastvik vijnyaan is and kbhii aadrsh vijnyaan",
+    option: [
+        "Marshall",
+        "phreddmain",
+        "Keynes",
+        "None of these"
+    ],
+    answer: "Keynes"
+},
+
+{
+    question: "In which year in In India 14 bdd'e anusuucit Commercial Banks of Nationalization kior gor ?",
+    option: [
+        "1949",
+        "1955",
+        "1969",
+        "2000"
+    ],
+    answer: "1969"
+},
+
+{
+    question: "Secondary Sector to jaanaa jaataa is –",
+    option: [
+        "fromvaa Sector",
+        "nirmit Sector",
+        "kRssi Sector",
+        "All of these"
+    ],
+    answer: "nirmit Sector"
+},
+
+{
+    question: "Supply law of a is –",
+    option: [
+        "Propertyaatmk kthn",
+        "Quantitytmk kthn",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Propertyaatmk kthn"
+},
+
+{
+    question: "at different prices baajaar in present all ConsumeroN by khriidii jaane vaalii QuantityoN to drshaane vaalii taaliof to khte are-",
+    option: [
+        "Individual Demand Schedule",
+        "Individual Supply Schedule",
+        "baajaar Supply Schedule",
+        "baajaar Demand Schedule"
+    ],
+    answer: "baajaar Demand Schedule"
+},
+
+{
+    question: "Average Revenue vkr hii are –",
+    option: [
+        "Demand Curve",
+        "anusuucii Demand Curve",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Demand Curve"
+},
+
+{
+    question: "if vrtmaan Price on Gross Domestic Product 2000 ru0 is whenki Basis year in Gross Domestic Product 1000 ru0 was /  is sthiti in apsphiitik is-",
+    option: [
+        "100%",
+        "150%",
+        "200%",
+        "300%"
+    ],
+    answer: "200%"
+},
+
+{
+    question: "maudrik CosteN kitne type of are ?",
+    option: [
+        "spsstt CosteN",
+        "aspsstt CosteN",
+        "General Benefit",
+        "inme all"
+    ],
+    answer: "inme all"
+},
+
+{
+    question: "sm-Marginal Utility Law of prtipaadk are.",
+    option: [
+        "Gossen",
+        "Pigou",
+        "Adam Smith",
+        "riCarddo"
+    ],
+    answer: "Gossen"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Bank Rate that dr is jis on Central Bank desh of Commercial BankoN to Rnn dene to taiorr is / ",
+        "Bank Rate and borj dr both in aNtr is / ",
+        "Bank Rate Central Bank of pun:cutting",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "‘atirek maaNg’ utpnn hone of which from Cause is ?",
+    option: [
+        "Public Expenditure increase in",
+        "money supply of increase in",
+        "kroN decrease in",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "among the following shresstth money of which from Property is ?",
+    option: [
+        "Utility",
+        "thatniiytaa",
+        "ttiofuu",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vorpaar Equilibrium of arth is –",
+    option: [
+        "Capital of len-den in",
+        "Commodities of Incomeaat-nirort in",
+        "Total kredditt and ddebitt in",
+        "All of these"
+    ],
+    answer: "Commodities of Incomeaat-nirort in"
+},
+
+{
+    question: "among the following which Cost of vrgiikrnn is ?",
+    option: [
+        "maudrik Cost",
+        "vaastvik Cost",
+        "avsr Cost",
+        "inme all"
+    ],
+    answer: "inme all"
+},
+
+{
+    question: "whichii Commodity of maaNg belocdaar is, because",
+    option: [
+        "us Commodity on Income of bhut bdd'aa bhaag Expenditure kior jaataa is",
+        "us Commodity of prsum vibhinn FunctionoN for kior jaataa is",
+        "us Commodity of Consumption to bhvissy for can be postponed",
+        "us Commodity of Consumption krne of Person to aadt pdd' jaatii is"
+    ],
+    answer: "us Commodity of Consumption krne of Person to aadt pdd' jaatii is"
+},
+
+{
+    question: "Banking sector reforms in India began –",
+    option: [
+        "1969 in",
+        "1981 in",
+        "1991 in",
+        "2001 in"
+    ],
+    answer: "1991 in"
+},
+
+{
+    question: "constant Price on National Income to what khte are ?",
+    option: [
+        "nkd National Income",
+        "vaastvik National Income",
+        "GNP avsphiitik",
+        "None of these"
+    ],
+    answer: "GNP avsphiitik"
+},
+
+{
+    question: "which avdhi in Production paimaane to puurnntH onivrtit kior jaa sktaa is ?",
+    option: [
+        "Short Run in",
+        "Long Run in",
+        "very short period in",
+        "ati Long Run in"
+    ],
+    answer: "Long Run in"
+},
+
+{
+    question: "nimnaaNkit in from which aarthik Commodity is?",
+    option: [
+        "Television",
+        "hvaa",
+        "suury of roshnii",
+        "ndii of paanii"
+    ],
+    answer: "Television"
+},
+
+{
+    question: "‘Bank’ origin of the word ‘Banko’ from huii is, that which language in huii ?",
+    option: [
+        "Italian",
+        "Latin",
+        "American",
+        "None of these"
+    ],
+    answer: "Italian"
+},
+
+{
+    question: "Which of the following by the government udhaar lene due tooN towards dhorn aakrssit krtaa is ?",
+    option: [
+        "Fiscal Deficit",
+        "Primary Deficit",
+        "revenue ghaattaa",
+        "All of the above"
+    ],
+    answer: "Fiscal Deficit"
+},
+
+{
+    question: "bhaart of Central Bank which is ?",
+    option: [
+        "fromNttrl Bank",
+        "pNjaab Bank",
+        "bhaartiiy Reserve Bank",
+        "None of these"
+    ],
+    answer: "bhaartiiy Reserve Bank"
+},
+
+{
+    question: "Macroeconomics of Major Feature Which of the following-saa is ?",
+    option: [
+        "sNpuurnn Economy from Related",
+        "smsstti aarthik cr",
+        "smsstti upkrnn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The central bank controls credit –",
+    option: [
+        "through Bank Rate",
+        "through Open Market Operations",
+        "through CRR",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following Indirect Tax is ?",
+    option: [
+        "Income Tax",
+        "smptti kr",
+        "Product shulk",
+        "uphaar kr"
+    ],
+    answer: "Product shulk"
+},
+
+{
+    question: "sttttaa for money of maaNg asiim is, when –",
+    option: [
+        "borj of dr Minimum str on ho",
+        "Liquidity paash of sthiti in ho",
+        "borj of dr ucctm str on ho",
+        "inin only A and B"
+    ],
+    answer: "inin only A and B"
+},
+
+{
+    question: "videshii money baajaar of Which of the following Function is ?",
+    option: [
+        "hstaaNtrnn Function",
+        "Credit or Rnn Relationshipii Function",
+        "jokhim from bcaav Relationshipii Function",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Monopoly of among the following which Feature is ?",
+    option: [
+        "a vikretaa and more kretaa",
+        "niktt swasnaapnn absence of",
+        "nii FirmoN of prvesh on prtibNdh",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Supply decrease in of which of the following Cause is ?",
+    option: [
+        "udsum in FirmoN of sNkhor decrease in",
+        "swasnaapnn Commodities price ofoN increase in",
+        "Production Cost increase in",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Indirect Tax under which of the following is included is included ?",
+    option: [
+        "Product shulk",
+        "bikrii kr",
+        "Both (A) and (B)",
+        "smptti kr"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "nr when Long Runiin Average Cost Minimum is to Long Runiin Average Cost and Long Runiin Marginal Cost aaps in –",
+    option: [
+        "braabr is",
+        "is maximum",
+        "Minimum is",
+        "All of these"
+    ],
+    answer: "braabr is"
+},
+
+{
+    question: "a Perfectly Inelastic Demand vk-",
+    option: [
+        "x- akss of smaaNtr hogii",
+        "smtonniiy haaionbolaa hogii",
+        "y- akss of smaaNtr hogii",
+        "smtl hogii"
+    ],
+    answer: "y- akss of smaaNtr hogii"
+},
+
+{
+    question: "Production bNd kr dene on among the following which prbhaav pdd'taa is ?",
+    option: [
+        "constant CosteN Zero ho jaatii are",
+        "onivrtnshiil CosteN Zero ho jaatii are",
+        "constant CosteN bddh' jaatii are",
+        "onivrtnshiil Coste less ho jaatii are"
+    ],
+    answer: "onivrtnshiil CosteN Zero ho jaatii are"
+},
+
+{
+    question: "Tertiary Sector in whom is included –",
+    option: [
+        "Bank",
+        "biimaa",
+        "sNcaar",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Banking reform for kin-kin smitiyoN of gtthn kior gor ?",
+    option: [
+        "nrsimhm smiti (1991)",
+        "goiporior smiti (1991)",
+        "vrmaa smiti (1999)",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Income and Production of Equilibrium str on Aggregate Demand increase in hone on which of the followingincrease in is ?",
+    option: [
+        "rojgaar",
+        "Production",
+        "Income",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Bank Rate that dr is jis on Central Bank desh of = vorpaarik baitoN to Rnn dene to taiorr is / ",
+        "Bank Rate and borj dr both in aNtr is / ",
+        "Bank Rate Central Bank of pun:cutting",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following utpti of Factor not is?",
+    option: [
+        "Land",
+        "Labour",
+        "money",
+        "Capital"
+    ],
+    answer: "money"
+},
+
+{
+    question: "(M1 + Commercial Banks of Net Time Deposits) Definition are –",
+    option: [
+        "M2 of",
+        "M3 of",
+        "smst Monetary Resources of",
+        "only (B) and (C)"
+    ],
+    answer: "M3 of"
+},
+
+{
+    question: "aifrom Expenditure, jo Government for whichii onismptti of sRjn not krte, are called / ",
+    option: [
+        "Revenue Expenditure",
+        "Capital Expenditure",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Revenue Expenditure"
+},
+
+{
+    question: "Perfect Competition baajaar of among the following which FeatureeN are ?",
+    option: [
+        "kretaaoN and vikretaaoN of more sNkhor",
+        "Commodity of smform iofiorN",
+        "baajaar conditionoN of puurnn jnyaan",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Production phln of nimn type which is ?",
+    option: [
+        "Variable Proportion Production phln",
+        "equal anupaat Production phln",
+        "Short Runiin Production phln",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Government bjtt through among the following kin uddeshyoN to puuraa krne of prors krtii is ?",
+    option: [
+        "Economic Development to encouragement",
+        "balanced Sectoriiy viofs",
+        "Income and smptti of Redistribution",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "sm-Marginal Utility Law to khte are-",
+    option: [
+        "Gossen of duusraa Law",
+        "Law of Substitution",
+        "Utility hraas law of",
+        "a and b both"
+    ],
+    answer: "a and b both"
+},
+
+{
+    question: "Barter System of aavshyk conditione which is ?",
+    option: [
+        "Limited Exchange Sector",
+        "aavshyktaaoN of Limited honaa",
+        "aarthik form from pichdd'aa smaaj",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "among the following from by whom muul Demand to loc Measureii jaatii is?",
+    option: [
+        "Demand in prtisht onivrtn/Value in ptisht onivrtn",
+        "Value change in/Demand change in",
+        "a and b both",
+        "None of these"
+    ],
+    answer: "Demand in prtisht onivrtn/Value in ptisht onivrtn"
+},
+
+{
+    question: "Monetary policy is related to –",
+    option: [
+        "Public Expenditure from",
+        "kroN from",
+        "Public Debt from",
+        "Open Market Operations"
+    ],
+    answer: "Open Market Operations"
+},
+
+{
+    question: "a Accounting Year in whichii in the country jitnii bhii Final Goods and fromvaaoN of Production is, usof Market Price to what khte are ?",
+    option: [
+        "Gross National Product",
+        "National Income",
+        "Gross Domestic Product",
+        "Net National Product"
+    ],
+    answer: "Gross Domestic Product"
+},
+
+{
+    question: "among the following from whose onivrtn from maaNg change in not hotaa?",
+    option: [
+        "Value change in",
+        "Preference and phaishn change in",
+        "Income change in",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "pheNc shbd ‘Bougatte’ of arth is –",
+    option: [
+        "a cmdd'e of thailaa or bttuaa",
+        "a thailaa",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "a cmdd'e of thailaa or bttuaa"
+},
+
+{
+    question: "Central Bank of which of the following Function is ?",
+    option: [
+        "nott nirgmn of Monopoly",
+        "Government of Bank",
+        "Foreign Exchange tossoN of sNrkssk",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Keynes ne in an economy deficient demand condition of to which naam from called is ?",
+    option: [
+        "Full Employment Equilibrium",
+        "Underemployment Equilibrium",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Underemployment Equilibrium"
+},
+
+{
+    question: "Market Price Related is –",
+    option: [
+        "Fixed Value from",
+        "Normal Price from",
+        "very short periodiin Value from",
+        "All of these"
+    ],
+    answer: "very short periodiin Value from"
+},
+
+{
+    question: "tttsthtaa vkr of muofb is / ",
+    option: [
+        "baaeN from daaeN",
+        "daaeN from baaeN",
+        "(a) and (b) both",
+        "None of these"
+    ],
+    answer: "baaeN from daaeN"
+},
+
+{
+    question: "a money of duusre money as Price is called-",
+    option: [
+        "dvipkssiiy saaNoftik Exchange Rate",
+        "Exchange Rate",
+        "vaastvik Exchange Rate",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "brettn vudds prnnaalii of Time moreaaNsh deshoN in what was ?",
+    option: [
+        "Fixed Exchange Rate",
+        "moreiilit (pegdd) Exchange Rate",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Fixed Exchange Rate"
+},
+
+{
+    question: "inin from whom Resources Land under not rkh skte ?",
+    option: [
+        "ndii",
+        "jNgl",
+        "khdaan",
+        "mshiin"
+    ],
+    answer: "mshiin"
+},
+
+{
+    question: "maudrik Cost in which of the following is included is included ?",
+    option: [
+        "General Benefit",
+        "vykt Cost",
+        "avykt Cost",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Barter System of Which of the following-sii ktthinaaiorN are ?",
+    option: [
+        "Double Coincidence absence of",
+        "Division of Commodities in Difficulty",
+        "Common Measure of Value of Broad Absence",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Primary Sector (Primary Sector) in whom is included ?",
+    option: [
+        "Land",
+        "jl",
+        "vn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Banking Ombudsman Scheme of ghossnnaa –",
+    option: [
+        "jnvrii, 1978",
+        "26 disNbr, 1997",
+        "26 sitmbr, 1997",
+        "25 disNbr, 1991"
+    ],
+    answer: "26 disNbr, 1997"
+},
+
+{
+    question: "‘bjtt’ Which of the following-saa shbd is ?",
+    option: [
+        "laittin",
+        "German",
+        "phreNc",
+        "None of these"
+    ],
+    answer: "phreNc"
+},
+
+{
+    question: "Which of the following saa kthn sty is ?",
+    option: [
+        "AC = TFC – TVC",
+        "AC = AFC + TVC",
+        "AC = TFC = AVC",
+        "AC = AFC + AVC"
+    ],
+    answer: "AC = AFC + AVC"
+},
+
+{
+    question: "Production of Which of the following-from Factor are?",
+    option: [
+        "Land",
+        "Labour",
+        "Capital",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Reserve Bank oNph iNddior of swaspnaa huii –",
+    option: [
+        "1947",
+        "1935",
+        "1937",
+        "1945"
+    ],
+    answer: "1935"
+},
+
+{
+    question: "Which of the following Monopoly of Feature not is ?",
+    option: [
+        "a kretaa and more vikretaa",
+        "niktt swasnaapnn absence of",
+        "ne FirmoN of prvesh on prtibndh",
+        "All of these"
+    ],
+    answer: "a kretaa and more vikretaa"
+},
+
+{
+    question: "What are the major deposits accepted by commercial banks ?",
+    option: [
+        "Savings Deposits",
+        "Time Deposits",
+        "Current Deposits",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Who said, “Balance of Payments un all aarthik saudoN of sNkssipt lekhaa is jo a desh of nivaasiyoN and shess sNsaar between a nishcit Time in kior jaataa is ?”",
+    option: [
+        "benhm",
+        "jems ingraam",
+        "Dalton",
+        "None of these"
+    ],
+    answer: "jems ingraam"
+},
+
+{
+    question: "which of the followingaccording to, “money that dhurii is jisof caaroN or smst arth vijnyaan ckkr lgaataa is / ”",
+    option: [
+        "Keynes",
+        "raabrttsn",
+        "Marshall",
+        "haane"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "revenue receipts of Component is—",
+    option: [
+        "kr receipts",
+        "gair kr receipts",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Monopolist baajaar whom drshaataa is ?",
+    option: [
+        "Production prkrior",
+        "Distribution prnnaalii",
+        "baajaar prvRtti",
+        "None of these"
+    ],
+    answer: "baajaar prvRtti"
+},
+
+{
+    question: "aNtim Rnndaataa whom said gor is ?",
+    option: [
+        "vorvsaayik Bank to",
+        "graamiinn Sector in mhaajn to",
+        "Sectoriiy graamiinn Bank to",
+        "bhaartiiy Reserve Bank to"
+    ],
+    answer: "bhaartiiy Reserve Bank to"
+},
+
+{
+    question: "‘bjtt’ origin of the word huii –",
+    option: [
+        "pheNc shbd ‘Bougatt’",
+        "English shbd Bougte",
+        "pheNc shbd Bouget",
+        "None of these"
+    ],
+    answer: "pheNc shbd ‘Bougatt’"
+},
+
+{
+    question: "vorvsaayik Bank of Major Function is –",
+    option: [
+        "Credit Control krnaa",
+        "any BankoN to Rnn denaa",
+        "graahtoN of Deposit sviiCar krnaa",
+        "All of these"
+    ],
+    answer: "graahtoN of Deposit sviiCar krnaa"
+},
+
+{
+    question: "National Income of Measuren which of the following-which Method from kior jaataa is ?",
+    option: [
+        "Production Method or Value Added Method",
+        "Income Method",
+        "Expenditure Method",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Production of avdhaarnnaaeN are / ",
+    option: [
+        "Total Product",
+        "Marginal Product",
+        "Average Product",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Capital khaate under which of the following is included is included ?",
+    option: [
+        "apkssiiy aNtrnn",
+        "nijii saude",
+        "videshii prtykss vinisum",
+        "both (B) and (C)"
+    ],
+    answer: "both (B) and (C)"
+},
+
+{
+    question: "upaadaanoN and ProductionoN of phlnaatmk Relationship to what khte are ?",
+    option: [
+        "Production phln",
+        "Average Product",
+        "Marginal Product",
+        "All of these"
+    ],
+    answer: "Production phln"
+},
+
+{
+    question: "if whichii Commodity of Value in 40% onivrtn due to maaNg in 60% onivrtn ho to Elasticity of Demand is-",
+    option: [
+        "0.5",
+        "-1.5",
+        "1",
+        "0"
+    ],
+    answer: "-1.5"
+},
+
+{
+    question: "among the following which Credit Control of onimaannaatmk upaay not is ?",
+    option: [
+        "Bank Rate",
+        "naitik dbaav",
+        "khule baajaar of krioreN",
+        "nkd toss anupaat change in"
+    ],
+    answer: "naitik dbaav"
+},
+
+{
+    question: "among the following from Balance of Payments of Definition Who dii ?",
+    option: [
+        "Marshall",
+        "benhm",
+        "Keynes",
+        "kainn"
+    ],
+    answer: "benhm"
+},
+
+{
+    question: "which of the followingne said is, “aadhunik BankoN of tiin puurvj are—vorpaarii, mhaajn and sonaar” ?",
+    option: [
+        "Crowther",
+        "Marshall",
+        "raabrttsn",
+        "hrisvhaaitt"
+    ],
+    answer: "Crowther"
+},
+
+{
+    question: "Monopolistic Competition of Which of the following-sii FeatureeN are ?",
+    option: [
+        "vibhediikRt Production",
+        "baajaar of apuurnn jnyaan",
+        "vikry CosteN",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "bhaartiiy Reserve Bank of Nationalization when did ?",
+    option: [
+        "1 jnvrii, 1949",
+        "1 jnvrii, 1950",
+        "1 maarc, 1951",
+        "2 phrvrii, 1949"
+    ],
+    answer: "1 jnvrii, 1949"
+},
+
+{
+    question: "Perfect Competition in whichii Commodity of Value is determined –",
+    option: [
+        "Demand and Supply by",
+        "Production Cost by",
+        "molbhaav by",
+        "Marginal Utility by"
+    ],
+    answer: "Demand and Supply by"
+},
+
+{
+    question: "Commodity supply of determinants of which from is ?",
+    option: [
+        "Commodity price of",
+        "Related Commodities price of",
+        "Production Factors price of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Economy of Equilibrium for aavshyk is –",
+    option: [
+        "ant:kssepnn = risaav",
+        "bct = Investment",
+        "Production = Income = Expenditure",
+        "None of these"
+    ],
+    answer: "ant:kssepnn = risaav"
+},
+
+{
+    question: "Investment determinants of which from is ?",
+    option: [
+        "puuNjii of Marginal kssmtaa",
+        "borj dr",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Both A and B"
+},
+
+{
+    question: "Which of the following Primary ghaatte of shii is the measure ?",
+    option: [
+        "Fiscal Deficit – revenue ghaattaa",
+        "revenue ghaattaa – borj of bhugtaan",
+        "Fiscal Deficit – borj of bhugtaan",
+        "puuNjiigt Expenditure – Revenue Expenditure"
+    ],
+    answer: "Fiscal Deficit – borj of bhugtaan"
+},
+
+{
+    question: "Marginal Product braabr is –",
+    option: [
+        "TP₁ − TP₀",
+        "TP = TP₁ − 1",
+        "TP = TP − 1",
+        "None of these"
+    ],
+    answer: "TP₁ − TP₀"
+},
+
+{
+    question: "among the following which Government of Capital Expenditure is ?",
+    option: [
+        "borj of bhugtaan",
+        "mofn of kry",
+        "mshiinrii Expenditure",
+        "all"
+    ],
+    answer: "mofn of kry"
+},
+
+{
+    question: "‘a Firm by apne Production of a unit less or more becne from Total Revenue in jo aNtr aataa is, ufrom Marginal Revenue khte are” Who said ?",
+    option: [
+        "Dooley according to",
+        "Ferguson according to",
+        "Watson according to",
+        "je0 ett0 isnsn according to"
+    ],
+    answer: "Ferguson according to"
+},
+
+{
+    question: "Commodity of aavshyktaa Supply of kssmtaa to khte are-",
+    option: [
+        "Producertaa",
+        "Utility",
+        "sumytaa",
+        "Satisfaction"
+    ],
+    answer: "Utility"
+},
+
+{
+    question: "Average Product vkr of aakRti is—",
+    option: [
+        "English akssr ‘U’ of",
+        "ultte ‘U’ of",
+        "English akssr ‘S’ of",
+        "ultte ‘S’ of"
+    ],
+    answer: "English akssr ‘U’ of"
+},
+
+{
+    question: "Utility of Which of the following-sii FeatureeN?",
+    option: [
+        "Utility a mnovaijnyaanik dhaarnnaa is",
+        "Utility Persononk is / ",
+        "Utility of vicaar saapekssik is",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Which is the bank of the public ?",
+    option: [
+        "Commercial Bank",
+        "Central Bank",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Commercial Bank"
+},
+
+{
+    question: "Indifference vkr is-",
+    option: [
+        "muul vinduu towards unntodr",
+        "muul vinduu towards avntodr",
+        "a and b both sty are",
+        "All of the above sty are"
+    ],
+    answer: "muul vinduu towards unntodr"
+},
+
+{
+    question: "duusre nrsimhm smiti of gtthn In which year huaa ?",
+    option: [
+        "1978",
+        "1991",
+        "1997",
+        "1998"
+    ],
+    answer: "1998"
+},
+
+{
+    question: "bjtt receipts of sNComponent among the following which are ?",
+    option: [
+        "Revenue Receipts",
+        "puuNjiigt receipts",
+        "Both A and B",
+        "None of these"
+    ],
+    answer: "Both A and B"
+},
+
+{
+    question: "among the following from which Law of vorkhor Short Runiin Production phln by of jaatii is ?",
+    option: [
+        "maaNg of Law",
+        "Variable Proportion of Law",
+        "paimaane of prtiphl",
+        "maaNg elasticity of"
+    ],
+    answer: "Variable Proportion of Law"
+},
+
+{
+    question: "bhaart of Central Bank which is ?",
+    option: [
+        "fromNttrl Bank",
+        "pNjaab Bank",
+        "bhaartiiy Reserve Bank",
+        "None of these"
+    ],
+    answer: "bhaartiiy Reserve Bank"
+},
+
+{
+    question: "bhaartiiy Banking prnnaalii of sNrkssk which is ?",
+    option: [
+        "Reserve Bank oNph iNddior",
+        "sttett Bank oNph iNddior",
+        "yuunitt ttrstt oNph iNddior",
+        "bhaartiiy jiivn biimaa nigm"
+    ],
+    answer: "Reserve Bank oNph iNddior"
+},
+
+{
+    question: "bhaartiiy Reserve Bank of Nationalization when did ?",
+    option: [
+        "1 jnvrii, 1949",
+        "1 jnvrii, 1950",
+        "1 maarc, 1951",
+        "2 phrvrii, 1949"
+    ],
+    answer: "1 jnvrii, 1949"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Central Bank desh of highest Bank is",
+        "Central Bank on Government of svaamitv is",
+        "Central Bank desh of Banking prnnaalii of sNcaaln krtaa is / ",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Short Runiin Production condition of in a rational Producer which avswas in Production krnaa psNd kregaa ?",
+    option: [
+        "prthm avswas",
+        "dvitiiy avswas",
+        "tRtiiy avswas",
+        "None of these"
+    ],
+    answer: "dvitiiy avswas"
+},
+
+{
+    question: "money supply of in smmilit is –",
+    option: [
+        "maudrik praadhikrnn by issue Currency",
+        "Demand Deposit",
+        "avdhi Deposit",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "money supply of of Measure $M_1$ in what shaamil is ?",
+    option: [
+        "$C$ = Public of paas Currency",
+        "$DD$ = BankoN by net maaNg Deposit",
+        "$OD$ = Reserve Bank of paas any Deposit",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Firm's Profit which of the following condition to puuraa krne on is maximum ?",
+    option: [
+        "jhaaN MR = MC",
+        "jhaaN MC rekhaa MR to downward from oftte",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "onivrtnshiil Factor of Per Unit Production to is called / ",
+    option: [
+        "Marginal Product",
+        "Average Product",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Average Product"
+},
+
+{
+    question: "Currency nott of vissy in which kthn shii not is ?",
+    option: [
+        "ifrom ofgjii money khte are",
+        "ifrom vaidhaanik ptr bhii khte are",
+        "isof aaNtrik Value not hotaa",
+        "isof aNkit Value sikof less than is"
+    ],
+    answer: "isof aNkit Value sikof less than is"
+},
+
+{
+    question: "Production of tiin avswaseN which is ?",
+    option: [
+        "Total Product",
+        "Marginal Product",
+        "Average Product",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "a Producer of uddeshy is / ",
+    option: [
+        "Benefit to Maximum krnaa and haani to Minimum krnaa",
+        "more Satisfaction praapt krnaa",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Benefit to Maximum krnaa and haani to Minimum krnaa"
+},
+
+{
+    question: "In which year in In India 14 bdd'e anusuucit Commercial Banks of Nationalization kior gor ?",
+    option: [
+        "1949",
+        "1955",
+        "1969",
+        "2000"
+    ],
+    answer: "1969"
+},
+
+{
+    question: "Production of Resources as udymii of Function is-",
+    option: [
+        "sNFactors to iktttthaa krnaa",
+        "Production prkrior to vyvsthit krnaa",
+        "Production of khtre to thatn krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "“Bank of England” in which year was it established ?",
+    option: [
+        "1619",
+        "1694",
+        "1695",
+        "1805"
+    ],
+    answer: "1694"
+},
+
+{
+    question: "bhaartiiy Reserve Bank ne phlii baar nijii Sector in nye Bank to laaifromNs issuing for dishaa-nirdesh ghossit kior –",
+    option: [
+        "22 jnvrii, 1993",
+        "15 maarc, 1995",
+        "1 aprail, 1999",
+        "None of these"
+    ],
+    answer: "22 jnvrii, 1993"
+},
+
+{
+    question: "which of the followingaccording to, “Money is a commodityN jifrom has universal acceptability is / ”",
+    option: [
+        "Knapp",
+        "Keynes",
+        "Seligman",
+        "Hartley Withers"
+    ],
+    answer: "Seligman"
+},
+
+{
+    question: "which of the followingaccording to, “money that is jo money of Function kre / ”",
+    option: [
+        "haattre",
+        "ofNs",
+        "pro0 thoNms",
+        "haarttle vidrs"
+    ],
+    answer: "haarttle vidrs"
+},
+
+{
+    question: "ddoN. mnmohn siNh which were ?",
+    option: [
+        "vitmNtrii",
+        "Economicsii",
+        "bhaart of puurv prdhaanmNtrii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "among the following shresstth money of which from Property is ?",
+    option: [
+        "Utility",
+        "thatniiytaa",
+        "ttiofuu",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Who is included under the Banking Ombudsman Scheme –",
+    option: [
+        "all Scheduled Banks",
+        "Cooperative Banks",
+        "Commercial Banks",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Monopoly and Monopolistic Competition in is ?",
+    option: [
+        "AR = MR (Average Income -Marginal Income)",
+        "AR > MR (Average Income > Marginal Income)",
+        "AR < MR (Average Income r Marginal Income)",
+        "None of these"
+    ],
+    answer: "AR > MR (Average Income > Marginal Income)"
+},
+
+{
+    question: "Banking Ombudsman Scheme of ghossnnaa –",
+    option: [
+        "jnvrii, 1978",
+        "26 disNbr, 1997",
+        "26 sitmbr, 1997",
+        "25 disNbr, 1991"
+    ],
+    answer: "26 disNbr, 1997"
+},
+
+{
+    question: "Average onivrtnshiil Cost is—",
+    option: [
+        "TVC x Q",
+        "TVC + Q",
+        "TVC – Q",
+        "TVC ÷ Q"
+    ],
+    answer: "TVC ÷ Q"
+},
+
+{
+    question: "puurnn prtisondhii baajaar in Average Revenue (AR), Marginal Revenue (MR) and Value (P) between Relationship is—",
+    option: [
+        "P > AR > MR",
+        "P < AR < MR",
+        "(AR = P) > MR",
+        "P = AR = MR"
+    ],
+    answer: "P = AR = MR"
+},
+
+{
+    question: "Economics in vaastvik Cost of Formulation Who kior ?",
+    option: [
+        "Marshall",
+        "lephttvic",
+        "benhm",
+        "viksttiidd"
+    ],
+    answer: "Marshall"
+},
+
+{
+    question: "spsstt CostoN in following mdeN smmilit is ?",
+    option: [
+        "biimaa Expenditure",
+        "vijnyaapn Expenditure",
+        "LabouritoN of mjduurii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Average onivrtnshiil Cost what is ?",
+    option: [
+        "Total onivrtnshiil Cost x Product",
+        "Total onivrtnshiil Cost + Product",
+        "Total onivrtnshiil Cost – Product",
+        "Total onivrtnshiil Cost ÷ Product"
+    ],
+    answer: "Total onivrtnshiil Cost ÷ Product"
+},
+
+{
+    question: "money supply of in smmilit is –",
+    option: [
+        "maudrik praadhikrnn by issue Currency",
+        "Demand Deposit",
+        "avdhi Deposit",
+        "Only (A) and (B)"
+    ],
+    answer: "Only (A) and (B)"
+},
+
+{
+    question: "Production increase in of saath-saath Total Cost and Total constant Cost of aNtr –",
+    option: [
+        "constant rhtaa is",
+        "increases jaataa is",
+        "decreases jaataa is",
+        "decreases increases jaataa is"
+    ],
+    answer: "increases jaataa is"
+},
+
+{
+    question: "Equilibrium of arth is –",
+    option: [
+        "onivrtn of anupsthiti",
+        "Maximum Benefit",
+        "Maximum Satisfaction",
+        "None of these"
+    ],
+    answer: "onivrtn of anupsthiti"
+},
+
+{
+    question: "Average onivrtnshiil Cost bhaagphl is –",
+    option: [
+        "Total onivrtnshiil and Production quantity of of",
+        "Total onivrtnshiil and Production of Propertynphl is",
+        "Both (A) and (B)",
+        "All of these"
+    ],
+    answer: "Total onivrtnshiil and Production quantity of of"
+},
+
+{
+    question: "duusre nrsimhm smiti of gtthn In which year huaa ?",
+    option: [
+        "1978",
+        "1991",
+        "1997",
+        "1998"
+    ],
+    answer: "1998"
+},
+
+{
+    question: "Market Price of Relationship among the following from from whom is ?",
+    option: [
+        "Fixed Value",
+        "very short periodiin Value",
+        "Normal Price",
+        "All of these"
+    ],
+    answer: "very short periodiin Value"
+},
+
+{
+    question: "“a Firm of aagm usof bikrii praapti or Commodity of bikrii from obtained maudrik receipts is” Who said ?",
+    option: [
+        "benhm",
+        "ddule",
+        "lephttvic",
+        "Watson"
+    ],
+    answer: "ddule"
+},
+
+{
+    question: "Supply which of the followingfrom judd'ii is ?",
+    option: [
+        "Time avdhi",
+        "Price",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Which of the following statements is correct?",
+    option: [
+        "Central Bank desh of highest Bank is",
+        "Central Bank on Government of svaamitv is",
+        "Central Bank desh of Banking prnnaalii of sNcaaln krtaa is / ",
+        "All of these"
+    ],
+    answer: "Central Bank desh of highest Bank is"
+},
+
+{
+    question: "Variable ProportionoN law of Related is –",
+    option: [
+        "Short Run and Long Run both",
+        "Long Run from",
+        "Short Run in",
+        "ati Long Run in"
+    ],
+    answer: "Short Run in"
+},
+
+{
+    question: "English of shbd “mnii”(Money) laittin bhaassaa of shbd monettaa (Moneta) from lior gor is which means –",
+    option: [
+        "money",
+        "cek",
+        "ddraaphtt",
+        "None of these"
+    ],
+    answer: "money"
+},
+
+{
+    question: "Economics in Supply and Stock what is ?",
+    option: [
+        "equalaarthii is",
+        "equalaathii not is",
+        "Both (A) and (B)",
+        "a duusre of puurk are"
+    ],
+    answer: "equalaarthii is"
+},
+
+{
+    question: "Credit Control of ktthinaaiorN Which of the following is ?",
+    option: [
+        "Bank credit other than bank credit",
+        "all baitoN on absence of control",
+        "Credit of final consumption on absence of control",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which of the followingaccording to, “money that is jo money of Function kre / ”",
+    option: [
+        "haattre",
+        "ofNs",
+        "pro0 thoNms",
+        "haarttle vidrs"
+    ],
+    answer: "haarttle vidrs"
+},
+
+{
+    question: "Average constant Cost –",
+    option: [
+        "left from right downward girtaa is",
+        "right from upward towards jaataa is",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "left from right downward girtaa is"
+},
+
+{
+    question: "prtiphl law of utnaa hii saarvbhaumik is jitnaa ki jiivn law of” Who said ?",
+    option: [
+        "viksttiidd",
+        "benhm",
+        "lephttvic",
+        "shriimtii joNn Robbinsn"
+    ],
+    answer: "viksttiidd"
+},
+
+{
+    question: "Producer Equilibrium of among the following which MethodorN are ?",
+    option: [
+        "Total Income and Total Cost Method",
+        "Marginal Income and Marginal Cost Method",
+        "Both (A) and (B)",
+        "None of these"
+    ],
+    answer: "Both (A) and (B)"
+},
+
+{
+    question: "Credit Control of Major uddeshy which of the following is ?",
+    option: [
+        "Price constanttaa swaspit krnaa",
+        "Foreign Exchange dr in constanttaa laanaa",
+        "Production and rojgaar increase of upaay krnaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Long Runiin Production phln of Relationship among the following from from whom is ?",
+    option: [
+        "Demand law of",
+        "Variable ProportionoN law of",
+        "paimaane of prtiphl law of",
+        "Elasticity of Demand"
+    ],
+    answer: "paimaane of prtiphl law of"
+},
+
+{
+    question: "money major functions of is –",
+    option: [
+        "Medium of Exchange",
+        "Store of Value",
+        "Value of Measuren",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following vaastvik Investment is ?",
+    option: [
+        "sheyr khriidnaa",
+        "puraanii phaikttrii khriidnaa",
+        "bhvnoN of nirmaann",
+        "Bank in Deposit khaataa kholnaa"
+    ],
+    answer: "bhvnoN of nirmaann"
+},
+
+{
+    question: "Total maudrik Cost braabr is –",
+    option: [
+        "spsstt Cost + aspsstt Cost or (snnihit Cost)+ General Benefit",
+        "spsstt Cost + Total maudrik Cost",
+        "Total Cost + aspsstt Cost",
+        "None of these"
+    ],
+    answer: "spsstt Cost + aspsstt Cost or (snnihit Cost)+ General Benefit"
+},
 ];
 
 // --- Helper: Shuffle questions ---
