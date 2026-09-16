@@ -3338,11 +3338,3335 @@ const accountancyHindi = [
 
 // English Questions
 const accountancyEnglish = [
-  
-  { question: "What type of statement is cash flow statement?", option: ["Accounts", "None", "Both", "None"], answer: "Accounts" },
-  { question: "What is included in cash flow statement?", option: ["Cash flows", "None", "Both", "None"], answer: "Cash flows" },
-  { question: "For whom is cash flow statement prepared?", option: ["Management", "None", "Both", "None"], answer: "Management" },
-  { question: "For what period is cash flow statement prepared?", option: ["Annual", "None", "Both", "None"], answer: "Annual" },
+{
+    question: "If three partners A, B and C 5 : 3 : 2 in are sharing profits then partner A of death on on account of goodwill A of legal heir to B and C what amount cuofyeNge ? goodwill is valued 3 year of average profit of double on is done /  profits of the preceding three years 10,80,000 Rs. is / ",
+    option: ["2,16,000 Rs. and 1,42,000", "2,44,000 Rs. and 2,16,000", "3,60,000 Rs. and 2,16,000 Rs.", "2,16,000 Rs. and 1,44,000 Rs."],
+    answer: "2,16,000 Rs. and 1,44,000 Rs."
+},
+
+{
+    question: "loss on issue of debentures to………..as likhaa goes is :",
+    option: ["intangible asset", "current asset", "current liabilities", "miscellaneous expenditure"],
+    answer: "miscellaneous expenditure"
+},
+
+{
+    question: "A Ltd ne 1,80,000 Rs. in 1 machine purchased jisof payments vh 100 Rs. having shares of dvaaraa 20% at premium kr rhaa is  /  vh consideration as how many share degaa ?",
+    option: ["2,500", "2,000", "1,500", "3,000"],
+    answer: "1,500"
+},
+
+{
+    question: "debentures on discount of remaining to in the Balance Sheet is shown :",
+    option: ["assets side in", "liabilities side in", "none of these", "(A) and (B) donoN"],
+    answer: "assets side in"
+},
+
+{
+    question: "issue of shares done jaa sktaa is :",
+    option: ["at par", "at premium", "at discount", "(A) and (B) donoN"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "if vendors to 5,00,000 Rs. of net assets of consideration in exchange for 4,50,000 Rs. of debenture are issued then remaining 50,000 Rs. in which account credit done jaayeNge :",
+    option: ["Profit and Loss Account", "khorti account", "general reserve account", "Capital Reserve Account"],
+    answer: "Capital Reserve Account"
+},
+
+{
+    question: "securities premium account to balance citttte in under which is shown ?",
+    option: ["reserves and surplus", "miscellaneous expenditure", "current liabilities", "share capital"],
+    answer: "reserves and surplus"
+},
+
+{
+    question: "debenture jo ki only delivery kr to pay on transferred be jaate are, khe jaate are :",
+    option: ["registered debentures", "first debenture", "bearer debentures", "none of these"],
+    answer: "bearer debentures"
+},
+
+{
+    question: "shares of issue at premium is :",
+    option: ["capital profit", "capital loss", "revenue profit", "revenue loss"],
+    answer: "capital profit"
+},
+
+{
+    question: "sinking fund investment on interest to credit is done :",
+    option: ["Profit and Loss Account is", "sinking fund account in", "general reserve account in", "sinking fund investment account in"],
+    answer: "sinking fund account in"
+},
+
+{
+    question: "shares of aisaa issue jo public issue not is blki kuch selected hue persons to are issued, is called :",
+    option: ["public offer", "shares of private placement", "initial public offer", "none of these"],
+    answer: "shares of private placement"
+},
+
+{
+    question: "when debentures of redemption profitoN in from is done, tb equivalent amount transferred of jaatii is :",
+    option: ["general reserve in", "Debenture Redemption Reserve in", "capital reserve in", "Profit and Loss Account in"],
+    answer: "Debenture Redemption Reserve in"
+},
+
+{
+    question: "on dissolution of the firm partner of debt account to is transferred:",
+    option: ["Realisation Account in", "partners' capital accounts in", "Realisation Account in", "among these whichii in bhii not"],
+    answer: "among these whichii in bhii not"
+},
+
+{
+    question: "F Ltd. ne 4,00,000 Rs. value of machine purchased /  payment of consideration each 100 Rs. having 10% debenture 20% of issue at discount dvaaraa done gor  /  debenture account to credit will be made :",
+    option: ["4,00,000 Rs.", "5,00,000 Rs.", "3,20,000 Rs.", "4,80,000 Rs."],
+    answer: "5,00,000 Rs."
+},
+
+{
+    question: "which of the following which shii realisation profit or loss is if assets of sale from amount received 50,000 Rs. total assets 60,000 Rs. total liabilities 20,000 Rs. v realisation of khrce 2,000 Rs. be ?",
+    option: ["12,000 Rs. loss", "32,000 Rs. profit", "30,000 Rs. loss", "12,000 Rs. profit"],
+    answer: "12,000 Rs. loss"
+},
+
+{
+    question: "debenture premium……….for can be used :",
+    option: ["shares or on issue of debentures btttte of write-off", "shareo or on redemption of debentures premium of write-off", "capital loss of write-off", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "vh maximum amount jismore than company to apne shares of issue dvaaraa fund of aajnyaa is, …………is called / ",
+    option: ["issued capital", "reserve puuNjaa", "authorised capital", "abhicalled-up capital"],
+    answer: "authorised capital"
+},
+
+{
+    question: "svyN of debenture ve debenture are jinheN company :",
+    option: ["apne hii promoters to aabNttit does", "apne directors to aabNttit does", "baajaar from khriidtii is and as investment apne paas rkhtii is", "none of these"],
+    answer: "baajaar from khriidtii is and as investment apne paas rkhtii is"
+},
+
+{
+    question: "Companies Act of Section 52 according to, securities premium account of of the amount use following purpose of liye not done jaa sktaa",
+    option: ["entire paid issue of shares", "company of lossyoN of write-off", "preliminary expenses of write-off", "discount on issue of shares of write-off"],
+    answer: "company of lossyoN of write-off"
+},
+
+{
+    question: "on redemption of debentures premium is :",
+    option: ["personal account", "real account", "nominal account", "suspense account"],
+    answer: "personal account"
+},
+
+{
+    question: "Realisation Account is:",
+    option: ["personal account", "nominal account", "real account", "none of these"],
+    answer: "nominal account"
+},
+
+{
+    question: "a the company each 100 Rs. having 1,00, 12% debentures 10% at premium issued done /  12% is :",
+    option: ["dividend rate", "tax rate", "rate of interest", "none of these company rule, 2014 according to"],
+    answer: "rate of interest"
+},
+
+{
+    question: "when whichii call on amount due be onNtu yh received not is then lack to debit is done :",
+    option: ["calls in advance", "calls in arrears", "share capital", "suspense account"],
+    answer: "calls in arrears"
+},
+
+{
+    question: "loss on issue of debentures be is shown :",
+    option: ["citttte of liabilities side in", "profit athvaa loss account of credit side in", "profit athvaa loss account of credit side in", "none of these"],
+    answer: "citttte of liabilities side in"
+},
+
+{
+    question: "equity shareholder of the company……….are / ",
+    option: ["creditors", "owner", "customer", "none of these"],
+    answer: "owner"
+},
+
+{
+    question: "‘debentures of redemption on premium account’ of nature is :",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "nominal account"
+},
+
+{
+    question: "whichii on the death of a partner usof legal heir to smbddh for the period mRt partner of share of profit is paid /  is payments of accounting in is done / ",
+    option: ["smaayojn", "investment", "sNshy/ucnt", "reserve"],
+    answer: "sNshy/ucnt"
+},
+
+{
+    question: "saadhaarnntor debenture are :",
+    option: ["secured", "unsecured", "sharet secured", "none of these"],
+    answer: "secured"
+},
+
+{
+    question: "firm of dissolution at the time of partners of capital khaathenN of credit balance of payments is done :",
+    option: ["partners to", "firm to", "wife to", "none of these"],
+    answer: "partners to"
+},
+
+{
+    question: "debenture of consideration is :",
+    option: ["profit", "dividend", "interest", "none of these"],
+    answer: "interest"
+},
+
+{
+    question: "forfeiture of shares of oninnaamsvruup ghtt jaatii is :",
+    option: ["paid-up capital", "authorised capital", "fixed asset", "reserve capital"],
+    answer: "paid-up capital"
+},
+
+{
+    question: "when debenture to sm value on jaarii is done and at premium mocit done goes hau tb is profr of nirgm on loss which account of debit side from show :",
+    option: ["profit v loss account", "debenture aavedn v allotment account", "debenture nirgm on loss account", "premium on redemption"],
+    answer: "debenture nirgm on loss account"
+},
+
+{
+    question: "a company 1,00,000 Rs. of capital from registered is jo 10 Rs. having 10,000 shares in divided is /  among these 9,990 share Rajiv dvaaraa held are and 10 share Sanjay dvaaraa held are  /  in the eyes of law yh is :",
+    option: ["partnership", "private company", "public company", "government company"],
+    answer: "private company"
+},
+
+{
+    question: "‘on issue of debentures premiumoN’ to in the Balance Sheet is shown :",
+    option: ["assets side in", "liabilities side in", "none of these", "(A) and (B) donoN"],
+    answer: "liabilities side in"
+},
+
+{
+    question: "accumulated profits and reserves of hstaantrnn will be made / ",
+    option: ["Realisation Account in", "partners' capital accounts in", "in Bank Account", "none of these"],
+    answer: "partners' capital accounts in"
+},
+
+{
+    question: "debentures on due interest is :",
+    option: ["of the company profitoN of a viplanning", "of the company profitoN of viruddh a prbhaar", "sikiNg phnndd in hstaantrnn", "above in from toii not"],
+    answer: "of the company profitoN of viruddh a prbhaar"
+},
+
+{
+    question: "whichii partner of retirement krne or death being on assets and liabilities of value in onivrtn to dikhaane for which account taiorr is done ?",
+    option: ["Revaluation Account", "Realisation Account", "partner's capital account", "none of these"],
+    answer: "Revaluation Account"
+},
+
+{
+    question: "of the company lie at premium issue of debentures is :",
+    option: ["revenue receipt", "profit", "capital profit", "asset"],
+    answer: "capital profit"
+},
+
+{
+    question: "deceased partner to due amount is paid usof……..",
+    option: ["father to", "friend to", "wife to", "executor/legal heir to"],
+    answer: "executor/legal heir to"
+},
+
+{
+    question: "debenture holders to of the company…………is called / ",
+    option: ["creditors", "debtor", "owner", "banker"],
+    answer: "creditors"
+},
+
+{
+    question: "securities premium of use not be sktaa :",
+    option: ["distribution of dividend to members for", "members to issue of bonus shares for", "of the company writing off preliminary expenses for / ", "discount on issue of debentures of write-off for"],
+    answer: "distribution of dividend to members for"
+},
+
+{
+    question: "frombii of instructions according to redemption before redeemable debt-ptroN of of the amount what percentage from Debenture Redemption Fund of nirmaann krnaa hogaa?",
+    option: ["50%", "25%", "70%", "100%"],
+    answer: "25%"
+},
+
+{
+    question: "on dissolution of the firm being having expenses to khte are :",
+    option: ["realisation expenses", "lawii expenses", "lossgt expenses", "none of these"],
+    answer: "realisation expenses"
+},
+
+{
+    question: "debenture is :",
+    option: ["certificate of debt", "cash prmaann-ptr", "certificate of credit", "none of these"],
+    answer: "certificate of debt"
+},
+
+{
+    question: "a death of a partner in case of, accumulated profits v lossorN partners dvaaraa baaNttii jaatii are unof :",
+    option: ["old profit-division of in the ratio", "new profit-division in the ratio", "capital in the ratio", "none of these"],
+    answer: "old profit-division of in the ratio"
+},
+
+{
+    question: "debentures…………..on vimocit not done jaa sktaa / ",
+    option: ["premium", "discount", "sm", "none of these"],
+    answer: "discount"
+},
+
+{
+    question: "Revaluation Account.. at the time of taiorr is done / ",
+    option: ["ne partner of admission", "whichii partner of retirement-grhnn", "whichii death of a partner", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "which of the following which financial statements of siimaa is ?",
+    option: ["window dressing", "basis of valuation", "lack of accuracy", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "among these company of registered capital which is ?",
+    option: ["paid-up capital", "uncalled capital", "authorised capital", "issued capital"],
+    answer: "authorised capital"
+},
+
+{
+    question: "investing activities from cash flow of udaahrnn is :",
+    option: ["cash sale", "issue of shares", "machinery to purchase krne for cash payments", "dividend of payments"],
+    answer: "machinery to purchase krne for cash payments"
+},
+
+{
+    question: "when company promoters to unof fromvaaoN for fully paid shares issued does, then rojnaamcaa prvisstti hogii :",
+    option: ["Bank A/c Dr. To Share Capital A/C", "Goodwill A/c Dr. To Share Capital A/c", "Promoters Personal A/c Dr. To Share Capital A/C", "Promotion Expenses A/C Dr. To Share Capital A/C"],
+    answer: "Goodwill A/c Dr. To Share Capital A/c"
+},
+
+{
+    question: "debentures of redemption for source is :",
+    option: ["profitoN in sNredemption", "capital in from sNredemption", "new shares/debentures of issue from amount received", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "a a company has / ",
+    option: ["separate legal entity", "perpetual succession", "limited liability", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "among these in financial statements interested parties which-from are ?",
+    option: ["manager", "financial institution", "creditors", "all of these"],
+    answer: "all of these"
+},
+
+{
+    question: "partnership at the time of dissolution of the firm kRtrim assets to is transferred:",
+    option: ["partners' capital accounts in", "Realisation Account in", "in Cash Account", "partners' loan accounts in"],
+    answer: "partners' capital accounts in"
+},
+
+{
+    question: "financial analysis useii is :",
+    option: ["investor for", "for shareholders", "debenture holders for", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "called-up capital and called-up capital of aNtr to is called :",
+    option: ["calls in arrears", "calls in advance", "uncalled capital", "none of these"],
+    answer: "uncalled capital"
+},
+
+{
+    question: "plant and machinery of purchase of consideration in issue of shares :",
+    option: ["cash inflow", "cash outflow", "n inflow and n outflow", "none of these"],
+    answer: "n inflow and n outflow"
+},
+
+{
+    question: "rights shares ve are jinheN :",
+    option: ["of the company directors to is issued", "of the company existing shareholders to is issued", "of the company promoters to is issued", "assets khriidne for vendors to is issued"],
+    answer: "of the company existing shareholders to is issued"
+},
+
+{
+    question: "a of the company balance citttte in, debentures of shiirssk of under is shown:",
+    option: ["unsecured debt", "long-term debt", "current liabilities", "reserves and surplus"],
+    answer: "long-term debt"
+},
+
+{
+    question: "reserve capital of arth is :",
+    option: ["abhicalled-up aorntrit capital of a share", "accumulated profits", "capital reserve of share", "capital redemption reserve of a share"],
+    answer: "abhicalled-up aorntrit capital of a share"
+},
+
+{
+    question: "on redemption of debentures premium account is :",
+    option: ["a real account", "a areal account", "a personal account", "none of these"],
+    answer: "a personal account"
+},
+
+{
+    question: "by the firm received joint biimaa policy of amount baaNttii jaatii is :",
+    option: ["preliminary capital in the ratio", "aNtim capital in the ratio", "partners of old profit-sharing in the ratio", "partners of new in the ratio"],
+    answer: "partners of old profit-sharing in the ratio"
+},
+
+{
+    question: "which of the following which item cash tuly is ?",
+    option: ["bank overdraft", "bill of exchange", "debtor", "short-term investment"],
+    answer: "bank overdraft"
+},
+
+{
+    question: "if 10 Rs. having share, jis on 8 Rs. orcit is and 6 Rs. paid is, whent kr lior goes is then share capital account to debit done go caahie:",
+    option: ["8 Rs.", "10 Rs.", "6 Rs.", "2 Rs."],
+    answer: "8 Rs."
+},
+
+{
+    question: "company of annual report to is issued :",
+    option: ["directors for", "aNofksstoN for", "sharedhaartoN for", "management for"],
+    answer: "sharedhaartoN for"
+},
+
+{
+    question: "A, B and C partner are and profit and loss to 2 : 2:1 of in the ratio baaNttte are /  C of death 31 March, 2016 to be gii /  31 March, 2016 to year ending for profit 64,000 Rs. is /  in profit deceased partner of share hogaa :",
+    option: ["9,200 Rs.", "12,800 Rs.", "3,100 Rs.", "6,100 Rs."],
+    answer: "12,800 Rs."
+},
+
+{
+    question: "total assets – 7,70,000 Rs.\ntotal liabilities – 2,60,000 Rs.\ncurrent liabilities – 40,000 Rs.\ntotal assets-debt ratio is :",
+    option: ["3.5 : 1", "2.56 : 1", "2.8 : 1", "3 : 1"],
+    answer: "3.5 : 1"
+},
+
+{
+    question: "whichii death of a partner being on usto due puurii amount in whose account transferred of jaayegii :",
+    option: ["all partners' capital accounts in", "remaining partners' capital accounts in", "usof legal heir of account in", "government of account in"],
+    answer: "usof legal heir of account in"
+},
+
+{
+    question: "a the company each 100 Rs. having 1000, 12% debentures 10% at premium issued done /  12% is :",
+    option: ["dividend rate", "kr dii dr", "rate of interest", "none of these"],
+    answer: "rate of interest"
+},
+
+{
+    question: "X, Y and Z partner are jo profit and loss 2:1:1 in baaNttte are /  the firm has 1,20,000 Rs. of a joint biimaa policy is and sheet in yh 20,000 Rs. of surrender value on dikhaaii jaa rhii is /  X of death on is JLP to kaifrom partners in baaNttaa jaayegaa / ",
+    option: ["50,000 : 25,000 : 25,000", "60,000 : 30,000 : 30,000", "40,000 : 35,000 : 25,000", "entire 1,20,000 Rs."],
+    answer: "60,000 : 30,000 : 30,000"
+},
+
+{
+    question: "which of the following which cash outflow not is ?",
+    option: ["fixed asset of sale", "fixed asset of purchase", "issue of debentures", "goods of cash sale"],
+    answer: "fixed asset of purchase"
+},
+
+{
+    question: "10,000 equity share each 10 Rs. of to the public 2 Rs. prti share at premium jaarii done gye jo aabttn on due the /  12,000 shares for applications were received  /  securities premium account of amount hogii :",
+    option: ["20,000 Rs.", "24,000 Rs.", "4,000 Rs.", "1,600 Rs."],
+    answer: "20,000 Rs."
+},
+
+{
+    question: "interpretation of financial statements in shaamil is :",
+    option: ["criticism and vishlessnn", "comparison and trend study", "drawing conclusions", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "reserve share capital of aashy is :",
+    option: ["authorised capital of share jifrom beginning in maaNgaa go is", "uncalled capital of share jifrom only dissolution on maaNgaa will be", "oversubscribed capital", "undersubscribed capital"],
+    answer: "uncalled capital of share jifrom only dissolution on maaNgaa will be"
+},
+
+{
+    question: "if specific fund sNheld is and if amount of expenditure specific fund of total amount more than be then remaining expensesoN to likhaa go caahie:",
+    option: ["Balance Sheet of liabilities side in", "Income and Expenditure Account of debit side in", "Income and Expenditure Account of credit side in", "Balance Sheet of assets side in"],
+    answer: "Income and Expenditure Account of debit side in"
+},
+
+{
+    question: "which of the following which paid-up capital jnyaat krne for deducted go caahie :",
+    option: ["calls in advance", "bofor maaNg", "share forfeiture", "on issue of shares discount"],
+    answer: "bofor maaNg"
+},
+
+{
+    question: "which of the following which gair-operating expense is :",
+    option: ["rent", "selling expenses", "wages", "machinery loss on sale"],
+    answer: "machinery loss on sale"
+},
+
+{
+    question: "sundry creditors 8,000 Rs. the /  unheN 5% chuutt on payments done gor /  Realisation Account to debit done jaaegaa:",
+    option: ["8,000 Rs.", "7,600 Rs.", "400 Rs.", "8,400 Rs."],
+    answer: "7,600 Rs."
+},
+
+{
+    question: "to employees cash payments from cash flow is :",
+    option: ["operating activities", "investing activities", "financing activities", "all of the above"],
+    answer: "operating activities"
+},
+
+{
+    question: "calls in arrears of amount :",
+    option: ["capital in addii jaatii is", "share capital in from ghttaayii jaatii is", "assets side in dikhaaii jaatii is", "equity and liability in dikhaaii jaatii is"],
+    answer: "share capital in from ghttaayii jaatii is"
+},
+
+{
+    question: "old newspapers of sale is :",
+    option: ["capital receivedi", "revenue receipt", "asset", "profit"],
+    answer: "revenue receipt"
+},
+
+{
+    question: "shares of issue before which statement nirgt (jaarii) is done ?",
+    option: ["prvivrnn ptr", "antrrule", "siimaa paarssd rule", "ye all"],
+    answer: "ye all"
+},
+
+{
+    question: "frombii dvaaraa jaarii kie ge instructions according to convertible debentures of case in debentures of redemption before, amount of debentures of what percentage Debenture Redemption Reserve making for required is ?",
+    option: ["25%", "50%", "100%", "zero"],
+    answer: "zero"
+},
+
+{
+    question: "total liabilities in smmilit is :",
+    option: ["authorised capital", "issued capital", "called-up capital", "paid-up capital"],
+    answer: "paid-up capital"
+},
+
+{
+    question: "which of the following which analysis of financial statements of vidhi not is ?",
+    option: ["ratio analysis", "comparative analysis", "trend analysis", "capitalisation method"],
+    answer: "capitalisation method"
+},
+
+{
+    question: "on dissolution of the firm bank overdraft to hstaarit kreNge / ",
+    option: ["in Cash Account", "in Bank Account", "Realisation Account in", "partner of capital khaathenN in"],
+    answer: "Realisation Account in"
+},
+
+{
+    question: "proprietary ratio proprietors' fund and………of relationship to drshaataa",
+    option: ["reserve", "share capital", "total assets", "debenture"],
+    answer: "total assets"
+},
+
+{
+    question: "whichii by a partner 20,000 Rs. of liability of payments of on undertaking responsibility credit done jaaegaa:",
+    option: ["Realisation Account", "cash account", "partner's capital account", "liability account"],
+    answer: "partner's capital account"
+},
+
+{
+    question: "which of the following which kthn shii is ?",
+    option: ["assets = liability + shareholders of fund", "assets = total fund", "assets = outsiders' fund", "above in from toii not"],
+    answer: "assets = liability + shareholders of fund"
+},
+
+{
+    question: "forfeited shares of re- issue after Share Forfeiture Account of remaining to transferred kr is given :",
+    option: ["Profit and Loss Account in", "Capital Reserve Account in", "general reserve account in", "none of these"],
+    answer: "Capital Reserve Account in"
+},
+
+{
+    question: "cash flow of vishlessnn……planning for useii is :",
+    option: ["short-term", "long-term", "medium-term", "very long-term"],
+    answer: "short-term"
+},
+
+{
+    question: "bhaartiiy partnership adhirule, 1932 of Section 37 according to legal heir interest for…..% per annum more thanRt hoNge death of a partner of date from mRt partner to due aNtim amount on date of payment up to / ",
+    option: ["7", "4", "6", "8"],
+    answer: "6"
+},
+
+{
+    question: "whichii smjhaute of in the absence of partnership firm of profit and loss of division is done :",
+    option: ["equally", "capital of in the ratio", "vibhinn ratiooN in", "none of these"],
+    answer: "equally"
+},
+
+{
+    question: "X, Y and Z 7:5:4 of in the ratio division of profits krte hue partner are /  30 June, 2015 to Z of death be gii and 31 March, 2016 to year ending for profit 2,40,000 Rs. the /  1 April, 2015 from 30 June, 2015 of for the period in profit hisfrom for which amount from Z of account to credit done jaaegaa, maan leN ki year bhr profit uniformly hue :",
+    option: ["60,000 Rs.", "15,000 Rs.", "20,000 Rs.", "zero"],
+    answer: "15,000 Rs."
+},
+
+{
+    question: "loss on issue of debentures to saamaanytH……….in written off is done :",
+    option: ["5 year", "10 year", "15 year", "redemption of period up to"],
+    answer: "redemption of period up to"
+},
+
+{
+    question: "forfeiture of shares done jaa sktaa is :",
+    option: ["meeting in upsthit n being of case in", "call amount of payments n krne on", "bank debt in payments of asmrthtaa in", "security as shares of bNdhkN being on"],
+    answer: "call amount of payments n krne on"
+},
+
+{
+    question: "legacy should be treated as:",
+    option: ["liability", "revenue receipt", "income", "none of these"],
+    answer: "none of these"
+},
+
+{
+    question: "a at the time of dissolution of the firm a the partner 1,500 Rs. dissolution expensesoN of payments kr dior /  which account debit hogaa?",
+    option: ["cash account", "Realisation Account", "partner's capital account", "Profit and Loss Account"],
+    answer: "Realisation Account"
+},
+
+{
+    question: "partnership sNlekh of anupsthiti in partnership to unof dvaaraa firm to dii gii advance amount on interest dior will be :",
+    option: ["@5%", "@ 6%", "@ 9%", "@ 8%"],
+    answer: "@ 6%"
+},
+
+{
+    question: "when shares to whent is done then share capital account to debit is done :",
+    option: ["shares of aNkit value from", "shares of baajaar value from", "shares of orcit value from", "shares of prpaid value from"],
+    answer: "shares of orcit value from"
+},
+
+{
+    question: "preparation of Cash Flow Statement is :",
+    option: ["compulsory", "onaamrshaatmk", "Companies Act of under desired", "none of these"],
+    answer: "compulsory"
+},
+
+{
+    question: "Companies Act according to, only preference share jo……….in redeemable hoN, jaarii done jaa skte are / ",
+    option: ["24 year", "22 year", "30 year", "20 year"],
+    answer: "20 year"
+},
+
+{
+    question: "internal and external ownership of mdhy a satisfactory ratio ………..is / ",
+    option: ["1 : 2", "2 : 1", "3 : 1", "4 : 1"],
+    answer: "2 : 1"
+},
+
+{
+    question: "if reissue of shares on loss, whent of gii amount from less be then ‘adhiremaining’ or profit is transferred :",
+    option: ["capital reserve in", "revenue reserve in", "Profit and Loss Account in", "none of these"],
+    answer: "capital reserve in"
+},
+
+{
+    question: "when debentures shaayk security as jaarii is done then which prvisstti krnii pdd'tii is :",
+    option: ["Debenture Suspense A/c Dr.<br>To Debentures", "toii prvisstti not of jaatii is", "(A) athvaa (B) donoN", "none of these"],
+    answer: "(A) athvaa (B) donoN"
+},
+
+{
+    question: "at the time of dissolution of the firm citttte in shown gor general fund of remaining credit is done :",
+    option: ["Realisation Account in", "creditors of account in", "partners' capital accounts in", "Profit and Loss Account in"],
+    answer: "partners' capital accounts in"
+},
+
+{
+    question: "tools for financial analysis saamaanytH used are :",
+    option: ["comparative statements", "common-size statements", "accounting ratios", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "partners dvaaraa firm of optional dissolution done jaa sktaa is :",
+    option: ["bhumt of on the basis of", "3/4 members of nirnny on", "1/2 members of nirnny on", "none of these"],
+    answer: "bhumt of on the basis of"
+},
+
+{
+    question: "capital nature of all receipts dikhaaii jaatii are :",
+    option: ["Income and Expenditure Account in", "in the Balance Sheet", "Profit and Loss Account in", "none of these"],
+    answer: "in the Balance Sheet"
+},
+
+{
+    question: "when company at premium issue of shares does then premium of amount, company dvaaraa received of jaa sktii is :",
+    option: ["application money of saath", "allotment amount of saath", "with calls", "with any of the above"],
+    answer: "with any of the above"
+},
+
+{
+    question: "if equal maasik amount each month of at the beginning drawings as nioflii jaatii is then which-from time to take into consideration will be",
+    option: ["7 month", "6 month", "5 month", "6.5 month"],
+    answer: "6.5 month"
+},
+
+{
+    question: "A, B and C 3 : 2 : 1 of in the ratio profit divided krte hue partner are /  3,00,000 Rs. of joint life policy thii /  balance sheet in isof surrender value 90,000 Rs. is /  C of death be jaatii is /  policy in each partner of share what are ?",
+    option: ["1,05,000 Rs., 70,000 Rs., 35,000 Rs.", "45,000 Rs., 30,000 Rs., 15,000 Rs.", "1,50,000 Rs., 1,00,000 Rs., 50,000 Rs.", "1,95,000 Rs., 1,30,000 Rs., 65,000 Rs."],
+    answer: "1,50,000 Rs., 1,00,000 Rs., 50,000 Rs."
+},
+
+{
+    question: "year 2015 in of the company shareholder fund 8,00,000 Rs. was  /  yh year 2016 in 12,00,000 Rs. be gor, then what percentage onivrtn huaa?",
+    option: ["100%", "25%", "50%", "33.3%"],
+    answer: "50%"
+},
+
+{
+    question: "Z& Co ne 10 Rs. having 100 shares to 2 Rs. of dr from aNtim call of payments n done jaane of ofrnn whent kr lior /  all whent shares to 9 Rs. prti share of dr from re- jaarii done gor /  Capital Reserve Account in which amount to will be transferred?",
+    option: ["700 Rs.", "800 Rs.", "900 Rs.", "1,000 Rs."],
+    answer: "700 Rs."
+},
+
+{
+    question: "year of dauraan received subscription 50,000 Rs. year of ant in apaid subscription 8,000 Rs. year of beginning in apaid subscription 6,000 ru0  /  from subscriptions received net income hogii:",
+    option: ["48,000 Rs.", "64,000 Rs.", "52,000 Rs.", "36,000 Rs."],
+    answer: "52,000 Rs."
+},
+
+{
+    question: "M, L and A 9:4:3 of in the ratio profitoN to baaNttte hue partner are /  unhoNne 96,000 Rs. of a-a joint life policy le rkhii is /  A of death be jaatii is /  joint life policy of amount in A of share kor is ?",
+    option: ["18,000 Rs.", "24,000 Rs.", "54,000 Rs.", "20,000 Rs."],
+    answer: "18,000 Rs."
+},
+
+{
+    question: "following in which source of cash not is :",
+    option: ["fixed assets of purchase", "operating from fund", "issue of debentures", "fixed assets of sale"],
+    answer: "fixed assets of purchase"
+},
+
+{
+    question: "dividend saamaanytH…………….on is given :",
+    option: ["authorised capital", "issued capital", "called-up capital", "prpaid puuNjii"],
+    answer: "prpaid puuNjii"
+},
+
+{
+    question: "‘sinking fund investment accounting’ of sale on profit to antrit is done :",
+    option: ["Profit and Loss Statement in", "general reserve in", "sinking fund account in", "capital reserve in"],
+    answer: "sinking fund account in"
+},
+
+{
+    question: "of the company in liabilities adde jaane vaalii capital is called :",
+    option: ["authorised capital", "issued capital", "called-up capital", "paid-up capital"],
+    answer: "paid-up capital"
+},
+
+{
+    question: "liquid assets in shaamil is :",
+    option: ["bills receivable", "debtor", "cash", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "on the death of a partner aNtim payments is :",
+    option: ["capital account from", "executor account from", "current account from", "debt account from"],
+    answer: "executor account from"
+},
+
+{
+    question: "Receipts and Payments Account saaraaNsh is :",
+    option: ["smst capital receivedi and paymentsoN of", "smst revenue receipt and paymentsoN of", "smst revenue and capital receivedi and paymentsoN", "above in from toii not"],
+    answer: "smst revenue and capital receivedi and paymentsoN"
+},
+
+{
+    question: "on dissolution of the firm partners' capital accounts bNd done jaate are :",
+    option: ["Realisation Account of maadhym from", "drawings account of maadhym from", "bank account of maadhym from", "debt account of maadhym from"],
+    answer: "bank account of maadhym from"
+},
+
+{
+    question: "khorti asset of which shrennii of under aatii is :",
+    option: ["current asset", "tangible asset", "intangible asset", "above in from toii not"],
+    answer: "intangible asset"
+},
+
+{
+    question: "as, vaaii and jedd $\\frac{1}{2}:\\frac{1}{3}:\\frac{1}{6}$ of in the ratio division of profits krte are /  jedd of death be jaatii is /  as and vaaii of nor ratio hogaa:",
+    option: ["3:2", "2:3", "2:1", "none of these"],
+    answer: "3:2"
+},
+
+{
+    question: "making a written partnership agreement :",
+    option: ["compulsory is", "optional is", "partly compulsory is", "none of these"],
+    answer: "optional is"
+},
+
+{
+    question: "when gair-abhilekhit oniasset by a partner lii jaatii is then ufrom drshaayege:",
+    option: ["Realisation Account of debit side in", "bank account of debit side in", "Realisation Account of credit side in", "bank account of credit side in"],
+    answer: "Realisation Account of credit side in"
+},
+
+{
+    question: "horizontal analysis go goes is :",
+    option: ["dynamic analysis", "structural analysis", "static analysis", "none of these  / "],
+    answer: "dynamic analysis"
+},
+
+{
+    question: "on issue of shares premium of can be used :",
+    option: ["issue of bonus shares for", "profit of vitrnn for", "general reserve in hstaantrnn for", "ye all"],
+    answer: "issue of bonus shares for"
+},
+
+{
+    question: "operating expense is :",
+    option: ["profitability ratio", "activity ratio", "solvency ratio", "none of these"],
+    answer: "profitability ratio"
+},
+
+{
+    question: "on dissolution of the firm unrecorded asset of amount realised from sale to credit is done :",
+    option: ["partners' capital accounts in", "cash account in", "Realisation Account in", "Revaluation Account in"],
+    answer: "Realisation Account in"
+},
+
+{
+    question: "operating activities from cash flow jnyaat krte time will be deducted?",
+    option: ["creditors in vRddhi", "debtoroN in vRddhi", "debtoroN in lack", "beforepaid expensesoN in lack"],
+    answer: "debtoroN in vRddhi"
+},
+
+{
+    question: "when partner of trph from by the firm realisation expenses of payments done jaat is then aifrom expensesoN to debit is done :",
+    option: ["Realisation Account in", "partner of in Capital Account", "partner of in Loan Account", "none of these"],
+    answer: "partner of in Capital Account"
+},
+
+{
+    question: "debenture share is :",
+    option: ["share capital of", "long-term udhaar", "ownership capital of", "none of these"],
+    answer: "long-term udhaar"
+},
+
+{
+    question: "authorised capital of vh share jifrom only of the company dissolution on hii maaNgaa jaa sktaa is, is called :",
+    option: ["issued capital", "called-up capital", "uncalled capital", "reserve capital"],
+    answer: "reserve capital"
+},
+
+{
+    question: "a club dvaaraa received life membership fee to is shown :",
+    option: ["in the Income and Expenditure Account", "Balance Sheet in", "in the Receipts and Payments Account", "among these whichii in bhii not"],
+    answer: "Balance Sheet in"
+},
+
+{
+    question: "whichii on the death of a partner, remaining partners jinhoNne profit-division in the ratio onivrtn of ofrnn profit done is, ksstipuurti kreNge:",
+    option: ["deceased partner to", "remaining partners (jinhoNne torg done is), saath hii saath deceased partner to", "remaining partnersoN of (jinhoNne torg done is)", "none of these"],
+    answer: "deceased partner to"
+},
+
+{
+    question: "on the basis of use of material among these which financial analysis of profr is ?",
+    option: ["internal analysis", "external analysis", "internal audit", "(A) and (B) donoN"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "partners of joint life policy a….. account is / ",
+    option: ["nameonly", "personal", "liability", "asset"],
+    answer: "asset"
+},
+
+{
+    question: "on issue of debentures discount to written off go caahie :",
+    option: ["Securities Premium Account from", "capital profit from", "Profit and Loss Statement from", "above krm in debentures of period in"],
+    answer: "above krm in debentures of period in"
+},
+
+{
+    question: "firm of dissolution to dshaa in Realisation Account to debit is done :",
+    option: ["to be sold all assets from", "firm of all external liabilities from", "assets of amount realised from sale from", "whichii by a partner lii gii whichii asset from"],
+    answer: "to be sold all assets from"
+},
+
+{
+    question: "Cash Flow Statement taiorr krte time aap ‘debentures on interest’ of payments of vyvhaar how kreNge ?",
+    option: ["operating activities from cash flow", "investing activityoN from cash flow", "financing activities from cash flow", "cash equivalent"],
+    answer: "financing activities from cash flow"
+},
+
+{
+    question: "creditors and due bill jaifrom liabilities to Realisation Account in transferred krne after payments of relationship in suucnaa of in the absence of, aifrom liabilities of :",
+    option: ["payments not hogaa", "full payments hogaa", "aaNshik payments hogaa", "none of these"],
+    answer: "full payments hogaa"
+},
+
+{
+    question: "torg ratio of formula is :",
+    option: ["nor ratio-old ratio", "old ratio-nor ratio", "profit ratio -torg ratio", "nor ratio-torg ratio"],
+    answer: "old ratio-nor ratio"
+},
+
+{
+    question: "a unrecorded asset 12,000 Rs. of thii jifrom a the partner 10,500 Rs. in lior /  partner of account……..from debit done jaaegaa / ",
+    option: ["12,000 Rs.", "10,500 Rs.", "1,500 Rs.", "32,500 Rs."],
+    answer: "10,500 Rs."
+},
+
+{
+    question: "for the firm partner of interest on drawings is :",
+    option: ["expenses", "income", "loss", "receivedi"],
+    answer: "income"
+},
+
+{
+    question: "Companies Act, 2013 of ‘Table F’ according to calls in arrears on rate of interest………..more than not be sktii is / ",
+    option: ["5% per annum", "6% per annum", "8% per annum", "10% per annum"],
+    answer: "10% per annum"
+},
+
+{
+    question: "general reserve to balance citttte in which shiirssk of under shown will be :",
+    option: ["miscellaneous expenditure", "share capital", "reserves and surplus", "none of these"],
+    answer: "reserves and surplus"
+},
+
+{
+    question: "which of the following which realisation in is transferred",
+    option: ["cash account of remaining to", "Profit and Loss Account of remaining to", "creditors to", "reserveoN to"],
+    answer: "creditors to"
+},
+
+{
+    question: "liquidity of do aadhaarbhuut measures are :",
+    option: ["sttoNk turnover and current ratio", "current ratio and liquidity ratio", "current ratio and average collection period", "current ratio and debtors turnover ratio"],
+    answer: "current ratio and liquidity ratio"
+},
+
+{
+    question: "B, C and D partner are jo profitoN to 7:5:4 of in the ratio divided krte are /  30 June, 2016 to D of death be gii and year 2015-16 for profit 12,000 Rs. the /  1 April, 2016 from 30 June, 2016 up to of for the period in profit hisfrom of what amount from D of account to credit will be made:",
+    option: ["3,000 Rs.", "750 Rs.", "zero", "1,000 Rs."],
+    answer: "750 Rs."
+},
+
+{
+    question: "directors' report company of which meeting in presented of jaatii is ?",
+    option: ["directors of meeting", "Annual General Meeting", "managers of meeting", "above from all"],
+    answer: "Annual General Meeting"
+},
+
+{
+    question: "a partnership firm of dissolution in case of provision for doubtful debts of hstaantrnn is done:",
+    option: ["Realisation Account", "partners' capital accounts", "miscellaneous debtor account", "above in from toii not"],
+    answer: "Realisation Account"
+},
+
+{
+    question: "among these which krior financing activity of under aatii is :",
+    option: ["equity shares of issue from receipts", "cash sale", "bank overdraft", "debentures of purchase"],
+    answer: "equity shares of issue from receipts"
+},
+
+{
+    question: "if 10 Rs. having equity share 12 Rs. on is issued ifrom is called :",
+    option: ["at par nirgnmn", "issue at premium", "issue at discount", "none of these"],
+    answer: "issue at premium"
+},
+
+{
+    question: "a admission of a new partner at the time of general reserve is transferred:",
+    option: ["Revaluation Account in", "old partners' capital accounts in", "profit and loss smaayojn account in", "Realisation Account in"],
+    answer: "old partners' capital accounts in"
+},
+
+{
+    question: "company securities premium of use kr sktii is :",
+    option: ["asset of revaluation krne in being vaalii loss to written off krne", "fully paid bonus shares of issue krne for", "payment of dividend for", "vorpaarik loss to written off krne in"],
+    answer: "fully paid bonus shares of issue krne for"
+},
+
+{
+    question: "financial statements accounting prkrior of………..product is / ",
+    option: ["first", "second", "aNtim", "none of these"],
+    answer: "aNtim"
+},
+
+{
+    question: "‘Table F’ according to calls in advance on interest of maximum dr |",
+    option: ["8% per annum", "8% per annum", "12% per annum", "5% per annum"],
+    answer: "8% per annum"
+},
+
+{
+    question: "consumable items of sale from all receipts to considered goes is :",
+    option: ["capital receipts", "revenue receipts", "(A) and (B) donoN", "none of these"],
+    answer: "revenue receipts"
+},
+
+{
+    question: "assets of sale value (or assets from realisation to) likhaa goes is:",
+    option: ["Realisation Account of debit side in", "Realisation Account of credit side in", "citttte of liabilities side in", "sheet of assets side in"],
+    answer: "Realisation Account of credit side in"
+},
+
+{
+    question: "creditors turnover ratio in kor shaamil is done :",
+    option: ["total credit purchases", "total credit sales", "total cash sales", "total cash purchases"],
+    answer: "total credit purchases"
+},
+
+{
+    question: "dissolution on khorti account is transferred:",
+    option: ["partners' capital accounts in", "cash account of credit side in", "Realisation Account of debit side in", "Realisation Account of credit in"],
+    answer: "Realisation Account of debit side in"
+},
+
+{
+    question: "on redemption of debentures profit to in which account is transferred ?",
+    option: ["Capital Reserve Account", "sinking fund account", "general reserve account", "Profit and Loss Account"],
+    answer: "Capital Reserve Account"
+},
+
+{
+    question: "firm of dissolution at the time of assets of book value Realisation Account of which side in likhaa goes is ?",
+    option: ["debit side", "credit side", "liabilities side", "all of the above"],
+    answer: "debit side"
+},
+
+{
+    question: "partnership adhirule which year laaguu huaa?",
+    option: ["year 1932 in", "year 1956 in", "year 1947 in", "year 1952 in"],
+    answer: "year 1932 in"
+},
+
+{
+    question: "which of the following firm of total assets (cash to chodd'kr) kor hoNgii? if creditors 15,000 Rs. partner of debt 10,000 Rs. partners of capital 40,000 and cash in hand cash 5,000 Rs.  / ",
+    option: ["60,000 Rs.", "65,000 Rs.", "70,000 Rs.", "55,000 Rs."],
+    answer: "60,000 Rs."
+},
+
+{
+    question: "a of the company net sales 15,00,000 Rs. cost of goods sold 10,00,000 Rs. and indirect expenses 3,00,000 Rs. then gross profit of amount hogii :",
+    option: ["13,00,000 Rs.", "5,00,000 Rs.", "2,00,000 Rs.", "12,00,000 Rs."],
+    answer: "2,00,000 Rs."
+},
+
+{
+    question: "which of the following which Realisation Account in transferred not is done ?",
+    option: ["cash account of remaining to", "reserveoN of remaining to", "Profit and Loss Account of remaining to", "all of the above to"],
+    answer: "all of the above to"
+},
+
+{
+    question: "preliminary expenses to citttte of………shiirssk of under is shown :",
+    option: ["gair-current assets", "current assets", "non-current liabilities", "securities premium reserve in from deducted will be"],
+    answer: "securities premium reserve in from deducted will be"
+},
+
+{
+    question: "rights shares are issued :",
+    option: ["promoters to fromvaaoN for", "onivrtniiy debentures of dhaartoN to", "vidymaan shareholders to", "all of the above"],
+    answer: "vidymaan shareholders to"
+},
+
+{
+    question: "debenture is :",
+    option: ["certificate of debt", "cash of prmaann-ptr", "certificate of credit", "none of these"],
+    answer: "certificate of debt"
+},
+
+{
+    question: "partner of capital account to……..from credit is done / ",
+    option: ["interest on capital", "interest on drawings", "drawings", "loss in share"],
+    answer: "interest on capital"
+},
+
+{
+    question: "liquid ratio :",
+    option: ["$\\frac{current\\ assets}{current\\ liability}$", "$\\frac{current\\ liability}{current\\ assets}$", "$\\frac{liquid\\ assets}{current\\ liability}$", "none of these"],
+    answer: "$\\frac{liquid\\ assets}{current\\ liability}$"
+},
+
+{
+    question: "a general partnership in partners of maximum sNkhor be sktii is:",
+    option: ["50", "10", "15", "20"],
+    answer: "50"
+},
+
+{
+    question: "Cash Flow Statement aaheld is :",
+    option: ["accounting of cash on the basis of", "accounting of accrual on the basis of", "(A) and (B) donoN", "none of these"],
+    answer: "accounting of cash on the basis of"
+},
+
+{
+    question: "a company apne shares to at premium bhaartiiy Companies Act, 2013 of which Section of under jaarii does ?",
+    option: ["78", "79", "52", "53"],
+    answer: "52"
+},
+
+{
+    question: "gair-vorpaarik sNsthaan in more len-den are :",
+    option: ["cash", "udhaar", "(A) and (B) donoN", "none of these"],
+    answer: "cash"
+},
+
+{
+    question: "ratiooN of following vrg prmukh form from jokhim of gnnnaa krte are :",
+    option: ["liquidity, kriorshiiltaa and profitprdtaa", "liquidity, kriorshiiltaa and equal sttoNk", "liquidity, kriorshiil and debt", "kriorshiiltaa, debt and profitprdtaa"],
+    answer: "liquidity, kriorshiil and debt"
+},
+
+{
+    question: "pettentts v koNpiiraaitt which shrennii of under aate is :",
+    option: ["current assets", "liquid assets", "intangible assetorN", "none of these"],
+    answer: "intangible assetorN"
+},
+
+{
+    question: "cl or onivrtnshiil vidhi of under partners of interest on capital credit is done :",
+    option: ["Profit and Loss Account in", "interest account in", "partners' capital accounts in", "none of these"],
+    answer: "partners' capital accounts in"
+},
+
+{
+    question: "financial analysis mhtvpuurnn is kyoNki yh :",
+    option: ["gunnaatmk side of upekssaa does", "onicaaln kushltaa of jaaNc does", "financial statements of siimaaoN from grsit is", "vishlessk of personal yogytaa and personal pksspaat from prbhaavit is"],
+    answer: "onicaaln kushltaa of jaaNc does"
+},
+
+{
+    question: "debentures on rate of interest is :",
+    option: ["12% p.a.", "20%p.a", "nishcit dr", "15%p.a."],
+    answer: "nishcit dr"
+},
+
+{
+    question: "a gair-vorpaarik institution for maandue of payments is :",
+    option: ["income", "oniasset", "expenses", "none of these"],
+    answer: "expenses"
+},
+
+{
+    question: "retirement krne having partner to khorti dii jaatii is / ",
+    option: ["old profit-sharing in the ratio", "capital of in the ratio", "braabr in the ratio", "none of these"],
+    answer: "old profit-sharing in the ratio"
+},
+
+{
+    question: "operating profit jnyaat krte time net profit which addaa will be :",
+    option: ["interest received done", "general reserve in vRddhi", "general reserve in vRddhi", "kr of vaapsii"],
+    answer: "general reserve in vRddhi"
+},
+
+{
+    question: "Revaluation Account or profit and loss smaayojn account of remaining old partnersoN of capital khaathenN in is transferred :",
+    option: ["old profit-division in the ratio", "new profit-division in the ratio", "equal in the ratio", "capital in the ratio"],
+    answer: "old profit-division in the ratio"
+},
+
+{
+    question: "dissolution in case of bhii if toii partner firm of toii liability grhnn does then debit done jaane having account is :",
+    option: ["Profit and Loss Account", "Realisation Account", "partner's capital account", "cash account"],
+    answer: "Realisation Account"
+},
+
+{
+    question: "when drawings of time n dior be then interest on drawings lgaaor goes is",
+    option: ["672 months for", "6 months for", "5/2 months for", "12 months for"],
+    answer: "6 months for"
+},
+
+{
+    question: "if nor partner khorti of amount cash in laataa is and khorti account in phle from remaining vidymaan be then khorti old partnersoN in written off of jaatii is:",
+    option: ["ne profitaa-profit in the ratio", "old profitaa-profit in the ratio", "torg in the ratio", "profit-receivedi in the ratio"],
+    answer: "old profitaa-profit in the ratio"
+},
+
+{
+    question: "citttth in dikhaaii gii cash baaof of at the time of dissolution is shown:",
+    option: ["Realisation Account in", "in Cash Account", "in Capital Account", "whichii bhii account in not"],
+    answer: "in Cash Account"
+},
+
+{
+    question: "on issue of debentures dior jaane having discount which nature of is ?",
+    option: ["incometn loss", "capitali loss", "sthgit revenue expenses", "none of these"],
+    answer: "capitali loss"
+},
+
+{
+    question: "as, vaaii, jedd a firm in braabr of partner are /  jedd firm from retirement does /  as and vaaii of biic profit-division of ratio 1: 2 is /  profit-receivedi ratio hogaa :",
+    option: ["3:2", "2:1", "4:1", "only Y 1/3 received does"],
+    answer: "only Y 1/3 received does"
+},
+
+{
+    question: "which of the following which item cash tuly not considered goes is ?",
+    option: ["bank overdraft", "vorpaarik prptr", "ttrejrii bil", "investment"],
+    answer: "investment"
+},
+
+{
+    question: "a shareholder dvaaraa financial statements of vishlessnn udaahrnn is :",
+    option: ["external analysis of", "internal analysis of", "lmbvt vishlessnn of", "horizontal analysis of"],
+    answer: "external analysis of"
+},
+
+{
+    question: "income v expenses account of remaining……………..drshaataa is :",
+    option: ["cash in hand cash", "capital fund", "net income", "expenses on income of adhiktaa or vilomtaa"],
+    answer: "expenses on income of adhiktaa or vilomtaa"
+},
+
+{
+    question: "gross profit ratio gross profit of saath whose ratio is :",
+    option: ["net cash sale", "net udhaar sale", "aNtim rhtior", "net total sale"],
+    answer: "net total sale"
+},
+
+{
+    question: "financial statements prdrshit krte is :",
+    option: ["maudrik suucnaa", "gunnaatmk suucnaa", "amaudrik suucnaa", "all of the above"],
+    answer: "maudrik suucnaa"
+},
+
+{
+    question: "trend percent of gnnnaa for whichii bhii year to cunaa goes is :",
+    option: ["current year", "gt year", "basis year", "none of these"],
+    answer: "basis year"
+},
+
+{
+    question: "when promoters to share are issued then which account to debit will be made :",
+    option: ["share capital account", "asset account", "asset account", "promoter account"],
+    answer: "promoter account"
+},
+
+{
+    question: "………..ratio prmukh form from vyvsaay of income accrual kssmtaa of gnnnaa krte are / ",
+    option: ["liquidity", "kriorshiiltaa", "debt", "profitprdtaa"],
+    answer: "profitprdtaa"
+},
+
+{
+    question: "when issue of debentures btttte on and redemption at premium is then which of the following which account to issue at the time of debit is done ?",
+    option: ["debenture account", "debentures of redemption on premium account", "debentures of nitrgmn on loss account", "Profit and Loss Account"],
+    answer: "debentures of nitrgmn on loss account"
+},
+
+{
+    question: "a skuul dvaaraa per annumotsv for received done gor subscription considered go caahie:",
+    option: ["capital receivedi", "revenue receipt", "asset", "upaarjit income"],
+    answer: "capital receivedi"
+},
+
+{
+    question: "partners of current account hmeshaa hogaa :",
+    option: ["name remaining", "jmaa remaining", "donoN in from toii bhii", "none of these"],
+    answer: "donoN in from toii bhii"
+},
+
+{
+    question: "company of khorti to balance citttte of assets side in which shiirssk of under is shown :",
+    option: ["current assets", "gair-current assets", "miscellaneous expenditure", "none of these"],
+    answer: "gair-current assets"
+},
+
+{
+    question: "A, B and C partner are and unof capital krmshH 1,00,000 Rs., 75,000 Rs. and 50,000 Rs. is /  C of retirement on usof share to A and B ne 6: 4 of in the ratio purchase lior /  profit-receivedi ratio hogaa:",
+    option: ["3:2", "2:2", "2:3", "none of these"],
+    answer: "3:2"
+},
+
+{
+    question: "following in which cash inflow not is ?",
+    option: ["debtoroN in lack", "issue of debentures", "creditors in lack", "none of these"],
+    answer: "creditors in lack"
+},
+
+{
+    question: "new partners of dvaaraa khorti of amount dii jaatii is :",
+    option: ["capital of payments for", "share of profit paane for", "assets purchase krne for", "none of these"],
+    answer: "share of profit paane for"
+},
+
+{
+    question: "Cash Flow Statement bnaate time a financial company dvaaraa received done gor interest how of krior of under vrgiikRt is done ?",
+    option: ["operating activities from cash flow", "investing activityoN from cash flow", "financing activities from cash flow", "cash equivalent"],
+    answer: "operating activities from cash flow"
+},
+
+{
+    question: "bofor subscription is:",
+    option: ["income", "asset", "(A) and (B) donoN", "none of these"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "partners of dvaaraa firm to die ge advance on interest is :",
+    option: ["viplanning", "profit", "prbhaar", "none of these"],
+    answer: "prbhaar"
+},
+
+{
+    question: "balance sheet (tuln-ptr) udym of financial case related suucnaaeN presented does :",
+    option: ["dii gii viremaining period on", "viremaining period of dauraan", "viremaining for the period", "above in from toii not"],
+    answer: "dii gii viremaining period on"
+},
+
+{
+    question: "debenture holder are :",
+    option: ["of the company customer", "of the company maalik", "of the company creditors", "none of these"],
+    answer: "of the company creditors"
+},
+
+{
+    question: "current ratio :",
+    option: ["current assets/current liabilities", "liquid assets/current assets", "liquid assets/current assets", "fixed assetorN/current assets"],
+    answer: "current assets/current liabilities"
+},
+
+{
+    question: "a vyvsaay of assets to………..as vrgiikRt done jaa sktaa is / ",
+    option: ["sthaayii and afixed assetorN", "muurt and intangible assetorN", "gair-current and current asset", "none of these"],
+    answer: "gair-current and current asset"
+},
+
+{
+    question: "whichii partner of fromvaanivRtti on, fromvaanivRtt partner of capital account to jmaa will be made :",
+    option: ["usof share to khorti of saath", "firm of khorti of saath", "remaining partnersoN of share of khorti of saath", "none of these"],
+    answer: "usof share to khorti of saath"
+},
+
+{
+    question: "a partner of divaalior honaa firm of how of dissolution of under aaegaa?",
+    option: ["nororly dvaaraa dissolution", "compulsory dissolution", "whichii ghttnaa of ghttne of case in", "none of these"],
+    answer: "whichii ghttnaa of ghttne of case in"
+},
+
+{
+    question: "if ne partner of admission at the time of pusup tooN in Profit and Loss Account of toii remaining is then ifrom transferred done jaaegaa:",
+    option: ["profit and loss smaayojn account in", "all partners' capital accounts in", "old partners' capital accounts in", "revaluation account in"],
+    answer: "old partners' capital accounts in"
+},
+
+{
+    question: "when year bhr nishcit amountyoN of drawings each months of aNtim date to done gor be then drawings of total amount on interest lgaaor goes is:",
+    option: ["62 months for", "6 months for", "5/2 months for", "1 months for"],
+    answer: "5/2 months for"
+},
+
+{
+    question: "when preliminary sttoNk 50,000 Rs., aNtim sttoNk 60,000 Rs. and bece gye goods of laagt 2,20,000 Rs. is then sttoNk turnover hogaa :",
+    option: ["2 gunaa", "3 gunaa", "4 gunaa", "5 gunaa"],
+    answer: "4 gunaa"
+},
+
+{
+    question: "when nor partner khorti of rkm for cash gives is then firm of bhiyoN in us rkm to debit krnaa caahie:",
+    option: ["khorti account in", "in Cash Account", "new partners of in Capital Account", "none of these"],
+    answer: "in Cash Account"
+},
+
+{
+    question: "share aavedn account is :",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "personal account"
+},
+
+{
+    question: "financial statements of comparison for tools are :",
+    option: ["comparisontmk Balance Sheet", "comparisontmk income statement", "smruup statement", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "company to debenture issue of amount of less-from-less what percentage of braabr amount debentures of redemption before Debenture Redemption Reserve account in transferred krnii caahie?",
+    option: ["50%", "25%", "15%", "100%"],
+    answer: "50%"
+},
+
+{
+    question: "firm of dvaaraa joint biimaa policy lii jaa sktii is……….jiivn on:",
+    option: ["all partners of joint", "all partners of separate-separate", "firm of employees of", "(A) and (B) donoN"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "operating from cash of braabr is :",
+    option: ["net profit + current asset in vRddhi", "net profit + current in liabilities lack", "operating from profit + current assets and current liabilitiesoN of smaayojn", "all of the above"],
+    answer: "operating from profit + current assets and current liabilitiesoN of smaayojn"
+},
+
+{
+    question: "income and expenses account taiorr is done :",
+    option: ["vorpaarik institution dvaaraa", "gair-vorpaarik institution dvaaraa", "none of these", "(A) and (B) donoN"],
+    answer: "gair-vorpaarik institution dvaaraa"
+},
+
+{
+    question: "dividend saamaanytH is given :",
+    option: ["authorised capital on", "issued capital on", "paid-up capital on", "called-up capital on"],
+    answer: "paid-up capital on"
+},
+
+{
+    question: "Realisation Account of profit/loss of bNttvaaraa partners in is done :",
+    option: ["profit-division in the ratio", "capital in the ratio", "equally", "none of these"],
+    answer: "profit-division in the ratio"
+},
+
+{
+    question: "of the company dissolution on debentures of muuldhn of vaapsii of jaatii is :",
+    option: ["sbfrom phle", "sbfrom baad in", "equity capital in phle", "none of these"],
+    answer: "equity capital in phle"
+},
+
+{
+    question: "new by a partner khorti of amount cash laane on old partnersoN dvaaraa baaNttii jaatii is:",
+    option: ["torg in the ratio", "old in the ratio", "new in the ratio", "braabr in the ratio"],
+    answer: "torg in the ratio"
+},
+
+{
+    question: "profit and loss and case statement of aaNkdd'oN on aaheld ratio is :",
+    option: ["profitability ratio", "operating ratio", "liquidity ratio", "mishrit/joint ratio"],
+    answer: "mishrit/joint ratio"
+},
+
+{
+    question: "onicaaln related krioroN from cash flow in following shaamil is :",
+    option: ["adhiofr fee, phiis, kmiishn", "debentures of purchase", "machine of purchase", "issue of shares"],
+    answer: "adhiofr fee, phiis, kmiishn"
+},
+
+{
+    question: "income and expenses account saamaanytor diaccount is :",
+    option: ["aadhiky/ghaattaa", "cash remaining", "capital fund", "net profit/loss"],
+    answer: "aadhiky/ghaattaa"
+},
+
+{
+    question: "kmpniyoN of Balance Sheet ab taiorr is done :",
+    option: ["horizontal praaruup in", "lmbvt praaruup in", "(A) or (B)", "none of these"],
+    answer: "lmbvt praaruup in"
+},
+
+{
+    question: "partner of interest on capital of gnnnaa is :",
+    option: ["preliminary capital on", "aNtim capital on", "average capital on", "none of these"],
+    answer: "preliminary capital on"
+},
+
+{
+    question: "smruup vivrnnoN to following of name from bhii go goes is :",
+    option: ["dynamic analysis", "horizontal/equalaantr", "lmbvt/shiirss vishlessnn", "external analysis"],
+    answer: "lmbvt/shiirss vishlessnn"
+},
+
+{
+    question: "hrii, roNy and prsaad partner are and unof profit-sharing ratio 3:5:1 is /  roNy ab retirement caahtaa is /  usof share prsaad ne le lior /  hri and prsaad of nor ratio hogaa :",
+    option: ["1:2", "2:1", "3:5", "braabr"],
+    answer: "1:2"
+},
+
+{
+    question: "Income and Expenditure Account bnaaor goes is :",
+    option: ["vorvsaayik sNsthaan dvaaraa", "audyogik sNsthaan dvaaraa", "profit n kmaane vaalii institution dvaaraa", "all sNsthaanoN dvaaraa"],
+    answer: "profit n kmaane vaalii institution dvaaraa"
+},
+
+{
+    question: "if khorti to 6,000 Rs. from write-off of baad net profit 35,000 Rs. is and phrniicr of loss on sale 1,000 Rs. is, then operating activities from cash flow hogaa :",
+    option: ["35,000 Rs.", "42,000 Rs.", "29,000 Rs.", "28,000 Rs."],
+    answer: "42,000 Rs."
+},
+
+{
+    question: "if vendors to 1,20,000 Rs. of net assets of consideration in 1,00,000 Rs. of fully paid shares issued done jaayeN then remaining 20,000 Rs. jmaa done jaayeNge / ",
+    option: ["khorti account in", "Capital Reserve Account in", "vikretaa of account in", "Profit and Loss Account in"],
+    answer: "Capital Reserve Account in"
+},
+
+{
+    question: "diip limittedd ne each 100 Rs. of 10,00,000,7% debentures 4% of discount on jaarii done jo 5 years of baad 6% of premium on redeemable is  /  loss on issue of debentures is / ",
+    option: ["10,00,000 Rs.", "6.00,000 Rs.", "1,00,000 Rs.", "4,00,000 Rs."],
+    answer: "1,00,000 Rs."
+},
+
+{
+    question: "case statement is :",
+    option: ["account", "statement", "(A) and (B)", "all of the above"],
+    answer: "statement"
+},
+
+{
+    question: "partnership be sktii is",
+    option: ["siimit", "asiimit", "optional", "all of these"],
+    answer: "all of these"
+},
+
+{
+    question: "‘as’ and ‘vaaii’ partner are jo profitoN to 1:1 of in the ratio divided krte are /  ve ‘jedd’ to 1/5 share for admission kraate are jisne khorti for 25,000 Rs. of yogdaan dior /  firm of khorti of total value hogaa:",
+    option: ["2,50,000 Rs.", "50,000 Rs.", "1,00,000 Rs.", "1,25,000 Rs."],
+    answer: "1,00,000 Rs."
+},
+
+{
+    question: "total assets – 8,10,000 Rs.\ntotal liabilities – 2,60,000 Rs.\ncurrent liabilities – 40,000 Rs.\ndebt-equity ratio is :",
+    option: ["0.5 : 1", "0.4 :1", "2.5 : 1", "4 : 1"],
+    answer: "0.4 :1"
+},
+
+{
+    question: "case statement kor drshaataa is ?",
+    option: ["pusup tooN of nettaa", "a nishcit period of profit or loss", "nishcit date on financial case", "above in from toii not"],
+    answer: "nishcit date on financial case"
+},
+
+{
+    question: "a partner of retirement krne on, asset and liabilities of revaluation of profit in Capital Account jmaa done jaane caahie:",
+    option: ["all partners of, old profit-division of in the ratio", "bce hue partners of, old profit-division in the ratio", "bce hue partners of, new profit-division in the ratio", "none of these"],
+    answer: "all partners of, old profit-division of in the ratio"
+},
+
+{
+    question: "A, B and C partner are /  C to 1/5 share from shaamil is done  /  C apne share for 1,20,000 Rs. capital as laataa is /  firm of net value is :",
+    option: ["1,00,000 Rs.", "4,00,000 Rs.", "1,20,000 Rs.", "6,00,000 Rs."],
+    answer: "6,00,000 Rs."
+},
+
+{
+    question: "firm of dissolution in case of assets of amount realised from sale from srvfirst payments done jaaegaa :",
+    option: ["partners of capital of", "partners dvaaraa firm to die ge debt of", "partner of atirikt capital of", "baahrii creditors of"],
+    answer: "baahrii creditors of"
+},
+
+{
+    question: "incomekr of payments considered goes is :",
+    option: ["direct expenses", "indirect expenses", "operating expense", "none of these"],
+    answer: "indirect expenses"
+},
+
+{
+    question: "debt-equity ratio jnyaat krne of formula is :",
+    option: ["long-term debt/shareholders of fund", "debenture/equity capital", "net profit/total capital", "none of these"],
+    answer: "long-term debt/shareholders of fund"
+},
+
+{
+    question: "year of dauraan net profit 30,000 Rs. year of beginning in creditors 24,000 Rs. year of ant in creditors 16,000 Rs. operating activities from cash of amount kor is ?",
+    option: ["30,000 Rs.", "34,000 Rs.", "22,000 Rs.", "40,000 Rs."],
+    answer: "22,000 Rs."
+},
+
+{
+    question: "partner of interest on drawings for debit is done :",
+    option: ["partner of capital account to", "Profit and Loss Account to", "drawings account to", "profit and loss planning account to"],
+    answer: "partner of capital account to"
+},
+
+{
+    question: "sciv to maandue of payments is :",
+    option: ["capital expenses", "revenue expenses", "income", "none of these"],
+    answer: "revenue expenses"
+},
+
+{
+    question: "of the company lie on issue of debentures discount is :",
+    option: ["capital loss", "revenue loss", "revenue loss", "none of these"],
+    answer: "capital loss"
+},
+
+{
+    question: "a partner of retirement krne at the time of, all partners for done gye firm of joint biimaa jiivn policy of viruddh firm to biimaa company from received is :",
+    option: ["policy amount + bonus", "surrender value", "policy amount", "none of these"],
+    answer: "surrender value"
+},
+
+{
+    question: "financial statements are :",
+    option: ["prtorshit tthy", "abhilekhit tthy", "anumaanit tthy", "none of these"],
+    answer: "abhilekhit tthy"
+},
+
+{
+    question: "partnership firm in profit and loss of division is done :",
+    option: ["equally", "capital of in the ratio", "smjhaute according to", "none of these"],
+    answer: "smjhaute according to"
+},
+
+{
+    question: "khorti of gnnnaa of bhaarit average vidhi of use is done when -",
+    option: ["profit equal be", "profit of bddh'ne of trend is", "profit of ghttne of trend is", "or then b or c"],
+    answer: "or then b or c"
+},
+
+{
+    question: "Balance Sheet in debentures is shown……shiirssk of under :",
+    option: ["short-term debt", "secured debt", "current liabilities", "share capital"],
+    answer: "secured debt"
+},
+
+{
+    question: "a vorvsaayik udym of financial statements in smmilit are :",
+    option: ["balance sheet/tuln-ptr", "Cash Flow Statement", "Cash Flow Statement", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "assets and liabilities to unof re- valueaaNkit value on is shown:",
+    option: ["ne in the Balance Sheet", "revaluation account in", "all partners of capital khaathenN in", "Realisation Account in"],
+    answer: "ne in the Balance Sheet"
+},
+
+{
+    question: "A, B and C partner are jo profit and loss to 3:2:1 of in the ratio baaNttte are /  1.3.2016 to C of death be gii /  pichle caar years for firm of average profit 72,000 Rs. is /  pusup toeN 31 dismbr to bNd of jaatii are /  date of death up to C of share of profit hogaa:",
+    option: ["2,000 Rs.", "12,000 Rs.", "1,400 Rs.", "24,000 Rs."],
+    answer: "2,000 Rs."
+},
+
+{
+    question: "pursofr fund from relationshipit income and expenses to is shown :",
+    option: ["income and expenses account in", "citttth of assets side in", "citttte of daatyiv side in", "cash account in"],
+    answer: "income and expenses account in"
+},
+
+{
+    question: "profitability ratio to saamaanyt: in vykt is done :",
+    option: ["general ratio", "percent", "gunaa", "none of these"],
+    answer: "percent"
+},
+
+{
+    question: "whichii partner of retirement krne on retirement krne having partner of capital account to jmaa done jaaegaa :",
+    option: ["usof/usof khorti of hisfrom", "firm of khorti", "remaining partnersoN of khorti of hisfrom from", "none of these"],
+    answer: "usof/usof khorti of hisfrom"
+},
+
+{
+    question: "current asset in lack to operating from in profit……goes is / ",
+    option: ["deducted", "addaa", "share dior", "gunnaa"],
+    answer: "addaa"
+},
+
+{
+    question: "if debentures of redemption onivrtn pddhti dvaaraa is done then ‘Debenture Redemption Reserve account’ in onivrtniiy amount of debentures of……….percent will be transferred / ",
+    option: ["40", "50", "60", "zero"],
+    answer: "zero"
+},
+
+{
+    question: "sttoNk turnover ratio of under aataa is :",
+    option: ["liquidity ratio", "profitprdtaa ratio", "nisspaadn ratio", "none of these"],
+    answer: "nisspaadn ratio"
+},
+
+{
+    question: "whichii tthhraav of anupsthiti in, partner paane of adhiofrii are :",
+    option: ["salary", "capital of in the ratio profit of share", "debt and agrimoN on interest", "kmiishn"],
+    answer: "debt and agrimoN on interest"
+},
+
+{
+    question: "X, Y and Z profitoN to 5:3:2 of anupaam in divided krte the /  khorti pusup to in prdrshit not is, onNtu isof value 1,00,000 Rs. lgaaor gor /  X firm from retirement does and Y and Z bhvissy of profitoN to equally baaNttne of nishcy krte are /  X of khorti in hisfrom to Y and Z of in Capital Account………..in the ratio debit done jaaegaa / ",
+    option: ["1/2:1/2", "2 : 3", "3:2", "none of these"],
+    answer: "2 : 3"
+},
+
+{
+    question: "year of dauraan profit 20,000 Rs. is, year of dauraan, sttoNk in vRddhi 9,000 Rs. and debtoroN in lack 5,000 Rs. huii /  operating activities from cash of amount kor is ?",
+    option: ["6,000 Rs.", "16,000 Rs.", "24,000 Rs.", "34,000 Rs."],
+    answer: "16,000 Rs."
+},
+
+{
+    question: "shareholder received krte are :",
+    option: ["interest", "dividend", "kmiishn", "profit"],
+    answer: "dividend"
+},
+
+{
+    question: "10 Rs. having 6,000 debentures each 10 Rs. of equity shares dvaaraa 20% of issue at premium dvaaraa payments done gor /  issued done gye shares of sNkhor hogii :",
+    option: ["50,000", "60,000", "5,000", "6,000"],
+    answer: "5,000"
+},
+
+{
+    question: "...........of nature of khorti of str ucc is -",
+    option: ["billii", "kutte", "cuuhe", "khrgosh"],
+    answer: "billii"
+},
+
+{
+    question: "viremaining purpose for received done gor daan :",
+    option: ["in the Income and Expenditure Account credit done go caahie", "a separate account in credit krof case statement in dikhaanaa caahie", "assets side in dikhaanaa caahie", "none of these"],
+    answer: "a separate account in credit krof case statement in dikhaanaa caahie"
+},
+
+{
+    question: "Companies Act, 2013 according to balance citthe of praaruup is :",
+    option: ["smtl", "smtl or lmbvt", "lmbvt", "none of these"],
+    answer: "lmbvt"
+},
+
+{
+    question: "a firm in Z to in profit 1/4 share for admission is given jisfor vh khorti for 30,000 Rs. laataa is /  yh old partners X and Y dvaaraa lior will be:",
+    option: ["old profit-division in the ratio", "new profit-division in the ratio", "torg in the ratio", "capital in the ratio"],
+    answer: "torg in the ratio"
+},
+
+{
+    question: "profit v loss account to………..bhii khte are / ",
+    option: ["Balance Sheet", "income statement", "onicaaln profit", "investment"],
+    answer: "income statement"
+},
+
+{
+    question: "aml-oniikssnn ratio of gnnnaa krne in following assets in from which asset to dhorn in not rkhaa goes :",
+    option: ["cash", "bills receivable", "sttoNk", "none of these"],
+    answer: "sttoNk"
+},
+
+{
+    question: "debenture prtinidhitv does:",
+    option: ["sNcaalk to company in share", "equity sharethaariyoN dvaaraa investment", "placement of diirghoflik debt", "none of these"],
+    answer: "placement of diirghoflik debt"
+},
+
+{
+    question: "debt on interest is",
+    option: ["operating expense", "direct expenses", "indirect expenses", "ye all"],
+    answer: "indirect expenses"
+},
+
+{
+    question: "cash equivalent in following shaamil is :",
+    option: ["ttrejrii bil", "vorpaarik bil", "less onipkvtaa having bank jmaa", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "trend ratio and trend percent use done jaate are :",
+    option: ["praavaigik vishlessnn in", "static analysis in", "horizontal analysis in", "lmbvt vishlessnn"],
+    answer: "horizontal analysis in"
+},
+
+{
+    question: "abhissek, rjt and vivek division of profits 5 : 3 : 2 of in the ratio krte are  /  if vivek fromvaanivRtt is then abhissek in and rjt of nor profit-sharing ratio hogaa :",
+    option: ["3:2", "5:3", "5:2", "none of these"],
+    answer: "5:3"
+},
+
+{
+    question: "a institution dvaaraa received subscription is :",
+    option: ["capital receivedi", "revenue receipt", "(A) and (B) donoN", "above in from toii not"],
+    answer: "revenue receipt"
+},
+
+{
+    question: "which of the following which asset a admission of a new partner at the time of on compulsorytH re- valueaaNkit is done ?",
+    option: ["rhtior", "fixed assetorN", "investment", "khorti"],
+    answer: "khorti"
+},
+
+{
+    question: "following ghttk khorti to prbhaavit krte are sivaay -",
+    option: ["vyvsaay of nature", "prbNdh of ofrykssmtaa", "up toniiof jnyaan", "customeroN of case"],
+    answer: "customeroN of case"
+},
+
+{
+    question: "dissolution on khorti account is transferred:",
+    option: ["partners' capital accounts in", "cash account of credit in", "Realisation Account of debit in", "Realisation Account of credit in"],
+    answer: "Realisation Account of debit in"
+},
+
+{
+    question: "financial statements shbd in smmilit is :",
+    option: ["Profit and Loss Statement", "case statement (Balance Sheet)", "Profit and Loss Statement and balance sheet", "none of these"],
+    answer: "Profit and Loss Statement and balance sheet"
+},
+
+{
+    question: "retirement krne at the time of revaluation of profit and loss to vhn is done:",
+    option: ["bce hue partners dvaaraa", "all partners dvaaraa", "new by a partner", "none of these"],
+    answer: "all partners dvaaraa"
+},
+
+{
+    question: "a firm in Z to in profit 1/4 share for admission is given jisfor vh khorti for 30,000 Rs. laataa is /  yh old partners X and Y dvaaraa lior will be",
+    option: ["old profit-division in the ratio", "new profit-division in the ratio", "torg in the ratio", "capital in the ratio"],
+    answer: "torg in the ratio"
+},
+
+{
+    question: "a sNptti jo oflpnik (kRtrim) not is onNtu intangible nature of is and usof realisation value is -",
+    option: ["machinery", "bhvn", "phrniicr", "khorti"],
+    answer: "khorti"
+},
+
+{
+    question: "shiirss/udgr vishlessnn go goes is :",
+    option: ["static analysis", "dynamic analysis", "structural analysis", "none of these"],
+    answer: "static analysis"
+},
+
+{
+    question: "sinking fund a share is:",
+    option: ["sthaayii liability of", "current liabilities of", "reserve and aadhiky of", "fixed asset of"],
+    answer: "reserve and aadhiky of"
+},
+
+{
+    question: "hrnn kie ge shares of re- issue on dii gii chuutt to debit is done:",
+    option: ["share in Capital Account", "share aphrnn account in", "Profit and Loss Account in", "General Reserve Account in"],
+    answer: "share aphrnn account in"
+},
+
+{
+    question: "Cash Flow Statement in aap khorti of purchase to how likheNge?",
+    option: ["operating activities from prvaah", "investing activityoN from prvaah", "financing activities from prvaah", "cash equivalent"],
+    answer: "investing activityoN from prvaah"
+},
+
+{
+    question: "when cash 10,000 Rs. is, sttoNk 25,000 Rs. are, receivable bil 5,000 Rs. is, creditors 22,000 Rs. is and bank adhivikrnn 8,000 Rs. is then current ratio hogaa :",
+    option: ["2 : 1", "4:3", "3 : 4", "1 : 2"],
+    answer: "4:3"
+},
+
+{
+    question: "Income and Expenditure Account is:",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "nominal account"
+},
+
+{
+    question: "partners of capital on due interest likhaa goes is :",
+    option: ["Profit and Loss Account in", "Realisation Account in", "profit and loss planning account in", "none of these"],
+    answer: "profit and loss planning account in"
+},
+
+{
+    question: "current asset in shaamil is :",
+    option: ["sttoNk", "debtor", "cash", "none of these"],
+    answer: "sttoNk"
+},
+
+{
+    question: "A and B 3:1 of in the ratio profit-sharing krte huye partner are  /  ve C to bhvissy of in profit 1/4 share dekr admission kraate are /  nor profit-division ratio hogaa:",
+    option: ["A9/16,B3/16,C 4/16", "A8/16,B4/16,C-4/16", "A10/10,B2/16,C4/16", "A8/16,B9/16,C10/16"],
+    answer: "A9/16,B3/16,C 4/16"
+},
+
+{
+    question: "which of the following which item receivedi and payments account in jaaegii?",
+    option: ["apaid salary", "hraas", "life membership fee", "upaarjit subscription"],
+    answer: "life membership fee"
+},
+
+{
+    question: "if firm of total assets 3,25,000 Rs. be and total external creditors 45,000 Rs. be, then partners of capital of amount hogii :",
+    option: ["3,70,000 Rs.", "2,80,000 Rs.", "3,00,000 Rs.", "none of these"],
+    answer: "2,80,000 Rs."
+},
+
+{
+    question: "when pusup tooN in khorti account naa be and khorti kholaa jaae ..........account to debit done jaaegaa -",
+    option: ["partner of puuNjii", "khorti", "cash", "reserve"],
+    answer: "khorti"
+},
+
+{
+    question: "debenture holder received does :",
+    option: ["dividend", "profit", "interest", "bonus"],
+    answer: "interest"
+},
+
+{
+    question: "abhissek for drawings on 12% per annum of dr from interest of gnnnaa ofjie if usne month in a baar 2,000 ru0 aahrit done be:",
+    option: ["1,440 Rs.", "1,200 Rs.", "1,320 Rs.", "1,500 Rs."],
+    answer: "1,440 Rs."
+},
+
+{
+    question: "Companies Act of under following in from which taiorr krnaa compulsory not is ?",
+    option: ["Profit and Loss Statement", "Balance Sheet", "aNofksstoN of riportt", "fund prvaah statement"],
+    answer: "aNofksstoN of riportt"
+},
+
+{
+    question: "a partner of retirement krne at the time of unrecorded assets of vyvhaar how is done?",
+    option: ["Revaluation Account in credit", "only retirement krne having partner of capital account to credit", "Revaluation Account to debit", "partners' capital accounts to jmaa"],
+    answer: "Revaluation Account in credit"
+},
+
+{
+    question: "which of the following which a gair-cash item not is ?",
+    option: ["cash sale", "khorti of write-off", "hraas", "apraapy RnnoN for praavdhaan"],
+    answer: "cash sale"
+},
+
+{
+    question: "if a firm of total assets 10,00,000 Rs. hoN and gair-current assets 6,00,000 Rs. hoN then current assets total assets of what percentage hoNgii?",
+    option: ["60%", "50%", "40%", "30%"],
+    answer: "40%"
+},
+
+{
+    question: "current ratio in shaamil is :",
+    option: ["sttoNk", "debtor", "cash", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "A, B and C braabr of partner are /  D to 1/4 share for firm in admission is given /  D 20,000 Rs. capital and khorti of premium for 5,000 Rs. laataa is jo aadhii rkm is /  firm of khorti of value is :",
+    option: ["10,000 Rs.", "40,000 Rs.", "30,000 Rs.", "none of these"],
+    answer: "40,000 Rs."
+},
+
+{
+    question: "mi. gNbhiir for 12% per annum of dr from interest on drawings of gnnnaa ofjie if vh each month of beginning in a baar 2,000 Rs. drawings does:",
+    option: ["1,560 Rs.", "1,500 Rs.", "1,200 Rs.", "1,000 Rs."],
+    answer: "1,560 Rs."
+},
+
+{
+    question: "dissolution in case of when toii partner toii asset letaa is then…….debit is done :",
+    option: ["Realisation Account to", "partner of capital account to", "cash account to", "asset account to"],
+    answer: "partner of capital account to"
+},
+
+{
+    question: "\"khorti is sNbhaavnaa of atirikt and kuch not is ki old customer old sthaan to hii cunte are / \" khorti of yh onibhaassaa.........dvaaraa dii gii thii / ",
+    option: ["spaaisr and peyjl", "aaii. sii. e. aaii.", "loNrdd elddn", "e. aaii. sii. pii. e."],
+    answer: "loNrdd elddn"
+},
+
+{
+    question: "which of the following which profit n kmaane vaalii institution not is",
+    option: ["mhaavidorly", "khelkuud club", "maaruti udyog", "hoNspiittl"],
+    answer: "maaruti udyog"
+},
+
+{
+    question: "when all debentures of redemption kr lior goes is then Debenture Redemption Fund account of remaining to is transferred :",
+    option: ["capital reserve in", "general reserve in", "profit and loss planning account in", "none of these"],
+    answer: "general reserve in"
+},
+
+{
+    question: "operating activities from profit of gnnnaa krte time, net in profit which re- addaa will be :",
+    option: ["khorti written off", "hraas", "fixed assets of sale on loss", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "a, b and s a firm in equal partner are  /  b retirement does /  remaining partnersoN ne nii firm of profitoN to 5:4of in the ratio baaNttne of nishcy done /  receivedi ratio hogaa:",
+    option: ["2:1", "1:2", "4:5", "5:4"],
+    answer: "2:1"
+},
+
+{
+    question: "equal aaofr of statement praayH taiorr done jaate are :",
+    option: ["ratio as", "percent as", "(A) and (B) donoN", "none of these"],
+    answer: "percent as"
+},
+
+{
+    question: "X and Y profit v loss to 3 : 2 of in the ratio baaNttte are /  1 jnvrii, 2017 from ve profit and loss to equal in the ratio baaNttne to shmt hue /  torg or profit receivedi hogaa:",
+    option: ["$\\frac{1}{10}$", "$\\frac{1}{10}$", "(A) and (B)", "none of these"],
+    answer: "(A) and (B)"
+},
+
+{
+    question: "following in which a of the company financial statements of share not is :",
+    option: ["Profit and Loss Account", "Balance Sheet", "lejr account", "Cash Flow Statement"],
+    answer: "lejr account"
+},
+
+{
+    question: "debtors turnover ratio",
+    option: ["$\\frac{debtor}{sale\\ of\\ laagt}$", "$\\frac{debtor}{sale}$", "$\\frac{net\\ udhaar\\ sale}{average\\ vorpaarik\\ receivable}$", "$\\frac{average\\ sttoNk}{sale}$"],
+    answer: "$\\frac{net\\ udhaar\\ sale}{average\\ vorpaarik\\ receivable}$"
+},
+
+{
+    question: "income statement kor drshaataa is ?",
+    option: ["pusup tooN of nettaa", "a nishcit period of profit athvaa loss", "cash bhii of remaining", "none of these"],
+    answer: "a nishcit period of profit athvaa loss"
+},
+
+{
+    question: "profit and loss planning account bnaaor goes is :",
+    option: ["reserve fund making for", "net profit nioflne for", "vibhaajy profit nirdhaarnn for", "none of these"],
+    answer: "vibhaajy profit nirdhaarnn for"
+},
+
+{
+    question: "a vyvsaay of viniyojit puuNjii ₹ 1,50,000; profit 50,000 and revenue profit of dr 20% /  puuNjiikrnn vidhi from khorti of amount hogii -",
+    option: ["₹ 2,00,000", "₹ 1,50,000", "₹ 3,00,000", "₹ 1,00,000"],
+    answer: "₹ 1,00,000"
+},
+
+{
+    question: "A, B,C and D profit and loss to equally baaNttte hue partner are /  unhoNne apne profit-division ratio to 2:2:1:1 in onivrtit kr lior /  how much torg kregaa?",
+    option: ["$\\frac{1}{6}$", "$\\frac{1}{12}$", "$\\frac{1}{24}$", "none of these"],
+    answer: "none of these"
+},
+
+{
+    question: "revenue nature of all mdeN dikhaaii jaatii are :",
+    option: ["Income and Expenditure Account in", "case statement in", "(A) and (B) donoN in", "none of these"],
+    answer: "Income and Expenditure Account in"
+},
+
+{
+    question: "equity shareholder are :",
+    option: ["customer", "creditors", "debtor", "owner"],
+    answer: "owner"
+},
+
+{
+    question: "a, v and s a firm in partner are /  if d new partners as admission does, then:",
+    option: ["puraanii firm of dissolution hogaa", "puraanii firm and puraanii partnership of dissolution hogaa", "puraanii partnership punrgtthit hogii", "none of these"],
+    answer: "puraanii partnership punrgtthit hogii"
+},
+
+{
+    question: "which of the following which asty is ?",
+    option: ["a company redeemable debenture jaarii kr sktii is", "a company mtaadhiofr of saath debenture jaarii kr sktii is", "a company apne shares of purchase kr sktii is", "a company apne hii debentures purchase sktii is"],
+    answer: "a company mtaadhiofr of saath debenture jaarii kr sktii is"
+},
+
+{
+    question: "among these which asset in the Balance Sheet fixed asset shiirssk in not dikhaaii jaatii is:",
+    option: ["khorti", "bills receivable", "bhvn", "vaahn"],
+    answer: "bills receivable"
+},
+
+{
+    question: "total assets-debt ratio jnyaat krne of formula is :",
+    option: ["$\\frac{total\\ asset}{long-term\\ debt}$", "$\\frac{muurt\\ assets}{long-term\\ debt}$", "$\\frac{current\\ assets}{total\\ liability}$", "$\\frac{total\\ assets}{total\\ liability}$"],
+    answer: "$\\frac{total\\ asset}{long-term\\ debt}$"
+},
+
+{
+    question: "aannd, bhaadur and cNdr division of profits uniformly krte hue partner are /  cNdr of retirement krne on aanNd and bhaadur ne usof share of adhigrhnn 3:2 of in the ratio done /  aannd and bhaadur of nor profit-sharing ratio hogaa :",
+    option: ["8:7", "4:5", "3:2", "2 :3"],
+    answer: "8:7"
+},
+
+{
+    question: "which of the following which cash outflow not is :",
+    option: ["creditors in vRddhi", "debtoroN in vRddhi", "rhtior in vRddhi", "beforepaid expensesoN in vRddhi"],
+    answer: "creditors in vRddhi"
+},
+
+{
+    question: "which partnership of viremainingtaa not is ?",
+    option: ["smjhautaa", "profit-division", "limited liability", "do or do more than vykti"],
+    answer: "limited liability"
+},
+
+{
+    question: ".........of nature of khorti of kssmtaa following is -",
+    option: ["cuuhe", "billii", "khrgosh", "kutte"],
+    answer: "khrgosh"
+},
+
+{
+    question: "revaluation account of remaining old partnersoN of capital khaathenN in hstaaNtrit is done :",
+    option: ["old profit and loss in the ratio", "new profit and loss in the ratio", "equal in the ratio", "none of these"],
+    answer: "old profit and loss in the ratio"
+},
+
+{
+    question: "mRt vykti of legacy from received asset to is called :",
+    option: ["rikth", "maandue", "daan", "subscription"],
+    answer: "rikth"
+},
+
+{
+    question: "fixed assets in shaamil is :",
+    option: ["cash", "machinery", "debtor", "beforepaid expenses"],
+    answer: "machinery"
+},
+
+{
+    question: "of the company of the Balance Sheet assets side in current asset in shaamil is :",
+    option: ["miscellaneous nedaar", "haath in debtor", "skndh (sttoNk)", "all of these"],
+    answer: "all of these"
+},
+
+{
+    question: "govind, hrii and prtaap partner are  /  govind of fromvaanivRtti on sheet in khorti to 24,000 Rs. phle from hii shown gor is  /  khorti to written off will be:",
+    option: ["all partners of capital khaathenN to unof old profit-division in the ratio debit krof", "remaining partnersoN of capital khaathenN to unof new profit-division in the ratio debit krof", "fromvaanivRtt partner of capital account to usof share of khorti in debit krof", "none of these"],
+    answer: "all partners of capital khaathenN to unof old profit-division in the ratio debit krof"
+},
+
+{
+    question: "accounting maank-3 according to Cash Flow Statement bnaanaa compulsory is :",
+    option: ["all upkrmoN to", "skndh vipnni on suuciiyt kmpniyoN to", "50 krodd' Rs. more than of sale having upkrmoN in", "(B) and (C) to"],
+    answer: "(B) and (C) to"
+},
+
+{
+    question: "partner of capital account of preliminary remaining to credit done goes",
+    option: ["interest on capital", "interest on drawings", "drawings", "loss in share"],
+    answer: "interest on capital"
+},
+
+{
+    question: "prkrior of on the basis of which of the following which financial analysis of profr are ?",
+    option: ["horizontal analysis", "shiirss vishlessnn", "ratio analysis", "(A) and (B) donoN"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "bank from liye gye debt for debentures shaayk security as issue done jaane on which account to debit will be made :",
+    option: ["bank account", "bank debt account", "debenture account", "debenture ucNtii account"],
+    answer: "debenture ucNtii account"
+},
+
+{
+    question: "if a 10 Rs. having share jis on 8 Rs. prpaid is whent kr lior goes is then ifrom…………of minimum value on re- issued done jaa sktaa is:",
+    option: ["10 Rs. prti share", "8 Rs. prti share", "5 Rs. prti share", "2 Rs. prti share"],
+    answer: "2 Rs. prti share"
+},
+
+{
+    question: "X and Y 2 : 3 of in the ratio share profits /  bhvissy in unhoNne equal in the ratio profit baaNttnaa ty done is /  which partner which in the ratio torg kregaa?",
+    option: ["X dvaaraa torg $\\frac{1}{10}$", "Y dvaaraa torg $\\frac{1}{5}$", "Y dvaaraa torg $\\frac{1}{10}$", "none of these"],
+    answer: "Y dvaaraa torg $\\frac{1}{10}$"
+},
+
+{
+    question: "khorti is-",
+    option: ["muurt sNptti", "intangible sNptti", "current sNptti", "none of these"],
+    answer: "intangible sNptti"
+},
+
+{
+    question: "profit n kmaane vaalii institution of mukhy purpose is :",
+    option: ["profit kmaanaa", "smaaj of fromvaa krnaa", "Profit and Loss Account taiorr krnaa", "all of the above"],
+    answer: "smaaj of fromvaa krnaa"
+},
+
+{
+    question: "a firm of liquidity jnyaat krne for which ratio profitdaayk is ?",
+    option: ["capital turnover ratio", "aml oniikssnn ratio", "sttoNk turnover ratio", "net profit ratio"],
+    answer: "aml oniikssnn ratio"
+},
+
+{
+    question: "a and b a firm in partner are jo profitoN to 3:2 of in the ratio divided krte are /  ve s to firm of profit 1/3 in share for admission dete are /  a, b and s of nor profit-division ratio hogaa:",
+    option: ["3:2:1", "3:2:2", "3:2:3", "6:4:5"],
+    answer: "6:4:5"
+},
+
+{
+    question: "which of the following operating related krioroN from cash flow of udaahrnn which is ?",
+    option: ["mshnrii of purchase", "issue of shares", "sttoNk of cash purchase", "viniyogoN of purchase"],
+    answer: "sttoNk of cash purchase"
+},
+
+{
+    question: "debentures of redemption after ‘sinking fund accounting’ of remaining antrit is :",
+    option: ["profit and loss accounting", "profit and loss aadhiky statement in", "general reserve accounting", "sinking fund accounting"],
+    answer: "general reserve accounting"
+},
+
+{
+    question: "vh reserve jo whichii viremaining purpose from bnaaor goes is and jo aagm of viruddh prbhaar is, is called :",
+    option: ["capital reserve", "general reserve", "gupt reserve", "specific reserve"],
+    answer: "specific reserve"
+},
+
+{
+    question: "je. limittedd ne 2,000 shares to re- issued done jifrom share whentii account to 3,000 Rs. from credit krof whent done gor thaa /  in shares to 9 Rs. prti share of dr from re- issued done gor thaa /  Capital Reserve Account in transferred of jaane vaalii amount hogii :",
+    option: ["3,000 Rs.", "2,000 Rs", "1,000 Rs.", "zero"],
+    answer: "1,000 Rs."
+},
+
+{
+    question: "which of the following a upkrm of real balance case which drshaataa is ?",
+    option: ["fund-prvaah", "Balance Sheet", "Profit and Loss Account", "ratio analysis"],
+    answer: "Balance Sheet"
+},
+
+{
+    question: "partner of retirement krne on usof hisfrom of khorti to remaining partnersoN of mdhy written off kr is given :",
+    option: ["ne profit-division in the ratio", "ne capital of in the ratio", "profit-receivedi of in the ratio", "none of these"],
+    answer: "profit-receivedi of in the ratio"
+},
+
+{
+    question: "current account is:",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "personal account"
+},
+
+{
+    question: "apne debentures of rdd krne on hue profit of antrnn hogaa :",
+    option: ["Profit and Loss Statement in", "profit and loss aadhiky statement in", "general reserve accounting", "capital reserve accounting"],
+    answer: "capital reserve accounting"
+},
+
+{
+    question: "on dissolution of the firm, partner of debt account to transferred kreNge :",
+    option: ["Realisation Account in", "partner of in Capital Account", "partner of current account in", "none of these"],
+    answer: "none of these"
+},
+
+{
+    question: "a partnership firm of lkssnn is",
+    option: ["do or do more than vykti", "nirheld in the ratio profit and loss baaNttnaa", "vyvsaay of all of dvaaraa or unin from whichii of dvaaraa claaor go", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "‘preliminary expenses’ sheet in which shiirss of adhiin is shown ?",
+    option: ["fixed assetorN", "reserves and surplus", "debt and advance", "none of these"],
+    answer: "none of these"
+},
+
+{
+    question: "debentures/puurvaadhiofr shares of redemption is :",
+    option: ["fund of source", "fund of use", "fund of toii prvaah not", "cash of toii prvaah not"],
+    answer: "fund of use"
+},
+
+{
+    question: "P, Q and R partner are and unof profit-sharing ratio 5 : 3 : 2 is /  R retirement does and apne hisfrom of 3/5P of side in and 2/5Q of side in smrpit does /  nor profit-division ratio jnyaat ofjie / ",
+    option: ["7:3", "1:2", "31 : 19", "none of these"],
+    answer: "31 : 19"
+},
+
+{
+    question: "aadrsh liquid ratio is :",
+    option: ["2 : 1", "1 : 1", "5 : 1", "4 : 1"],
+    answer: "1 : 1"
+},
+
+{
+    question: "A, B and C a firm of partner are /  if D new partners as admission does then:",
+    option: ["puraanii firm of dissolution hogaa", "puraanii firm and puraanii partnership of dissolution hogaa", "puraanii partnership punrgtthit hogii", "none of these"],
+    answer: "puraanii partnership punrgtthit hogii"
+},
+
+{
+    question: "capital fund of gnnnaa of jaatii is :",
+    option: ["income-expenses", "asset-liability", "capital + liability", "none of these"],
+    answer: "asset-liability"
+},
+
+{
+    question: "torg ratio nioflaa goes is :",
+    option: ["on the death of a partner", "a partner of retirement krne on", "a partner of admission on", "none of these"],
+    answer: "a partner of admission on"
+},
+
+{
+    question: "which of the following which kyn shii is ?",
+    option: ["prdhighaatit income = total aagm", "prtighaatit income = aagm-expenses", "prtighaatit income = gross profit", "above in from toii not"],
+    answer: "prtighaatit income = aagm-expenses"
+},
+
+{
+    question: "pichle 3 years of profit krmshH ₹ 6,000, ₹ 13,000 and ₹ 8,000 the /  average net profit of 2 years of purchase on khorti hogii -",
+    option: ["₹ 81,000", "₹ 27,000", "₹ 9,000", "₹ 18,000"],
+    answer: "₹ 18,000"
+},
+
+{
+    question: "a of the company lekhoN dvaaraa prdrshit profit and loss to:",
+    option: ["share in Capital Account is transferred", "current devtaaeN and incomeojn’ shiirssk of under is shown", "reserves and surplus’ shiirssk of under is shown", "among these whichii in bhii not"],
+    answer: "reserves and surplus’ shiirssk of under is shown"
+},
+
+{
+    question: "debt-equity ratio is :",
+    option: ["liquidity ratio", "activity ratio", "solvency ratio", "operating ratio"],
+    answer: "solvency ratio"
+},
+
+{
+    question: "deceased partner of executor to death of a partner date from due amount on interest dior will be :",
+    option: ["5% per annum", "6% per annum", "7% per annum", "8% per annum"],
+    answer: "6% per annum"
+},
+
+{
+    question: "accumulated profits and reserves of hstaantrnn will be made :",
+    option: ["Realisation Account in", "partners of capital khaathenN in", "in Bank Account", "bct account in"],
+    answer: "partners of capital khaathenN in"
+},
+
+{
+    question: "which of the following which cash outflow (Outflows) of udaahrnn not is ?",
+    option: ["RnnoN of punrpayments", "creditors in lack", "issue of debentures", "none of these"],
+    answer: "issue of debentures"
+},
+
+{
+    question: "comparisontmk financial analysis prkrior which statement of items of comparison to drshaatii is :",
+    option: ["Balance Sheet", "Profit and Loss Statement", "(A) and (B) donoN", "none of these"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "if each timonthii of first day equal of the amount drawings is done then drawings of total amount on interest of gnnnaa hogii :",
+    option: ["6 month for", "6.5 month for", "5.5 month for", "7.5 month for"],
+    answer: "7.5 month for"
+},
+
+{
+    question: "joint jiivn biimaa-ptr account and joint biimaa-ptr reserve account of remaining hmeshaa is:",
+    option: ["equal", "aequal", "toii required not", "none of these"],
+    answer: "toii required not"
+},
+
+{
+    question: "if specific fund sNheld is and if amount of expenditure specific fund of total amount more than be then remaining expensesoN to likhaa go caahie:",
+    option: ["Balance Sheet of liabilities side in", "Income and Expenditure Account of debit side in", "Income and Expenditure Account of credit side in", "case statement of assets side in"],
+    answer: "Income and Expenditure Account of debit side in"
+},
+
+{
+    question: "pichle 3 years of average profit of dugune on khorti of value will be if three years of profit ₹4,000, ₹5,000, ₹6,000 were-",
+    option: ["₹ 5,000", "₹ 10,000", "₹ 8,000", "none of these"],
+    answer: "₹ 10,000"
+},
+
+{
+    question: "X, Y and Z a firm of partner are jo profit and loss to 4:3:1 of in the ratio baaNttte are  /  unhoNne bhvissy in 5:4:3 of in the ratio profit baaNttne of nirnny done /  X and Y of torg of ratio is :",
+    option: ["$\\frac{2}{24}:\\frac{1}{24}$", "$\\frac{1}{24}:\\frac{3}{24}$", "$\\frac{2}{24}:\\frac{3}{24}$", "none of these"],
+    answer: "$\\frac{2}{24}:\\frac{1}{24}$"
+},
+
+{
+    question: "debenture redemption premium account is :",
+    option: ["asset", "liability", "expenses", "aagm"],
+    answer: "liability"
+},
+
+{
+    question: "revenue profit on real average profit of adhiky is called -",
+    option: ["premium", "nishcit profit", "arevenue profit", "revenue profit"],
+    answer: "premium"
+},
+
+{
+    question: "debentures on interest is :",
+    option: ["12% per annum", "nishcit dr", "20% per annum", "6% per annum"],
+    answer: "nishcit dr"
+},
+
+{
+    question: "following in from which aprofitofrii sNsthaan is?",
+    option: ["jhaarkhnndd adhividy onissd", "ttaattaa sttiil", "eyr innddior", "jett eyr vej"],
+    answer: "jhaarkhnndd adhividy onissd"
+},
+
+{
+    question: "partner of firm from relationship is :",
+    option: ["owner of", "ejenntt of", "owner and ejenntt of", "manager of"],
+    answer: "owner and ejenntt of"
+},
+
+{
+    question: "baahr jaane having (retirement krne having) partner to remaining partners of side in firm of bhaavii profitaaN of torg for ksstipuurti of jaatii is /  remaining partners aisii ksstipuurti of share krte are :",
+    option: ["profit receivedi in the ratio", "capital in the ratio", "torg in the ratio", "profit-division in the ratio"],
+    answer: "profit receivedi in the ratio"
+},
+
+{
+    question: "partnership firm of punrgtthn on assets of value in vRddhi of oninnaam:",
+    option: ["existing partners to profit", "existing partners to loss", "existing partners to n profit n loss", "none of these"],
+    answer: "existing partners to profit"
+},
+
+{
+    question: "a and b 3:1 of in the ratio profitoN and lossyoN to baaNttte are /  C to 1/4 share for partnership in admission is given  /  a and b of torg of ratio is :",
+    option: ["braabr", "3:1", "2:1", "3:2"],
+    answer: "3:1"
+},
+
+{
+    question: "equal aaofr of Balance Sheet in total equity and liabilities to whose braabr considered goes is :",
+    option: ["1,000", "100", "10", "1"],
+    answer: "100"
+},
+
+{
+    question: "profit and loss statement of………..bhii khte are  / ",
+    option: ["onicaaln profit", "Balance Sheet", "income statement", "vorpaar account"],
+    answer: "income statement"
+},
+
+{
+    question: "operating ratio is :",
+    option: ["profitability ratio", "activity ratio", "redemption kssmtaa ratio", "none of these"],
+    answer: "profitability ratio"
+},
+
+{
+    question: "Cash Flow Statement relationshipit is :",
+    option: ["e. es.-3", "e. es.-6", "e. es.-9", "e. es.-12"],
+    answer: "e. es.-3"
+},
+
+{
+    question: "a company in members of liability siimit is :",
+    option: ["siimit", "asiimit", "sthir", "onivrtnshiil"],
+    answer: "siimit"
+},
+
+{
+    question: "x,y and 7 partner are and profitoN of 5 : 3 : 2 of in the ratio divided krte are  /  y retirement does and x, y from 1/10 and zy from 1/5 grhnn does then nor profit-sharing ratio hogaa:",
+    option: ["7:13", "13:7", "3:2", "1 : 1"],
+    answer: "3:2"
+},
+
+{
+    question: "which of the following which vyvhaar current ratio in sudhaar laayegaa ?",
+    option: ["goods of cash purchase", "customeroN from cash received", "creditors to payments", "goods of udhaar purchase"],
+    answer: "creditors to payments"
+},
+
+{
+    question: "Companies Act of praavdhaanoN of under a company issued kr sktii is :",
+    option: ["equity share", "puurvaadhiofr share", "equity share and puurvaadhiofr share", "none of these"],
+    answer: "equity share and puurvaadhiofr share"
+},
+
+{
+    question: "BST Ltd. apne 900, 10 debentures of redemption 105% on 10 Rs.having share to 9 Rs. prti share of dr from onivrtn krnaa caahtii is /  isfor ufrom issued krne hoNge / ",
+    option: ["9,000 share", "10.500 share", "10,000 share", "8500 share"],
+    answer: "10.500 share"
+},
+
+{
+    question: "partnership sNlekh of in the absence of partner hkdaar not is :",
+    option: ["salary paane of", "kmiishn paane of", "interest on capital paane of", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "khorti to 10,000 Rs. from written off krne after net profit 50,000 Rs. is then onicaaln krioroN from cash flow hogaa :",
+    option: ["60,000 Rs.", "40,000 Rs.", "50,000 Rs.", "30,000 Rs."],
+    answer: "60,000 Rs."
+},
+
+{
+    question: "khorti a ........ sNptti is -",
+    option: ["vyrth", "muurt", "value rhit", "valuevaan"],
+    answer: "valuevaan"
+},
+
+{
+    question: "sm-vicched bindu us bindu to khte are jhaaN :",
+    option: ["total laagt total sale more than be", "total laagt total sale from less be", "total laagt total sale from aadhii be", "total laagt total sale of braabr be"],
+    answer: "total laagt total sale of braabr be"
+},
+
+{
+    question: "dduubt debt of ofrnn loss to puuraa krne for jo amount rkhii jaatii is, ufrom is called :",
+    option: ["reserve", "incomeojn", "liability", "none of these"],
+    answer: "incomeojn"
+},
+
+{
+    question: "revaluation account in credit side of ddevitt side on aadhiky to khte are:",
+    option: ["profit", "loss", "receivedi", "expenses"],
+    answer: "profit"
+},
+
+{
+    question: "X and Y 3:2 of in the ratio share profits /  Z to 1/5 share for partner bnaaor gor /  ZX from 3/20 letaa is and Y from 1/20 letaa is then nor profit-division ratio hogaa :",
+    option: ["9:7:4", "8: 8:4", "6 : 10:4", "10:6:4"],
+    answer: "9:7:4"
+},
+
+{
+    question: "a club dvaaraa received advance cnde to sheet of…….side in is shown :",
+    option: ["assets side", "liabilities side", "debit side", "credit side"],
+    answer: "liabilities side"
+},
+
+{
+    question: "share abaaNttn account is :",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "personal account"
+},
+
+{
+    question: "new by a partner khorti for laayii gyii cash amount existing partners dvaaraa which in the ratio baaNttii jaatii is:",
+    option: ["profit-division ratio", "capital ratio", "torg of in the ratio", "none of these"],
+    answer: "torg of in the ratio"
+},
+
+{
+    question: "equity share capital – 15,00,000 Rs.\nreserves and surplus – 7,50,000 Rs.\ntotal assets – 45,00,000 Rs.\nproprietary ratio",
+    option: ["50%", "33.3%", "200%", "60%"],
+    answer: "50%"
+},
+
+{
+    question: "existing partners of profit-division in the ratio onivrtn from is :",
+    option: ["firm of revaluation", "firm of punrgtthn", "firm of dissolution", "none of these"],
+    answer: "firm of punrgtthn"
+},
+
+{
+    question: "A prtimonth 1,000 Rs. each month of ant in aahrit does /  if rate of interest 5% per annum be then drawings on total interest hogaa:",
+    option: ["325 Rs.", "275 Rs.", "300 Rs.", "350 Rs."],
+    answer: "275 Rs."
+},
+
+{
+    question: "which of the following which financial statements of ttv is :",
+    option: ["Balance Sheet", "Profit and Loss Account", "(A) and (B) donoN", "none of these"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "debentures of redemption………..on not done jaa sktaa is :",
+    option: ["sm", "premium", "discount", "10% more than premium"],
+    answer: "discount"
+},
+
+{
+    question: "which of the following which income not is?",
+    option: ["subscription", "daan", "ttiktt of sale", "ennddomenntt nidhi"],
+    answer: "ennddomenntt nidhi"
+},
+
+{
+    question: "comparative statements show :",
+    option: ["a institution of balance case", "a institution of accrual shkti", "above donoN", "above in from toii not"],
+    answer: "above donoN"
+},
+
+{
+    question: "operating activities from cash flow in lack incomeegii :",
+    option: ["current assets in vRddhi", "current in liabilities lack", "donoN in toii not", "(A) and (B) donoN"],
+    answer: "(A) and (B) donoN"
+},
+
+{
+    question: "puuNjiikrnn vidhi of aNtrgt khorti of gnnnaa of jaatii is -",
+    option: ["average profit × purchase years of sNkhor", "adhi profit × purchase years of sNkhor", "anumaanit bhaavii profitoN of total discountgt value", "premium / income of general dr"],
+    answer: "premium / income of general dr"
+},
+
+{
+    question: "general reserve of amount to all partners' capital accounts in is transferred :",
+    option: ["new profit and loss in the ratio", "capital of in the ratio", "old profit and loss ratio", "none of these"],
+    answer: "old profit and loss ratio"
+},
+
+{
+    question: "Receipts and Payments Account saamaanytor drshaataa is :",
+    option: ["aadhiky", "capital fund", "debit remaining", "credit balance"],
+    answer: "aadhiky"
+},
+
+{
+    question: "Profit and Loss Statement of debit remaining shown will be :",
+    option: ["sheet of asset share in", "citttth of liability share in", "reserves and surplus shiirssk of aNdr", "reserves and surplus shiirssk of under Rnnaatmk item as"],
+    answer: "reserves and surplus shiirssk of under Rnnaatmk item as"
+},
+
+{
+    question: "X, Y, Z 3 : 4of in the ratio profitoN to divided krte hue partner are /  Y retirement does and X and Z apnaa profit equal in the ratio baaNttte are /  X and Z of nor ratio hogaa :",
+    option: ["1:2", "2 : 1", "3:1", "1:1"],
+    answer: "1:1"
+},
+
+{
+    question: "firm ne a anubNdh from jisof nviiniikrnn not done jaaegaa, bhut more avaastvik profit kmaaor is /  aisii case in is anubNdh from kmaaor profit .............in smmilit not done jaaegaa / ",
+    option: ["partners of profit of hissoN", "khorti of gnnnaa", "a and b donoN", "none of these"],
+    answer: "khorti of gnnnaa"
+},
+
+{
+    question: "each company jisfor DRR bnaanaa compulsory is, vh agle year 31 March to year ending of dauraan due being having (redeemable) amount of debentures of less-from-less how much percent each year 30 April up to bank in jmaa kregii viniyojit kregii?",
+    option: ["10%", "15%", "25%", "50%"],
+    answer: "15%"
+},
+
+{
+    question: "existing partners of profit-division in the ratio onivrtn from is :",
+    option: ["firm of revaluation", "firm of punrgtthn", "firm of dissolution", "none of these"],
+    answer: "firm of punrgtthn"
+},
+
+{
+    question: "dior huaa is year of dauraan net profit 1,00,000 Rs. year of beginning in debtor 30,000 Rs. year of ant in debtor 36,000 Rs. operating activities from cash of amount kor is ?",
+    option: ["30,000 Rs.", "94,000 Rs.", "1,06,000 Rs.", "1,66,000 Rs."],
+    answer: "94,000 Rs."
+},
+
+{
+    question: "sthir capital account vidhi of under partners' capital accounts on interest credit is done:",
+    option: ["partners' capital accounts in", "Profit and Loss Account in", "interest account in", "partners of current account in"],
+    answer: "partners of current account in"
+},
+
+{
+    question: "A and B profitoN to 3 : 4 of in the ratio divided krte are  /  C to 1/5 share for admission given /  nor profit-sharing ratio hogaa:",
+    option: ["3:4:1", "12 : 16:7", "16 : 12:7", "none of these"],
+    answer: "12 : 16:7"
+},
+
+{
+    question: "on dissolution of the firm Realisation Account of loss to in which account debit is done ?",
+    option: ["cash account", "partners' capital accounts", "Realisation Account", "none of these"],
+    answer: "partners' capital accounts"
+},
+
+{
+    question: "bece gye goods of laagt :",
+    option: ["sale-net profit", "sale-gross profit", "purchase-preliminary sttoNk", "above in from toii not"],
+    answer: "sale-gross profit"
+},
+
+{
+    question: "financial statements of vishlessnnoN in shaamil is :",
+    option: ["vorpaarik account", "Profit and Loss Statement", "Balance Sheet", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "incomekr of vaapsii cash of is :",
+    option: ["source", "use", "donoN (A) and (B)", "none of these"],
+    answer: "source"
+},
+
+{
+    question: "vyvsaay of prsiddhi of maudrik value to khte are -",
+    option: ["khorti", "premium", "adhiremaining", "arevenue profit"],
+    answer: "khorti"
+},
+
+{
+    question: "partnership firm of punrgtthn on assets of value in vRddhi of oninnm:",
+    option: ["existing partners to profit", "existing partners to loss", "existing partners to n profit n loss", "none of these"],
+    answer: "existing partners to profit"
+},
+
+{
+    question: "shbd ‘current liabilities’ in shaamil not is :",
+    option: ["sundry creditors", "debenture", "due bil", "apaid expenses"],
+    answer: "debenture"
+},
+
+{
+    question: "revaluation on profit or loss to vhn krte are :",
+    option: ["old partners", "new partners", "all partner", "only do partner"],
+    answer: "old partners"
+},
+
+{
+    question: "a death of a partner being on joint jiivn biimaa policy of following of in Capital Account jmaa is done:",
+    option: ["only mRt partner of", "mRt partner shit all partners of", "remaining bce partners of unof new profit-division in the ratio", "remaining bce partners of unof old profit-division in the ratio"],
+    answer: "mRt partner shit all partners of"
+},
+
+{
+    question: "which of the following which aprofitofrii sNgtthn not is :",
+    option: ["skuul", "asptaal", "club", "partnership firm"],
+    answer: "partnership firm"
+},
+
+{
+    question: "if a firm of total assets 12,00,000 Rs. be and gair current assets 9,00,000 Rs. hoN then gair-current assets total assets of what percentage hogii?",
+    option: ["50%", "75%", "25%", "80%"],
+    answer: "75%"
+},
+
+{
+    question: "on redemption of debentures premium account is :",
+    option: ["asset", "expenses", "liability", "income"],
+    answer: "liability"
+},
+
+{
+    question: "A, B and C,5:3:2 of in the ratio profit baaNttte hue partner are /  in A retirement does /  receivedi ratio jnyaat ofjie :",
+    option: ["3:2", "5:3", "5:2", "none of these"],
+    answer: "3:2"
+},
+
+{
+    question: "bhaartiiy companies to apnaa balance sheet Companies Act, 2013 of anusuucii III of which share in diye gye praaruup according to taiorr krnaa pdd'taa is",
+    option: ["share 1", "share 2", "share 3", "share 4"],
+    answer: "share 1"
+},
+
+{
+    question: "partners of current account tb khole jaate are whenki unof capital account are:",
+    option: ["sthir", "onivrtnshiil", "(A) and (B) donoN", "none of these"],
+    answer: "sthir"
+},
+
+{
+    question: "receivedi and payments account is :",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "real account"
+},
+
+{
+    question: "operating from cash flow of gnnnaa krte time net in profit which addaa goes is :",
+    option: ["rhtior in vRddhi", "rhtior in lack", "debtor in vRddhi", "creditors in lack"],
+    answer: "rhtior in lack"
+},
+
+{
+    question: "partnership firm of punrgtthn on unrecorded creditorsii of accounting krne on hogaa:",
+    option: ["existing partners to profit", "existing partners to loss", "existing partners to n profit n loss", "none of these"],
+    answer: "existing partners to loss"
+},
+
+{
+    question: "khule baajaar in purchase done gye debentures if turNt rdd not is done, then yh investment considered goes is :",
+    option: ["current asset", "current liabilities", "investment", "capital"],
+    answer: "investment"
+},
+
+{
+    question: "partners of interest on capital is :",
+    option: ["expenses", "viplanningaa", "profit", "none of these"],
+    answer: "viplanningaa"
+},
+
+{
+    question: "adhi profit from aap kor smjhte are ?",
+    option: ["total profit / years of sNkhor", "average profit - revenue profit", "bhaarit profit / purchase years of sNkhor", "none of these"],
+    answer: "average profit - revenue profit"
+},
+
+{
+    question: "kmpniyoN for Balance Sheet of sviikRt praaruup anusuucii… in given is :",
+    option: ["VI share I", "VI share II", "III share I", "VI share IV"],
+    answer: "III share I"
+},
+
+{
+    question: "raajendr, stiish and tejpaal of old profit-division 2 : 2 : 1 is /  stiish of fromvaanivRtti of baad unof profit-division 29.",
+    option: ["3:2", "2:1", "1:1", "2:3"],
+    answer: "3:2"
+},
+
+{
+    question: "if sale 4,20,000 Rs. sale vaapsiorN 20,000 Rs. and bece gye goods of laagt 3,20,000 Rs. be then gross profit ratio hogaa :",
+    option: ["20%", "25%", "15%", "10%"],
+    answer: "20%"
+},
+
+{
+    question: "on dissolution of the firm sbfrom ant in which account bnaanaa caahie?",
+    option: ["Realisation Account", "partners' capital accounts", "cash or bank account", "partner's loan account"],
+    answer: "cash or bank account"
+},
+
+{
+    question: "whichii admission of a new partner on, oniassets in huii value of vRddhi be in which account debit will be made?",
+    option: ["Revaluation Account", "asset account", "old partnersoN of account", "none of these"],
+    answer: "asset account"
+},
+
+{
+    question: "which of the following which financial statements vishlessnn of siimaa not is ?",
+    option: ["financial sudRddh'taa of jnyaan received honaa", "jhuutthe dikhaave from prbhaavit honaa", "value str in onivrtn to prktt n krnaa", "gunnaatmk vishlessnn of absence"],
+    answer: "financial sudRddh'taa of jnyaan received honaa"
+},
+
+{
+    question: "among these which khorti of valuation of vidhi not is ?",
+    option: ["revaluation vidhi", "average profit vidhi", "adhi - profit vidhi", "puuNjiikrnn vidhi"],
+    answer: "revaluation vidhi"
+},
+
+{
+    question: "partnership smjhaute of in the absence of partners of interest on capital dior will be:",
+    option: ["8% per annum", "6% per annum", "9% per annum", "none of these"],
+    answer: "none of these"
+},
+
+{
+    question: "biimaa kNpniorN from received daave to considered goes is :",
+    option: ["onicaaln related krioroN from cash flow", "investing activities from cash flow", "financing activities from cash flow", "none of these"],
+    answer: "onicaaln related krioroN from cash flow"
+},
+
+{
+    question: "partner of retirement krne on accumulated profitsoN to whose in Capital Account jmaa done go caahie?",
+    option: ["all partners of old in the ratio", "remaining bce hue partners of new in the ratio", "only retirement krne having partner of usof in the ratio", "none of these"],
+    answer: "all partners of old in the ratio"
+},
+
+{
+    question: "if 1,00,000 Rs. of issue of debentures 10,000 Rs. of btttte on done gor be jo ki caar years of baad redeemable hoN then Profit and Loss Account from per annum discount written off will be :",
+    option: ["3,000 Rs.", "4,000 Rs.", "2,500 Rs.", "5,000 Rs."],
+    answer: "2,500 Rs."
+},
+
+{
+    question: "date of death up to firm of in profit deceased partner of hisfrom of gnnnaa of vidhiorN which-which sii are ?",
+    option: ["time of on the basis of", "sale of on the basis of", "(A) and (B) donoN of on the basis of", "none of these"],
+    answer: "(A) and (B) donoN of on the basis of"
+},
+
+{
+    question: "partnership anubndh in onivrtn of oninnaam is :",
+    option: ["firm of punrgtthn", "firm of dissolution", "firm of eofkrnn", "none of these"],
+    answer: "firm of punrgtthn"
+},
+
+{
+    question: "bhvissy nidhi hetu praavdhaan to of the company Balance Sheet in which shiirssk in is shown :",
+    option: ["reserve and aadhiky", "non-current liabilities", "praavdhaan", "aaksmik liability is"],
+    answer: "non-current liabilities"
+},
+
+{
+    question: "if spsstttor kuch n dior be, then admission fee to considered goes is :",
+    option: ["capital receivedi", "revenue income", "duetaa", "none of these"],
+    answer: "revenue income"
+},
+
+{
+    question: "Revaluation Account in debit side on credit side of aadhiky is :",
+    option: ["profit", "loss", "receivedi", "expenses"],
+    answer: "profit"
+},
+
+{
+    question: "among these which onicaaln aataa is ?",
+    option: ["vstuoN of sale", "interest income", "dividend", "puraanii ofr of sale from profit"],
+    answer: "vstuoN of sale"
+},
+
+{
+    question: "which of the following which financial statements of purpose is ?",
+    option: ["firm of existing profitprdtaa to valueaaNkit krnaa", "firm of redemption kssmtaa of jaanofrii received krnaa", "firm of alpoflik and diirghoflik liquidity of case of valuation krnaa", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "vitt related krioroN from cash flow of udaahrnn is :",
+    option: ["goods of sale", "viniyogoN of sale", "shares of issue from cash receipts", "interest received done"],
+    answer: "shares of issue from cash receipts"
+},
+
+{
+    question: "partner of admission on old citthe in drshaae gye reserve transferred kreNge?",
+    option: ["all partners of capital khaathenN in", "new partnersoN of capital khaathenN in", "old partnersoN of capital khaathenN in", "none of these"],
+    answer: "old partnersoN of capital khaathenN in"
+},
+
+{
+    question: "new partnersii tthhraav of baad taiorr done gye sheet in assets and liabilities of accounting is done:",
+    option: ["muul value on", "revaluation value on", "realisation-yogy value on", "(A) and (B) in from toii a"],
+    answer: "revaluation value on"
+},
+
+{
+    question: "a firm of average profit ₹60,000 is /  viniyojit puuNjii on prtory of dr 12.5% per annum is /  firm in total viniyojit puuNjii ₹4,00,000 thii /  premium of do years of purchase of on the basis of khorti is -",
+    option: ["₹ 20,000", "₹ 15,000", "₹ 10,000", "none of these"],
+    answer: "₹ 20,000"
+},
+
+{
+    question: "proprietary ratio of gnnnaa following formula dvaaraa of jaatii is :",
+    option: ["$\\frac{total\\ assets}{long-term\\ debt}$", "$\\frac{debt}{shareholders\\ of\\ fund}$", "$\\frac{shareholders\\ of\\ fund}{total\\ assets}$", "none of these"],
+    answer: "$\\frac{shareholders\\ of\\ fund}{total\\ assets}$"
+},
+
+{
+    question: "onivrtnshiil capital account to credit is done :",
+    option: ["interest on capital from", "year of profit from", "partners of paarishrmik from", "in all from"],
+    answer: "in all from"
+},
+
+{
+    question: "comparative statementsoN to yh bhii khte are :",
+    option: ["kriorshiil vishlessnn", "horizontal/equalaantr vishlessnn", "lmbvt vishlessnn", "external analysis"],
+    answer: "horizontal/equalaantr vishlessnn"
+},
+
+{
+    question: "profit-receivedi ratio of gnnnaa of jaatii is :",
+    option: ["a admission of a new partner at the time of", "whichii partner of retirement krne on", "partnership firm of vighttit being on", "none of these"],
+    answer: "whichii partner of retirement krne on"
+},
+
+{
+    question: "of the company aNtim account Companies Act, 2013 of which Section of praavdhaan of tht taiorr done jaate are :",
+    option: ["128", "210", "129", "212"],
+    answer: "129"
+},
+
+{
+    question: "year of dauraan received subscription 1,80,000 Rs. year of ant in apaid subscription 20,000 Rs. year of ant in received advance subscription 10,000 Rs.  /  income and expenses account in credit of jaane vaalii cnde of amount hogii :",
+    option: ["2,10,000 Rs.", "1,90,000 Rs.", "1,70,000 Rs.", "2,00,000 Rs."],
+    answer: "1,90,000 Rs."
+},
+
+{
+    question: "a, b and s profit and loss to 3:2:1 of in the ratio baaNttte hue partner are /  s of death be jaatii is and khorti of value 60,000 Rs. lgaaor goes is /  mRt partner of legal heir to khorti of nimit due amount hogii",
+    option: ["30,000 Rs.", "25,000 Rs.", "10,000 Rs.", "20,000 Rs."],
+    answer: "10,000 Rs."
+},
+
+{
+    question: "a the company 1,00,000 12% debentures each 100 Rs. of issued done /  debentures on interest of amount hogii :",
+    option: ["12,000 Rs.", "1,20,000 Rs.", "12,00,000 Rs.", "none of these"],
+    answer: "12,00,000 Rs."
+},
+
+{
+    question: "‘shii’ statement to cihnit ofjie :",
+    option: ["partner of admission at the time of assets and liabilities of revaluation hetu profit and loss smaayojn account taiorr is done", "firm of preceding lossyoN for nor partner daayii is", "if nor partner khorti of amount laane in asmrth be then accounting maank-26 according to firm of pusup to in khorti account kholaa jaa sktaa is", "when whichii partner of admission is, tb firm of dissolution is"],
+    answer: "partner of admission at the time of assets and liabilities of revaluation hetu profit and loss smaayojn account taiorr is done"
+},
+
+{
+    question: "profit-receivedi ratio-",
+    option: ["nor ratio-old ratio", "old ratio-torg ratio", "nor ratio-torg ratio", "old ratio-nor ratio"],
+    answer: "nor ratio-old ratio"
+},
+
+{
+    question: "cash equivalent of relationship in following sty is :",
+    option: ["atydhik liquid short-term investment", "bhut less jokhim", "3 month or 3 month from less period of onipkvtaa", "all of the above"],
+    answer: "all of the above"
+},
+
+{
+    question: "debentures of redemption (viredemption) done jaa sktaa is :",
+    option: ["in profit from", "capital in from", "praavdhaan from", "all of the above from"],
+    answer: "all of the above from"
+},
+
+{
+    question: "khorti is-",
+    option: ["sthaayii sNptti", "adRshy sNptti", "a and b donoN", "none of these"],
+    answer: "a and b donoN"
+},
+
+{
+    question: "specific daan is:",
+    option: ["capital receivedi", "revenue receipt", "asset", "none of these"],
+    answer: "capital receivedi"
+},
+
+{
+    question: "investment on prtory jnyaat krne for viniyojit capital from abhipraay is :",
+    option: ["net fixed assetorN", "current assets-current liabilities", "gross fixed assetorN", "fixed assetorN + current assets – current liabilities"],
+    answer: "fixed assetorN + current assets – current liabilities"
+},
+
+{
+    question: "partners of liability is :",
+    option: ["siimit", "asiimit", "partnership adhirule dvaaraa", "none of these"],
+    answer: "asiimit"
+},
+
+{
+    question: "which of the following which financial statements of siimaa not is ?",
+    option: ["lack of accuracy", "bhuuup toaaliin tthyoN on aaheld", "basis of valuation", "profit and loss of suucnaa"],
+    answer: "profit and loss of suucnaa"
+},
+
+{
+    question: "equity 90,000 Rs. liability 60,000 Rs. year of profit 20,000 Rs. then total assets hoNgii :",
+    option: ["1,70,000 Rs.", "1,50.000 Rs.", "1,10,000 Rs.", "80,000 Rs."],
+    answer: "1,70,000 Rs."
+},
+
+{
+    question: "joint capital company is :",
+    option: ["vaidhaanik kRtrim vykti", "praakRtik vykti", "general vykti", "none of these"],
+    answer: "vaidhaanik kRtrim vykti"
+},
+
+{
+    question: "a, b and s 1/2 : 1/3 : 1/6 of in the ratio share profits  /  s retirement does /  receivedi ratio hogaa :",
+    option: ["2 : 1", "2: 3", "3: 2", "1 : 2"],
+    answer: "3: 2"
+},
+
+{
+    question: "debenture redemption nidhi investment of sale on hue profit to phlii baar jmaa is done :",
+    option: ["debenture redemption fund account in", "profit and loss planning account in", "general reserve account", "sinking fund account in"],
+    answer: "debenture redemption fund account in"
+},
+
+{
+    question: "liquid ratio to name from bhii go goes is :",
+    option: ["current ratio", "shiighr ratio", "capital ratio", "none of these"],
+    answer: "shiighr ratio"
+},
+
+{
+    question: "which krior ‘operating activity’ of under aatii is ?",
+    option: ["bhuumi of purchase", "issue of debentures", "equity shares of issue from receipts", "cash sale"],
+    answer: "cash sale"
+},
+
+{
+    question: "following in which profit of planning is:",
+    option: ["debt on interest", "interest on capital", "salary", "rent"],
+    answer: "interest on capital"
+},
+
+{
+    question: "sm-vicched vishlessnn drshaataa is :",
+    option: ["laagt and sale of biic relationship", "utpaadn and purchase of biic relationship", "laagt and income of biic relationship", "above in from toii not"],
+    answer: "laagt and sale of biic relationship"
+},
+
+{
+    question: "average profit basis of aNtrgt khorti of gnnnaa of jaatii is -",
+    option: ["khriide ge years of sNkhor×average profit", "khriide ge years of sNkhor×premium", "ati profit÷prtorshit prtory of percent dr", "none of these"],
+    answer: "khriide ge years of sNkhor×average profit"
+},
+
+{
+    question: "shares of premium to of the Balance Sheet which side in is shown ?",
+    option: ["asset", "liability", "donoN", "none of these"],
+    answer: "liability"
+},
+
+{
+    question: "partnership firm of punrgtthn on unrecorded asset of accounting krne on hogaa",
+    option: ["existing partner to profit", "existing partner to loss", "existing partner to n profit n loss", "none of these"],
+    answer: "existing partner to profit"
+},
+
+{
+    question: "a club dvaaraa received life membership fee is :",
+    option: ["revenue receipt", "capital receivedi", "(A) and (B) donoN", "none of these"],
+    answer: "capital receivedi"
+},
+
+{
+    question: "partner of retirement krne on, general reserve of amount to all partners' capital accounts in is transferred :",
+    option: ["new profit and loss in the ratio", "capital of -in the ratio in", "old profit and loss in the ratio", "none of these"],
+    answer: "old profit and loss in the ratio"
+},
+
+{
+    question: "partner of admission on, old tuln-ptr in drshaaye gye reserve transferred kreNge / ",
+    option: ["all partners of capital khaathenN in", "new partners of in Capital Account", "old partnersoN of capital khaathenN in", "none of these"],
+    answer: "old partnersoN of capital khaathenN in"
+},
+
+{
+    question: "aaksmik liability to………shiirssk of under is shown :",
+    option: ["sthaayii liability", "current liabilities", "ttippnnii as", "none of these"],
+    answer: "ttippnnii as"
+},
+
+{
+    question: "accounting maank ...........according to only purchase of gii khorti to hii accounting pusup tooN in is shown -",
+    option: ["AS 10", "AS 26", "AS 4", "AS 6"],
+    answer: "AS 26"
+},
+
+{
+    question: "current year of dauraan advance received cnde are :",
+    option: ["income", "asset", "liability", "none of these"],
+    answer: "liability"
+},
+
+{
+    question: "cash sale is :",
+    option: ["onicaaln krior", "viplanning krior", "financing activity", "none of these"],
+    answer: "onicaaln krior"
+},
+
+{
+    question: "when gair-abhilekhit liabilities of payments is done then drshaayeNge",
+    option: ["Realisation Account of debit side in", "bank account of debit side in", "Realisation Account of credit side in", "bank account of credit side in"],
+    answer: "Realisation Account of debit side in"
+},
+
+{
+    question: "redemption fund investment is :",
+    option: ["income", "expenses", "asset", "liability"],
+    answer: "asset"
+},
+
+{
+    question: "a, b and s three partner are jo profit v lossyoN to 4:3:2 of in the ratio baaNttte are  /  d to 1/10 share for admission is given, nor ratio hogaa",
+    option: ["10:7:7:4", "5:3:2:1", "4:3:2:1", "none of these"],
+    answer: "4:3:2:1"
+},
+
+{
+    question: "partnership smjhaute in onivrtn from :",
+    option: ["partners of mdhy relationship bdl jaate are", "partnership vyvsaay of ant be goes is", "partnership firm of dissolution be goes is", "none of these"],
+    answer: "partners of mdhy relationship bdl jaate are"
+},
+
+{
+    question: "biimaa policy of smrpit value from arth us value from is :",
+    option: ["jo whichii on the death of a partner received be", "jo policy of due being on received be", "jo policy of due date from before received can be", "above in from toii not"],
+    answer: "jo policy of due date from before received can be"
+},
+
+{
+    question: "lmbvt vishlessnn to kor goes is :",
+    option: ["asthir vishlessnn", "sthir vishlessnn", "horizontal analysis", "none of these"],
+    answer: "sthir vishlessnn"
+},
+
+{
+    question: "company of annual report jaarii of jaatii is :",
+    option: ["sNcaalk to", "lekhk to", "shareholders to", "prbNdh to"],
+    answer: "shareholders to"
+},
+
+{
+    question: "partnership sNlekh to is called :",
+    option: ["prvivrnn", "paarssd antrrule", "partnership of siddhaaNt", "partnership of antrrule"],
+    answer: "partnership of antrrule"
+},
+
+{
+    question: "aadrsh current ratio is :",
+    option: ["2 :1", "1 : 2", "3 : 2", "3 : 4"],
+    answer: "2 :1"
+},
+
+{
+    question: "on redemption of debentures premium of placement saamaanytH at the time of of jaatii is :",
+    option: ["debentures of issue", "debentures of redemption", "write-off", "10 years after"],
+    answer: "debentures of issue"
+},
+
+{
+    question: "shbd ‘current asset’ in shaamil is :",
+    option: ["diirghoflik investment", "alpoflik investment", "phrniicr", "preliminary expenses"],
+    answer: "alpoflik investment"
+},
+
+{
+    question: "Revaluation Account or profit and loss smaayojn account is :",
+    option: ["personal account", "real account", "nominal account", "none of these"],
+    answer: "nominal account"
+},
+
+{
+    question: "dissolution expensesoN to Realisation Account of which side in likhaa goes is:",
+    option: ["liability", "asset", "debit", "credit"],
+    answer: "debit"
+},
+
+{
+    question: "partners of interest on drawings is:",
+    option: ["vyvsaay for loss", "vyvsaay for profit", "partners to profit", "bank to loss"],
+    answer: "vyvsaay for profit"
+},
+
+{
+    question: "a company of tangible assetorN 4,00,000 Rs. from bddh'kr 5,00,000 Rs. be gii /  among these what percentage of onivrtn huaa ?",
+    option: ["20%", "25%", "33-%", "50%"],
+    answer: "25%"
+},
+
+{
+    question: "a admission of a new partner on, assets of value in lack to debit is done :",
+    option: ["revaluation account in", "oniasset account in", "old partnersoN of capital khaathenN in", "none of these"],
+    answer: "revaluation account in"
+},
+
+{
+    question: "Cash Flow Statement taiorr is done :",
+    option: ["Balance Sheet from", "Profit and Loss Account from", "atirikt suucnaaoN from", "all of these"],
+    answer: "all of these"
+},
+
+{
+    question: "balance cittu in share capital to……….shiirssk of under is shown ?",
+    option: ["authorised capital", "issued capital", "paid-up capital", "shareholder fund"],
+    answer: "shareholder fund"
+},
+
+{
+    question: "partnership adhirule praavdhaan does ki retirement krne having by a partner chodd'e ge capital remaining on interest milnaa caahie:",
+    option: ["5%", "6%", "bank dr", "8%"],
+    answer: "6%"
+},
+
+{
+    question: "gair-vorpaarik sNsthaaoN in duetaaoN on oniassets of aadhiky to khte are:",
+    option: ["capital nidhi", "capital", "profit", "net profit"],
+    answer: "capital nidhi"
+},
+
+{
+    question: "eofof vorpaar in goodwill is valued required not is ?",
+    option: ["vyvsaay becne on", "any vykti to partner making on", "sNpdaa of nirdhaarnn on", "vorpaar bNd krne on"],
+    answer: "vorpaar bNd krne on"
+},
+
+{
+    question: "profit-receivedi ratio is",
+    option: ["nor ratio-torg ratio", "old ratio -torg ratio", "nor-ratio-old ratio", "old ratio- nor ratio"],
+    answer: "nor-ratio-old ratio"
+},
+
+{
+    question: "operating activities from cash flow jnyaat krte time addaa will be :",
+    option: ["sttoNk in vRddhi", "creditors in vRddhi", "due viptroN in lack", "debtoroN in vRddhi"],
+    answer: "creditors in vRddhi"
+},
+
+{
+    question: "profits of the preceding three years are: ₹ 42,000, ₹ 39,000 and ₹ 45,000 /  average profitoN of 2 year of purchase on khorti of value hogaa-",
+    option: ["₹ 42,000", "₹ 84,000", "₹ 1,26,000", "₹ 36,000"],
+    answer: "₹ 84,000"
+},
+
+{
+    question: "debenture holder to miltaa is :",
+    option: ["dividend", "interest", "dividend and interest daanoN", "bonus"],
+    answer: "interest"
+},
+
+{
+    question: "profit n kmaane vaalii sNsthaaoN in expenses of income on adhiktaa to is called :",
+    option: ["loss", "profit", "lack/ghaattaa", "adhiremaining"],
+    answer: "lack/ghaattaa"
+},
+
+{
+    question: "partners of capital sthaayii being on which-from account jaate are ?",
+    option: ["only capital account", "only current account", "liability account", "capital and current account"],
+    answer: "capital and current account"
+},
+
+{
+    question: "interest on capital to saamaanytH maannaa caahie :",
+    option: ["profit of viplanning", "a asset", "a expenses", "none of these"],
+    answer: "profit of viplanning"
+},
+
+{
+    question: "Securities Premium Account to balance citttth of liabilities side in which shiirss of under is shown :",
+    option: ["reserves and surplus", "current duetaaeN and praavdhaan", "share capital", "sNdigdh liability"],
+    answer: "reserves and surplus"
+},
+
+{
+    question: "sale in from bece gye goods of laagt ghttaakr jnyaat of gii amount is:",
+    option: ["operating profit", "gross profit", "net profit", "total profit"],
+    answer: "gross profit"
+},
+
+{
+    question: "whichii admission of a new partner on avitrit profitoN to jo ki whichii firm of balance sheet in drshaaye gye are, capital khaathenN in transferred hoNge / ",
+    option: ["old partnersoN to old profit-division ratioin", "old partnersoN to new profit-division in the ratio", "all partners to new profit-division in the ratio", "none of these"],
+    answer: "old partnersoN to old profit-division ratioin"
+},
+
+{
+    question: "a death of a partner at the time of on firm all partners for lii gii joint jiivn biimaa policy of prti biimaa company from……. paatii is / ",
+    option: ["policy amount", "surrender value", "mRt partner of policy amount", "all partners of surrender value"],
+    answer: "policy amount"
+},
+
+{
+    question: "profitprdtaa ratio saamaanytH prdrshit is done :",
+    option: ["general ratio", "percent", "gunnaa", "none of these"],
+    answer: "percent"
+},
+
+{
+    question: "partner of retirement krne on, khorti of puurii amount whose in Capital Account credit of jaa sktii is:",
+    option: ["retirement krne having partner of", "remaining partnersoN of", "all partners of", "none of these"],
+    answer: "all partners of"
+},
+
+{
+    question: "when do or more sNsthaaoN of financial statements of vishlessnn",
+    option: ["internal firm vishlessnn", "aNtr-institution vishlessnn", "shiirss vishlessnn", "none of these"],
+    answer: "aNtr-institution vishlessnn"
+},
+
+{
+    question: "a of the company long-term redemption kssmtaa jnyaat krne for which ratio atynt mhtvpuurnn is ?",
+    option: ["profitability ratio", "debt-equity ratio", "sttoNk turnover ratio", "current ratio"],
+    answer: "debt-equity ratio"
+},
+
+{
+    question: "bhaartiiy Companies Act, 2013 of which Section according to Balance Sheet sviikRt praaruup in taiorr done go caahie?",
+    option: ["Section 128", "Section 130", "Section 129", "Section 212"],
+    answer: "Section 129"
+},
+
+{
+    question: "new by a partner cash in laayii gii khorti is called:",
+    option: ["asset", "profit", "premium", "none of these"],
+    answer: "premium"
+},
+
+{
+    question: "svyN of debentures of rdd being from being having profit is :",
+    option: ["revenue profit", "capital profit", "operating profit", "vorpaarik profit"],
+    answer: "capital profit"
+},
+
+{
+    question: "Income and Expenditure Account in likhe jaate are len-den drj krne for :",
+    option: ["only capital nature", "only revenue nature", "(A) and (B) donoN of", "none of these"],
+    answer: "only revenue nature"
+},
+
+{
+    question: "partner of salary from name is done :",
+    option: ["vorpaarik account", "Profit and Loss Account", "profit and loss planning account", "none of these"],
+    answer: "vorpaarik account"
+},
+
+{
+    question: "by a partner realisation expensesoN of payments of on undertaking responsibility credit done jaaegaa :",
+    option: ["Realisation Account", "cash account", "partner's capital account", "above in from toii not"],
+    answer: "partner's capital account"
+},
+
+{
+    question: "aadhiprofit basis of aNtrgt khorti of gnnnaa of jaatii is -",
+    option: ["khriide ge years of sNkhor×average profit", "khriide ge years of sNkhor×premium", "ati profit÷prtory of prtorshit dr", "none of these"],
+    answer: "khriide ge years of sNkhor×premium"
+},
+
+{
+    question: "torg ratio :",
+    option: ["nor ratio-old ratio", "old ratio-nor ratio", "receivedi ratio-old ratio", "old ratio-receivedi ratio"],
+    answer: "old ratio-nor ratio"
+},
+
+{
+    question: "Cash Flow Statement in ‘interest’ of item drshaayii jaatii is :",
+    option: ["operating activities in", "investing activityoN in", "financing activities in", "donoN (D) and (C) in"],
+    answer: "donoN (D) and (C) in"
+},
 ];
 
 // --- Helper: Shuffle questions ---
