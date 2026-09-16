@@ -2515,10 +2515,2512 @@ const psychologyHindi = [
 
 // English Questions
 const psychologyEnglish = [
-  // Variations in Psychological Attributes
-  { question: "What is intelligence?", option: ["Mental ability", "Physical ability", "Social ability", "Emotional ability"], answer: "Mental ability" },
-  { question: "What is formula of IQ?", option: ["MA/CA × 100", "CA/MA × 100", "MA × CA × 100", "MA + CA × 100"], answer: "MA/CA × 100" },
-  
+{
+    question: "buddhi of vissy on shodh function doing which before mnovaiknowledgeik thaa",
+    option: ["bine", "spiiyrmain", "thoNmsn", "gilphordd"],
+    answer: "bine"
+},
+{
+    question: "sNvegaatmk buddhi’ pd of prtipaadn who done?",
+    option: ["gaalttn", "vudd and vudd", "sailove and meyr", "None of these"],
+    answer: "sailove and meyr"
+},
+{
+    question: "who buddhi to one saarvbhaumik capacity maanaa is?",
+    option: ["veshlr", "bine", "gaarddnr", "None of these"],
+    answer: "veshlr"
+},
+{
+    question: "thrsttn according to, buddhi in how many primary mental yogytaaeN upsthit occursN?",
+    option: ["5", "6", "7", "8"],
+    answer: "7"
+},
+{
+    question: "following in which one person of shiilgunn is?",
+    option: ["buddhi", "abhiprernnaa", "sRjnaatmktaa", "sNveg"],
+    answer: "buddhi"
+},
+{
+    question: "jin vyktiyoN of buddhi-lbdhi 90 from 100 between occurs, unheN called are-",
+    option: ["water", "muuddh'", "normal", "prtibhaashaalii"],
+    answer: "normal"
+},
+{
+    question: "who said ki ‘amuurt cintn of yogytaa only buddhi is?",
+    option: ["bine", "ttrmn", "rebr", "None of these"],
+    answer: "rebr"
+},
+{
+    question: "jin vyktiyoN of buddhi-lbdhi 80 from 89 between occurs, unheN called are-",
+    option: ["prtibhaashaalii", "muuddh'", "sust", "average"],
+    answer: "muuddh'"
+},
+{
+    question: "kisn buddhi lbdhi of sNprtyy to viksit done?",
+    option: ["bine", "ttrmn", "sttrn", "saaimn"],
+    answer: "sttrn"
+},
+{
+    question: "person of life in success of what percentage sNvegaatmk buddhi from determined is?",
+    option: ["approximately 60 percent", "approximately 70 percent", "approximately 80 percent", "approximately 100 percent"],
+    answer: "approximately 80 percent"
+},
+{
+    question: "primary mental yogytaa of principle who prstut done?",
+    option: ["likrtt", "gilphordd", "thrsttn", "gaarddnr"],
+    answer: "thrsttn"
+},
+{
+    question: "In which year buddhi of near moNddle viksit was?",
+    option: ["1984", "1994", "1954", "1964"],
+    answer: "1994"
+},
+{
+    question: "mental age of sNprtyy to who viksit done?",
+    option: ["bine", "sttrn", "ttrmn", "bine and saaimn"],
+    answer: "bine"
+},
+{
+    question: "buddhi of kinke principle to one-kaarkiiy principle said was is?",
+    option: ["gilphordd", "jensn", "thrsttn", "bine"],
+    answer: "bine"
+},
+{
+    question: "which children of buddhi lbdhi 35-49 occurs, use which shrennii in rkhaa jaa can is?",
+    option: ["saumy mental durbltaa", "saadhaarnn mental durbltaa", "gmbhiir mental durbltaa", "ati gmbhiir mental durbltaa"],
+    answer: "saadhaarnn mental durbltaa"
+},
+{
+    question: "aagmnaatmk trknaa to who buddhi of one kaark maanaa?",
+    option: ["jensn", "spiiyrmain", "thrsttn", "gilphordd"],
+    answer: "thrsttn"
+},
+{
+    question: "mnovaiknowledgeik of bauddhik skill to which shrennii in rkhaa jaaegaa?",
+    option: ["normal skill", "prekssnnaatmk skill", "special skill", "None of these"],
+    answer: "prekssnnaatmk skill"
+},
+{
+    question: "gaarddnr according to nimnaaNkit in kise buddhi of one shrennii not maanaa was is?",
+    option: ["taarkik gnnitiiy", "jii kaark", "sthaanik", "antraavai bhktik"],
+    answer: "jii kaark"
+},
+{
+    question: "near moNddl of vistaarit form what is?",
+    option: ["scheme, avdhaan bhaav, prbodhn, shkaalik anukrmik", "avdhaan bhaav prbodhn, shkaalik anukrmik scheme", "shkaalik anukrmik scheme, avdhaan bhaav prbodhn", "None of these"],
+    answer: "shkaalik anukrmik scheme, avdhaan bhaav prbodhn"
+},
+{
+    question: "buddhi sNrgram moNddl who viksit done?",
+    option: ["gaarddnr", "gilphordd", "jensn", "None of these"],
+    answer: "gilphordd"
+},
+{
+    question: "person of srjnaatmktaa of capacity to which mnovaiknowledgeik ne prbhaavii aashcry’ of name given is?",
+    option: ["bruunr", "paasii", "baakr mehdii", "ttorens"],
+    answer: "bruunr"
+},
+{
+    question: "sNvegaatmk buddhi of ttvoN in following in from kise not rkhaa jaa can is?",
+    option: ["apne sNvegoN of correct jaankaarii keep", "svyN to prerit to do", "another to dhmkii give", "another of sNvegoN to phcaannaa"],
+    answer: "another to dhmkii give"
+},
+{
+    question: "which children of buddhi-lbdhi 33-49 occurs, use which shrennii in rkhaa jaa can is?",
+    option: ["saumy mental durbltaa", "saadhaarnn mental durbltaa", "gmbhiir mental durbltaa", "ati gmbhiir durbltaa"],
+    answer: "saadhaarnn mental durbltaa"
+},
+{
+    question: "buddhi of dvi-kaark principle of prtipaadn who done?",
+    option: ["caarls spiiyrmain", "bine", "rebr", "None of these"],
+    answer: "caarls spiiyrmain"
+},
+{
+    question: "Which of the following srjnaatmk cintn of stage is not?",
+    option: ["styaapn", "udbhvn", "dhaarnnaa", "taiyaarii"],
+    answer: "dhaarnnaa"
+},
+{
+    question: "buddhi of bhuttv principle of prtipaadn which done?",
+    option: ["thrsttn", "bine", "rebr", "spiiyr main"],
+    answer: "thrsttn"
+},
+{
+    question: "thaarnddaaik ne buddhi to how many vrgoN in vibhaajit done?",
+    option: ["five", "three", "two", "ch:"],
+    answer: "three"
+},
+{
+    question: "25 from below buddhi-lbdhi which people to which class in rkhaa jaaegaa?",
+    option: ["muurkh", "kssiinn buddhi", "alpmti", "jdd' buddhi"],
+    answer: "jdd' buddhi"
+},
+{
+    question: "vunntt where of rhne which the?",
+    option: ["phraaNs", "iNglainndd", "jrmnii", "ittlii"],
+    answer: "jrmnii"
+},
+{
+    question: "vaishlr ne adult buddhi test done-",
+    option: ["1964 ii. in", "1963 ii. in", "1961 ii. in", "1955 ii. in"],
+    answer: "1955 ii. in"
+},
+{
+    question: "near-eloNg test which done-",
+    option: ["alekjennddr ne", "bine ne", "spiiyrmain ne", "gaarddnr ne"],
+    answer: "alekjennddr ne"
+},
+{
+    question: "group khnndd principle of prtipaadn who done thaa?",
+    option: ["gaarddnr", "spiiyrmain", "bine", "alekjennddr"],
+    answer: "spiiyrmain"
+},
+{
+    question: "human vishesstaaoN of adhyyn doing for gaalttn ne when pryogshaalaa establishment done?",
+    option: ["1882 ii. in", "1883 ii. in", "1884 ii. in", "1885 ii. in"],
+    answer: "1882 ii. in"
+},
+{
+    question: "gaarddnr ne abhii up to kul how many types of buddhi of phcaan done is?",
+    option: ["five", "six", "seven", "eight"],
+    answer: "eight"
+},
+{
+    question: "ne and muulyvaanN vicaaroN to giving of capacity to said goes is?",
+    option: ["buddhi", "suujh", "abhikssmtaa", "srjnshiiltaa"],
+    answer: "srjnshiiltaa"
+},
+{
+    question: "if any person of psychic incomeu and Real incomeu approximately braabr-braabr be then vh is called is-",
+    option: ["tiivr buddhi of person", "mNd buddhi of person", "normal buddhi of person", "prtibhaashlii buddhi of person"],
+    answer: "normal buddhi of person"
+},
+{
+    question: "gilphordd of buddhi moNddl in bauddhik kssmtaaoN of shrenniyaaN are-",
+    option: ["180", "100", "120", "150"],
+    answer: "150"
+},
+{
+    question: "person of any special field of special yogytaa khlaatii is-",
+    option: ["vyktitv", "abhikssmtaa", "abhivRtti", "abhiruci"],
+    answer: "abhikssmtaa"
+},
+{
+    question: "spiiyrmain according to buddhi of tttv are-",
+    option: ["3", "2", "1", "4"],
+    answer: "2"
+},
+{
+    question: "buddhi of ‘scheme, avdhaan-bhaav prbodhn and shkaalik-anukrmik moNddl’ to prstaavit done-",
+    option: ["je.pii. daas-naagliirii-kirbii", "bine-ttrmn-krbii", "naagliirii-bine-ttrmn", "None of these"],
+    answer: "je.pii. daas-naagliirii-kirbii"
+},
+{
+    question: "“sttrnvrg’ according to buddhi of shrennii is-",
+    option: ["55", "2", "1", "3"],
+    answer: "3"
+},
+{
+    question: "if any children of Real incomeu 100 mhiinaa is and psychic incomeu 120 mhiinaa is then uskii buddhi-lbdhi hogii–",
+    option: ["105", "110", "90", "120"],
+    answer: "120"
+},
+{
+    question: "mental unmaapk is-",
+    option: ["Real incomeu of", "buddhi of nirpekss level of", "kaalaanukrmit age of", "None of these"],
+    answer: "buddhi of nirpekss level of"
+},
+{
+    question: "buddhi maapne for srvprthm pryogshaalaa establishment which and when did?",
+    option: ["vunntt (1879)", "gaalttn (1883)", "spiiyrmain (1873)", "bine (1883)"],
+    answer: "vunntt (1879)"
+},
+{
+    question: "vyaavhaarik buddhi of meaning this is ki buddhi sNskRti of product occursN this whose kthn is?",
+    option: ["sttrnbrg", "vaaigoNtts", "sailovii", "meyr"],
+    answer: "sttrnbrg"
+},
+{
+    question: "vibhedk test use of which mnovaiknowledgeik ne Indian anukuuln according to viksit done is?",
+    option: ["hores", "vaalaash", "je.pii. gilphordd", "je.em. ojhaa"],
+    answer: "je.em. ojhaa"
+},
+{
+    question: "which abhikssmtaa to e.es.ttii. of name from go goes is?",
+    option: ["vibhedk abhikssmtaa", "normal adhikssmtaa", "aardd srvisej abhikssmtaa", "vyaafatyik abhikssmtaa"],
+    answer: "aardd srvisej abhikssmtaa"
+},
+{
+    question: "shaabdik trknaa, aaNkik trknaa which abhikssmtaa of under come are?",
+    option: ["vyaafatyik abhikssmtaa", "aardd srvisej abhikssmtaa", "normal abhikssmtaa", "vibhedk abhikssmtaa"],
+    answer: "vibhedk abhikssmtaa"
+},
+{
+    question: "following in from sNskRti mukt test which-saa is?",
+    option: ["bine-saaimn test", "veshler buddhi test", "kaittel buddhi test", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "prtibhaashaalii children of most bdd'ii characteristic is-",
+    option: ["suujh", "dRddh'taa", "mauliktaa", "sNvegaatmk pripkvtaa"],
+    answer: "mauliktaa"
+},
+{
+    question: "Which of the following shaabdik buddhi test is?",
+    option: ["near elaaNg test", "ghn construction test", "sttainphordd-bine test", "All of these"],
+    answer: "sttainphordd-bine test"
+},
+{
+    question: "nimnaaNkit in from special child is not?",
+    option: ["prtibhaashaalii child", "normal child", "mental durbl child", "disabled child"],
+    answer: "normal child"
+},
+{
+    question: "reven progresiv maittrik which trh of buddhi test is?",
+    option: ["shaabdik buddhi test", "ashaabttik buddhi test", "motor buddhi test", "None of these"],
+    answer: "ashaabttik buddhi test"
+},
+{
+    question: "phrittj haaiddr of sNtuln principle in P-O-X moNddl in O prtinidhitv does is-",
+    option: ["another person to", "which person of mnovRddhi of adhyyn done", "duusrii item to", "None of these"],
+    answer: "which person of mnovRddhi of adhyyn done"
+},
+{
+    question: "ttii.e.ttii. vyktitv maapn what type of test is?",
+    option: ["prshnaavlii", "aatm vivrnn aavisskaarikaa", "kaagj-pensil test", "prkssepii"],
+    answer: "prkssepii"
+},
+{
+    question: "rojrs ne apne vyktitv principle in kendriy place given is-",
+    option: ["aatm to", "acetn to", "adhigm to", "requirement to"],
+    answer: "aatm to"
+},
+{
+    question: "Which of the following aannd principle from nirdeshit is?",
+    option: ["ahN", "idN", "praahN", "None of these"],
+    answer: "idN"
+},
+{
+    question: "nimnaaNkit in from which yuNg of vyktitv type under not smjhaa goes is?",
+    option: ["bhirmukhii", "eNddomoNrphii", "antrmukhii", "ubhymukhii"],
+    answer: "eNddomoNrphii"
+},
+{
+    question: "aadrsh behavior of smbndh in sthaaii vishvaas to said goes",
+    option: ["vyktitv", "value", "abhiruci", "abhikssmtaa"],
+    answer: "value"
+},
+{
+    question: "vyktitv principle of vishessk upaagm of agrnnii is-",
+    option: ["phraaydd", "yuNg", "oNlportt", "kreshmr"],
+    answer: "oNlportt"
+},
+{
+    question: "Which of the following yuNg of vyktitv type of under smjhaa goes is?",
+    option: ["antrmukhii", "golaakaar", "lmbaakaar", "aaytaakaar"],
+    answer: "antrmukhii"
+},
+{
+    question: "which thaarddnaaik of siikhne of niym is not?",
+    option: ["saahcry niym", "ttprtaa of niym", "abhyaas of niym", "effect of niym"],
+    answer: "saahcry niym"
+},
+{
+    question: "siikhne of suujh siddhaaNt according to praannii success of is received is-",
+    option: ["sNyogvsh", "krmshH", "ekaaek", "None of these"],
+    answer: "ekaaek"
+},
+{
+    question: "roshaaNk test is-",
+    option: ["buddhi test", "abhikssmtaa test", "prkssepii test", "None of these"],
+    answer: "prkssepii test"
+},
+{
+    question: "Which of the following shelddn of vyktitv type under smjhaa goes is?",
+    option: ["aNtrmukhii", "bhirmukhii", "golaakaar", "ubhymukhii"],
+    answer: "golaakaar"
+},
+{
+    question: "phraaydd according to ilekttraa of period maiN ldd'kiyaaN prtiyogitaa does are-",
+    option: ["sister from", "brother from", "mother from", "pitaa from"],
+    answer: "mother from"
+},
+{
+    question: "who aatmsiddhtaa of avdhaarnnaa to prstut done?",
+    option: ["maaslo", "rojrs", "phraaydd", "yuNg"],
+    answer: "maaslo"
+},
+{
+    question: "eddlr of mnoviknowledge to said goes is?",
+    option: ["gtyaatmk mnoviknowledge", "vishlessnnaatmk mnoviknowledge", "maanvtaavaadii mnoviknowledge", "vaiyktik mnoviknowledge"],
+    answer: "vaiyktik mnoviknowledge"
+},
+{
+    question: "kthaank aatmbodh test of nirmaataa which are?",
+    option: ["maargn and rojenvig", "murre and maargn", "kaittel", "roshNk and mure"],
+    answer: "murre and maargn"
+},
+{
+    question: "nimnaaNkit in from which sv of one type is not?",
+    option: ["phcaan sv", "personal sv", "social sv", "sNbNdhaatmk sv"],
+    answer: "phcaan sv"
+},
+{
+    question: "vaiyktik vibhinntaaoN of mhtv of srvprthm vaiknowledgeik adhyyn done-",
+    option: ["kaittel", "gaalttn", "hl", "jems ddrevr"],
+    answer: "gaalttn"
+},
+{
+    question: "ttaaiip sii vyktitv of prtipaadn who done?",
+    option: ["aalportt ne", "maaris ne", "phriiddmain ne", "None of these"],
+    answer: "maaris ne"
+},
+{
+    question: "phraaydd according to children vipriit liNg of Parents from shj judd'aav mhsuus do haiN /  ise what said goes is?",
+    option: ["protection yuktiyaaN", "praahm", "iddips and ilekttr mnogrNthi", "hiinbhaavnaa mnogrNthi"],
+    answer: "iddips and ilekttr mnogrNthi"
+},
+{
+    question: "vaiyktik bhinntaa of meaning is-",
+    option: ["vyktiyoN characteristic ofoN in aNtr", "vyktiyoN of behavior paittrn in variety from", "(a) and (b) both", "None of these"],
+    answer: "(a) and (b) both"
+},
+{
+    question: "ddraa-e-prsn test production of by whom done was thaa?",
+    option: ["sttainphordd", "veshlr", "rojenbiNg", "None of these"],
+    answer: "None of these"
+},
+{
+    question: "who aatmsiddh of avdhaarnnaa to prstut done?",
+    option: ["maaslo", "rojrs", "phraaydd", "yug"],
+    answer: "maaslo"
+},
+{
+    question: "Which of the following vyktitv characteristic is?",
+    option: ["buddhi", "abhiprernnaa", "sRjnaatmktaa", "sNveg"],
+    answer: "sRjnaatmktaa"
+},
+{
+    question: "Which of the following aatm control of tkniik is not?",
+    option: ["aatm-nirdeshn", "aatm-niymn", "behavior prekssnn", "aatm-prbln"],
+    answer: "aatm-niymn"
+},
+{
+    question: "nimnaaNkit in from which vaastviktaa of niym from nirdeshit is?",
+    option: ["upaah", "praah", "ahN", "None of these"],
+    answer: "ahN"
+},
+{
+    question: "saamuuhik acetn of sNprtyy of prtipaadn who done is?",
+    option: ["yuNg", "eddlr", "phraaydd", "None of these"],
+    answer: "yuNg"
+},
+{
+    question: "nimnaaNkit in which sv ahm of sNknowledgeaatmk aspect is?",
+    option: ["aatmsNprtyy", "aatmkssmtaa", "aatmsmmaan", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "vyktitv development of correct krm is-",
+    option: ["ahm-praahm-idm", "idm-ahm-praahm", "idm-praahm-ahm", "praahm-ahm-idm"],
+    answer: "idm-ahm-praahm"
+},
+{
+    question: "rojrs ne apne vyktitv principle in kendriiy place given is-",
+    option: ["sv to", "acetn to", "adhigm to", "requirement to"],
+    answer: "sv to"
+},
+{
+    question: "phraaydd according to mn of akaaraatmk moNddl is-",
+    option: ["cetn", "upaah", "ahm", "praahm"],
+    answer: "upaah"
+},
+{
+    question: "shelddn of vyktitv type in is not-",
+    option: ["golaakaar", "aaytaakaar", "lmbaakaar", "kRshkaay"],
+    answer: "aaytaakaar"
+},
+{
+    question: "mnovishlessnnaatmk principle in vyktitv function ofpaalk kise said was is?",
+    option: ["praahN", "ahN", "upaah", "All of these to"],
+    answer: "ahN"
+},
+{
+    question: "person of vishessk principle ….by given was is?",
+    option: ["phraaydd", "oNlportt", "sulliimaan", "kaittel"],
+    answer: "oNlportt"
+},
+{
+    question: "life muulprvRtti of sNprtyy of prtipaadn by whom done was?",
+    option: ["eddlr", "yuNg", "vaattsn", "phraaydd"],
+    answer: "phraaydd"
+},
+{
+    question: "aatm to which form in smjhaa jaa can is?",
+    option: ["aatmgt", "vstugt", "aatmgt and vstugt", "None of these"],
+    answer: "aatmgt and vstugt"
+},
+{
+    question: "pii.eph. adhyyn to who viksit done?",
+    option: ["rojenjvig", "haarpr", "phraam", "oiNjr"],
+    answer: "rojenjvig"
+},
+{
+    question: "rojh msilkssm test in how many msilkssm isN?",
+    option: ["5", "10", "15", "20"],
+    answer: "10"
+},
+{
+    question: "‘elder puuNc’ in following in from kise shaamil not done was is?",
+    option: ["bhirmukhtaa", "mnstaap", "krttvynisstthtaa", "prbhutv"],
+    answer: "prbhutv"
+},
+{
+    question: "jodhpur bhupkssiiy vyktitv suucii to who viksit done?",
+    option: ["mllik and joshii", "joshii and siNh", "em.pii. shrmaa", "e.of. guptaa"],
+    answer: "mllik and joshii"
+},
+{
+    question: "one prekssk of riportt in jo prdtt are, ve how obtained are?",
+    option: ["saakssaatkaar from", "prekssnn and nirdhaarnn from", "name-nirdeshn from", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "ttii.e.ttii. to who viksit done?",
+    option: ["phraaydd and gaarddnr", "mreN and spairaa", "moNrgn and phraaydd", "moNrgn and mre"],
+    answer: "moNrgn and mre"
+},
+{
+    question: "following in in which person main form from apne baare in only sNbddh of anubhv does is?",
+    option: ["personal aatm", "social aatm", "family aatm", "None of these"],
+    answer: "personal aatm"
+},
+{
+    question: "aatm of baare in children of dhaarnnaa to svruup giving in kinkii bhuumikaa ahN occurs?",
+    option: ["Parents", "mitroN", "shiksskoN", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "following in which aatm-control for mnovaiknowledgeik tkniik is?",
+    option: ["aatm-anudesh", "apne behavior of prekssnn", "aatm prbln", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "vyktitv to antrmukhii and bhirmukhii prkaaroN in who baaNttaa is?",
+    option: ["kreshmr", "yug", "shelddn", "eddlr"],
+    answer: "yug"
+},
+{
+    question: "maanvtaavaadii upaagm towardspaadk is-",
+    option: ["bii.eph. skiinr", "albrtt bnduraa", "jaarj kelii", "ebraahm maislo"],
+    answer: "ebraahm maislo"
+},
+{
+    question: "one girl to apne pitaa from kaamuk lgaav and mother of place lene of icchaa to said goes is?",
+    option: ["ilekttraa or pit mnogrnthi", "oddips or maatR mnogrnthi", "life-prvRtti", "death-prvRtti"],
+    answer: "ilekttraa or pit mnogrnthi"
+},
+{
+    question: "iNdd aadhaarit is-",
+    option: ["vaastviktaa of principle on", "naitiktaa of principle on", "sukhepsaa of principle on", "saamaajiktaa of principle on"],
+    answer: "sukhepsaa of principle on"
+},
+{
+    question: "who kuNtthaa-aakrmnn principle of prtipaadn done is?",
+    option: ["phraaydd", "skiinr", "elddr and yuNg", "milr and ddolaardd"],
+    answer: "milr and ddolaardd"
+},
+{
+    question: "kaittel ne vyktitv of shiilgunn gucchoN of sNkhyaa btlaayaa is?",
+    option: ["12", "16", "18", "24"],
+    answer: "16"
+},
+{
+    question: "shiilgunn khlaane for necessary is-",
+    option: ["behavior in sNgttaa", "behavior in sthirtaa", "behavior in sNgttaa and sthirtaa both", "above-mentioned in from any not"],
+    answer: "behavior in sNgttaa and sthirtaa both"
+},
+{
+    question: "saamuuhik acetn of aNtrvstuoN for yuNgN by pryukt pd; anubhv of sNgtthn for vNshaagt prtiruupoN to abhivykt krnevaalii prtimaaeN or prtiik following in from what khlaate are?",
+    option: ["abhivRttiyaaN", "svliintaa", "aadyprruup", "None of these"],
+    answer: "aadyprruup"
+},
+{
+    question: "maislo of requirement pdaanukrm principle in aatm smmaan of place below from which level on comes is?",
+    option: ["duusraa", "tiisraa", "cauthaa", "paaNcvaaN"],
+    answer: "cauthaa"
+},
+{
+    question: "vyktitv of naitik pkss of prtinidhitv does is?",
+    option: ["idN", "ahm", "praahm", "acetn"],
+    answer: "praahm"
+},
+{
+    question: "annaa phraaydd of yogdaanoN to nimnaaNkit in which shrennii in rkheNge?",
+    option: ["mnovishlessnnaatmk", "nv mnovishlessnnaatmk", "sNknowledgeaatmk", "maanvtaavaadii"],
+    answer: "nv mnovishlessnnaatmk"
+},
+{
+    question: "vyktitv of shiilgunn of basis on who vyktvi to vibhaajit done?",
+    option: ["kreshmr", "shelddn", "yuNg", "None of these"],
+    answer: "shelddn"
+},
+{
+    question: "Which of the following gilphordd of trivimaatmk principle of kaark is not?",
+    option: ["sNkriyaa", "sNkhyaatmk yogytaa", "vissyvstu", "product"],
+    answer: "sNkhyaatmk yogytaa"
+},
+{
+    question: "one prbhaavii mnovaiknowledgeik characteristic of occurs-",
+    option: ["saamrthy", "vaiknowledgeik maansiktaa", "uttrdaayitv of bodh", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "sv of vibhinn pkss of sNkhyaa what is?",
+    option: ["7", "6", "4", "8"],
+    answer: "4"
+},
+{
+    question: "nimnaaNkit in kise sv of pkss maanaa was is?",
+    option: ["sv dksstaa to", "aatm gaurv to", "aatm phcaan to", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "ttaaip A and B of vyktitv of prtipaadn who done?",
+    option: ["phriiddmain", "aalpor", "kaittel", "maaslo"],
+    answer: "phriiddmain"
+},
+{
+    question: "ttaaip A type of vyktitv in Which of these-sii characteristic paaii goes is?",
+    option: ["prtiyogii bhaavnaa", "aakrmtaa", "besbrii", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "when person apne ahN to any kssttkr icchaa of tthiik vipriit icchaa of prernnaa viksit by usse produced ciNtaa from apne aapko bcaataa is then use said goes is-",
+    option: ["yauktikiikrnn", "prtikryaa construction", "prkssepnn", "None of these"],
+    answer: "prtikryaa construction"
+},
+{
+    question: "following in which apne aatmniyntrnn of prvidhi is not?",
+    option: ["apne behavior of svyN niriikssnn", "aatm smmaan", "uddiipk control", "aatm prvrtn"],
+    answer: "aatm smmaan"
+},
+{
+    question: "em0pii0pii0aaii0 avisskaarikaa who viksit done?",
+    option: ["oNlportt", "haathve and maikinle", "aaijenk", "kaittel"],
+    answer: "haathve and maikinle"
+},
+{
+    question: "who person to puurnnruup from kaaryshiil person maanaa is?",
+    option: ["kaarl rojrs", "maaslo", "kaarl yug", "erik phroNm"],
+    answer: "kaarl rojrs"
+},
+{
+    question: "person of kaark vishlessnn principle of prtipaadk which is?",
+    option: ["oNlportt", "phriiddmain", "kaittel", "None of these"],
+    answer: "kaittel"
+},
+{
+    question: "which stage in jnnendriyoN on phoks is?",
+    option: ["gudaa stage", "liNg prdhaanaavsthaa", "jnnndriyaavsthaa", "mukhaa stage"],
+    answer: "jnnndriyaavsthaa"
+},
+{
+    question: "phraaydd by prtipaadit mnovishlessnn method of smbndh in which saa kthn sty is?",
+    option: ["mnovishlessnn vyktitv of one principle hai / ", "mnovishlessnn one school hai / ", "mnovishlessnn medical treatment of one method hai / ", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "sNvednaatmk ahN from whom smbndhit is?",
+    option: ["aatm smprtyy", "aatmrkssaa", "aatmsmmaan", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "enorksiyaa nrvosaa of vishisstttaa occurs-",
+    option: ["snaayvik durbltaa", "apryaapt dining from weight in lack", "sleep vyaaghaat", "None of these"],
+    answer: "apryaapt dining from weight in lack"
+},
+{
+    question: "aNgrejii of shbd ‘sttres’ of utptti which language from was is?",
+    option: ["jrmn", "hindii", "griik", "laittin"],
+    answer: "griik"
+},
+{
+    question: "prsiddh mnovaiknowledgeik hNs selii which field related to are?",
+    option: ["abhiprerkoN of sNghrss of field from", "tnaav of adhyyn of field from", "smaajiikrnn of adhyyn of field from", "among these from any also field from not"],
+    answer: "tnaav of adhyyn of field from"
+},
+{
+    question: "dbaav prtirodhii vyktitv in which characteristic not paayii goes is?",
+    option: ["dushciNtaa", "prtibddhtaa", "cunautii", "control"],
+    answer: "dushciNtaa"
+},
+{
+    question: "baahy aabedhk towards prtikriyaa to said goes is-",
+    option: ["ankuuln", "brn-aautt", "smaayojn", "khiNcaav"],
+    answer: "ankuuln"
+},
+{
+    question: "phraaydd according to oNddips of period in caalk prtiyogitaa does is-",
+    option: ["sister of with", "brother of with", "mother of with", "pitaa of with"],
+    answer: "pitaa of with"
+},
+{
+    question: "aakraamktaa of cause which is not?",
+    option: ["moNddliNg", "kuNtthaa", "behavior prk aussdh", "children of paaln-nutrition"],
+    answer: "behavior prk aussdh"
+},
+{
+    question: "agr any person to mnovRtti prtikuul from bdlkr more prtikuul or anukuul from bdlkr and more anukuul be goes is then this one udaahrnn hogaa-",
+    option: ["asNgt change of", "sNgt change of", "saadhaarnn change of", "jttil change of"],
+    answer: "sNgt change of"
+},
+{
+    question: "aakraamktaa of adhyyn doing for aap nimnaaNkit in from which method to most more appropriate maante are?",
+    option: ["antrniriikssnn", "controlled niriikssnn", "natural niriikssnn", "None of these"],
+    answer: "controlled niriikssnn"
+},
+{
+    question: "which aakraamktaa in person of abhipraay chipaa remains is?",
+    option: ["vairpuurnn aakraamktaa in", "saadhaanaatmk aakraamktaa in", "hiNsaa in", "None of these"],
+    answer: "saadhaanaatmk aakraamktaa in"
+},
+{
+    question: "apne sNbNdhiyoN from baatciit doing in which distance of is used?",
+    option: ["personal distance", "social distance", "public distance", "None of these"],
+    answer: "personal distance"
+},
+{
+    question: "kolaahl characteristic ofoN in kise shaamil not done jaa can is?",
+    option: ["tiivrtaa", "puurvaanumeytaa", "control yogytaa", "krmbddhtaa"],
+    answer: "krmbddhtaa"
+},
+{
+    question: "social distance in smpressnnkrtaa and shrotaa between distance occurs?",
+    option: ["18 inc from 4 phiitt", "4 phiitt from 10 phiitt", "0 from 10 inc", "None of these"],
+    answer: "4 phiitt from 10 phiitt"
+},
+{
+    question: "following in which body motor effect of udaahrnn is?",
+    option: ["hRdygti in growth", "blood vaahikaaoN of sikudd'naa", "paack system of dhiimii gti", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "dbaav of sNknowledgeaatmk siddhaaNt to who prtipaadit done?",
+    option: ["lojaars", "phokmain", "eNddlr", "selye"],
+    answer: "lojaars"
+},
+{
+    question: "following in which hmeN dbaav in ddaaltii is?",
+    option: ["cunautiyaaN", "smsyaaeN", "ktthin pristhitiyaaN", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "if dbaav of tthiik from prbNdhn done jaae then vh person of atijiivitaa of sNbhaavnaa in-",
+    option: ["lack does is", "excessive lack does is", "growth does is", "lack and growth both does is"],
+    answer: "growth does is"
+},
+{
+    question: "following in which-from sNveg nkaaraatmk is?",
+    option: ["bhy", "dushciNtaa", "uljhn", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "sNknowledgeaatmk anukriyaa of under kaisii anukriyaaeN aatii are?",
+    option: ["aNtrvedhii", "dhyaan kendrit n by paanaa", "punraavrtii", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "baahy prtibl towards prtikriyaa to what said goes is?",
+    option: ["dbaa", "tnaav", "upaagm", "None of these"],
+    answer: "tnaav"
+},
+{
+    question: "following in which sNvegaatmk effect of udaahrnn are?",
+    option: ["heart gti in growth", "mnovaiknowledgeik tnaav in growth", "high blood pressure", "None of these"],
+    answer: "mnovaiknowledgeik tnaav in growth"
+},
+{
+    question: "nkaaraatmk ghttnaaoN of evaluation For whom is done?",
+    option: ["sNbhaavit nuksaan", "sNbhaavit khtraa", "sNbhaavit cunautii", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in which sNknowledgeaatmk effect be can are?",
+    option: ["ekaagrtaa in growth", "nyuuniikRt alpkaalik smRti capacity", "elrjii", "sirdrd"],
+    answer: "nyuuniikRt alpkaalik smRti capacity"
+},
+{
+    question: "ve dbaav jinheN hm apne mn in produced do are unheN said goes is-",
+    option: ["physical dbaav", "pryaavrnniiy dbaav", "mnovaiknowledgeik dbaav", "None of these"],
+    answer: "mnovaiknowledgeik dbaav"
+},
+{
+    question: "following in which abhighaatj ghttnaa is?",
+    option: ["agnikaanndd", "bijlii-water deficiency of", "kolaahlpuurnn environment", "None of these"],
+    answer: "agnikaanndd"
+},
+{
+    question: "haaipothailems how many maadhym from activity praarNbh does is?",
+    option: ["one", "four", "three", "two"],
+    answer: "two"
+},
+{
+    question: "sttres shbd of utptti laittin language of which shbd from was is?",
+    option: ["sttrikttr", "sttrikmttr", "sttraikcr", "sttrir"],
+    answer: "sttrikttr"
+},
+{
+    question: "which haarmonoN of vjh from blood pressure level in change comes is?",
+    option: ["eddrinliin and koNrttisol", "kttisaal and eddri", "nliin and sol", "kaarttisaal and sisttrol"],
+    answer: "eddrinliin and koNrttisol"
+},
+{
+    question: "vyktiyoN in physical biimaariyoN in how many percent up to dbaab of bhuumikaa important is?",
+    option: ["45 from 65", "51 from 69", "52 from 71", "50 from 70"],
+    answer: "50 from 70"
+},
+{
+    question: "physical, sNvegaatmk and mnovaiknowledgeik prishraanti of stage to what called are?",
+    option: ["ddrnaautt", "grenaautt", "brnaautt", "naautt"],
+    answer: "brnaautt"
+},
+{
+    question: "vibhinn shodhoN and adhyynoN by jnyaat was is ki tkriibn percent diseases of cause tnaav is?",
+    option: ["25%", "50%", "75%", "100%"],
+    answer: "75%"
+},
+{
+    question: "tnaav of kii cause are jisse tnaav produced is, unheN said goes is?",
+    option: ["prtigmn", "prtiblk", "prtyaahaar", "anukrnn"],
+    answer: "prtiblk"
+},
+{
+    question: "‘bhidd'o or bhaago anukriyaa’ of relation is-",
+    option: ["ddolaardd and milr from", "kainn from", "kohen from", "glaas and siNgr from"],
+    answer: "kainn from"
+},
+{
+    question: "hNs selii ne tnaav of baare in said is?",
+    option: ["tnaav one avishisstt anukriyaa is", "tnaav one ativishisstt anukriyaa", "tnaav one social siikhnaa anukriyaa is", "tnaav one smaayojn anukriyaa is"],
+    answer: "tnaav one avishisstt anukriyaa is"
+},
+{
+    question: "normal anukuuln sNlkssnn in how many avsthaaeN paayii goes are?",
+    option: ["three", "two", "five", "four"],
+    answer: "three"
+},
+{
+    question: "time management which shrennii of skill is?",
+    option: ["vaiyktik", "saamuuhik", "raajnaitik", "dhaarmik"],
+    answer: "vaiyktik"
+},
+{
+    question: "lkssy obtaining in disturbance and aavshyktaaoN and abhiprerkoN of avruddh being from what produced is?",
+    option: ["interior dbaav", "kuNtthaa", "dvndv", "None of these"],
+    answer: "kuNtthaa"
+},
+{
+    question: "sNveg-abhivinyst yukti by whom vrnnit dbaav of yukti is?",
+    option: ["eddlr and paarkr", "kaalmain", "kaaimain", "hittlr"],
+    answer: "eddlr and paarkr"
+},
+{
+    question: "which mnovaiknowledgeik ne dbaav of saamnaa doing for sNklpnaa nirdhaarnn one gtyaatmk prkriyaa as done?",
+    option: ["kaaimain", "hittlr", "lejaars and phokmain", "eddlr and paarkr"],
+    answer: "lejaars and phokmain"
+},
+{
+    question: "jaivprtipraapti or baayophiiddbaik of how many avsthaaeN occursN?",
+    option: ["two", "three", "four", "one"],
+    answer: "three"
+},
+{
+    question: "dbaav sNcaar training method of development by whom done was?",
+    option: ["kaaimain", "eddlr and paarkr", "hittlr", "miicenboNm"],
+    answer: "miicenboNm"
+},
+{
+    question: "which-sii activity life style in vyaapk form from lokpriy anumodn obtained doing jaisaa change laatii is?",
+    option: ["diet", "skaaraatmk cintn", "vyaayaam", "skaaraatmk abhivRtt"],
+    answer: "vyaayaam"
+},
+{
+    question: "Which of the following aphiim from produced aussdh is?",
+    option: ["moNphin", "heroin", "methaaddon", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "aakrmnn and hiNsaa to less doing of upaay is-",
+    option: ["social adhigm", "virecn method", "praanubhuuti", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "nimnaaNkit in from which sNghrss smaadhaan yukti is?",
+    option: ["smjhautaa vaartaa", "paarsprik sNprk", "anukuul vidhaan", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "sNknowledgeaatmk asNvaaditaa from taatpry is-",
+    option: ["two mental dshaaoN of sNgt honaa", "two mental dshaaoN of asNgt honaa", "two mental dshaaoN of vipriit honaa", "two mental dshaaoN of ktthin honaa"],
+    answer: "two mental dshaaoN of asNgt honaa"
+},
+{
+    question: "liyon phesttiNgr ne sNknowledgeaatmk asNvaaditaa principle of prtipaadn In which year done?",
+    option: ["1947", "1967", "1977", "1957"],
+    answer: "1957"
+},
+{
+    question: "prtibl of vipriit stage to called is-",
+    option: ["cintn", "shithiliikrnn", "anukuuln", "None of these"],
+    answer: "shithiliikrnn"
+},
+{
+    question: "among these which asaamaany of jaivikiiy kaark is not?",
+    option: ["physical sNrgram", "aarNbhik bNcn", "endocrine grNthiyoN of effect", "aanuvaaNshiktaa"],
+    answer: "aarNbhik bNcn"
+},
+{
+    question: "any normal prkriyaa to asaamaany form from times-times duhraane of vyaadhi to what called are?",
+    option: ["durbhaaNti", "aatNk", "saamaanyiikRt dushcitaa", "mnogrsti baadhytaa"],
+    answer: "mnogrsti baadhytaa"
+},
+{
+    question: "vicaaroN, prernnaaoN, aavshyktaaoN and uddeshyoN of prspr virodh of phlsvruup paidaa was vikssebh or tnaav of condition what khlaatii is?",
+    option: ["dvNdv", "trk", "kunntthaa", "dmn"],
+    answer: "dvNdv"
+},
+{
+    question: "Which of the following snaayu vikRti is not?",
+    option: ["mnovidltaa", "cintaa vikRti", "baadhy vikRti", "durbhiiti"],
+    answer: "mnovidltaa"
+},
+{
+    question: "who srvprthm sviikaar done ki dvNdv and antrvaiyktik sNbNdhoN in disturbance mental vikaaroN in important cause is?",
+    option: ["hippokretts", "joNn veyr", "sukraat", "gailn"],
+    answer: "sukraat"
+},
+{
+    question: "nimnaaNkit in from which kaay form vikaar is?",
+    option: ["piidd'aa vikaar", "kaay-aarlebitaa vikaar", "change vikaar", "None of these"],
+    answer: "piidd'aa vikaar"
+},
+{
+    question: "nimnaaNkit in which bulimiyaa vikaar is?",
+    option: ["dining vikaar", "naitik vikaar", "bhaavaatmk vikaar", "critr vikaar"],
+    answer: "dining vikaar"
+},
+{
+    question: "nlikaavihiin gland of name is-",
+    option: ["bhi:sraavii gland", "aNt:sraavii gland", "eddriinl gland", "kNtth gland"],
+    answer: "aNt:sraavii gland"
+},
+{
+    question: "one dhruviiy vissaad of duusraa name what is?",
+    option: ["vissaadii mnovikRti", "unmaadii vissaadii mnovikRti", "unmaad", "None of these"],
+    answer: "vissaadii mnovikRti"
+},
+{
+    question: "dvi-dhruviiy vikaar of two dhruv are-",
+    option: ["trk sNgt and atrk sNgt", "unmaad and vissaad", "snaayu vikRti and mnovikRti", "mnogrsti and baadhytaa"],
+    answer: "unmaad and vissaad"
+},
+{
+    question: "which medical treatment in aadyaanukuuln of niym pryukt are?",
+    option: ["mnogtyaatmk medical treatment", "patient kendrit medical treatment", "people medical treatment", "behavior medical treatment"],
+    answer: "behavior medical treatment"
+},
+{
+    question: "kaittettonik sttuupr one lkssnn is-",
+    option: ["mnovidltaa of", "ruupaaNtr mnovikRti of", "rogbhrm of", "None of these"],
+    answer: "mnovidltaa of"
+},
+{
+    question: "Which of the following social prtibl is?",
+    option: ["dvndv", "kuNtthaa", "bhuukmp", "marriage-vicched"],
+    answer: "marriage-vicched"
+},
+{
+    question: "nimnaaNkit in kise mnoviknowledge in evaluation method of one device as not smjhaa goes is?",
+    option: ["mnovaiknowledgeik test", "kes adhyyn", "mnshcikitsaa", "saakssaatkaar"],
+    answer: "mnshcikitsaa"
+},
+{
+    question: "ttrosomii-21 of other name what is?",
+    option: ["ddaaun sNlkssnn", "egoraaphobiyaa", "klaainphelttr sNlkssnn", "durbl eks sNlkssnn"],
+    answer: "ddaaun sNlkssnn"
+},
+{
+    question: "any normal prkriyaa to asaamaany form from braabr duhraane of dn vyaadhi to what called are?",
+    option: ["phraaydd", "durbhiiti", "saamaanyiikRt dushciNtaa", "mnogrsit baadhytaa"],
+    answer: "mnogrsit baadhytaa"
+},
+{
+    question: "reshnl imiittiv medical treatment of prtipaadn who done?",
+    option: ["phraaydd", "kaarl rojrs", "albrtt illis", "None of these"],
+    answer: "albrtt illis"
+},
+{
+    question: "nimnaaNkit in which mnovipulsesitaa of one type is not?",
+    option: ["vighttit mnovipulsesitaa", "vyaamohaabh mnovipulsesitaa", "mishrit mnovipulsesitaa", "vidrohii mnovipulsesitaa"],
+    answer: "vidrohii mnovipulsesitaa"
+},
+{
+    question: "Which of these maadk agent is not?",
+    option: ["coffee", "koken", "aphiim", "smaik"],
+    answer: "coffee"
+},
+{
+    question: "aakrmnn of muul prvRtti principle of prtipaadn who done?",
+    option: ["rojrs", "aalportt", "phraaydd", "vaattsn"],
+    answer: "phraaydd"
+},
+{
+    question: "gaaNjaa one type of-",
+    option: ["kephiin is", "kokiin is", "kenebis is", "nikottin is"],
+    answer: "kenebis is"
+},
+{
+    question: "following in which nikottin of shrennii in comes is?",
+    option: ["hshiish", "heroin", "tNbaakuu", "None of these"],
+    answer: "tNbaakuu"
+},
+{
+    question: "visaamaany kssttprd apkriyaatmk and duHkhd behavior to said goN goes is-",
+    option: ["normal behavior", "apsaamaany behavior", "vicitr behavior", "None of these"],
+    answer: "apsaamaany behavior"
+},
+{
+    question: "all ailkohoNl beverage substances in is-",
+    option: ["mithaail ailkohoNl", "ethaail ailkohoNl", "kiitton", "None of these"],
+    answer: "ethaail ailkohoNl"
+},
+{
+    question: "following in apsaamaany behavior of which-from priprekssy is notN?",
+    option: ["atipraakRt", "ajaivik", "jaivik", "aaNgik"],
+    answer: "ajaivik"
+},
+{
+    question: "‘ve human behavior and anubhuutiyaaN jo saadhaarnn anokhe asaadhaarnn are, asaamaany smjhe go haiN /  this kthn whose is?",
+    option: ["hittlr", "braaun", "jems ddrevr", "kiskr"],
+    answer: "kiskr"
+},
+{
+    question: "meskaalaain one-",
+    option: ["vibhraaNti utpaadk is", "nikottin is", "shaamk", "opioNydd is"],
+    answer: "vibhraaNti utpaadk is"
+},
+{
+    question: "following in which kephiin is not?",
+    option: ["coffee", "coNklett", "kph sirp", "koko"],
+    answer: "kph sirp"
+},
+{
+    question: "person of physical construction to which mnovaiknowledgeik ne three bhaagoN",
+    option: ["sigmnndd phroNydd", "meksvel", "pinel", "shailddn"],
+    answer: "shailddn"
+},
+{
+    question: "dushcitit person in which-from lkssnn found go are?",
+    option: ["heart gti of tej honaa", "saaNs deficiency of honaa", "dst honaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "following in which kaayruup vikaar is not?",
+    option: ["change vikaar", "svkaaydushciNtaa disease", "vicchedii vikaar", "piidd'aa vikaar"],
+    answer: "vicchedii vikaar"
+},
+{
+    question: "following in which kaan-aalNbitaa vikaar of lkssnn is not?",
+    option: ["khuub food", "sirdrd", "thkaan", "ulttii to do"],
+    answer: "khuub food"
+},
+{
+    question: "following in which opioNydd is not?",
+    option: ["morphiin", "kph sirp", "piiddaanaashk goliyaaN", "el.el.ddii."],
+    answer: "el.el.ddii."
+},
+{
+    question: "heroin one type of-",
+    option: ["kokiin is", "kenebis is", "opioNydd is", "kephiin is"],
+    answer: "opioNydd is"
+},
+{
+    question: "any special item, duusroN of with aNtHkriyaa and apricit sthitiyoN towards avivekii bhy of honaa is called is-",
+    option: ["aatNk vikaar", "uttr abhighaatmj dbaav vikaar", "durbhiiti", "None of these"],
+    answer: "durbhiiti"
+},
+{
+    question: "which vikaar in person prtyaavrtii vyktitvoN of klpnaa does is jo aaps in one-another towards jaankaarii rkh can are or not rkh can are?",
+    option: ["vicchedii phcaan vikaar", "piidd'aa vikaar", "vicchedii smRtilop", "None of these"],
+    answer: "vicchedii phcaan vikaar"
+},
+{
+    question: "uttr abhighaatj' dbaav vikaar of lkssnn are-",
+    option: ["ekaagrtaa in lack", "times-times coming which svpn", "saaNvegik shuunytaa of honaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "aanuvNshik kaarkoN of relation where found was is?",
+    option: ["bhaavdshaa vikaaroN", "mnovidltaa", "mental mNdn", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "dushciNtaa vikaar of relation from whom is?",
+    option: ["ddopaamaain from", "gaamaa emino byuuttirik esidd from", "siirottonin from", "None of these"],
+    answer: "gaamaa emino byuuttirik esidd from"
+},
+{
+    question: "nimnaaNkit in which mnovaiknowledgeik vikaaroN of vrgiikrnn of nviintm pddhti is?",
+    option: ["DSM-IIR", "DSM-IV", "ICD-9", "WHO"],
+    answer: "DSM-IV"
+},
+{
+    question: "following in which asaamaany behavior related to is not?",
+    option: ["mental asNtuln", "kromosoms asmaantaa.", "yaaddaastaa of kmjor honaa", "body gtthn"],
+    answer: "yaaddaastaa of kmjor honaa"
+},
+{
+    question: "asaamaany mnoviknowledge of aadhunik yug of jnk which maane go are?",
+    option: ["sigmnndd phroNydd", "jems bread", "lii boNl", "meslo"],
+    answer: "sigmnndd phroNydd"
+},
+{
+    question: "normal, asaamaany and shresstth in only of aNtr is?",
+    option: ["quantity of", "krm of", "distance of", "time of"],
+    answer: "quantity of"
+},
+{
+    question: "mental asvsthtaa of prmukh lkssnn is-",
+    option: ["vomiting-siidhii hrkteN to do", "paaglpn of lkssnn", "sntulit behavior n to do", "nii pristhiti in ghuuttn mhsuus to do"],
+    answer: "sntulit behavior n to do"
+},
+{
+    question: "mnovidltaa of up-prkaaroN in from which-saa one is not?",
+    option: ["vyaamohaabh type", "visNgtthit type", "avdhaan-deficiency atikriyaa type", "avibhedit type"],
+    answer: "avdhaan-deficiency atikriyaa type"
+},
+{
+    question: "bimaariyoN of aNtrraassttriiy vrgiikrnn of dsvaaN sNskrnn when prkaashit done was is?",
+    option: ["1982 ii.", "1992 ii.", "2006 ii.", "2009 ii."],
+    answer: "1992 ii."
+},
+{
+    question: "agr any person in unmaad and vissaad both trh of mental avsthaaeN krm occurs then ise DSM-IV in what sNjnyaa dii was is-",
+    option: ["utsaah-vissaad mnovikssipt", "dvi dhruviiy vikaar", "main vissaad", "mnH condition vikaar"],
+    answer: "dvi dhruviiy vikaar"
+},
+{
+    question: "which sn up to aaNgik dRssttikonn apnii crm siimaa on thaa?",
+    option: ["1925", "1914", "1912 ii.", "1915 ii."],
+    answer: "1915 ii."
+},
+{
+    question: "mnovipulsesitaa pd use of sbbefore who done thaa?",
+    option: ["pliyuulr", "morel", "phraaydd", "kreplin"],
+    answer: "pliyuulr"
+},
+{
+    question: "ddii.es.em. IV in how many aayaam is?",
+    option: ["five", "six", "four", "seven"],
+    answer: "five"
+},
+{
+    question: "human body in black pitt of adhiktaa from produced is?",
+    option: ["vissaad", "utsaah", "vissaad and utsaah both", "None of these"],
+    answer: "vissaad"
+},
+{
+    question: "DSM-IV according to nimnaaNkit in from kise dushciNtaa vikRti of shrennii in not rkhaa was is?",
+    option: ["durbhiiti", "tiibr prtivl vikRti", "ruupaaNtr vikRti", "mnogrsti-baadhytaa vikRti"],
+    answer: "ruupaaNtr vikRti"
+},
+{
+    question: "mnovidltaa of patient in most more which-sii vibhraaNti paayii goes is?",
+    option: ["shrvnn vibhraaNti", "daihik vibhraaNti", "dusstti vibhraaNti", "sprshii vibhraaNti"],
+    answer: "shrvnn vibhraaNti"
+},
+{
+    question: "nimnaaNkit in from which from dushciNtaa vikaar is not?",
+    option: ["durbhiiti vikaar", "aatNk vikaar", "mnogrsti-baadhytaa vikaar", "mnovicchedii aatmvismRti"],
+    answer: "mnovicchedii aatmvismRti"
+},
+{
+    question: "which mnovaiknowledgeik ne mesmerijm medical treatment principle establishment of?",
+    option: ["meksvel", "jiin eskyuurl", "griNjigr", "ainttn mesmr"],
+    answer: "ainttn mesmr"
+},
+{
+    question: "kaayruupuu vikaar following in from whom smbndhit is?",
+    option: ["physical problem from", "mnovaiknowledgeik problem from", "aanuvNshik problem from", "daiviiy problem from"],
+    answer: "physical problem from"
+},
+{
+    question: "‘asaamaany behavior or asaamaany person of adhyyn only asaamaany mnoviknowledge hai /  this kthn whose is?",
+    option: ["jems ddrevr", "braaun", "aaijnek", "kiskr"],
+    answer: "aaijnek"
+},
+{
+    question: "Father of Medicine of name from which mnovaiknowledgeik to go goes thaa?",
+    option: ["hippokrettiij", "aaijnek", "arstu", "pletto"],
+    answer: "hippokrettiij"
+},
+{
+    question: "saamuuhik paaglpn of proof which shtaabdii from which shtaabdii up to mile?",
+    option: ["10viiN from 15viiN up to", "11viiN from 16viiN up to", "10viiN from 14viiN up to", "10viiN from 16viiN up to"],
+    answer: "10viiN from 16viiN up to"
+},
+{
+    question: "Pathology of Brain naamk book of rcyitaa which the?",
+    option: ["hoNlr", "pinel", "benjaamin rsh", "kreplin"],
+    answer: "kreplin"
+},
+{
+    question: "sNvedn mNdk aussdhiyoN of main function is-",
+    option: ["piidd'aadaayk effect to less to do", "uttejnaa to bddh'aanaa", "vibhrm produced to do", "None of these"],
+    answer: "vibhrm produced to do"
+},
+{
+    question: "bnduraa ne said children asaamaajik behavior siikhte are-",
+    option: ["saadhnaatmk anukuultaa from", "prekssnnaatmk anukuuln from", "klaasikii anukuuln from", "None of these"],
+    answer: "prekssnnaatmk anukuuln from"
+},
+{
+    question: "mental disease of vrgiikrnn of atynt nviintm pddhti what is?",
+    option: ["DSM-IV", "ICD-10", "DSM-V-TR", "All of these"],
+    answer: "DSM-V-TR"
+},
+{
+    question: "enoreksiyaa nrvosaa of such vikaar is jismeN patient to-",
+    option: ["bhuukh more seems is", "bhuukh less seems is", "pyaas more seems is", "pyaas less seems is"],
+    answer: "bhuukh less seems is"
+},
+{
+    question: "bnduuraa ne srp durbhaati to far doing for which prvidhii use of done is?",
+    option: ["krmbddh asNvediikrnn", "arrangement", "viruuci anubNdh", "moNddliNg"],
+    answer: "krmbddh asNvediikrnn"
+},
+{
+    question: "mnovRtti production of nimnaaNkit in from which kaark by prbhaavit does not occur is?",
+    option: ["social siikhnaa", "vishvsniiy suugrameN", "requirement puurti", "shrotaa characteristic ofeN"],
+    answer: "shrotaa characteristic ofeN"
+},
+{
+    question: "aadhunik cikitsaashaastr of jnk kise maanaa goes is?",
+    option: ["hippokretts", "phraaydd", "maislo", "rojrs"],
+    answer: "hippokretts"
+},
+{
+    question: "mnovishlessnnaatmk medical treatment of relation which person from is?",
+    option: ["phraaydd", "yuNg", "eddlr", "maislo"],
+    answer: "phraaydd"
+},
+{
+    question: "mnogtyaatmk medical treatment of prtipaadn who done?",
+    option: ["rojrs", "aalportt", "phraaydd", "vaattsn"],
+    answer: "phraaydd"
+},
+{
+    question: "sevaarthii kendrit medical treatment to who prtipaadit done?",
+    option: ["maaslo", "rojrs", "phraaydd", "None of these"],
+    answer: "rojrs"
+},
+{
+    question: "which medical treatment pddhti in siikhne of siddhaaNtoN use of is",
+    option: ["mnovishlessnn medical treatment", "saamuuhik medical treatment", "behavior medical treatment", "None of these"],
+    answer: "behavior medical treatment"
+},
+{
+    question: "saamuuhik acetn of vissy to said goes is-",
+    option: ["mnogrNthi", "aarkiittaaip", "paarsonaa", "eniimaa"],
+    answer: "aarkiittaaip"
+},
+{
+    question: "mnovRtti construction to which tttv prbhaavit not does?",
+    option: ["shrotaa characteristic ofeN", "vishvsniiy suugrameN", "social siikhnaa", "requirement puurti"],
+    answer: "requirement puurti"
+},
+{
+    question: "ptNjli of name whichrelated to is?",
+    option: ["mn:medical treatment from", "yog from", "svpn vishlessnn from", "praamrsh from"],
+    answer: "yog from"
+},
+{
+    question: "mnovRtti change in sNtuln of prtipaadn who done thaa?",
+    option: ["phesttiNgr", "haaiiddr", "mohsin", "None of these"],
+    answer: "haaiiddr"
+},
+{
+    question: "shrennii aadhRt skiimaa to what said goes is?",
+    option: ["aadiruuNp", "ruuddh'ikRti", "drshk effect", "None of these"],
+    answer: "ruuddh'ikRti"
+},
+{
+    question: "behavior medical treatment which siddhaaNt on aadhaarit is?",
+    option: ["adhigm siddhaaNt", "abhiprernnaa siddhaaNt", "prtykssnn siddhaaNt", "vismrnn siddhaaNt"],
+    answer: "adhigm siddhaaNt"
+},
+{
+    question: "shvsn abhyaas to yog in what said goes is?",
+    option: ["mnn", "aasn", "praannaayaam", "None of these"],
+    answer: "praannaayaam"
+},
+{
+    question: "praamrsh of uddeshy is-",
+    option: ["vikaasaatmk", "nirodhaatmk", "upcaaraatmk", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "nimnaaNkit in which jaiv-aayurviknowledge medical treatment is not?",
+    option: ["sevaarthii kendrit medical treatment", "aussdhi medical treatment", "impact medical treatment", "shly medical treatment"],
+    answer: "sevaarthii kendrit medical treatment"
+},
+{
+    question: "world mental health day mnaayaa goes is-",
+    option: ["11 October", "21 October", "31 agst", "21 November"],
+    answer: "11 October"
+},
+{
+    question: "yog one …….hai / ",
+    option: ["aaNghaat medical treatment", "vaiklpik medical treatment", "(a) and (b) both", "None of these"],
+    answer: "vaiklpik medical treatment"
+},
+{
+    question: "ptNjli of prsiddh yog-suutr in yog of maarg are-",
+    option: ["4", "6", "8", "9"],
+    answer: "8"
+},
+{
+    question: "following in which mental health of basis is?",
+    option: ["sNvegaatmk", "real sNknowledge", "vyktik svtNtrtaa", "trkpuurnn ciNtn"],
+    answer: "trkpuurnn ciNtn"
+},
+{
+    question: "yog method bddh'aatii is-",
+    option: ["bhaavdshaa", "dhyaan", "dbaav shissnnutaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "amerikaa in sikhaae going which yog to what called are?",
+    option: ["yog", "kuNddlinii yog", "sudrshn yog", "nisstthaa yog"],
+    answer: "kuNddlinii yog"
+},
+{
+    question: "following in in which mNtroN of uccaarnn of with shvsn tkniik or praannaayaam to combined is done?",
+    option: ["dhyaan", "sudrshn yog", "kuNddlinii yog", "upcaar"],
+    answer: "sudrshn yog"
+},
+{
+    question: "mental rogiyoN of punH sthaapn of uddeshy is?",
+    option: ["patient to sshkt making", "patient of care to do", "patient to home give", "None of these"],
+    answer: "patient to sshkt making"
+},
+{
+    question: "mental rogiyoN of punH establishment in what type of training is given?",
+    option: ["vyaafatyik medical treatment", "social skill training", "vyaafatyik training", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "apryaapt vaivaahik, vyaafatyik and social smaayojn of this requirement occurs ki person of environment in change done jaaeN-",
+    option: ["vaiyktik", "social", "economic", "None of these"],
+    answer: "vaiyktik"
+},
+{
+    question: "mnocikitsaa of special prvidhi is-",
+    option: ["mno abhinv", "smmohn medical treatment", "kriidd'aa method", "unmocn method"],
+    answer: "smmohn medical treatment"
+},
+{
+    question: "following in nirvcn of vishlessnnaatmk tkniik which-sii is?",
+    option: ["prtirodhii", "spssttiikrnn", "(a) and (b) both", "None of these"],
+    answer: "(a) and (b) both"
+},
+{
+    question: "aNt:mnodvNdv to outside nikaalne for which method use of is?",
+    option: ["mukt saahcry method", "anyaaropnn method", "spssttiikrnn method", "None of these"],
+    answer: "mukt saahcry method"
+},
+{
+    question: "following in in which sevaarthii cikitsk to puujnn doing seems is?",
+    option: ["nkaaraatmk anyaaropnn", "skaaraatmk anyaaropnn", "anyaaropnn tNtrikaataap", "None of these"],
+    answer: "skaaraatmk anyaaropnn"
+},
+{
+    question: "following in in which acetn smRtiyaaN continuously scetn abhijnytaa in smaaklit is rhtii is?",
+    option: ["aNtrdRsstti", "anyaaropnn", "svpn method", "None of these"],
+    answer: "aNtrdRsstti"
+},
+{
+    question: "following in which sevaarthii to ksstt provide do are?",
+    option: ["apkriyaatmk behavior", "motor behavior", "personal behavior", "uprokt all"],
+    answer: "apkriyaatmk behavior"
+},
+{
+    question: "following in which patient to apne aapko and apnii problem of source to smjhne in outside aaii materials to apne ahN in smaaklit doing in assistance does is?",
+    option: ["prtirodhii", "spssttiikrnn", "anyaaropn", "smaakln function"],
+    answer: "smaakln function"
+},
+{
+    question: "kraamik visNvedniikrnn to who prtipaadit done?",
+    option: ["albrtt elis", "volp", "vikttr phreNkl", "joNn prls"],
+    answer: "volp"
+},
+{
+    question: "‘dushcitaa disease of prmukh characteristic patient of vyaapk and dishaahiin cintaa hai /  this kthn whose is?",
+    option: ["kolmain", "kaimraan", "koliin", "gregrii"],
+    answer: "kolmain"
+},
+{
+    question: "mnovidltaa of medical treatment of smbndh in srvprthm which cikitsk ne adhyyn done?",
+    option: ["morel ne", "kreplin ne", "bluulr ne", "kolmain ne"],
+    answer: "bluulr ne"
+},
+{
+    question: "physical construction on srvaadhik effect which element or power of falls is?",
+    option: ["family", "physical construction", "vNshaanukrm", "physical rgram"],
+    answer: "vNshaanukrm"
+},
+{
+    question: "mnHsnaayu vikRti of disease of mstissk lkssnn is-",
+    option: ["bhy", "aashNkaa", "disease", "ksstt"],
+    answer: "aashNkaa"
+},
+{
+    question: "durbhaati or phobiyaa what is?",
+    option: ["cintaa kssobhaanmaad", "mental vikRti", "ataarkik cintaa", "asNgt bhy"],
+    answer: "asNgt bhy"
+},
+{
+    question: "durbhiiti of tthiik upcaar what is?",
+    option: ["aatm-nirdeshn", "aatm-punrbl", "klpnaatmk quality", "shly activity"],
+    answer: "aatm-nirdeshn"
+},
+{
+    question: "mnHsnaayu vikRti of rgramkaar which are?",
+    option: ["phishr", "kolmain", "meyr", "rogen gregrii"],
+    answer: "phishr"
+},
+{
+    question: "following in from durbhiiti of lkssnn is-",
+    option: ["pett in vikaar", "sirdrd", "body in drd", "mnd. heart gti"],
+    answer: "pett in vikaar"
+},
+{
+    question: "mnovidltaa of patient of upcaar is-",
+    option: ["insulin from", "impact medical treatment from", "shly activity from", "aussdhi from"],
+    answer: "insulin from"
+},
+{
+    question: "which mnovikRti in vidyut pddhti of is used?",
+    option: ["cintaa on", "bhrm on", "vissaad on", "utsaah on"],
+    answer: "vissaad on"
+},
+{
+    question: "aadhunik yug in mental health on whose effect falls is?",
+    option: ["apraadhoN of", "jiivm of asthirtaa of", "aaraadhnaa of", "physicaltaa of"],
+    answer: "jiivm of asthirtaa of"
+},
+{
+    question: "phraaydd of mnovishlessnn of one form is-",
+    option: ["prtirodh", "infection", "prem v affection", "mukt saahcry"],
+    answer: "mukt saahcry"
+},
+{
+    question: "nimnaaNkit in from behavior medical treatment which principle on aadhaarit is?",
+    option: ["abhiprernnaa of principle on", "prtykssnn of principle on", "siikhne of principle on", "All of these of siddhaantoN on"],
+    answer: "siikhne of principle on"
+},
+{
+    question: "yog in smmilit is-",
+    option: ["dhyaan", "money", "niym", "knowledge"],
+    answer: "dhyaan"
+},
+{
+    question: "shaayk mnocikitsk of one method is-",
+    option: ["disease nivaarnn", "praamrsh", "punshviaasn", "sNsuugram"],
+    answer: "punshviaasn"
+},
+{
+    question: "one skiimaa or anviti scheme is-",
+    option: ["mental sNrgram", "physical sNrgram", "social sNrgram", "None of these"],
+    answer: "mental sNrgram"
+},
+{
+    question: "mental form from healthy vyktiyoN of life drshn in-",
+    option: ["nishciNttaa paaii goes is", "duusroN of life drshn of nkl paaii goes is", "apuurvtaa paaii goes is", "bhaavii yojnaaoN of jhlk paaii goes is"],
+    answer: "nishciNttaa paaii goes is"
+},
+{
+    question: "person of acetn prkriyaaoN to outside laane method of khlaatii is-",
+    option: ["life-vRt method", "saakssaatkaar method", "prkssepnn method", "prshnaavliyaaN"],
+    answer: "prkssepnn method"
+},
+{
+    question: "yog of ‘assttaaNg means’ of relation is-",
+    option: ["krm yog", "raaj yog", "knowledge yog", "mNtr yog"],
+    answer: "raaj yog"
+},
+{
+    question: "person of evaluation doing for most more use of jaanevaalii tkniikoN of under which-saa not comes is?",
+    option: ["mnomitik test", "aatm-prtivedn maap", "prkssepii tkniik", "sevaarthii kendrit medical treatment"],
+    answer: "sevaarthii kendrit medical treatment"
+},
+{
+    question: "jrmn shbd ‘gesttaaltt’ means-",
+    option: ["vikRti", "smgr", "dushciNtaa", "None of these"],
+    answer: "smgr"
+},
+{
+    question: "behavior medical treatment of which prvidhi in patient to real pristhiti in keeping ismeN kaaphii quantity in cintaa produced by dii goes is, use said goes is-",
+    option: ["phlddiNg", "viruci medical treatment", "antH sphottaatmk medical treatment", "None of these"],
+    answer: "phlddiNg"
+},
+{
+    question: "gosttaaltt medical treatment of main uddeshy this tthy on force ddaalnaa is ki-",
+    option: ["patient why any khaas ddhNg from behavior by rhaa is", "patient of vrtmaan bhaav what are", "patient which trh from behavior by rhaa is", "(b) and (c) both phluoN to smjhnaa"],
+    answer: "(b) and (c) both phluoN to smjhnaa"
+},
+{
+    question: "mnocikitsaa of what lkssy is?",
+    option: ["environment between", "patient of smsyaaoN of smaadhaan", "rogiyoN to raaht phuNcaanaa", "mnovaiknowledgeik vidhiyoN use of"],
+    answer: "rogiyoN to raaht phuNcaanaa"
+},
+{
+    question: "mnocikitsaa of what level is?",
+    option: ["prtirodh to do", "aatmiiytaa-smbndh establishment", "antrdRsstti of form", "infection of honaa"],
+    answer: "aatmiiytaa-smbndh establishment"
+},
+{
+    question: "nimnaaNkit in from which aNtrnn in klaayNtt cikitsk towards ghRnnaa, iirssyaa aadi to dikhlaataa is?",
+    option: ["dhnaatmk", "Rnnaatmk", "dhnaatmk and Rnnaatmk both", "None of these"],
+    answer: "Rnnaatmk"
+},
+{
+    question: "mnovishlessnnaatmk medical treatment in nimnaaNkit in from whose mhtv srvaadhik btlaayaa was is?",
+    option: ["sthaanaantrnn", "prtirodh", "svtNtr saahcry", "svpn vishlessnn"],
+    answer: "svpn vishlessnn"
+},
+{
+    question: "gesttaaltt medical treatment one trh of is-",
+    option: ["group medical treatment", "vaiyktik medical treatment", "aNsht: group and aNshtH vaiyktik medical treatment", "n group medical treatment n vaiyktik medical treatment"],
+    answer: "group medical treatment"
+},
+{
+    question: "mnocikitsaa method what is?",
+    option: ["saamuuhik medical treatment", "saadhaarnn diseases of upcaar", "sNvegoN of medical treatment", "vikssebhoN of upcaar"],
+    answer: "vikssebhoN of upcaar"
+},
+{
+    question: "mnocikitsaa of patient what prtirodh does is?",
+    option: ["sexual problem", "asaamaajik baateN", "gmbhiir disease", "dmit bhaavnaaeN"],
+    answer: "sexual problem"
+},
+{
+    question: "mnocikitsaa method of is-",
+    option: ["shaayk medical treatment", "punrrgramtmk mnocikitsaa", "mnovishlessnn medical treatment", "punreducationtmk mnocikitsaa"],
+    answer: "punreducationtmk mnocikitsaa"
+},
+{
+    question: "Which of the following praamrsh of field is not?",
+    option: ["private", "shaikssik", "nirdeshn", "vyfatyaatmk"],
+    answer: "shaikssik"
+},
+{
+    question: "mnoshly medical treatment pddhti to who viksit done?",
+    option: ["igaas monij", "kaarl rojrs", "eph prls", "None of these"],
+    answer: "igaas monij"
+},
+{
+    question: "vidyut impact medical treatment to who viksit done?",
+    option: ["kaarl rojrs", "igaas monij", "srlettii and binii", "eph0 prls"],
+    answer: "srlettii and binii"
+},
+{
+    question: "following in kise yog of pitaa as aadr obtained is?",
+    option: ["mhesh yogii", "gautm buddh", "mhrssi ptNjli", "rjniish"],
+    answer: "mhrssi ptNjli"
+},
+{
+    question: "albrtt elis ne nimnaaNkit in which medical treatment method of prtipaadn done is?",
+    option: ["sNknowledgeaatmk medical treatment", "behavior medical treatment", "astitvaatmk medical treatment", "None of these"],
+    answer: "sNknowledgeaatmk medical treatment"
+},
+{
+    question: "best health for which Indian mniissii ne assttaaNg maarg to prtipaadit done is?",
+    option: ["gautm", "ptNjli", "yaajnyvlky", "sukraat"],
+    answer: "ptNjli"
+},
+{
+    question: "mnovRtti change of two striiy sNprtyy of prtipaadn who done?",
+    option: ["muhmmd sulaimaan", "e.of. siNh", "em.em. muhsiin", "je.pii. daas"],
+    answer: "em.em. muhsiin"
+},
+{
+    question: "puurvaagrh in ghttkoN of sNkhyaa how many occurs?",
+    option: ["two", "three", "four", "five"],
+    answer: "three"
+},
+{
+    question: "puurvaagrh one type is-",
+    option: ["mnovRtti of", "muul prvRtti of", "sNveg of", "prernnaa of"],
+    answer: "mnovRtti of"
+},
+{
+    question: "mnovRtti change prkriyaa in sntuln or pii-o-eks of sNprtyy who prstaavit done?",
+    option: ["muhmmd sulemaan", "es.es. mohsiin", "phrittj haaiddr", "ebraahm mslo"],
+    answer: "phrittj haaiddr"
+},
+{
+    question: "normal anukuuln sNlkssnn or jii.e.es. of sNprtyy to who prstut done?",
+    option: ["mimbaarddo", "heNs selii", "maarttin seligmain", "None of these"],
+    answer: "heNs selii"
+},
+{
+    question: "Which of the following kaark puurvdhaarnnaa to less not does?",
+    option: ["aNtrsmuuh smprk", "puurvaagrh virodhii prcaar", "education", "ruuddhibddh"],
+    answer: "ruuddhibddh"
+},
+{
+    question: "who ‘aadrsh skaaraatmk aadr’ of sNprtyy given is?",
+    option: ["phraaydd", "maikinle", "rojrs", "eddlr"],
+    answer: "rojrs"
+},
+{
+    question: "mnovRtti change prkriyaa in sNknowledgeaatmk visNvaaditaa of sNprtyy prtipaadit done-",
+    option: ["ebraahm maislo ne", "phrittj haaiddr ne", "liyoNn pheNsttiNgr", "naarmn ttriplett ne"],
+    answer: "liyoNn pheNsttiNgr"
+},
+{
+    question: "shrennii aadhaarit skiimaa to said goes is-",
+    option: ["aadi form", "ruuddhibddh", "drshk effect", "None of these"],
+    answer: "ruuddhibddh"
+},
+{
+    question: "before prstut of going which suugramoN of effect aNt in prstut of going which suugram from more prbl is /  this effect to what called are?",
+    option: ["prthm effect", "environment effect", "aasnntaa effect", "krtaa-prekssk effect"],
+    answer: "prthm effect"
+},
+{
+    question: "one person suvysthit and smynisstth is phir also hm people in this socne of sNbhaavnaa occurs ki use prishrmii also should be /  this which-saa effect is?",
+    option: ["prthm effect", "environment effect", "aasnntaa effect", "All of the above"],
+    answer: "environment effect"
+},
+{
+    question: "pii-o-eks trikonn in pii which is?",
+    option: ["vh person is jiskii abhivRtti of adhyyn does is", "one duusraa person is", "one vissy-item is whichtowards abhivRtti of adhyyn does is is", "uprokt in from any not"],
+    answer: "vh person is jiskii abhivRtti of adhyyn does is"
+},
+{
+    question: "dvistriiy sNprtyy according to abhivRtti in change how many stroN on or crnnoN in is?",
+    option: ["two", "three", "four", "one"],
+    answer: "two"
+},
+{
+    question: "chvi construction of prkriyaa in Which of the following also up-prkriyaa is?",
+    option: ["choice", "anumaan", "sNgtthn", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "one abhivRtti in change may cause-",
+    option: ["srvsm or sNgt", "srvmy or sNgt and visNgt", "visNgt", "does not occur"],
+    answer: "srvmy or sNgt and visNgt"
+},
+{
+    question: "one Indian vaiknowledgeik em.em. mohsin ne which sNprtyy prtipaadit done?",
+    option: ["sNtuln of sNprtyy", "dvistriiy sNprtyy", "sNknowledgeaatmk visNvaaditaa or sNprtyy", "uprokt in from any not"],
+    answer: "dvistriiy sNprtyy"
+},
+{
+    question: "abhivRtti of which-sii characteristic this iNgit does is ki abhivRtti any siimaa up to skaaraatmk is or nkaaraatmk?",
+    option: ["krssnn-power", "crm siimaa", "srltaa or jttiltaa", "kendriktaa"],
+    answer: "crm siimaa"
+},
+{
+    question: "abhivRtti of vicaarprk ghttk to said goes is?",
+    option: ["sNknowledgeaatmk pkss", "bhaavaatmk pkss", "vyvhaaraatmk pkss", "None of these"],
+    answer: "sNknowledgeaatmk pkss"
+},
+{
+    question: "bhaavaatmk pkss as go goes is-",
+    option: ["motor ghttk", "vicaarprk ghttk", "saaNvegik ghttk", "uprokt all"],
+    answer: "saaNvegik ghttk"
+},
+{
+    question: "Which of the following-from kaark abhivRttiyoN of adhigm for one sNdrbh provide do are?",
+    option: ["personal anubhv", "family and school of environment", "sNdrbh group", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "vh person jo chvi bnaataa is, use what called are?",
+    option: ["lkssy", "prtykssnnkrtaa", "prtibhaagii", "source"],
+    answer: "prtykssnnkrtaa"
+},
+{
+    question: "one skiimo or anviti scheme hai / ",
+    option: ["mental sNrgram", "physical sNrgram", "social sNrgram", "None of these"],
+    answer: "mental sNrgram"
+},
+{
+    question: "Which of the following lkssy of quality is not?",
+    option: ["anunytaa", "buddhi", "aatmsmmaan", "aalsy"],
+    answer: "aalsy"
+},
+{
+    question: "mnovRtti production of nimnaaNkit in from which kaark by prbhaavit does not occur is?",
+    option: ["social siikhnaa", "vishvsniiy suugrameN", "requirement puurti", "shrotaa characteristic ofeN"],
+    answer: "shrotaa characteristic ofeN"
+},
+{
+    question: "nimnaaNkit in from which puurvaagrh in tejii from lack laataa is?",
+    option: ["education", "aNtrsmuuh sNprk", "puurvaagrh-virodhii prcaar", "social vidhaan"],
+    answer: "puurvaagrh-virodhii prcaar"
+},
+{
+    question: "following in from mnovRtti of development on whose effect more",
+    option: ["family of", "buddhi of", "age of", "jaati of"],
+    answer: "family of"
+},
+{
+    question: "puurvdhaarnnaa from mnovRtti which dRssttikonn from bhinn is?",
+    option: ["bair bhaav", "smbddhtaa", "aavessttn", "None of these"],
+    answer: "aavessttn"
+},
+{
+    question: "‘tdnubhuuti’ anubhv doing of capacity more rkhnevaaloN in most appropriate udaahrnn is-",
+    option: ["mdr tteresaa", "hemvtii nndn bhugunnaa", "medhaa paattekr", "None of these"],
+    answer: "mdr tteresaa"
+},
+{
+    question: "mnovRtti of bhaavaatmk sNghttk from taatpry is-",
+    option: ["mnovRtti item towards bhaav from", "mnovRtti item towards sNveg from", "mnovRtti item towards bhaav and sNveg both", "among these from any from also not"],
+    answer: "mnovRtti item towards bhaav and sNveg both"
+},
+{
+    question: "pii.o.eks moNddl of sNdrbh in which kthn correct is?",
+    option: ["this moNddl in only one person is", "this moNddl in only two person are", "this moNddl in only three person are", "this moNddl in at least"],
+    answer: "this moNddl in only three person are"
+},
+{
+    question: "sNknowledgeaatmk asNvaaditaa of smprtyy to viksit done is-",
+    option: ["thrsttn", "phesttiNgr", "likrtt", "bogaardds"],
+    answer: "phesttiNgr"
+},
+{
+    question: "pro. kailii v volkaartt of mtaanusaar ‘group of determined abhivRtti to group of nye member’ which type intake do are?",
+    option: ["shiighrtaa from", "vilmb from", "ekjutt hokr", "None of these"],
+    answer: "shiighrtaa from"
+},
+{
+    question: "mnovRtti construction of saaNskRtik kaark of bhuumikaa on force given-",
+    option: ["bndduuraa", "sulemaan", "miidd and beneddiktt", "insko and nelsn"],
+    answer: "sulemaan"
+},
+{
+    question: "any special group towards nkaaraatmk abhivRtti to called are?",
+    option: ["abhikssmtaa", "abhiruci", "puurvaagrh", "None of these"],
+    answer: "puurvaagrh"
+},
+{
+    question: "following in which mental health of basis is?",
+    option: ["sNvegaatmk sthirtaa", "real sNknowledge", "vyktik svtNtrtaa", "trkpuurnn ciNtn"],
+    answer: "trkpuurnn ciNtn"
+},
+{
+    question: "smaajopkaarii behavior praayH from whom prbhaavit is?",
+    option: ["adhigm from", "prtikriyaa from", "puurvaagrh from", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "‘jo hmaarii assistance do are hmeN unkii assistance avshy krnii should’ what is called is?",
+    option: ["puurvaagrh condition", "social condition", "prsprtaa condition", "saamuuhik condition"],
+    answer: "prsprtaa condition"
+},
+{
+    question: "puurvaagrh any special group towards which baat of udaahrnn is?",
+    option: ["abhiruci", "abhivRtti", "abhimt", "abhikssmtaa"],
+    answer: "abhivRtti"
+},
+{
+    question: "social annytaa of bhaavnaa group towards which-sii abhivRtti of bodh kraatii is?",
+    option: ["skaaraatmk abhivRtti", "nkaaraatmk abhivRtti", "uttraatmk abhivRtti", "puurvaagrhaatmk abhivRtti"],
+    answer: "nkaaraatmk abhivRtti"
+},
+{
+    question: "aarmn ttriplett ne when this found ki log duusroN of upsthiti in behtr prdrshn do are?",
+    option: ["sn 1897", "sn 1902", "sn 1898", "above-mentioned in any not"],
+    answer: "sn 1898"
+},
+{
+    question: "person duusroN of upsthiti in behtr prdrshn why does is?",
+    option: ["shjtaa because of", "language prbodhn because of", "prsprtaa because of", "social annytaa because of"],
+    answer: "prsprtaa because of"
+},
+{
+    question: "bhaav prbodhn activity in person by evaluation anubhv to koNttrel ne what name given is?",
+    option: ["assistance to do", "evaluation bodh", "natural vipttiyoN of saamnaa to do", "None of these"],
+    answer: "evaluation bodh"
+},
+{
+    question: "‘hmeN duusroN vyktiyoN of help krnii should’ this behavior to which-saa behavior said goes is?",
+    option: ["smaajonmukhii behavior", "smaajopkaarii behavior", "social behavior", "All of these"],
+    answer: "smaajopkaarii behavior"
+},
+{
+    question: "vicaarprk ghttk to which name from go goes is?",
+    option: ["vyvhaarprk", "motor", "bhaavaatmk", "sNknowledgeaatmk"],
+    answer: "sNknowledgeaatmk"
+},
+{
+    question: "sNknowledgeaatmk, bhaavaatmk, vyvhaarprk ghttkoN to sNkssep in abhivRtti of which ghttk of name from go goes is?",
+    option: ["e.-bii.-sii.", "e. bii. ddii.", "e.-sii. bii.", "e.-ddii.-bii."],
+    answer: "e.-bii.-sii."
+},
+{
+    question: "‘vyaapk abhivRtti of under how many abhivRttiyaaN occurs /  abhivRtti of which characteristic of smbndh this kthn from is?",
+    option: ["kendriktaa", "krssnn power", "srltaa or jttiltaa", "crm siimaa"],
+    answer: "srltaa or jttiltaa"
+},
+{
+    question: "In which year sttimbr ne apne adhyyn in found ki education of level of bddh'ne from puurv-dhaarnnaa mittne seems is?",
+    option: ["1962", "1960", "1963", "1961"],
+    answer: "1961"
+},
+{
+    question: "duusroN of upsthiti in log kbhii-kbhii more gltiyaaN do hai /  nisspaadn on duusroN of upsthiti of this bad effect is called are-",
+    option: ["social srliikrnn", "social shrmaavnyn", "social avrodh", "None of these"],
+    answer: "social avrodh"
+},
+{
+    question: "Which of the following chvi construction of prkriyaa in smmilit is not?",
+    option: ["choice", "sNgtthn", "bhuumikaa nirvaah", "anumaan"],
+    answer: "bhuumikaa nirvaah"
+},
+{
+    question: "Which of the following group sNrgram of element is not?",
+    option: ["smiiptaa", "smaantaa", "asurkssaa and ciNtaa of bhaav", "anumaan"],
+    answer: "asurkssaa and ciNtaa of bhaav"
+},
+{
+    question: "phrittj haaiddr of sNtuln principle in P-0-X moNddl in 0 prtinidhitv do are-",
+    option: ["another person to", "which person of mnovRtti of adhyyn is done", "another item to", "above-mentioned in from any not"],
+    answer: "which person of mnovRtti of adhyyn is done"
+},
+{
+    question: "one social group of sNrgram for less-from-less how many members need for occurs?",
+    option: ["five", "four", "three", "two"],
+    answer: "two"
+},
+{
+    question: "if one muslmaan apne hinduu mitr of abhivaadn both haathoN to jodd' by does is, then vh such which group of effect of under does is?",
+    option: ["primary", "secondary", "sNdrbh", "None of these"],
+    answer: "secondary"
+},
+{
+    question: "family one group of udaahrnn is-",
+    option: ["primary", "secondary", "sNdrbh", "None of these"],
+    answer: "primary"
+},
+{
+    question: "Which of the following anrdvndr of prinnti is-",
+    option: ["best group sNpressnn", "saamuuhik vishvaas of condition", "dvndv kaark in growth doing of", "None of these"],
+    answer: "dvndv kaark in growth doing of"
+},
+{
+    question: "kolmain according to social effect of which one type is not?",
+    option: ["anupaaln", "aajnyaapaaln", "taadaatmy", "aaNtriikrnn"],
+    answer: "anupaaln"
+},
+{
+    question: "nimnaaNkit in which group sNrgram of element is not?",
+    option: ["bhuumikaa", "standard", "pdvii", "group soc"],
+    answer: "group soc"
+},
+{
+    question: "‘these d maainndd of men’ of lekhk which are?",
+    option: ["ttukmain", "ddiyush", "mrphii", "sheriph"],
+    answer: "ddiyush"
+},
+{
+    question: "baiNddbaign effect whose one cause is?",
+    option: ["group smgrtaa", "group standard", "group dhruviikrnn", "group soc"],
+    answer: "group dhruviikrnn"
+},
+{
+    question: "nimnaaNkit in from which social effect of most indirect praaruup is?",
+    option: ["anuruuptaa", "aajnyaapaaln", "anupaaln", "None of these"],
+    answer: "anupaaln"
+},
+{
+    question: "group construction of which stage in aNtrsmuuh dvNdv is?",
+    option: ["nirmaannaavsthaa in", "be-hNgaamaa of stage in", "standard sthaapit doing of stage in", "None of these"],
+    answer: "standard sthaapit doing of stage in"
+},
+{
+    question: "following in which aNtr dvNdv of prinnti is?",
+    option: ["bhuumikaaeN", "prtimaan", "status", "None of these"],
+    answer: "prtimaan"
+},
+{
+    question: "following in which aupcaarik group of udaahrnn is?",
+    option: ["family", "jaati", "vishvvidyaaly", "dhrm"],
+    answer: "vishvvidyaaly"
+},
+{
+    question: "social svairaacaar to whose pryogoN by drshaayaa was is?",
+    option: ["sheriph", "sttrnbrg", "ltaane", "hores"],
+    answer: "ltaane"
+},
+{
+    question: "social svairaacaar saamuuhik function doing in personal pryaas of-",
+    option: ["adhiktaa is", "lack is", "prcurtaa is", "None of these"],
+    answer: "lack is"
+},
+{
+    question: "group in aNtHkriyaa and vicaar-vimrsh of prinnaamsvruup group of praarNbhik condition of prbltaa to said goes is-",
+    option: ["group dhruviikrnn", "anupaaln", "aajnyaapaaln", "None of these"],
+    answer: "group dhruviikrnn"
+},
+{
+    question: "social svairaacaar saamuuhik function of one udaahrnn is-",
+    option: ["krikett of play", "rssaakshii of play", "hoNkii of play", "baiNddmiNttn of play"],
+    answer: "rssaakshii of play"
+},
+{
+    question: "following in dvNdv smaadhaan of yukti which-sii is?",
+    option: ["smjhautaa vaartaa", "aNtr-group sNprk to bddh'aanaa", "prtykssnn in change to do", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "secondary group of members in-",
+    option: ["relation indirect are", "relation less nirvaiyktik are", "relation direct are", "relation more shape which are"],
+    answer: "relation indirect are"
+},
+{
+    question: "group two or two from more vyktiyoN of one sNgtthit arrangement occurs-",
+    option: ["jo one-another from aNt:activity do are", "jo prspr depends are", "jinkii one jaisii abhiprernnaaeN occursN", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "bhiidd' in-",
+    option: ["any sNrgram does not occur is", "aatmiiytaa of bhaavnaa does not occur is", "people of behavior avivekii is", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "group sNrgram when viksit occurs?",
+    option: ["when member different-different activity do are", "when member prspr aNt:activity do are", "when any member akele any function does is", "None of these"],
+    answer: "when member prspr aNt:activity do are"
+},
+{
+    question: "jaati-",
+    option: ["primarytaa group of udaahrnn are", "secondary group of udaahrnn are", "aupcaarik group of udaahrnn are", "baahy group of udaahrnn are"],
+    answer: "primarytaa group of udaahrnn are"
+},
+{
+    question: "group in people of smmilit being of cause is-",
+    option: ["security", "status", "aatm-smmaan", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "who group of vrgiikrnn primary group and secondary group in done is?",
+    option: ["maikaaivr", "aalportt", "ddblyuu jii smnr", "caarls kuule"],
+    answer: "maikaaivr"
+},
+{
+    question: "one sNdrbh group for srvaadhik vaaNchit stage is-",
+    option: ["group of aakaar", "group of effect", "group of sdsytaa", "group of with smbddhtaa"],
+    answer: "group of with smbddhtaa"
+},
+{
+    question: "social group of following which type in srvaadhik ektaa occurs?",
+    option: ["aNt: group", "baahy group", "gtishiil group", "None of these"],
+    answer: "aNt: group"
+},
+{
+    question: "group ciNtn of aavisskaar who done?",
+    option: ["irviNg jenis", "sailovii", "je.em. ojhaa", "vaalaash"],
+    answer: "irviNg jenis"
+},
+{
+    question: "anuruuptaa on agrgmn use which mnovaiknowledgeikoN by done was are?",
+    option: ["shems", "shairiph and aish", "meyr", "sttrnbrg"],
+    answer: "shairiph and aish"
+},
+{
+    question: "whose under person apricit people of aadesh of paaln do are?",
+    option: ["kilograam", "mg", "siiliigraam", "milgraam"],
+    answer: "milgraam"
+},
+{
+    question: "all pryojyoN in how many percent ne smpuurnn aajnyaapaaln to prdrshit done?",
+    option: ["65 percent", "70 percent", "64 percent", "60 percent"],
+    answer: "65 percent"
+},
+{
+    question: "anuruuptaa social effect of which-saa form is?",
+    option: ["direct form", "direct and indirect", "indirect form", "among these in from any not"],
+    answer: "indirect form"
+},
+{
+    question: "aajnyaapaaln social effect of which-saa form is?",
+    option: ["indirect form", "direct form", "direct and aprtyk", "None of these"],
+    answer: "direct form"
+},
+{
+    question: "anupaaln social effect of which-saa form is?",
+    option: ["indirect form", "direct form", "direct v indirect of mdhy form", "None of these"],
+    answer: "direct v indirect of mdhy form"
+},
+{
+    question: "two vyktiyoN of group to which group under rkhaa jaa can is?",
+    option: ["sNgtthit group", "secondary group", "primary group", "temporary group"],
+    answer: "primary group"
+},
+{
+    question: "vicaaroN, prernnaaoN, aavshyktaaoN athvaa uddeshyoN of prspr virodh of phlsvruup paidaa was vikssobh or tnaav of condition what khlaatiihai?",
+    option: ["dvndv", "trk", "kunntthii", "dmn"],
+    answer: "dvndv"
+},
+{
+    question: "when from when up to raassttrpti liNddn joNnsn and combined raassttr in unke slaahkaaroN ne viytnaam yuddh to front bddh'aayaa thaa?",
+    option: ["1965 from 1968 up to", "1963 from 1966 up to", "1967 from 1969 up to", "1964 from 1967 up to"],
+    answer: "1965 from 1968 up to"
+},
+{
+    question: "following in which secondary group is not?",
+    option: ["family", "school", "raajnaitik dl", "klb"],
+    answer: "family"
+},
+{
+    question: "social effect of group effect prkrmoN in Which of the following one shmil is?",
+    option: ["anupaalnaa", "aaNtrikiikrnn", "anupNthiikrnn", "None of these"],
+    answer: "anupaalnaa"
+},
+{
+    question: "social effect of which one prkriyaa nimnaaNkit in from is not?",
+    option: ["anuruuptaa", "anupaaln", "aajnyaapaaln", "social shrmaavnyn"],
+    answer: "social shrmaavnyn"
+},
+{
+    question: "sttokols naamk mnovaiknowledgeik ne which sn in three upaagmoN of vrnnn done?",
+    option: ["1990", "1980", "1989", "1991"],
+    answer: "1990"
+},
+{
+    question: "life of quality to bad bnaa rhe are-",
+    option: ["shor", "pollution", "bhiidd'", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "vaiyktik distance how many phiitt from lekr how many phiitt up to occurs?",
+    option: ["15 iNc from 7 phiitt", "4 phiitt from 12 phiitt", "18 iNc from 4phiitt", "10 iNc from 6 phiitt"],
+    answer: "18 iNc from 4phiitt"
+},
+{
+    question: "4 phiitt from lekr 25 phiitt up to of distance which-sii occurs?",
+    option: ["social distance", "public distance", "vaiyktik distance", "antrNg distance"],
+    answer: "public distance"
+},
+{
+    question: "prtykssit asmtaa dvndv of which-saa cause is?",
+    option: ["duusraa", "first", "cauthaa", "tiisraa"],
+    answer: "duusraa"
+},
+{
+    question: "which mnovaiknowledgeik of adhyyn ne this prdrshit done ki ucckotti lkssyoN of nirdhaarnn by doing antr-group dvndv to less by can is?",
+    option: ["vaalaash", "sheriph", "vaakr meNhdii", "paasii"],
+    answer: "sheriph"
+},
+{
+    question: "Which of the following saamjik effect produced do are?",
+    option: ["mitr", "reddiyo", "tteliivijn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from in which protsaahk prspr dependence paaii goes is-",
+    option: ["shyogii paaritossik sNrgram", "prtisprdhaatmk paaritossik sNrgram", "aNtrvaiyktik sNpressnn", "None of these"],
+    answer: "shyogii paaritossik sNrgram"
+},
+{
+    question: "which mnovaiknowledgeik ne group of five anukrmoN to btaayaa thaa?",
+    option: ["ttkmain", "irviNg jenis", "jenis", "aish"],
+    answer: "ttkmain"
+},
+{
+    question: "Which of the following anuruuptaa of nirdhaark is?",
+    option: ["group of aakaar", "group of sNghttn", "group of power", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "vidyaarthii to mhaavidyaaly in determined ddres in go, play of maidaan in play of niymoN to apnaanaa aadi udaahrnn are-",
+    option: ["anupaaln", "anuruuptaa", "aajnyaapaaln", "None of these"],
+    answer: "aajnyaapaaln"
+},
+{
+    question: "caattukaaritaa, paarspriktaa and bhu anurodh prvidhiyaaN are-",
+    option: ["anuruuptaa of", "anupaaln of", "aajnyaapaaln of", "None of these"],
+    answer: "anupaaln of"
+},
+{
+    question: "Which of these smaanubhuuti characteristic of is not?",
+    option: ["smaanubhuuti aadhaarit shj smbndh", "sNvaad in ekruuptaa", "laabhaarthii of mental jgt to approximately entire trh from smjh obtaining of anubhv", "shaanubhuuti"],
+    answer: "shaanubhuuti"
+},
+{
+    question: "ucctm sNgtthit group is-",
+    option: ["desh", "family", "senaa", "industrial sNgtthn"],
+    answer: "desh"
+},
+{
+    question: "group dhruviikrnn from sNprtyy of prtipaadn by whom done was?",
+    option: ["phreshnr and myuulr", "phreshnr and shelddn", "moskovisii and phrejr", "None of these"],
+    answer: "phreshnr and shelddn"
+},
+{
+    question: "shor or noise to naapne for which unit of is used?",
+    option: ["bel", "maaikrobel", "ddesiibel", "ddii.pii."],
+    answer: "ddesiibel"
+},
+{
+    question: "pure air khlaatii is-",
+    option: ["78.98%N₂, 20.94%O₂ and 0.03%CO₂", "20.94%N₂, 78.98%O₂ and 0.03%CO₂", "60.30%N₂, 39.20%O₂ and 0.03%CO₂", "None of these"],
+    answer: "78.98%N₂, 20.94%O₂ and 0.03%CO₂"
+},
+{
+    question: "sdd'k, bodh aadi udaahrnn are-",
+    option: ["environment of", "made environment of", "natural environment of", "None of these"],
+    answer: "made environment of"
+},
+{
+    question: "Indian priprekssy in poor kise kheNge?",
+    option: ["income less and life apryaapt be", "income more be on requirement less be", "income and requirement both more be", "None of these"],
+    answer: "income less and life apryaapt be"
+},
+{
+    question: "pryaavrnniiy mnovaiknowledgeikoN ne environment preservation of which maadhym on force given is?",
+    option: ["puurv behavior anubodhk", "pshc behavior punrbln", "pryaavrnniiy education", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "plastic thailoN use of environment for one bdd'ii problem is, kyoNki plastic thaile-",
+    option: ["jaivik kssrnnshiil are", "jaivik akssrnnshiil are", "jvlnshiil are", "All of the above are"],
+    answer: "jaivik akssrnnshiil are"
+},
+{
+    question: "Which of the following-from made environment of udaahrnn are?",
+    option: ["ngr", "baaNdh", "pul", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "human-made vipdaa of udaahrnn is notN-",
+    option: ["yuddh", "kaarkhaanoN in vissaile gas of risaav", "mhaamaarii", "tuuphaan"],
+    answer: "tuuphaan"
+},
+{
+    question: "human-environment smbndh of vivrnn prstut doing for following in which mnovaiknowledgeik ne three upaagmoN of vrnnn done?",
+    option: ["sttokols", "joNn ddoloNrdd", "elbrtt bNduuraa", "eddvrdd hoNl"],
+    answer: "sttokols"
+},
+{
+    question: "avshisstt substance jo jaivik form from kssrnnshiil not are-",
+    option: ["plastic", "dhaatu from made paatr", "ttiin", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "following in from which kaarnnoN from abhighaatj uttr dbaav vikaar produced are-",
+    option: ["shor", "natural vipdaaeN", "pollution", "bhiidd'"],
+    answer: "natural vipdaaeN"
+},
+{
+    question: "aNtrvaiyktik physical distance in person what type of distance bnaae keeps is?",
+    option: ["physical (physical)", "economic", "mental", "None of these"],
+    answer: "physical (physical)"
+},
+{
+    question: "dbaav one condition is-",
+    option: ["mnovaiknowledgeik", "social", "economic", "None of these"],
+    answer: "mnovaiknowledgeik"
+},
+{
+    question: "sii.eph.sii. or kloro-phloro carbon kise polluted do are?",
+    option: ["mRdaa", "water", "air", "None of these"],
+    answer: "air"
+},
+{
+    question: "function nisspaadn on shor of effect to shor of which-sii characteristic determined does is?",
+    option: ["shor of tiivrtaa", "bhvissy kthniiytaa", "niyNtrnniiytaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "bhopaal gas traasdii when was thii?",
+    option: ["disNbr, 1984", "disNbr, 1986", "May, 1984", "jnvrii, 1981"],
+    answer: "disNbr, 1984"
+},
+{
+    question: "environment of vissy in paarNprik Indian dRssttikonn which priprekssy to maanytaa gives is?",
+    option: ["alptmvaadii priprekssy", "naimittik priprekssy", "aadhyaatmik priprekssy", "All of these"],
+    answer: "aadhyaatmik priprekssy"
+},
+{
+    question: "uttraakhNdd field of ‘cipko aaNdoln’ human-environment relation in which priprekssy of udaahrnn is?",
+    option: ["aadhyaatmik priprekssy", "naimittik priprekssy", "alptmvaadii priprekssy", "None of these"],
+    answer: "aadhyaatmik priprekssy"
+},
+{
+    question: "Which of the following pryaavrnnii dbaav kaarkoN of udaahrnn are?",
+    option: ["shor", "bhiidd'", "natural vipdaaeN", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "‘environment to ksstigrst to do’ human environment relation of which priprekssy to drshaataa is?",
+    option: ["alpmtvaadii priprekssy", "naimittik priprekssy", "aadhyaatmik priprekssy", "None of these"],
+    answer: "naimittik priprekssy"
+},
+{
+    question: "environment-unmukh behavior is not-",
+    option: ["environment of smsyaaoN from preservation to do", "environment to destroyed to do", "healthy environment to unnt to do", "environment mitr vstuoN use of to do"],
+    answer: "environment to destroyed to do"
+},
+{
+    question: "which mnovaiknowledgeik ne condition on dependence of basis on four type of aNtrvyktik distance to btaayaa is?",
+    option: ["joNn ddoloNrdd", "sttokols", "eddvrdd hoNl", "elbrtt bNduuraa"],
+    answer: "eddvrdd hoNl"
+},
+{
+    question: "following in from which on poverty and vNcn of prtikuul effect falls is?",
+    option: ["abhiprernnaa", "sNknowledgeaatmk prkriyaaoN", "vyktitv", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from antrraassttriiy group which-saa is?",
+    option: ["aikshn edd", "sevrshn edd", "veNvshn edd", "None of these"],
+    answer: "aikshn edd"
+},
+{
+    question: "which mnovaiknowledgeik ne adhyyn by aakrmktaa of adhigm in moNddl of bhuumikaa to prdrshit done is?",
+    option: ["vuddvrth", "joNn Smith", "vunntt", "elbrtt bNduuraa"],
+    answer: "elbrtt bNduuraa"
+},
+{
+    question: "natural vipdaaeN Which of the following-sii are?",
+    option: ["bhuukmp", "baaddh'", "tuuphaan", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "which vaiknowledgeik ne kuNtthaa aakraamktaa principle of test doing for adhyyn done?",
+    option: ["jaan ddolaardd", "Smith", "elbrtt bNduuraa", "joNn"],
+    answer: "jaan ddolaardd"
+},
+{
+    question: "ec.aaii.vii, kise called are?",
+    option: ["malaria", "jukaam", "edds", "kaiNsr"],
+    answer: "edds"
+},
+{
+    question: "amerikii mnovaiknowledgeik sNgh ne In which year kaarydl establishment of thii?",
+    option: ["1973", "1974", "1975", "1972"],
+    answer: "1973"
+},
+{
+    question: "generally hmeN how many types of mnovaiknowledgeik should?",
+    option: ["one", "four", "three", "two"],
+    answer: "two"
+},
+{
+    question: "saakssaatkaar skill vh means is jiske by maukhik athvaa likhit vaartaalaapoN of expression occurs /  this kthn who likhaa is?",
+    option: ["sii-aaijnek", "je.pii. daas", "vhaaitt", "ttraams"],
+    answer: "sii-aaijnek"
+},
+{
+    question: "which stage in saakssaatkaardaataa from those prshnoN to puuchaa goes is jo ki saakssaatkaar of uddeshy to full do are?",
+    option: ["praarmbhik stage", "main part or mdhy stage", "smaapn stage", "All of the above"],
+    answer: "main part or mdhy stage"
+},
+{
+    question: "which desh of mnovaiknowledgeik sNgh by gtthit function dl kaushloN of three sumuccy are?",
+    option: ["ciin", "jaapaan", "phraaNs", "amerikaa"],
+    answer: "amerikaa"
+},
+{
+    question: "praamrsh of smbndh is-",
+    option: ["social", "shaaytaaprk", "vyktiprk", "vstuprk"],
+    answer: "shaaytaaprk"
+},
+{
+    question: "prbhaavii praamrshdaataa of necessary quality are-",
+    option: ["praamaanniktaa and punrvaakyvinyaas", "duusroN towards skaaraatmktaa", "tdnubhuuti", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "praamrshdaataa of andr one srvaadhik important skill is-",
+    option: ["tdnubhuuti", "vaiyktik evaluation", "shaaytaagraahytaa", "None of these"],
+    answer: "tdnubhuuti"
+},
+{
+    question: "sevaarthii-praamrshdaataa of smbndh is-",
+    option: ["social basis", "vyaafatyik basis", "raajnaitik basis", "naitik basis"],
+    answer: "naitik basis"
+},
+{
+    question: "prbhaavii mnovaiknowledgeik as viksit being for jruurii is-",
+    option: ["akhnnddtaa of honaa", "skssmtaa of honaa", "saarthktaa v vaiknowledgeiktaa", "appropriate all"],
+    answer: "skssmtaa of honaa"
+},
+{
+    question: "praamrsh smbndhii anukriyaa to sevaarthii towards to do is-",
+    option: ["vicaaroN towards", "kriyaaoN towards", "bhaavnaaoN towards", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "sNdeshoN towards jaankaarii and sNvednshiiltaa praamrshdaataa for necessary is-",
+    option: ["prbhaavitaa for", "saamaajiktaa for", "vissyprktaa for", "None of these"],
+    answer: "prbhaavitaa for"
+},
+{
+    question: "prbhaavii sNprekssnn of prti obtained of jaa sktii is-",
+    option: ["proper sNdesh by", "pryaavrnniiy shor controlled by doing", "kushltaa use of by doing", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "shrvnn prkriyaa of one praarmbhik crnn is,",
+    option: ["sNdesh to sNpressit to do", "sNdesh prkriyaa apnaanaa", "uddiipk or sNdesh of abhigrhnn to do", "sNdesh intake by bhnnddaarnn to do"],
+    answer: "uddiipk or sNdesh of abhigrhnn to do"
+},
+{
+    question: "pryaavrnniiy mnovaiknowledgeik which maadhymoN by environment preservation on force dete haiN / ",
+    option: ["pryaavrnniiy education", "puurv behavior anubodhk", "pshc behavior punrbln", "All of these"],
+    answer: "pryaavrnniiy education"
+},
+{
+    question: "griphritt of yogdaan following in from which field in is?",
+    option: ["prkaash", "shorgul", "air-pollution", "temperature"],
+    answer: "temperature"
+},
+{
+    question: "world environment day mnaayaa goes is-",
+    option: ["5 April", "5 May", "5 June", "5 July"],
+    answer: "5 June"
+},
+{
+    question: "bhuukmp one sNktt is-",
+    option: ["natural", "raajnaitik", "social", "dhaarmik"],
+    answer: "natural"
+},
+{
+    question: "jin prkriyaa by person apne vaataavrnn of stt aavaaj of with smNjn sthaapit by letaa is, use said goes is-",
+    option: ["abhysn", "siikhnaa", "aadt making", "None of these"],
+    answer: "abhysn"
+},
+{
+    question: "mnoviknowledge of vh shaakhaa jo human-environment antHkriyaaoN of adhyyn does is-",
+    option: ["pryaavrnniiy mnoviknowledge", "society-environment mnoviknowledge", "society mnoviknowledge", "child mnoviknowledge"],
+    answer: "pryaavrnniiy mnoviknowledge"
+},
+{
+    question: "vaataavrnniiy pollution which form in may cause?",
+    option: ["Air pollution", "Water pollution", "soil pollution", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "aakrmnn to who this form in prmaannit done is? aakrmnn from taatpry duusroN towards done were sbhipraay kssti from is”",
+    option: ["hilgaardd", "phraaydd", "brkobittj", "None of these"],
+    answer: "phraaydd"
+},
+{
+    question: "shbhaagii prekssnn of main quality",
+    option: ["svaabhaaviktaa", "lciilaapn", "prishuddhtaa", "vstunisstthtaa"],
+    answer: "lciilaapn"
+},
+{
+    question: "which prekssnn in prekssk, prekssit group of with ghul mil by ghttnaa of avlokn natural form from does is?",
+    option: ["shbhaagii", "ashbhaagii", "prkRtivaadii", "None of these"],
+    answer: "shbhaagii"
+},
+{
+    question: "saakssaatkaar of uddeshy is-",
+    option: ["aamne-saamne of smprk from suugram obtained to do", "priklpnaaoN of source", "avlokn for opportunity paanaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "mnoviknowledge of vstunisstth niriikssnn method of prvrtk which is?",
+    option: ["uNtt", "viliym jems", "vaattsn", "None of these"],
+    answer: "uNtt"
+},
+{
+    question: "aamne-saamne of relation necessary is-",
+    option: ["prshnaavlii method in", "saakssaatkaar method in", "kesuu adhyyn method in", "rettiNg method in"],
+    answer: "saakssaatkaar method in"
+},
+{
+    question: "Which of the following sNcaar of element is not?",
+    option: ["speaking", "sunnaa", "physical language", "praanubhuuti"],
+    answer: "praanubhuuti"
+},
+{
+    question: "one saakssaatkaar in one puurv determined anugmn is done / …….. question shRNkhlaa of",
+    option: ["asNrcit", "arddh sNrcit", "aabhaasii sNrcit", "sNrcit"],
+    answer: "sNrcit"
+},
+{
+    question: "following in kise mnoviknowledge in evaluation method of device as not smjhaa goes is?",
+    option: ["mnovaiknowledgeik test", "kes adhyyn", "mnshcikitsaa", "saakssaatkaar"],
+    answer: "mnshcikitsaa"
+},
+{
+    question: "nimnaaNkit in from which prbhaavii praamrshdaataa of quality is not?",
+    option: ["praanubhuuti", "praamaanniktaa", "bhaavaanuvaad", "sshrt smmaan"],
+    answer: "sshrt smmaan"
+},
+{
+    question: "one prbhaavii mnovaiknowledgeik bnne for which trh of skill need occurs?",
+    option: ["normal skill", "prekssnnaatmk skill", "special skill", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "person of physical haavbhaav which shrennii of skill is?",
+    option: ["praamrsh skill", "mnovaiknowledgeik test function skill", "saakssaatkaar function skill", "sNcaar skill"],
+    answer: "sNcaar skill"
+},
+{
+    question: "aNtrvaiyktik sNprekssnn related is-",
+    option: ["svyN from", "two or two from more vyktiyoN from", "jnsbhaa from", "bhiidd' from"],
+    answer: "two or two from more vyktiyoN from"
+},
+{
+    question: "aNtrvaiyktik sNpressnn of type are-",
+    option: ["saakssaatkaar", "mdhysth aadhaarit vaartaalaap", "small group pricrcaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "prekssnn of vh triikaa jisse hm sikhte are ki log bhinn pristhitiyoN in how behavior do are, is called is-",
+    option: ["prkRtivaadii prekssnn", "normal prekssnn", "shbhaagii prekssnn", "None of these"],
+    answer: "prkRtivaadii prekssnn"
+},
+{
+    question: "mnovaiknowledgeik apne environment of which pkssoN of vibhinn phluoN of baare in prekssnn does is?",
+    option: ["ghttnaaeN", "person", "both", "None of these"],
+    answer: "both"
+},
+{
+    question: "apnii baatoN to reddiyo or tteliivijn of maadhym from vktaa by khne to called are-",
+    option: ["public sNpressnn", "aNtraavaiyktik sNpressnn", "aNtrvaiyktik srpekssnn", "None of these"],
+    answer: "public sNpressnn"
+},
+{
+    question: "grm sttov to chuune on aNguliyoN of khiiNgram and hmaarii eyes in aaNsuu aanaa whose udaahrnn is-",
+    option: ["vaacik sNpressnn", "avaacik sNpressnn", "bhaassaayii sNpressnn", "None of these"],
+    answer: "avaacik sNpressnn"
+},
+{
+    question: "sNpressnn one prkriyaa is-",
+    option: ["scetn", "acetn", "saabhipraay", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "person of svyN from sNvaad doing of activity to called are-",
+    option: ["antyrvaiyktik sNpressnn", "aNtrvaiyktik sNpressnn", "public sNpressnn", "None of these"],
+    answer: "antyrvaiyktik sNpressnn"
+},
+{
+    question: "amerikii mnovaiknowledgeik sNgh of ne one kaarydl gtthit done jiskaa uddeshy whichfor necessary kaushloN of phcaan to do thaa?",
+    option: ["smaajshaastriyoN", "vyaafatyik mnovaiknowledgeikoN", "arthshaastriyoN", "None of these"],
+    answer: "vyaafatyik mnovaiknowledgeikoN"
+},
+{
+    question: "shrvnn prkriyaa in which organs of bhuumikaa does not occur is?",
+    option: ["kaan", "mstissk", "naak", "aaNkh"],
+    answer: "naak"
+},
+{
+    question: "body language in Which of the following-from kaark shaamil are?",
+    option: ["haavbhaav", "hand of gti", "bhNgimaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "saakssaatkaar of which part in saakssaatkaarkrtaa suugram and prdtt obtained doing of uddeshy from question puuchtaa is?",
+    option: ["praarNbh", "main part", "smaapn", "None of these"],
+    answer: "main part"
+},
+{
+    question: "mnovaiknowledgeik priikssnnoN use of do time necessary is-",
+    option: ["vstunisstthtaa", "vaiknowledgeik unmukhtaa", "maankiikRt vyaakhyaa", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "shrvnn in which-sii characteristic not honii should?",
+    option: ["dhairyvaan", "adhairyvaan", "anirnnyaatmk", "dhyaan skriytaa"],
+    answer: "adhairyvaan"
+},
+{
+    question: "hearing which by hmaarii of was baatoN to apnii smjh from baatoN or vicaaroN to punrkthit is called is-",
+    option: ["punrvaakyvinyaas", "abhigrhnn", "dhyaan", "aaropnn"],
+    answer: "punrvaakyvinyaas"
+},
+{
+    question: "one prekssnnkrtaa by usii shoNpiNg moNl of shop in aNshkaalik job lekr inside of person bnkr graahkoN of behavior in bhinntaaoN of prekssnn is called is-",
+    option: ["prkRtivaadii prekssnn", "shbhaagii prekssnn", "aatm prtykssnn", "evaluation prekssnn"],
+    answer: "shbhaagii prekssnn"
+},
+{
+    question: "one prbhaavii praamrshdaataa of gunne is notN.",
+    option: ["praamaanniktaa", "duusroN towards skaaraatmk aadr", "tdnubhuuti of yogytaa", "duusroN towards skaaraatmk anaaduur"],
+    answer: "duusroN towards skaaraatmk anaaduur"
+},
+{
+    question: "saakssaatkaar of three avsthaaeN occursN, nimnaaNkit in which those avsthaaoN in is not?",
+    option: ["praarNbhik taiyaarii", "prshnottr kaal", "smaapn of avsthaaeN", "relation making of avsthaaeN"],
+    answer: "relation making of avsthaaeN"
+},
+{
+    question: "which prekssnn from prekssk, prekssit group of with ghul mil by ghttnaa of avlokn does is?",
+    option: ["shbhaagii", "ashbhaagii", "prkRtivaadii", "None of these"],
+    answer: "shbhaagii"
+},
+{
+    question: "two or more vyktiyoN between vaartaalaap and antHkriyaa is-",
+    option: ["test", "saakssaatkaar", "praamrsh", "use"],
+    answer: "saakssaatkaar"
+},
+{
+    question: "sNcaar skill for which-saa skill anivaary is not?",
+    option: ["pebhaavii speaking", "prbhaavii ddhNg from sunnaa", "ashaabdik sNcaar", "saaNvegik sthirtaa"],
+    answer: "ashaabdik sNcaar"
+},
+{
+    question: "sNcaar kuutt sNketn characteristic of which is?",
+    option: ["kuutt sNketn in person apnii anubhuuti in change laataa hai / ", "kuutt sNketn in person apnii saaNvegik uttejnaa on control does hai / ", "kuutt sNketn in person apne vicaaroN to special meaning provide does hai / ", "kuutt sNketn in person apnii bhaavnaaoN to viksit does hai / "],
+    answer: "kuutt sNketn in person apne vicaaroN to special meaning provide does hai / "
+},
+{
+    question: "which skill to three bhaagoN in vibhaajit done was is?",
+    option: ["normal skill", "aadhaarbhuut skill", "special skill", "praamrsh skill"],
+    answer: "aadhaarbhuut skill"
+},
+{
+    question: "which skill use of mnovaiknowledgeik behavior of vissy in antrdRsstti of development doing for praarmbhik stage in is done?",
+    option: ["prekssnn skill", "special skill", "test skill", "praamrsh skill"],
+    answer: "prekssnn skill"
+},
+{
+    question: "shrvnn prkriyaa of one praarmbhik crnn is-",
+    option: ["sNdesh to sNpressit to do", "sNdesh prkriyaa apnaanaa", "uddiipk or sNdesh of abhigrhnn to do", "sNdesh intake by bhnnddaarnn to do"],
+    answer: "uddiipk or sNdesh of abhigrhnn to do"
+},
+{
+    question: "saakssaatkaar skill one prkriyaa is-",
+    option: ["mukhonmukh vaartaalaap", "duurbhaass vaartaalaap", "prshnaavlii bhrnaa", "anusuucii of prkriyaa"],
+    answer: "mukhonmukh vaartaalaap"
+},
+{
+    question: "saakssaatkaar in which crnn is not?",
+    option: ["praarNbhik taiyaarii", "saakssaatkaar in relation to prgaaddh'taa", "saakssaatkaar of operation or prshnottr str", "saakssaatkaar smaapn"],
+    answer: "saakssaatkaar in relation to prgaaddh'taa"
+},
+{
+    question: "Which of these praamrsh of prvidhiyaaN is not?",
+    option: ["nirdeshk praamrsh", "anirdeshk praamrsh", "smjhautaavaadii praamrsh", "protsaahn praamrsh"],
+    answer: "protsaahn praamrsh"
+},
+
 ];
 
 // --- Helper: Shuffle questions ---
