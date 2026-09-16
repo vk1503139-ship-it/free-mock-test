@@ -5475,10 +5475,5472 @@ const businessStudiesHindi = [
 
 // English Questions
 const businessStudiesEnglish = [
-  // Nature and Significance of Management
-  { question: "What is management?", option: ["Art", "Science", "Both", "None"], answer: "Both" },
-  { question: "How many levels of management are there?", option: ["3", "2", "4", "5"], answer: "3" },
-  
+{
+    question: "management art is:",
+    option: [
+        "self work doing of",
+        "others from work taking of",
+        "self work doing and others from work taking both of",
+        "none of these / "
+    ],
+    answer: "self work doing and others from work taking both of"
+},
+
+{
+    question: "marketing concept is-",
+    option: [
+        "production-oriented",
+        "sales-oriented",
+        "customer-oriented",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "training under employees to ............... area/kssetroN in nipunn bnaayaa goes hai / ",
+    option: [
+        "one particular",
+        "two",
+        "three",
+        "all"
+    ],
+    answer: "one particular"
+},
+
+{
+    question: "among the following who/which-saa equity on trade of prkaar is ?",
+    option: [
+        "alp-equity on trade",
+        "high equity on trade",
+        "A and B both",
+        "none of these"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "United Nations of how many organs are?",
+    option: [
+        "2",
+        "4",
+        "6",
+        "8"
+    ],
+    answer: "6"
+},
+
+{
+    question: "master budget ...............for bnaayaa goes hai / ",
+    option: [
+        "one department",
+        "two departments",
+        "cash department",
+        "all departments"
+    ],
+    answer: "all departments"
+},
+
+{
+    question: "scientific management of father who/which were:",
+    option: [
+        "H.es. Person",
+        "Diemer",
+        "F. W. Taylor",
+        "Charles Babbage"
+    ],
+    answer: "F. W. Taylor"
+},
+
+{
+    question: "staffing is :",
+    option: [
+        "planning do",
+        "control do",
+        "directing do",
+        "persons to work on lgaanaa"
+    ],
+    answer: "persons to work on lgaanaa"
+},
+
+{
+    question: "Security Council in total temporary members of number how much is?",
+    option: [
+        "10",
+        "6",
+        "7",
+        "14"
+    ],
+    answer: "10"
+},
+
+{
+    question: "district forum disputes of settlement tax can is",
+    option: [
+        "₹ 5 lakh up to",
+        "₹ 10 lakh up to",
+        "₹ 15 lakh up to",
+        "₹ 20 lakh up to"
+    ],
+    answer: "₹ 20 lakh up to"
+},
+
+{
+    question: "management of nature is:",
+    option: [
+        "innate talent of ruup in",
+        "acquired talent of ruup in",
+        "innate talent and acquired talent both of ruup in",
+        "any not"
+    ],
+    answer: "innate talent and acquired talent both of ruup in"
+},
+
+{
+    question: "manager + leadership ability = ............ / ",
+    option: [
+        "haani",
+        "success",
+        "failure",
+        "zero"
+    ],
+    answer: "success"
+},
+
+{
+    question: "management audit kiske performance on monitoring rkhne of one tkniik is :",
+    option: [
+        "company",
+        "company of management",
+        "shareholder",
+        "customer"
+    ],
+    answer: "company of management"
+},
+
+{
+    question: "among the following marketing mix of element who/which-saa is ?",
+    option: [
+        "product",
+        "value",
+        "promotion",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "capital market deals does is",
+    option: [
+        "long-term funds",
+        "medium-term funds",
+        "short-term funds",
+        "none of these"
+    ],
+    answer: "long-term funds"
+},
+
+{
+    question: "top-level management planning on their time of part expenditure does is:",
+    option: [
+        "35%",
+        "50%",
+        "75%",
+        "100%"
+    ],
+    answer: "35%"
+},
+
+{
+    question: "League of Nations of establishment when occurred?",
+    option: [
+        "10 jnvrii, 1920",
+        "10 jnvrii, 1919",
+        "24 akttuubr, 1945",
+        "15 agst, 1948"
+    ],
+    answer: "10 jnvrii, 1920"
+},
+
+{
+    question: "year 2004 in India in stock markets of number was :",
+    option: [
+        "20",
+        "21",
+        "23",
+        "24"
+    ],
+    answer: "24"
+},
+
+{
+    question: "social approach of anusaar entrepreneurship is—",
+    option: [
+        "emotionality of prkriyaa",
+        "role performance process",
+        "economic change of prkriyaa",
+        "all of these"
+    ],
+    answer: "role performance process"
+},
+
+{
+    question: "one person to among the following who/which-sii need motivated does haiN / ",
+    option: [
+        "achievement",
+        "power",
+        "affiliation and independence",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "staffing responsibility is :",
+    option: [
+        "low management",
+        "middle management",
+        "high management",
+        "these all of"
+    ],
+    answer: "these all of"
+},
+
+{
+    question: "SEBI of head office is :",
+    option: [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+    ],
+    answer: "Mumbai"
+},
+
+{
+    question: "Abraham Maslow of hierarchy of needs in most high need str is :",
+    option: [
+        "Security need",
+        "sNbNdh need",
+        "self-actualization need",
+        "esteem need"
+    ],
+    answer: "self-actualization need"
+},
+
+{
+    question: "staffing of work is",
+    option: [
+        "recruitment do",
+        "training provides do",
+        "work on appointment do",
+        "ye all work smpnn do"
+    ],
+    answer: "ye all work smpnn do"
+},
+
+{
+    question: "business environment……….to mdd not does hai / ",
+    option: [
+        "barrier",
+        "opportunities",
+        "resources",
+        "certainty"
+    ],
+    answer: "certainty"
+},
+
+{
+    question: "fixed capital of need is is",
+    option: [
+        "daily expenses of bhugtaan doing for",
+        "land purchasing for",
+        "stock purchasing for",
+        "lendaaroN of bhugtaan doing for"
+    ],
+    answer: "land purchasing for"
+},
+
+{
+    question: "one entrepreneur to of condition in capable entrepreneur khaa goes is",
+    option: [
+        "minimum ability and minimum desire",
+        "minimum ability and maximum desire",
+        "maximum ability and minimum desire",
+        "maximum ability and maximum desire"
+    ],
+    answer: "maximum ability and minimum desire"
+},
+
+{
+    question: "India in stock markets of future is :",
+    option: [
+        "bright",
+        "darkness in",
+        "normal",
+        "any future not"
+    ],
+    answer: "bright"
+},
+
+{
+    question: "nirdeshn management of ............ phluu not hai / ",
+    option: [
+        "practical",
+        "theoretical",
+        "antr-personal",
+        "positive"
+    ],
+    answer: "theoretical"
+},
+
+{
+    question: "United Nations of first Asian mhaasciv who/which were?",
+    option: [
+        "Ban of Moon",
+        "U Thant",
+        "Kofi Annan",
+        "Boutros Ghali"
+    ],
+    answer: "U Thant"
+},
+
+{
+    question: "New Economic Policy of major organs are :",
+    option: [
+        "liberalization",
+        "globalization",
+        "privatization",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "Human Resource Management in among the following what smmilit done goes is ?",
+    option: [
+        "recruitment",
+        "specialist services",
+        "complaint redressal",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "entrepreneurship of available/obstacles foster do are",
+    option: [
+        "new creation",
+        "profitability",
+        "anishcittaa",
+        "none of these"
+    ],
+    answer: "new creation"
+},
+
+{
+    question: "United Nations of most bdd'aa organs who/which is?",
+    option: [
+        "Security prissd",
+        "General Assembly",
+        "Secretariat",
+        "International Court of Justice"
+    ],
+    answer: "General Assembly"
+},
+
+{
+    question: "Narayan Murthy by promoted/promoter software company is :",
+    option: [
+        "Wipro",
+        "Infosys",
+        "Satyam",
+        "one sii0 el0"
+    ],
+    answer: "Infosys"
+},
+
+{
+    question: "among the following whom consumer not considered jaa can ?",
+    option: [
+        "that person which again selling for goods khriidtaa is",
+        "that person which without consideration of goods received does is",
+        "that person which buyer of consent of without goods use does",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "budgetary control for preparation necessary are",
+    option: [
+        "training time-saarnnii",
+        "budget",
+        "network diagram",
+        "responsibility"
+    ],
+    answer: "budget"
+},
+
+{
+    question: "NSE of index to .................. khte are",
+    option: [
+        "INDEX",
+        "NIFTY",
+        "SENSEX",
+        "LISTING"
+    ],
+    answer: "NIFTY"
+},
+
+{
+    question: "scientific management in production is is :",
+    option: [
+        "maximum",
+        "minimum",
+        "normal",
+        "average"
+    ],
+    answer: "maximum"
+},
+
+{
+    question: "entrepreneurship of result to among the following what khaa goes is?",
+    option: [
+        "entrepreneur",
+        "entrepreneurship",
+        "enterprise",
+        "entrepreneur and entrepreneurial"
+    ],
+    answer: "enterprise"
+},
+
+{
+    question: "world peace maintaining of responsibility which on is?",
+    option: [
+        "General Assembly",
+        "Security prissd",
+        "economic and social prissd",
+        "mhaasciv"
+    ],
+    answer: "Security prissd"
+},
+
+{
+    question: ".................communication of medium of udaahrnn hai / ",
+    option: [
+        "letter",
+        "telephone",
+        "ii-mel",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "State Commission disputes of settlement tax can is",
+    option: [
+        "₹ 5 lakh up to",
+        "₹ 10 lakh up to",
+        "₹ 20 lakh up to",
+        "₹ 20 lakh from adhik"
+    ],
+    answer: "₹ 20 lakh from adhik"
+},
+
+{
+    question: "Sensex .................. companies on aadhaarit hai / ",
+    option: [
+        "30",
+        "50",
+        "100",
+        "500"
+    ],
+    answer: "30"
+},
+
+{
+    question: "supervisor employees of is",
+    option: [
+        "friend",
+        "guide",
+        "philosopher",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "fixed capital in investment smbndhii nirnny khlaataa is :",
+    option: [
+        "fixed capital nirnny",
+        "working capital nirnny",
+        "both of the above",
+        "any not"
+    ],
+    answer: "fixed capital nirnny"
+},
+
+{
+    question: "primary and secondary markets :",
+    option: [
+        "one-duusre from competition do are",
+        "one-duusre to cooperation dete (complementary) are",
+        "independent ruup from work do are",
+        "one-duusre to niyNtrit do are"
+    ],
+    answer: "one-duusre to cooperation dete (complementary) are"
+},
+
+{
+    question: "en. es. ii. of futures trade of start which year in occurred ?",
+    option: [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    answer: "2000"
+},
+
+{
+    question: "effective control is",
+    option: [
+        "stable",
+        "set",
+        "dynamic",
+        "all of these"
+    ],
+    answer: "dynamic"
+},
+
+{
+    question: "staffing is :",
+    option: [
+        "organization of part",
+        "employee management work",
+        "management of work",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "entrepreneur of work are",
+    option: [
+        "business vicaar of klpnaap",
+        "priyojnaa smbhaavytaa adhyyn",
+        "enterprise of establishment do",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "NSE on listed hone for minimum puuNjii of limit hai / ",
+    option: [
+        "₹3 crore and adhik",
+        "₹30 lakh and adhik",
+        "₹10 crore and adhik",
+        "₹10 lakh and adhik"
+    ],
+    answer: "₹3 crore and adhik"
+},
+
+{
+    question: "International Labour Organization of headquarters located is-",
+    option: [
+        "Geneva in",
+        "Paris in",
+        "Delhi in",
+        "lNdn in"
+    ],
+    answer: "Geneva in"
+},
+
+{
+    question: "among the following marketing of work who/which-saa is ?",
+    option: [
+        "promotion",
+        "physical distribution",
+        "transportation",
+        "all of these"
+    ],
+    answer: "promotion"
+},
+
+{
+    question: "Maslow’s hierarchy of needs theory and by governed is is ki :",
+    option: [
+        "log universal ruup in needs by prerit are are",
+        "log needs by social ruup in prerit are are",
+        "log political taur on needs from prerit are are",
+        "none of the above"
+    ],
+    answer: "log universal ruup in needs by prerit are are"
+},
+
+{
+    question: "National Commission consumer disputes of settlement tax can is",
+    option: [
+        "₹5 lakh up to",
+        "₹ 10 lakh up to",
+        "₹ 1 crore up to",
+        "₹ 10 crore from adhik"
+    ],
+    answer: "₹ 10 crore from adhik"
+},
+
+{
+    question: "United Nations of puurv mhaasciv Ban of-Moon which desh of are?",
+    option: [
+        "America",
+        "britten",
+        "China",
+        "South Korea"
+    ],
+    answer: "South Korea"
+},
+
+{
+    question: "hdd'taal, vicln of .................. from sNbNdhit kaarnn hai / ",
+    option: [
+        "human",
+        "anishcit events",
+        "various interruptions",
+        "wrong standards"
+    ],
+    answer: "anishcit events"
+},
+
+{
+    question: "baijnyaanik management when praarmbh huaa?",
+    option: [
+        "1913",
+        "1832",
+        "1903",
+        "1920"
+    ],
+    answer: "1913"
+},
+
+{
+    question: "value of the company (Value of Company) on whose prbhaav pdd'taa is ?",
+    option: [
+        "cost of capital",
+        "market value of shares",
+        "both of the above",
+        "any not"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "mental revolution muulaadhaar hai / ",
+    option: [
+        "scientific management",
+        "sNyojn",
+        "vivekiikrnn",
+        "peshaa"
+    ],
+    answer: "scientific management"
+},
+
+{
+    question: "pepr is",
+    option: [
+        "punrkhriid smjhautaa (vilekh)",
+        "rilaayns pettroliym",
+        "riidd and proses (pddh'o and prkrm kro)",
+        "upryukt some also not"
+    ],
+    answer: "punrkhriid smjhautaa (vilekh)"
+},
+
+{
+    question: "entrepreneur utthaataa is :",
+    option: [
+        "socii-smjhii risk",
+        "high risk",
+        "low risk",
+        "normal and tyaag of gii risk"
+    ],
+    answer: "normal and tyaag of gii risk"
+},
+
+{
+    question: "work doing of ability among the following kisse paidaa is is?",
+    option: [
+        "education",
+        "training",
+        "education and training",
+        "abhiprernnaa"
+    ],
+    answer: "education and training"
+},
+
+{
+    question: "world of deshoN of biic trade sNgtthnoN for who/which-saa International organization is?",
+    option: [
+        "World Trade Organization",
+        "International Monetary Fund",
+        "World Bank",
+        "all of these"
+    ],
+    answer: "World Trade Organization"
+},
+
+{
+    question: "Entrepreneurship Development Programme of aalocnaatmk muulyaaNkn bindu are :",
+    option: [
+        "organizational niitiyaaN",
+        "appropriate selection prkriyaa of absence",
+        "low category of tkniikii and business shikssaa and training",
+        "appropriate all"
+    ],
+    answer: "appropriate all"
+},
+
+{
+    question: "United Nations of how many organs are?",
+    option: [
+        "two",
+        "four",
+        "six",
+        "eight"
+    ],
+    answer: "six"
+},
+
+{
+    question: "prmpraagt management in shrmikoN to mjduurii dii goes thii / ",
+    option: [
+        "km",
+        "adhik",
+        "maximum",
+        "normal"
+    ],
+    answer: "km"
+},
+
+{
+    question: "which desh by Security Council in veto power of srvaadhik baar use done?",
+    option: [
+        "U.es.e.",
+        "France",
+        "ruus",
+        "China"
+    ],
+    answer: "ruus"
+},
+
+{
+    question: "working capital kyoN necessary is is ?",
+    option: [
+        "land purchase doing for",
+        "bhvn purchase doing for",
+        "daily expenses of bhugtaan for",
+        "mshiin purchase doing for"
+    ],
+    answer: "daily expenses of bhugtaan for"
+},
+
+{
+    question: "Universal Declaration of Human Rights when of gii?",
+    option: [
+        "1945 ii. in",
+        "1946 ii. in",
+        "1947 ii. in",
+        "1948 ii. in"
+    ],
+    answer: "1948 ii. in"
+},
+
+{
+    question: "effective communication in barrier is :",
+    option: [
+        "language",
+        "distance",
+        "personal differences",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "any non-governmental organization to ad hoc recognition who/which de can is?",
+    option: [
+        "mhaasciv",
+        "General Assembly of adhykss",
+        "Security Council of adhykss",
+        "International Court of Justice of adhykss"
+    ],
+    answer: "mhaasciv"
+},
+
+{
+    question: "new product from consumers to pricit kraane in among the following kiskii major role rhtii is ?",
+    option: [
+        "publicity",
+        "personal selling",
+        "sales promotion",
+        "advertising"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "......................... vicaardhaaraa consumer welfare on jor detii hai / ",
+    option: [
+        "production",
+        "product",
+        "marketing",
+        "social"
+    ],
+    answer: "social"
+},
+
+{
+    question: "Entrepreneurship Development Programme provides does is :",
+    option: [
+        "unemployment",
+        "employment",
+        "dishonesty",
+        "corruption"
+    ],
+    answer: "employment"
+},
+
+{
+    question: "for advertising .................. of to be necessary is",
+    option: [
+        "expenditure",
+        "effort",
+        "(A) and (B) both",
+        "television"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "World Bank of establishment when occurred?",
+    option: [
+        "1945 ii. in",
+        "1947 ii. in",
+        "1948 ii. in",
+        "1944 ii. in"
+    ],
+    answer: "1944 ii. in"
+},
+
+{
+    question: "communication process in letter of sent jaanaa ............ of udaahrnn hai / ",
+    option: [
+        "communication",
+        "message",
+        "sNdeshbddhtaa",
+        "noise"
+    ],
+    answer: "noise"
+},
+
+{
+    question: "among the following which leadership style in high striiy abhiprernnaa of profit miltaa is?",
+    option: [
+        "autocratic leadership style",
+        "democratic leadership style",
+        "free-rein leadership style",
+        "among these from any in not"
+    ],
+    answer: "free-rein leadership style"
+},
+
+{
+    question: "U.en. viimen of establishment occurred is-",
+    option: [
+        "2009 ii. in",
+        "2010 ii. in",
+        "2011 ii. in",
+        "2012 ii. in"
+    ],
+    answer: "2010 ii. in"
+},
+
+{
+    question: "communication process in .......... of exchange is hai / ",
+    option: [
+        "ideas",
+        "orders",
+        "emotions",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "working capital of nirdhaark is:",
+    option: [
+        "sNsthaa of aakaar",
+        "nirmaann prkriyaa of avdhi",
+        "kcce maal of uplbdhtaa",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "India of progress of dhiimii gti of major kaarnn……….of absence hai / ",
+    option: [
+        "efficient management",
+        "human power",
+        "resources",
+        "ye all"
+    ],
+    answer: "efficient management"
+},
+
+{
+    question: "'jldbaajii in purchase n kreN' this consumers of one mhtvpuurnn ................. hai / ",
+    option: [
+        "responsibility",
+        "adhikaar",
+        "adhiniym",
+        "all of the above"
+    ],
+    answer: "responsibility"
+},
+
+{
+    question: "District Forum in ₹ up to of value of disputes from sNbNdhit shikaaytoN of smaadhaan done goes hai / ",
+    option: [
+        "₹ 10 lakh",
+        "₹ 30 lakh",
+        "₹ 50 lakh",
+        "₹ 20 lakh"
+    ],
+    answer: "₹ 20 lakh"
+},
+
+{
+    question: ".................. capital market of organs hai / ",
+    option: [
+        "demand currency",
+        "primary market",
+        "secondary market",
+        "primary and secondary markets"
+    ],
+    answer: "primary and secondary markets"
+},
+
+{
+    question: "potential consumer up to personal reach established of goes is ?",
+    option: [
+        "advertising by",
+        "sales promotion measures by",
+        "personal selling by",
+        "none of these"
+    ],
+    answer: "personal selling by"
+},
+
+{
+    question: "for advertising ................. of to be necessary hai / ",
+    option: [
+        "expenditure",
+        "effort",
+        "both of the above",
+        "television"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "that smpressnn tNtr jismeN all adhiinsth which supervisor by sNvaad do are:",
+    option: [
+        "single system / chain",
+        "inverted",
+        "wheel",
+        "any also direction in"
+    ],
+    answer: "wheel"
+},
+
+{
+    question: "nirdeshn management process of ............ stage hai / ",
+    option: [
+        "first",
+        "second",
+        "third",
+        "fourth"
+    ],
+    answer: "fourth"
+},
+
+{
+    question: "kiskii recommendation on General Assembly appointment of the Secretary-General does is?",
+    option: [
+        "Security Council",
+        "Economic and Social Council",
+        "International Court of Justice",
+        "Trusteeship Council"
+    ],
+    answer: "Security Council"
+},
+
+{
+    question: "management of employees to srvaadhik prernnaa dene vaalaa work is:",
+    option: [
+        "staffing",
+        "motivation",
+        "organization",
+        "control"
+    ],
+    answer: "motivation"
+},
+
+{
+    question: "one entrepreneur ................... motivated is hai / ",
+    option: [
+        "power received hone from",
+        "objective to complete are seeing",
+        "adhik salary received krke",
+        "adhik profit received krke"
+    ],
+    answer: "objective to complete are seeing"
+},
+
+{
+    question: "economics in among the following who/which-saa entrepreneur of work not is?",
+    option: [
+        "risk-taking",
+        "provision of capital and organization of production",
+        "innovation",
+        "day-to-day business of operation"
+    ],
+    answer: "day-to-day business of operation"
+},
+
+{
+    question: "marketing of profit is-",
+    option: [
+        "consumers to",
+        "businessmen to",
+        "manufacturers to",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "among the following who/which-saa desh member of SAARC not is?",
+    option: [
+        "India",
+        "Pakistan",
+        "Nepal",
+        "Japan"
+    ],
+    answer: "Japan"
+},
+
+{
+    question: "among the following whom current smpttiyoN in shaamil not done goes is?",
+    option: [
+        "nkd raashi",
+        "stock-dh",
+        "dendaar",
+        "furniture"
+    ],
+    answer: "furniture"
+},
+
+{
+    question: "employee development in smmilit is :",
+    option: [
+        "promotion",
+        "transfer",
+        "training",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "................ advertising of profit hai / ",
+    option: [
+        "adhik reach",
+        "km shktishaalii",
+        "alokpriytaa",
+        "prtipusstti of absence"
+    ],
+    answer: "adhik reach"
+},
+
+{
+    question: ".................... financial nirnny of udaahrnn hai / ",
+    option: [
+        "investment nirnny",
+        "financing decisions",
+        "dividend nirnny",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "training, work on kendrit hai /  development, kairiyr kendrit hai /  training one vistRt prkriyaa hai /  development siimit prkriyaa hai / ",
+    option: [
+        "true is",
+        "false is",
+        "statement (1) true is and statement (II) false is",
+        "statement (I) false is and statement (II) true is"
+    ],
+    answer: "statement (1) true is and statement (II) false is"
+},
+
+{
+    question: "supervision management of ............ str hai / ",
+    option: [
+        "high",
+        "middle",
+        "low",
+        "all of these"
+    ],
+    answer: "low"
+},
+
+{
+    question: "vicln among the following which prkaar of ho can is ?",
+    option: [
+        "negative",
+        "dhnaatmk",
+        "zero",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "financial leverage is favorable is ydi :",
+    option: [
+        "cost of debt from return on investment km is hai / ",
+        "return on investment, cost of debt from uuNcii is",
+        "debt aasaanii from available hai / ",
+        "ydi vidymaan financial funds of quantity km is"
+    ],
+    answer: "return on investment, cost of debt from uuNcii is"
+},
+
+{
+    question: "consumer organization product samples iktttthe krke ................. do haiN / ",
+    option: [
+        "unheN becaa",
+        "unkaa niriikssnn",
+        "vikretaaoN from rijhaane taking of work",
+        "griiboN in baaNttaa"
+    ],
+    answer: "unkaa niriikssnn"
+},
+
+{
+    question: "veto provision of phaislaa which smmeln in done gyaa?",
+    option: [
+        "ddmbaarttn oks",
+        "yaalttaa",
+        "sain phraaNsisko",
+        "London"
+    ],
+    answer: "yaalttaa"
+},
+
+{
+    question: "prbNdhkiiy control done goes is :",
+    option: [
+        "low prbNdhkoN by",
+        "middle striiy prbNdhkoN by",
+        "highest striiy prbNdhkoN by",
+        "all striiy prbNdhkoN by"
+    ],
+    answer: "all striiy prbNdhkoN by"
+},
+
+{
+    question: "mental work from ………is :",
+    option: [
+        "production",
+        "management",
+        "marketing",
+        "none of these"
+    ],
+    answer: "production"
+},
+
+{
+    question: "one organizational of control do work is:",
+    option: [
+        "aage dekhnaa",
+        "piiche dekhnaa",
+        "aage, with only with piiche dekhnaa",
+        "appropriate all"
+    ],
+    answer: "aage, with only with piiche dekhnaa"
+},
+
+{
+    question: "among the following whichunder consumer of satisfaction to mhtv diyaa goes is?",
+    option: [
+        "marketing",
+        "sales and production",
+        "production",
+        "sales"
+    ],
+    answer: "sales and production"
+},
+
+{
+    question: "prti ikaaii cost ₹ 100 to be ................ prmaann of udaahrnn hai / ",
+    option: [
+        "sNkhyaatmk",
+        "gunnaatmk",
+        "both of the above",
+        "none of these"
+    ],
+    answer: "sNkhyaatmk"
+},
+
+{
+    question: "Schengen countries in shaamil are",
+    option: [
+        "European desh",
+        "Asian desh",
+        "African desh",
+        "none of these"
+    ],
+    answer: "European desh"
+},
+
+{
+    question: "pd-bhinntaa which prkaar of communication barrier of under aatii is?",
+    option: [
+        "semantic barrier",
+        "organizational barrier",
+        "semantic barrier",
+        "psychological barrier"
+    ],
+    answer: "organizational barrier"
+},
+
+{
+    question: "control management of phluu is:",
+    option: [
+        "saiddhaaNtik",
+        "practical",
+        "mental",
+        "physical"
+    ],
+    answer: "practical"
+},
+
+{
+    question: "General Assembly of total members of number is-",
+    option: [
+        "193",
+        "192",
+        "196",
+        "197"
+    ],
+    answer: "193"
+},
+
+{
+    question: "among the following who/which-saa statement asNgt is?",
+    option: [
+        "management uddeshypuurnn",
+        "vishisstt prkriyaa",
+        "universal",
+        "management ownership from separate not"
+    ],
+    answer: "management ownership from separate not"
+},
+
+{
+    question: "advertising of most expensive saadhn is",
+    option: [
+        "advertising",
+        "personal selling",
+        "sales promotion",
+        "public relations"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "among the following who/which G-8 of member not is?",
+    option: [
+        "Japan",
+        "knaaddaa",
+        "Italy",
+        "China"
+    ],
+    answer: "China"
+},
+
+{
+    question: "working capital of srot is :",
+    option: [
+        "dendaar",
+        "baiNk adhivikrss",
+        "cash sales",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "audyogik utpaadoN of kretaaoN of number km hone of kaarnn who/which-from vitrnn channel to apnaayaa goes hai / ",
+    option: [
+        "long",
+        "short",
+        "air",
+        "rail"
+    ],
+    answer: "short"
+},
+
+{
+    question: "control management of who/which-saa work is ?",
+    option: [
+        "first",
+        "second",
+        "third",
+        "final"
+    ],
+    answer: "final"
+},
+
+{
+    question: "entrepreneurial traits kisse related are?",
+    option: [
+        "work sRjk deals",
+        "profit creation deals",
+        "risk bearing deals",
+        "none of these"
+    ],
+    answer: "risk bearing deals"
+},
+
+{
+    question: "control of nature which prkaar of is ?",
+    option: [
+        "positive phluu",
+        "negative phluu",
+        "both of the above",
+        "above any not"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "expenditure on staffing done gyaa money is",
+    option: [
+        "money of waste",
+        "necessary",
+        "allocation",
+        "none of these"
+    ],
+    answer: "allocation"
+},
+
+{
+    question: "employees of selection is is:",
+    option: [
+        "low category of adhikaariyoN of",
+        "middle category of adhikaariyoN of",
+        "highest category of adhikaariyoN of",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "business enterprise in control of need is is :",
+    option: [
+        "business of establishment at the time of",
+        "business of operation at the time of",
+        "year of ant in",
+        "continuous"
+    ],
+    answer: "continuous"
+},
+
+{
+    question: "any also desh of development in most adhik need is:",
+    option: [
+        "physical resources",
+        "economic resources",
+        "maanviiy resources",
+        "efficient management"
+    ],
+    answer: "efficient management"
+},
+
+{
+    question: "World Trade Organization nimnaaNkit in which organization of successor is?",
+    option: [
+        "General Agreement oNn Trade and Tariffs",
+        "Nations Union of Council",
+        "world health organization",
+        "United Nations development kaarykrm"
+    ],
+    answer: "General Agreement oNn Trade and Tariffs"
+},
+
+{
+    question: "control process of first stage ................ hai / ",
+    option: [
+        "corrective action do",
+        "deviations of analysis do",
+        "progress standards set do",
+        "actual progress of measurement"
+    ],
+    answer: "actual progress of measurement"
+},
+
+{
+    question: "financial planning of abhipraay financial kriyaaoN of ............... doing from hai / ",
+    option: [
+        "determination",
+        "puurv-determination",
+        "after in determination",
+        "determination not"
+    ],
+    answer: "puurv-determination"
+},
+
+{
+    question: "National Commission consumer disputes of settlement tax can is",
+    option: [
+        "₹ 5 lakh up to",
+        "₹ 10 lakh up to",
+        "₹ 20 lakh up to",
+        "₹ 1 crore from adhik"
+    ],
+    answer: "₹ 1 crore from adhik"
+},
+
+{
+    question: "Entrepreneurship Development Programme provides does",
+    option: [
+        "self-employment",
+        "entrepreneur skills in increase",
+        "education and training",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "shuruu in shrmikoN by scientific management of…………..done goes is :",
+    option: [
+        "pkss",
+        "virodh",
+        "both",
+        "shaayk"
+    ],
+    answer: "virodh"
+},
+
+{
+    question: "patronizing high developed kmpniyaaN psNd does are:",
+    option: [
+        "km dividend giving",
+        "adhik dividend giving",
+        "dividend on development of any prbhaav not is is",
+        "none of these"
+    ],
+    answer: "km dividend giving"
+},
+
+{
+    question: "supervision management of str is",
+    option: [
+        "high",
+        "middle",
+        "low",
+        "all of these"
+    ],
+    answer: "low"
+},
+
+{
+    question: "physical examination barrier paar tax taking after cynit person to among the following who/which-saa letter diyaa goes is ?",
+    option: [
+        "regret letter",
+        "appointment letter",
+        "both of the above",
+        "none of these"
+    ],
+    answer: "appointment letter"
+},
+
+{
+    question: "New Economic Policy ghossit occurred was :",
+    option: [
+        "July 1990",
+        "July 1991",
+        "July 1992",
+        "July 2001"
+    ],
+    answer: "July 1991"
+},
+
+{
+    question: "horizontal communication in suggestions of flow is is :",
+    option: [
+        "upward of or",
+        "downward of or",
+        "horizontal level on",
+        "all of these"
+    ],
+    answer: "horizontal level on"
+},
+
+{
+    question: "India in Entrepreneurship Development Programme is:",
+    option: [
+        "necessary",
+        "unnecessary",
+        "time of waste",
+        "money of waste"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "United Nations of total members of number is-",
+    option: [
+        "192",
+        "193",
+        "194",
+        "195"
+    ],
+    answer: "193"
+},
+
+{
+    question: "consumers of group of abhipraay ......................... from hai / ",
+    option: [
+        "buyer",
+        "seller",
+        "product",
+        "market"
+    ],
+    answer: "buyer"
+},
+
+{
+    question: "................ three-tier judicial system of organs not is",
+    option: [
+        "tehsil phorm",
+        "District Forum",
+        "State Commission",
+        "National Commission"
+    ],
+    answer: "tehsil phorm"
+},
+
+{
+    question: "top-level managers to among the following whose training diyaa goes hai / ",
+    option: [
+        "shrm smbndhii",
+        "financial management",
+        "production management",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "consumer protection of sNbNdh in 'your rights' kaarykrm ................. broadcast does hai / ",
+    option: [
+        "All India Radio",
+        "Doordarshan",
+        "advertising agency",
+        "all of the above"
+    ],
+    answer: "All India Radio"
+},
+
+{
+    question: "planning manager of work is :",
+    option: [
+        "primary",
+        "secondary",
+        "tRtiiyk",
+        "all of these"
+    ],
+    answer: "primary"
+},
+
+{
+    question: "entrepreneurship leadership provides not does-",
+    option: [
+        "partnership firm in",
+        "ne corporate division in",
+        "new grant udym in",
+        "none of these"
+    ],
+    answer: "partnership firm in"
+},
+
+{
+    question: "among the following who/which-saa negative abhiprernnaa of udaahrnn is?",
+    option: [
+        "promotion",
+        "dismissal",
+        "removal",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "high-growth kNpniyaaN ............... psNd does are :",
+    option: [
+        "km dividend giving",
+        "adhik dividend giving",
+        "dividend on development of any prbhaav not is is",
+        "none of these"
+    ],
+    answer: "km dividend giving"
+},
+
+{
+    question: "ability and desire of maximum quantity .................... drshaatii hai / ",
+    option: [
+        "ready entrepreneur",
+        "willing entrepreneur",
+        "capable entrepreneur",
+        "entrepreneur ready not"
+    ],
+    answer: "ready entrepreneur"
+},
+
+{
+    question: "power supply interruption vicln ................. of from sNbNdhit kaarnn hai /  events",
+    option: [
+        "human",
+        "anishcit",
+        "various interruptions",
+        "wrong standards"
+    ],
+    answer: "various interruptions"
+},
+
+{
+    question: "customer market of ................ is hai / ",
+    option: [
+        "king",
+        "naukr",
+        "emperor",
+        "seller"
+    ],
+    answer: "king"
+},
+
+{
+    question: "one efficient control system whom mdd does is ?",
+    option: [
+        "? of receipt",
+        "employees of mnobl in increase",
+        "means of efficient use",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "among the following who/which Security Council of fixed member not is?",
+    option: [
+        "France",
+        "Britain",
+        "Italy",
+        "China"
+    ],
+    answer: "Italy"
+},
+
+{
+    question: "fixed assets of finance vyvsthaa honii caahie :",
+    option: [
+        "long-term liabilities from",
+        "short-term liabilities from",
+        "long-term and short-term liabilities of mix from",
+        "none of these"
+    ],
+    answer: "long-term liabilities from"
+},
+
+{
+    question: "nirdeshn of under ............ to smmilit done goes hai / ",
+    option: [
+        "planning",
+        "organization",
+        "supervision",
+        "staffing"
+    ],
+    answer: "supervision"
+},
+
+{
+    question: "consumer dispute redressal agency is",
+    option: [
+        "district forum",
+        "State Commission",
+        "National Commission",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "financing decisions ............... from sNbNdhit are",
+    option: [
+        "agency structure",
+        "financial structure",
+        "agency formation",
+        "financial planning"
+    ],
+    answer: "financial planning"
+},
+
+{
+    question: "......................... activity goods of after production praarNbh is hai / ",
+    option: [
+        "purchase",
+        "selling",
+        "marketing",
+        "advertising"
+    ],
+    answer: "selling"
+},
+
+{
+    question: "scientific management in analysis is:",
+    option: [
+        "25%",
+        "50%",
+        "75%",
+        "none of these"
+    ],
+    answer: "75%"
+},
+
+{
+    question: "most adhik vyaapk area is :",
+    option: [
+        "brand",
+        "labeling",
+        "packaging",
+        "trade maark"
+    ],
+    answer: "packaging"
+},
+
+{
+    question: "World Trade Organization nimnaaNkit in which organization of successor is?",
+    option: [
+        "General Agreement oNn Trade and Tariffs",
+        "Nations Union of Council",
+        "world health organization",
+        "United Nations development kaarykrm"
+    ],
+    answer: "General Agreement oNn Trade and Tariffs"
+},
+
+{
+    question: "for business marketing hai / ",
+    option: [
+        "mandatory",
+        "necessary",
+        "unnecessary",
+        "vilaasitaa"
+    ],
+    answer: "mandatory"
+},
+
+{
+    question: "employee to some time for niyoktaa from duur doing to what khte are ?",
+    option: [
+        "demotion",
+        "promotion",
+        "sthaanaaNtrnn",
+        "temporary separation"
+    ],
+    answer: "temporary separation"
+},
+
+{
+    question: "Nepal in monarchy when abolished done gyaa?",
+    option: [
+        "2006 ii. in",
+        "2008 ii. in",
+        "2009 ii. in",
+        "2010 ii. in"
+    ],
+    answer: "2008 ii. in"
+},
+
+{
+    question: "grapevine network in which form in their caahne vaaloN to unse favor (Favour) received doing of objective from communication done goes is?",
+    option: [
+        "cluster",
+        "?",
+        "gossip chain",
+        "single riiti"
+    ],
+    answer: "cluster"
+},
+
+{
+    question: "stock markets for SEBI of services are :",
+    option: [
+        "optional",
+        "necessary",
+        "unnecessary",
+        "mandatory"
+    ],
+    answer: "mandatory"
+},
+
+{
+    question: "grapevine communication is is :",
+    option: [
+        "informal",
+        "formal",
+        "likhit",
+        "none of these"
+    ],
+    answer: "informal"
+},
+
+{
+    question: "bhaartiiy investment center of establishment of gyii was :",
+    option: [
+        "India srkaar by",
+        "Madhya Pradesh srkaar by",
+        "Maharashtra srkaar by",
+        "Gujarat srkaar by"
+    ],
+    answer: "Madhya Pradesh srkaar by"
+},
+
+{
+    question: "per share highest dividend sNbNdhit is",
+    option: [
+        "uuNcii income, uuNcaa cash flow, anupyukt income and highest growth opportunities",
+        "uuNcii income, uuNcaa cash flow, stable income and uuNce growth opportunities",
+        "uuNcii income, uuNcaa cash flow, stable income and lowest growth opportunities",
+        "uuNcii income, low cash flow, stable income and lowest growth opportunities"
+    ],
+    answer: "uuNcii income, uuNcaa cash flow, stable income and lowest growth opportunities"
+},
+
+{
+    question: "bhaartiiy entrepreneurship development sNsthaan of establishment of gyii thii / ",
+    option: [
+        "Maharashtra srkaar by",
+        "Gujarat srkaar by",
+        "Madhya Pradesh srkaar by",
+        "Tamil Nadu srkaar by"
+    ],
+    answer: "Gujarat srkaar by"
+},
+
+{
+    question: "netaa adhiinsthoN from work letaa is :",
+    option: [
+        "caatury from",
+        "ddnndde from",
+        "dhmkaakr",
+        "none of these"
+    ],
+    answer: "caatury from"
+},
+
+{
+    question: "................ internal recruitment of profit hai / ",
+    option: [
+        "abhiprernnaa in increase",
+        "audyogik peace",
+        "both of the above",
+        "nvyuvk employees of prvesh on rok"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "training of vidhiyaaN are-",
+    option: [
+        "job rotation training",
+        "on-the-job training",
+        "apprenticeship training",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "among the following who/which-saa management of siddhaaNt of mhtv not is?",
+    option: [
+        "efficiency in increase",
+        "initiative",
+        "sNsaadhnoN of maximum upyog",
+        "changing technology to apnaanaa"
+    ],
+    answer: "efficiency in increase"
+},
+
+{
+    question: "one sNsthaa of smkss main financial prshn what is is?",
+    option: [
+        "various business gtividhiyoN for how many finance of need hogii ?",
+        "ise various means from how much quantity in received done jaaegaa ?",
+        "business of profit to which prkaar vibhaajit done jaaegaa ?",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "among the following communication of prkaar who/which-saa is?",
+    option: [
+        "formal",
+        "informal",
+        "formal and informal",
+        "likhit"
+    ],
+    answer: "formal and informal"
+},
+
+{
+    question: "planning is is:",
+    option: [
+        "bhuutkaal for",
+        "bhvissykaal for",
+        "existing for",
+        "all time for"
+    ],
+    answer: "bhvissykaal for"
+},
+
+{
+    question: "training of vidhiyaaN are :",
+    option: [
+        "job rotation training",
+        "on-the-job training",
+        "apprenticeship training",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "baijnyaanik management in Taylor by use kiye:",
+    option: [
+        "gti adhyyn",
+        "thkaan adhyyn",
+        "time adhyyn",
+        "all"
+    ],
+    answer: "all"
+},
+
+{
+    question: "working capital of suutr is:",
+    option: [
+        "smpttiyaaN - deytaaeN",
+        "current smpttiyaaN - current deytaaeN",
+        "fixed smpttiyaaN - fixed deytaaeN",
+        "deytaaeN - smpttiyaaN"
+    ],
+    answer: "current smpttiyaaN - current deytaaeN"
+},
+
+{
+    question: "alpsuucnaa debt srvaadhik .................. are haiN / ",
+    option: [
+        "fixed",
+        "trl",
+        "mhNge",
+        "sste"
+    ],
+    answer: "trl"
+},
+
+{
+    question: "which year in World Trade Organization of establishment occurred?",
+    option: [
+        "1945",
+        "1965",
+        "1975",
+        "1995"
+    ],
+    answer: "1995"
+},
+
+{
+    question: "prmaannu praudyogikii of peace puurnn upyog and uskii Security from smbddh United Nations of ejensii of naam is",
+    option: [
+        "United Nations nirstriikrnn smiti",
+        "International aannvik uurjaa ejensii",
+        "United Nations International Security smiti",
+        "none of these"
+    ],
+    answer: "International aannvik uurjaa ejensii"
+},
+
+{
+    question: "state of aphsrshaahii to httaanaa' udymiyoN of their udym of among the following which role of udaahrnn is?",
+    option: [
+        "exchange sNbNdhoN of development",
+        "political prshaasn",
+        "management-control",
+        "tkniikii"
+    ],
+    answer: "political prshaasn"
+},
+
+{
+    question: "new nirgmit shares in deals does is :",
+    option: [
+        "secondary market",
+        "primary market",
+        "secondary market and primary market both",
+        "upryukt in from any not"
+    ],
+    answer: "primary market"
+},
+
+{
+    question: "among the following which vidhi in tkniikii sNsthaaeN and business sNsthaaeN milkr their members to training provides does is ?",
+    option: [
+        "abhivinyaas training",
+        "nvsikhuaa training",
+        "pryogshaalaa training",
+        "United training"
+    ],
+    answer: "United training"
+},
+
+{
+    question: "control related is :",
+    option: [
+        "result",
+        "work",
+        "effort",
+        "none of these"
+    ],
+    answer: "result"
+},
+
+{
+    question: "planning management of work is :",
+    option: [
+        "shaayk",
+        "primary",
+        "unnecessary",
+        "none of these"
+    ],
+    answer: "primary"
+},
+
+{
+    question: "development of abhipraay employees to ................ area/kssetroN in nipunn bnaanaa hai / ",
+    option: [
+        "one particular",
+        "two",
+        "three",
+        "all"
+    ],
+    answer: "all"
+},
+
+{
+    question: "puraane sNyNtr to unntshiil bnaane for one ne and aadhunik sNyNtr of adhigrhnn of nirnny is:",
+    option: [
+        "financial nirnny",
+        "working capital nirnny",
+        "nivesh nirnny",
+        "dividend nirnny"
+    ],
+    answer: "nivesh nirnny"
+},
+
+{
+    question: "United Nations of caarttr in how much dhaaraaeN are?",
+    option: [
+        "111",
+        "112",
+        "115",
+        "120"
+    ],
+    answer: "111"
+},
+
+{
+    question: "'control, planning of absence in aNdhaa hai / ' this statement both of baare in what btaataa is ?",
+    option: [
+        "kevl planning jruurii is",
+        "kevl control jruurii is",
+        "both of to be jruurii is",
+        "both unnecessary are"
+    ],
+    answer: "both of to be jruurii is"
+},
+
+{
+    question: "one person of us need of what naam is jismeN that apnii kssmtaa to highest str up to le jaanaa caahtaa hai / ",
+    option: [
+        "smmaan of need",
+        "self receipt of need",
+        "Security of need",
+        "all of the above"
+    ],
+    answer: "self receipt of need"
+},
+
+{
+    question: "advertising on done gyaa expenditure apvyy is hai /  this statement advertising of baare in what btaataa hai / ",
+    option: [
+        "profit",
+        "limit",
+        "aakssep",
+        "aakssep of khNddn"
+    ],
+    answer: "aakssep"
+},
+
+{
+    question: "financial management is :",
+    option: [
+        "art",
+        "vijnyaan",
+        "art and vijnyaan both",
+        "none of these"
+    ],
+    answer: "art and vijnyaan both"
+},
+
+{
+    question: "control necessary is",
+    option: [
+        "lghu enterprise for",
+        "middle category of enterprise for",
+        "bdd'e aakaar vaale enterprise for",
+        "all of these for"
+    ],
+    answer: "all of these for"
+},
+
+{
+    question: "jb one person iNjiiniyriNg of kors does is to that ............ hai / ",
+    option: [
+        "training",
+        "shikssaa",
+        "development",
+        "all of the above"
+    ],
+    answer: "shikssaa"
+},
+
+{
+    question: "advertising of medium is :",
+    option: [
+        "nmuune",
+        "promoshn",
+        "klennddr and ddaayrii aadi",
+        "prdrshn"
+    ],
+    answer: "klennddr and ddaayrii aadi"
+},
+
+{
+    question: "entrepreneurship one ................. activity hai / ",
+    option: [
+        "vyvsthit",
+        "vaidh",
+        "jokhimpuurnn",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "motivated employees to paaritossit done goes",
+    option: [
+        "Rnnaatmk",
+        "dhnaatmk",
+        "actual",
+        "none of these"
+    ],
+    answer: "dhnaatmk"
+},
+
+{
+    question: "United Nations of most bdd'aa organs who/which is?",
+    option: [
+        "Security prissd",
+        "General Assembly",
+        "Secretariat",
+        "International Court of Justice"
+    ],
+    answer: "General Assembly"
+},
+
+{
+    question: "among the following who/which-sii practical pryaavrnn of vishesstaa not is?",
+    option: [
+        "shhriikrnn",
+        "employee",
+        "tulnaatmk",
+        "anivaarytaa  / "
+    ],
+    answer: "employee"
+},
+
+{
+    question: "world mhilaa divs when mnaayaa goes is?",
+    option: [
+        "10 dismbr to",
+        "8 maarc to",
+        "1 dismbr to",
+        "2 akttuubr to"
+    ],
+    answer: "8 maarc to"
+},
+
+{
+    question: "primary market of sNbNdh .................. nirgmnoN from is",
+    option: [
+        "puraane",
+        "new",
+        "purchase-sales",
+        "stock"
+    ],
+    answer: "new"
+},
+
+{
+    question: "sii.ttii.bii.ttii. prstaav United Nations by when sviikaaraa gyaa?",
+    option: [
+        "1995 ii. in",
+        "1996 ii. in",
+        "1997 ii. in",
+        "1998 ii. in"
+    ],
+    answer: "1996 ii. in"
+},
+
+{
+    question: "management of success of primary element is:",
+    option: [
+        "sntusstt employee",
+        "atydhik capital",
+        "bdd'aa market",
+        "maximum production"
+    ],
+    answer: "sntusstt employee"
+},
+
+{
+    question: "business establishment of prkriyaa in among the following which vyaavhaariktaa of aakln done goes is?",
+    option: [
+        "tkniikii",
+        "economic",
+        "financial",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "among the following who/which this sunishcit does is ki work vaaNchit progress from cl rhaa is athvaa not?",
+    option: [
+        "planning",
+        "organization",
+        "sndeshvaahn",
+        "supervision"
+    ],
+    answer: "supervision"
+},
+
+{
+    question: "advertising is :",
+    option: [
+        "investment",
+        "unnecessary",
+        "money of waste",
+        "none of these"
+    ],
+    answer: "investment"
+},
+
+{
+    question: "planning is:",
+    option: [
+        "lkssy-abhimukhii",
+        "objective-abhimukhii",
+        "mental prkriyaa",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "scientific management from shrmikoN of work of ghNttoN in is is :",
+    option: [
+        "increase",
+        "kmii",
+        "any prbhaav not",
+        "average"
+    ],
+    answer: "kmii"
+},
+
+{
+    question: "1950 in United Nations of General Assembly by which nyii vyvsthaa to jnm diyaa?",
+    option: [
+        "saamuuhik Security",
+        "sttaa sntuln",
+        "peace establishment",
+        "peace nirmaann"
+    ],
+    answer: "peace establishment"
+},
+
+{
+    question: "nirdeshn of major tttv are-",
+    option: [
+        "2",
+        "3",
+        "4",
+        "6"
+    ],
+    answer: "4"
+},
+
+{
+    question: "management of siddhaaNtoN of rcnaa which prkaar from of goes is?",
+    option: [
+        "pryogshaalaa in",
+        "prbNdhkoN of anubhv by",
+        "graahkoN of anubhv by",
+        "smaaj vaijnyaanikoN by"
+    ],
+    answer: "prbNdhkoN of anubhv by"
+},
+
+{
+    question: "control management of work is :",
+    option: [
+        "first",
+        "antim",
+        "third",
+        "second"
+    ],
+    answer: "antim"
+},
+
+{
+    question: "low in who/which promotion smmishrnn of element not is?",
+    option: [
+        "advertising",
+        "personal selling",
+        "sales promotion",
+        "product development"
+    ],
+    answer: "product development"
+},
+
+{
+    question: "planning in shaamil is……..",
+    option: [
+        "what do hai / ",
+        "when do is",
+        "kaise do is",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "among the following who/which United Nations of organs not is?",
+    option: [
+        "General Assembly",
+        "Security prissd",
+        "International Court of Justice",
+        "yuunesko"
+    ],
+    answer: "yuunesko"
+},
+
+{
+    question: "European Union of how many member desh are?",
+    option: [
+        "27",
+        "28",
+        "26",
+        "29"
+    ],
+    answer: "27"
+},
+
+{
+    question: "development of objective is :",
+    option: [
+        "ability in increase",
+        "shresstth performance",
+        "promotion of opportunities",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "ydi any baateN smaan rheN to tax of dr in nigmit profit on increase hogii :",
+    option: [
+        "debt apekssaakRt sste hoNge",
+        "debt apekssaakRt km sste hoNge",
+        "cost of debt on any prbhaav not hogaa",
+        "hm some not tax skte"
+    ],
+    answer: "debt apekssaakRt sste hoNge"
+},
+
+{
+    question: "among the following CASH in ................. to smmilit not done jaataa / ",
+    option: [
+        "Knowledge",
+        "Attitude",
+        "Skill and Habits",
+        "CASH"
+    ],
+    answer: "CASH"
+},
+
+{
+    question: "development shbd to ................ of with jodd'aa goes hai / ",
+    option: [
+        "prbndhkoN",
+        "shrmikoN",
+        "pryveksskoN",
+        "shrmikoN and pryveksskoN"
+    ],
+    answer: "prbndhkoN"
+},
+
+{
+    question: "social approach of anusaar, entrepreneurship is :",
+    option: [
+        "emotionality of prkriyaa",
+        "role performance process",
+        "economic change of prkriyaa",
+        "all of the above"
+    ],
+    answer: "role performance process"
+},
+
+{
+    question: "current smpttiyaaN ve smpttiyaaN are which cash in privrtit is are :",
+    option: [
+        "six mhiine of andr",
+        "one year of andr",
+        "one from three year of andr",
+        "three from paaNc year of andr"
+    ],
+    answer: "one year of andr"
+},
+
+{
+    question: "akushl employee to low pd on bhejne to ................ khte haiN / ",
+    option: [
+        "sthaanaaNtrnn",
+        "promotion",
+        "demotion",
+        "temporary separation"
+    ],
+    answer: "demotion"
+},
+
+{
+    question: "'one entrepreneur to their nirnny on dRddh' rhnaa caahie / ' this among the following which entrepreneur ability of arth is?",
+    option: [
+        "vcnbddhtaa",
+        "smsyaa smaadhaan",
+        "dRddh'taa",
+        "suucnaa received do"
+    ],
+    answer: "dRddh'taa"
+},
+
+{
+    question: "marketing concept of mhtv is :",
+    option: [
+        "smaaj for",
+        "consumers for",
+        "utpaadk for",
+        "these tiinoN for"
+    ],
+    answer: "these tiinoN for"
+},
+
+{
+    question: "among the following financial management from sNbNdhit standards who/which-saa is ?",
+    option: [
+        "prti person production",
+        "vikriktaaoN of lkssy",
+        "anupsthiti dr",
+        "puuNjii flow"
+    ],
+    answer: "puuNjii flow"
+},
+
+{
+    question: "among the following who/which-saa communication aphvaaheN phailaataa is?",
+    option: [
+        "formal",
+        "informal",
+        "likhit",
+        "all of these"
+    ],
+    answer: "informal"
+},
+
+{
+    question: "henrii pheyol of management of siddhaaNt are:",
+    option: [
+        "10",
+        "3",
+        "14",
+        "15"
+    ],
+    answer: "14"
+},
+
+{
+    question: "one work of performance of liye management to ‘srvottm raastaa ddhuuNddhnaa” caahie /  scientific management of who/which-saa siddhaaNt is pNkti of vyaakhyaa does is:",
+    option: [
+        "saarvbhaum",
+        "lciile",
+        "smpuurnn",
+        "practical"
+    ],
+    answer: "practical"
+},
+
+{
+    question: "1945 in United Nations of establishment occurred, uskaa maulik member who/which was?",
+    option: [
+        "Pakistan",
+        "baaNglaadesh",
+        "shriilNkaa",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "ddnlp among the following whose udaahrnn is ?",
+    option: [
+        "naamkrnn",
+        "braaNdd",
+        "braaNdd naam",
+        "braaNdd maark"
+    ],
+    answer: "braaNdd naam"
+},
+
+{
+    question: "puraane sNyNtr to unntshiil bnaane for one ne and aadhunik sNyNtr of adhigrhnn of nirnny is :",
+    option: [
+        "financial nirnny",
+        "working capital nirnny",
+        "nivesh nirnny",
+        "dividend nirnny"
+    ],
+    answer: "nivesh nirnny"
+},
+
+{
+    question: "Security Council in fixed members of number how much is?",
+    option: [
+        "5",
+        "6",
+        "7",
+        "14"
+    ],
+    answer: "5"
+},
+
+{
+    question: "kirjnr by entrepreneur of jin kaaryoN to btaayaa is unmeN from downward who/which-saa raajniitik prshaasn of pkss not is?",
+    option: [
+        "srkaarii aphsrshaahii from work nikaalnaa",
+        "organization in maanviiy smbndhoN of prbndhn",
+        "production of new-new tkniik and new-new utpaadoN to laanaa",
+        "customer and aapuurtikrtaaoN from smbndhoN of prbndhn"
+    ],
+    answer: "production of new-new tkniik and new-new utpaadoN to laanaa"
+},
+
+{
+    question: "baar-baar and minimum purchase pryaasoN from khriide jaane vaale product to ............... product khte haiN / ",
+    option: [
+        "suvidhaajnk",
+        "vilaasitaa",
+        "vishisstt",
+        "audyogik"
+    ],
+    answer: "suvidhaajnk"
+},
+
+{
+    question: "prshaasnik management of prstutkrtaa were :",
+    option: [
+        "phyol",
+        "Taylor",
+        "ttairii",
+        "vaattsn"
+    ],
+    answer: "phyol"
+},
+
+{
+    question: "aadesh caalit pddhti (Order Drive System) of use ...... on is hai / ",
+    option: [
+        "BSE",
+        "NSE",
+        "DSE",
+        "CSE"
+    ],
+    answer: "NSE"
+},
+
+{
+    question: "finance vyvsthaa of major organs who/which-saa is ?",
+    option: [
+        "financial market",
+        "financial sNsthaaeN",
+        "financial prtibhuutiyaaN",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: ".................... in pryaay leshshiiltaa available rhtii hai / ",
+    option: [
+        "publicity",
+        "advertising",
+        "sales promotion",
+        "personal selling"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "eaareph of complete ruup what is?",
+    option: [
+        "esosieshn phoNr riijnl phorm",
+        "aasiyaan riijnl phorm",
+        "eshiyn risrc phorm",
+        "none of these"
+    ],
+    answer: "aasiyaan riijnl phorm"
+},
+
+{
+    question: "financial management of aadhunik vicaardhaaraa is:",
+    option: [
+        "kossoN to received do",
+        "kossoN of upyog do",
+        "A and B both",
+        "none of these"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "supervisor who/which is?",
+    option: [
+        "high and middle management",
+        "employee and middle management",
+        "employee and low management",
+        "employee and sNcaalk"
+    ],
+    answer: "employee and middle management"
+},
+
+{
+    question: "financial vyvsaaykitaa of abhipraay ................. from hai / ",
+    option: [
+        "profit",
+        "finance",
+        "vaannijyik kriyaaoN",
+        "srkaarii anumti"
+    ],
+    answer: "finance"
+},
+
+{
+    question: "scientific management of jnk were:",
+    option: [
+        "gilgrNth",
+        "Taylor",
+        "roNbrttsn",
+        "vaattsn"
+    ],
+    answer: "Taylor"
+},
+
+{
+    question: "scientific management from amikoN of paarishrmik in……….is is:",
+    option: [
+        "increase",
+        "kmii",
+        "both",
+        "n increase n kmii"
+    ],
+    answer: "increase"
+},
+
+{
+    question: "control of employee do are",
+    option: [
+        "virodh",
+        "psnd",
+        "smrthn",
+        "none of these"
+    ],
+    answer: "virodh"
+},
+
+{
+    question: "supervision is—",
+    option: [
+        "necessary",
+        "unnecessary",
+        "time of waste",
+        "none of these"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "management of saar hai / ",
+    option: [
+        "smnvy",
+        "organization",
+        "staffing",
+        "control"
+    ],
+    answer: "smnvy"
+},
+
+{
+    question: "............. OTCEI of promoter is",
+    option: [
+        "UTI",
+        "ICICI",
+        "IDBI",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "one effective control tNtr shaayk is is :",
+    option: [
+        "organizational lkssyoN of performance in",
+        "employees of mnodshaa of promotion in",
+        "maankoN of ythaarthtaa of nirnny in",
+        "appropriate all in"
+    ],
+    answer: "appropriate all in"
+},
+
+{
+    question: "...................... in sNbNdh of development is hai / ",
+    option: [
+        "publicity",
+        "advertising",
+        "sales promotion",
+        "personal selling"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "among the following who/which-saa Taylor of management of siddhaaNt not is?",
+    option: [
+        "vijnyaan n ki vyvhaaraadhiin",
+        "kaaryaatmk phormainship",
+        "maximum n ki siimit production",
+        "cooperation n ki virodh"
+    ],
+    answer: "kaaryaatmk phormainship"
+},
+
+{
+    question: "netaa of paas sttaa is is?",
+    option: [
+        "informal",
+        "formal",
+        "nijii",
+        "srkaarii"
+    ],
+    answer: "formal"
+},
+
+{
+    question: "entrepreneurship whichby aashvst is is?",
+    option: [
+        "shaayk",
+        "vRhtaakaar phrmeN",
+        "middle firm",
+        "lghu firm"
+    ],
+    answer: "vRhtaakaar phrmeN"
+},
+
+{
+    question: ".............. of abhipraay one person by self of business ikaaii established doing vaalii prkriyaa from hai / ",
+    option: [
+        "entrepreneur",
+        "entrepreneurship",
+        "udym",
+        "all of the above"
+    ],
+    answer: "entrepreneurship"
+},
+
+{
+    question: "India in entrepreneurship of future is :",
+    option: [
+        "andhkaar in",
+        "bright",
+        "ktthinaaii in",
+        "none of these"
+    ],
+    answer: "bright"
+},
+
+{
+    question: "raajkossiiy bil muultH are are:",
+    option: [
+        "alpkaalik phNdd udhaar of prptr",
+        "diirghkaalik phNdd udhaar of prptr",
+        "capital market of one prptr",
+        "upryukt some also not"
+    ],
+    answer: "alpkaalik phNdd udhaar of prptr"
+},
+
+{
+    question: "district forum disputes of settlement tax can is :",
+    option: [
+        "₹5 lakh up to",
+        "₹10 lakh up to",
+        "₹15 lakh up to",
+        "₹1 crore up to"
+    ],
+    answer: "₹1 crore up to"
+},
+
+{
+    question: "one niveshk to ru........ lakh of jmaa prmaann-letter taking necessary are haiN / ",
+    option: [
+        "5",
+        "10",
+        "25",
+        "50"
+    ],
+    answer: "25"
+},
+
+{
+    question: "United Nations of ttvaavdhaan in niHshstriikrnn commission when bnaa?",
+    option: [
+        "1945 ii. in",
+        "1952 ii. in",
+        "1959 ii. in",
+        "1966 ii. in"
+    ],
+    answer: "1952 ii. in"
+},
+
+{
+    question: "planning, control of absence in aNdhvishvaas is' this statement both of baare in what btaataa is ?",
+    option: [
+        "kevl planning jruurii is",
+        "kevl control jruurii is",
+        "both of to be jruurii is",
+        "both unnecessary are"
+    ],
+    answer: "both of to be jruurii is"
+},
+
+{
+    question: "capital market deals does is—",
+    option: [
+        "short-term funds",
+        "medium-term funds",
+        "long-term funds",
+        "none of these"
+    ],
+    answer: "long-term funds"
+},
+
+{
+    question: "OTCEI vyvhaaroN in .................. paidaa does hai / ",
+    option: [
+        "trltaa",
+        "paardrshktaa",
+        "both of the above",
+        "derii"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "standards determination of main aadhaar ................. hai / ",
+    option: [
+        "quantity",
+        "kism",
+        "time",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "working capital of nirdhaark is:",
+    option: [
+        "sNsthaa of aakaar",
+        "nirmaann prkriyaa of avdhi",
+        "kcce maal of uplbdhtaa",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "jb one akelaa consumer your rightsoN to complete kraane in asphl rhtaa is to of mdd le can hai / ",
+    option: [
+        "trade Union",
+        "consumer Union",
+        "shrmik vrg",
+        "none of these"
+    ],
+    answer: "consumer Union"
+},
+
+{
+    question: "India in consumer protection adhiniym effective is :",
+    option: [
+        "15 aprail, 1986 from",
+        "15 aprail, 1987",
+        "15 aprail, 1988",
+        "none of these"
+    ],
+    answer: "15 aprail, 1987"
+},
+
+{
+    question: "naatto from how many Nations sNbNdhit are?",
+    option: [
+        "gyaarh Nations",
+        "nau Nations",
+        "baarh Nations",
+        "ds Nations"
+    ],
+    answer: "baarh Nations"
+},
+
+{
+    question: "management……… / ",
+    option: [
+        "art",
+        "art and vijnyaan both",
+        "vijnyaan",
+        "none of these"
+    ],
+    answer: "art and vijnyaan both"
+},
+
+{
+    question: "staffing work is",
+    option: [
+        "high management of",
+        "middle category of management of",
+        "low category of management of",
+        "srkaar of"
+    ],
+    answer: "middle category of management of"
+},
+
+{
+    question: "communication process to complete doing for km from km ............ person hone caahie / ",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "two"
+},
+
+{
+    question: "scientific management from consumers to:",
+    option: [
+        "any prbhaav not",
+        "shossnn is is",
+        "profit is is",
+        "none of these"
+    ],
+    answer: "profit is is"
+},
+
+{
+    question: "raajkossiiy bil muultH are are:",
+    option: [
+        "alpkaalik phNdd udhaar of prptr",
+        "diirghkaalik phNdd udhaar of prptr",
+        "capital market of one prptr",
+        "upryukt some also not"
+    ],
+    answer: "alpkaalik phNdd udhaar of prptr"
+},
+
+{
+    question: "ability and desire both of minimum quantity among the following what drshaatii is?",
+    option: [
+        "entrepreneur ready not",
+        "capable entrepreneur",
+        "willing entrepreneur",
+        "ready entrepreneur"
+    ],
+    answer: "entrepreneur ready not"
+},
+
+{
+    question: "stock vipnni hit of Security does is :",
+    option: [
+        "niveshk",
+        "company",
+        "srkaar",
+        "any of not"
+    ],
+    answer: "niveshk"
+},
+
+{
+    question: "finance of most sstaa srot is:",
+    option: [
+        "Rnnptr",
+        "equity aNsh capital",
+        "puurvaadhikaar aNsh",
+        "prtidhaarit upaarjn"
+    ],
+    answer: "prtidhaarit upaarjn"
+},
+
+{
+    question: "one manager uddeshyoN to kaise received do caahtaa is?",
+    option: [
+        "kushltaa from",
+        "prbhaavpuurnntaa from",
+        "kushltaa and prbhaavpuurnntaa from",
+        "none of these"
+    ],
+    answer: "kushltaa and prbhaavpuurnntaa from"
+},
+
+{
+    question: "among the following who/which-saa business one sphl entrepreneurship from not judd'aa is?",
+    option: [
+        "anusNdhaan and development",
+        "their business to din-prtidin of aadhaar on claanaa",
+        "continuous nviintaa and ttkaaliktaa",
+        "customer of aavshyktaanusaar production"
+    ],
+    answer: "their business to din-prtidin of aadhaar on claanaa"
+},
+
+{
+    question: "low in who/which-saa anucit trade deals of udaahrnn not is ?",
+    option: [
+        "goods/sevaaoN of baare in wrong jaankaarii giving",
+        "gair knekshn dete time cuulhaa also purchasing of shrt lgaanaa",
+        "set prmaannoN of paaln n do",
+        "jmaakhorii do"
+    ],
+    answer: "goods/sevaaoN of baare in wrong jaankaarii giving"
+},
+
+{
+    question: "one developed desh in entrepreneur of work when abolished huaa considered goes is?",
+    option: [
+        "business established are only",
+        "business of vistaar paidaa are only",
+        "customer satisfaction after",
+        "business of smaapn after"
+    ],
+    answer: "business established are only"
+},
+
+{
+    question: "among the following ttikaauu product of udaahrnn who/which-saa is ?",
+    option: [
+        "furniture",
+        "nmk",
+        "mombttii",
+        "diyaaslaaii"
+    ],
+    answer: "furniture"
+},
+
+{
+    question: "message to smpressnn prtiikoN in bdlne of prkriyaa to jaanaa goes is :",
+    option: [
+        "medium",
+        "enkoddiNg",
+        "prtipusstti",
+        "ddikoddiNg"
+    ],
+    answer: "enkoddiNg"
+},
+
+{
+    question: "niym and adhiniym which prkaar of communication barrier under aatii is?",
+    option: [
+        "language smbndhii barrier",
+        "organizational barrier",
+        "psychological barrier",
+        "none of these"
+    ],
+    answer: "organizational barrier"
+},
+
+{
+    question: "Narayan Murthy by promoted/promoter software company is :",
+    option: [
+        "Wipro",
+        "Infosys",
+        "Satyam",
+        "ec0 sii0 el0"
+    ],
+    answer: "Infosys"
+},
+
+{
+    question: "United Nations of establishment of uttrdaayii element among these from who/which not is?",
+    option: [
+        "London ghossnnaa",
+        "moNsko ghossnnaa",
+        "attlaaNttik caarttr",
+        "cenjus smjhautaa"
+    ],
+    answer: "cenjus smjhautaa"
+},
+
+{
+    question: "joNrj aar, ttairii of anusaar planning of prkaar are",
+    option: [
+        "8",
+        "6",
+        "4",
+        "2"
+    ],
+    answer: "4"
+},
+
+{
+    question: "marketing management concept of jnm sthaan hai / ",
+    option: [
+        "iNglainndd",
+        "America",
+        "France",
+        "Japan"
+    ],
+    answer: "America"
+},
+
+{
+    question: "among the following who/which-saa nirdeshn of tttv not is?",
+    option: [
+        "motivation",
+        "smpressnn",
+        "hstaaNtrnn",
+        "supervision"
+    ],
+    answer: "hstaaNtrnn"
+},
+
+{
+    question: "prmaapoN in among the following who/which-saa gunn to be caahie ?",
+    option: [
+        "received doing yogy",
+        "maapne yogy",
+        "locpuurnn",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "upyogitaaoN of group of abhipraay from hai / ",
+    option: [
+        "buyer",
+        "seller",
+        "product",
+        "market"
+    ],
+    answer: "product"
+},
+
+{
+    question: "electricity and telephone department by wrong bil giving among the following whose udaahrnn is ?",
+    option: [
+        "sevaaoN in nyuuntaa",
+        "dossyukt goods",
+        "adhik kiimt lenaa",
+        "anucit trade deals"
+    ],
+    answer: "sevaaoN in nyuuntaa"
+},
+
+{
+    question: "raassttriiy sheyr market of nipttaan (udhaar cuktaa) ckr",
+    option: [
+        "ttii + 5",
+        "ttii + 3",
+        "ttii + 2",
+        "ttii + 1"
+    ],
+    answer: "ttii + 2"
+},
+
+{
+    question: "among the following who/which United Nations of main organs not is?",
+    option: [
+        "General Assembly",
+        "aNtrraassttriiy Court",
+        "Security prissd",
+        "world health organization"
+    ],
+    answer: "world health organization"
+},
+
+{
+    question: "trltaa of nirmaann does is :",
+    option: [
+        "sNgtthit market",
+        "asNgtthit market",
+        "primary market",
+        "secondary market"
+    ],
+    answer: "secondary market"
+},
+
+{
+    question: "India in total stock eksceNj (sheyr baajaaroN) of number is :",
+    option: [
+        "20",
+        "21",
+        "22",
+        "23"
+    ],
+    answer: "22"
+},
+
+{
+    question: "supervision among the following what sunishcit does is?",
+    option: [
+        "suucnaaoN of pressnn sunishcit do",
+        "control in shaayk",
+        "both of the above",
+        "audyogik jhgdd'e"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "one acchii yojnaa is is:",
+    option: [
+        "khrciilii",
+        "time taking vaalii",
+        "locpuurnn",
+        "sNkiirnn"
+    ],
+    answer: "locpuurnn"
+},
+
+{
+    question: "scientific management from shrmikoN to is is :",
+    option: [
+        "profit",
+        "haani",
+        "some also not",
+        "profit and haani both"
+    ],
+    answer: "profit"
+},
+
+{
+    question: "world edds divs when mnaayaa goes is?",
+    option: [
+        "1 dismbr to",
+        "10 dismbr to",
+        "24 dismbr to",
+        "none of these"
+    ],
+    answer: "1 dismbr to"
+},
+
+{
+    question: "among the following who/which desh G-77 of member is?",
+    option: [
+        "aviksit desh",
+        "developed desh",
+        "vikaasshiil desh friend",
+        "none of these"
+    ],
+    answer: "vikaasshiil desh friend"
+},
+
+{
+    question: "nirdeshn employees from related hai / ",
+    option: [
+        "high str",
+        "middle str",
+        "low str",
+        "all str"
+    ],
+    answer: "all str"
+},
+
+{
+    question: "which person others to prbhaavit doing of ability rkhtaa is use ............ khte haiN / ",
+    option: [
+        "netaa",
+        "manager",
+        "main manager",
+        "supervisor"
+    ],
+    answer: "netaa"
+},
+
+{
+    question: "advertising considered goes hai / ",
+    option: [
+        "apvyy",
+        "investment",
+        "vilaasitaa",
+        "none of these"
+    ],
+    answer: "investment"
+},
+
+{
+    question: "‘niveshkoN to shikssaa provides do SEBI of ................. work are",
+    option: [
+        "sNrkssnnaatmk",
+        "operation sNbNdhii",
+        "both of the above",
+        "development sNbNdhii"
+    ],
+    answer: "sNrkssnnaatmk"
+},
+
+{
+    question: "consumer organization apnii number in ................. of effort tax rhe haiN / ",
+    option: [
+        "increase",
+        "kmii",
+        "sthirtaa",
+        "none of these"
+    ],
+    answer: "increase"
+},
+
+{
+    question: "management persons of development is, n ki goods of nirdeshn…….  /  this statement is",
+    option: [
+        "el. pii. eppl",
+        "aar. sii. ddevis",
+        "kiith and gubelaun",
+        "henrii pheyol"
+    ],
+    answer: "el. pii. eppl"
+},
+
+{
+    question: "............... of under pichle vrssoN of aaNkdd'oN of aadhaar on nisskrss nikaale jaate haiN / ",
+    option: [
+        "cash budget",
+        "saaNkhyikiiy aaNkdd'e",
+        "prtt",
+        "budgetary control"
+    ],
+    answer: "saaNkhyikiiy aaNkdd'e"
+},
+
+{
+    question: "financial planning in futures praaptiyoN and bhugtaanoN of puurvaanumaan lgaakr ............... of kmii and aadhiky of ucit management done goes hai / ",
+    option: [
+        "capital",
+        "human power",
+        "maal",
+        "all of the above"
+    ],
+    answer: "capital"
+},
+
+{
+    question: "1950 in United Nations of General Assembly by which nyii vyvsthaa to jnm diyaa?",
+    option: [
+        "saamuuhik Security",
+        "sttaa sntuln",
+        "peace establishment",
+        "peace nirmaann"
+    ],
+    answer: "peace establishment"
+},
+
+{
+    question: "pdoN to logoN from bhrne of work management of which work under aataa is ?",
+    option: [
+        "planning",
+        "organization",
+        "staffing",
+        "nirdeshn"
+    ],
+    answer: "staffing"
+},
+
+{
+    question: "United Nations General Assembly of baitthk year in how much baar is is?",
+    option: [
+        "one baar",
+        "two baar",
+        "three baar",
+        "four baar"
+    ],
+    answer: "one baar"
+},
+
+{
+    question: "…………. of anusaar, “management persons of development is, n ki goods of nirdeshn / ”",
+    option: [
+        "henrii pheyol",
+        "loNrens epple",
+        "F. W. Taylor",
+        "aar. sii. ddevis"
+    ],
+    answer: "loNrens epple"
+},
+
+{
+    question: "among the following who/which complaint daayr not tax can ?",
+    option: [
+        "one consumer",
+        "consumer Union jise maanytaa received n ho",
+        "keNdriiy srkaar",
+        "state srkaar"
+    ],
+    answer: "consumer Union jise maanytaa received n ho"
+},
+
+{
+    question: "World Bank of establishment when occurred?",
+    option: [
+        "1945 ii. in",
+        "1947 ii. in",
+        "1948 ii. in",
+        "1944 ii. in"
+    ],
+    answer: "1944 ii. in"
+},
+
+{
+    question: "control process in among the following who/which-saa kdm shaamil not is ?",
+    option: [
+        "actual progress of maapnaa",
+        "actual progress of prmaapoN from tulnaa",
+        "finance management of work do",
+        "deviations of analysis do"
+    ],
+    answer: "finance management of work do"
+},
+
+{
+    question: "among the following consumers to specialist slaah whichunder dii jaa sktii is?",
+    option: [
+        "publicity",
+        "advertising",
+        "sales promotion",
+        "personal selling"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "among the following who/which-saa business environment of traits not is :",
+    option: [
+        "anishcittaa",
+        "employee",
+        "smbndhtaa",
+        "jhNjhtt"
+    ],
+    answer: "employee"
+},
+
+{
+    question: "one effective control tNtr shaayk is is :",
+    option: [
+        "organizational lkssyoN of performance in",
+        "employees of mnodshaa of promotion in",
+        "maankoN of ythaarthtaa of nirnny in",
+        "all of the above"
+    ],
+    answer: "maankoN of ythaarthtaa of nirnny in"
+},
+
+{
+    question: "one entrepreneur khaa goes is",
+    option: [
+        "economic development of promoter",
+        "economic development of prerk",
+        "'A' and 'B' both",
+        "none of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+
+{
+    question: "abhiprernnaa of abhipraay us prkriyaa from is which vaaNchit objective receipt hetu logoN in",
+    option: [
+        "prtiyogitaa",
+        "uttejnaa",
+        "jhgdd'aa",
+        "mel-jol hone of is"
+    ],
+    answer: "uttejnaa"
+},
+
+{
+    question: "kaise to all vicln mhtvpuurnn is lekin srvaadhik mhtvpuurnn vicln who/which-saa is ?",
+    option: [
+        "negative",
+        "dhnaatmk",
+        "zero",
+        "all of the above"
+    ],
+    answer: "negative"
+},
+
+{
+    question: "prNpraagt vicaar of anusaar .................. to market khaa goes hai / ",
+    option: [
+        "actual buyer",
+        "sNbhaavit buyer",
+        "actual and sNbhaavit kretaaoN of group",
+        "special sthaan"
+    ],
+    answer: "special sthaan"
+},
+
+{
+    question: "business of economic environment to………….prbhaavit does hai / ",
+    option: [
+        "economic system",
+        "liberalization",
+        "globalization",
+        "privatization"
+    ],
+    answer: "economic system"
+},
+
+{
+    question: "staffing of sNbNdh which responsibility from is ?",
+    option: [
+        "social",
+        "raajniitik",
+        "srkaarii",
+        "personal"
+    ],
+    answer: "social"
+},
+
+{
+    question: "among the following consumer protection from sNbNdhit who/which-saa adhiniym is ?",
+    option: [
+        "consumer protection adhiniym, 1986",
+        "bhaartiiy company adhiniym, 1956",
+        "bhaartiiy partnership adhiniym",
+        "bhaartiiy anubNdh adhiniym"
+    ],
+    answer: "consumer protection adhiniym, 1986"
+},
+
+{
+    question: "“management one peshaa hai / ” this statement is:",
+    option: [
+        "jaarj aar. ttairii",
+        "amerikn management esosieshn",
+        "henrii pheyol",
+        "loNrens e, eppl"
+    ],
+    answer: "amerikn management esosieshn"
+},
+
+{
+    question: "Human Resource Management and staffing in what sNbNdh is ?",
+    option: [
+        "Human Resource Management staffing from bdd'aa is",
+        "staffing Human Resource Management from bdd'aa is",
+        "both braabr are",
+        "both in any sNbNdh not is"
+    ],
+    answer: "Human Resource Management staffing from bdd'aa is"
+},
+
+{
+    question: "one organization of control do work is :",
+    option: [
+        "aage dekhnaa",
+        "piiche dekhnaa",
+        "aage, with only with piiche dekhnaa",
+        "none of the above"
+    ],
+    answer: "aage, with only with piiche dekhnaa"
+},
+
+{
+    question: "Security Council in total temporary members of number how much is?",
+    option: [
+        "10",
+        "6",
+        "7",
+        "14"
+    ],
+    answer: "10"
+},
+
+{
+    question: "low in who/which-saa financial protsaahn is?",
+    option: [
+        "promotion",
+        "sevaanivRtti protsaahn",
+        "pd-Security",
+        "employee bhaagiidaarii"
+    ],
+    answer: "sevaanivRtti protsaahn"
+},
+
+{
+    question: "ddaibtt debt anupaat [ ---- ] result in is is :",
+    option: [
+        "nimnstr financial risk",
+        "top-level operation",
+        "top-level financial risk",
+        "top-level per share income"
+    ],
+    answer: "top-level financial risk"
+},
+
+{
+    question: "India in kaaryrt non-governmental organization is:",
+    option: [
+        "voNis",
+        "koNmn koNj",
+        "'a' and 'b' both",
+        "any not"
+    ],
+    answer: "'a' and 'b' both"
+},
+
+{
+    question: "low in who/which-smpressnn prkriyaa of tttv not is",
+    option: [
+        "ddikoddiNg",
+        "smpressnn",
+        "medium",
+        "message praapk"
+    ],
+    answer: "smpressnn"
+},
+
+{
+    question: "development of vidhiyaaN are :",
+    option: [
+        "pd herpher",
+        "short-term paatthykrm",
+        "work on development",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "entrepreneurship among the following whichfor employment of opportunities available does is?",
+    option: [
+        "entrepreneur for",
+        "aapuurtikrtaaoN for",
+        "mdhysthoN for",
+        "all of the above for"
+    ],
+    answer: "all of the above for"
+},
+
+{
+    question: "among the following who/which entrepreneurship of vishesstaa not is?",
+    option: [
+        "risk lenaa",
+        "nvaacaar",
+        "sRjnaatmk activity",
+        "prbNdhkiiy training"
+    ],
+    answer: "prbNdhkiiy training"
+},
+
+{
+    question: "financial planning from capital to ........ cost on available kraayaa jaa can hai / ",
+    option: [
+        "adhik",
+        "middle",
+        "minimum",
+        "zero"
+    ],
+    answer: "minimum"
+},
+
+{
+    question: ".............. by entrepreneurship aashvst is is",
+    option: [
+        "shaayk",
+        "vRhtaakaar phrmeN",
+        "middle firm",
+        "lghu firm"
+    ],
+    answer: "vRhtaakaar phrmeN"
+},
+
+{
+    question: "henrii pheyoNl was one",
+    option: [
+        "smaaj scientific",
+        "khnn iNjiiniyr",
+        "lekhaakaar",
+        "production iNjiiniyr"
+    ],
+    answer: "khnn iNjiiniyr"
+},
+
+{
+    question: "10 dismbr to what mnaayaa goes is?",
+    option: [
+        "maanvaadhikaar divs",
+        "pryaavrnn divs",
+        "mhilaa divs",
+        "mjduur divs"
+    ],
+    answer: "maanvaadhikaar divs"
+},
+
+{
+    question: "ydi aap communication of prmaann rkhnaa caahte are to aapko communication of upyog do caahie :",
+    option: [
+        "informal",
+        "formal",
+        "maukhik",
+        "none of these"
+    ],
+    answer: "formal"
+},
+
+{
+    question: "smnvy is:",
+    option: [
+        "optional",
+        "necessary",
+        "unnecessary",
+        "time of waste"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "United Nations of Economic and Social Council in total how many member are?",
+    option: [
+        "9",
+        "18",
+        "27",
+        "54"
+    ],
+    answer: "54"
+},
+
+{
+    question: "currency market deals does is—",
+    option: [
+        "short-term funds",
+        "medium-term funds",
+        "long-term funds",
+        "none of these"
+    ],
+    answer: "short-term funds"
+},
+
+{
+    question: ".................. capital market of organs hai / ",
+    option: [
+        "demand currency",
+        "primary market",
+        "secondary market",
+        "primary and secondary markets"
+    ],
+    answer: "primary and secondary markets"
+},
+
+{
+    question: "one business of current assets of finance vyvsthaa honii caahie:",
+    option: [
+        "kevl current liabilities from",
+        "kevl long-term liabilities from",
+        "long-term and short-term both from aNshtH",
+        "none of these"
+    ],
+    answer: "long-term and short-term both from aNshtH"
+},
+
+{
+    question: "kuunttj o ddonel of anusaar management of work are:",
+    option: [
+        "2",
+        "4",
+        "6",
+        "8"
+    ],
+    answer: "2"
+},
+
+{
+    question: "among the following consumer organization who/which-saa is ?",
+    option: [
+        "Common Cause, New Delhi",
+        "VOICE, New Delhi",
+        "Consumers' Forum, Udupi",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "without of any also business yojnaa to sphltaapuurvk laaguu not done jaa sktaa / ",
+    option: [
+        "dividend nirnny",
+        "investment nirnny",
+        "above",
+        "financial planning"
+    ],
+    answer: "financial planning"
+},
+
+{
+    question: "consumer protection adhiniym in 1993 of sNshodhn of dauraan complaint doing of time limit to year up to doing of praavdhaan rkhaa gyaa / ",
+    option: [
+        "two",
+        "three",
+        "four",
+        "paaNc"
+    ],
+    answer: "three"
+},
+
+{
+    question: "management is:",
+    option: [
+        "art",
+        "vijnyaan",
+        "art and vijnyaan both",
+        "peshaa"
+    ],
+    answer: "art and vijnyaan both"
+},
+
+{
+    question: "'10% on complete finance provides do' among the following kiskii vidhi is ?",
+    option: [
+        "advertising",
+        "personal selling",
+        "sales promotion",
+        "publicity"
+    ],
+    answer: "sales promotion"
+},
+
+{
+    question: "kaarykrm of determination necessary is scientific….for :",
+    option: [
+        "planning",
+        "management",
+        "organization",
+        "control"
+    ],
+    answer: "management"
+},
+
+{
+    question: "anukuultm capital ddhaaNce from among the following who/which-saa prbhaav pdd'taa is ?",
+    option: [
+        "cost of capital minimum",
+        "company of total value maximum",
+        "both of the above",
+        "market value of shares minimum"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "................ prmaann production from sNbNdhit hai / ",
+    option: [
+        "kism",
+        "quantity",
+        "kism and quantity",
+        "shrm sNbNdh"
+    ],
+    answer: "kism and quantity"
+},
+
+{
+    question: "entrepreneurship vishesstH .................. of jiivnyaapn of one aakrssk viklp hai / ",
+    option: [
+        "pichdd'e vrg",
+        "amiirii vrg",
+        "strii vrg",
+        "puruss vrg"
+    ],
+    answer: "pichdd'e vrg"
+},
+
+{
+    question: "Human Resource Management in smmilit are:",
+    option: [
+        "recruitment",
+        "selection",
+        "training",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "world of deshoN of biic trade sNgtthnoN for who/which saa International organization is?",
+    option: [
+        "World Trade Organization",
+        "International Monetary Fund",
+        "World Bank",
+        "all of these"
+    ],
+    answer: "World Trade Organization"
+},
+
+{
+    question: "kaauNttr rsiid of use tax done goes hai / ",
+    option: [
+        "NSE",
+        "OTCEI",
+        "BSE",
+        "DSE"
+    ],
+    answer: "OTCEI"
+},
+
+{
+    question: "communication process in prtipusstti of abhipraay this dekhne from is ki what........... / ",
+    option: [
+        "message to tthiik received tax liyaa is",
+        "message to smjh liyaa is",
+        "both of the above",
+        "message of paaln tax liyaa is"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "International Court of Justice of headquarters where located is?",
+    option: [
+        "jenevaa",
+        "brlin",
+        "nyuuyoNrk",
+        "heg"
+    ],
+    answer: "heg"
+},
+
+{
+    question: "marketing in shaamil is is ?",
+    option: [
+        "purchase",
+        "sales",
+        "bhNddaarnn",
+        "all"
+    ],
+    answer: "all"
+},
+
+{
+    question: "Entrepreneurship Development Programme of prti India of srkaarii tNtr of dRssttikonn is",
+    option: [
+        "vinaashaatmk",
+        "negative",
+        "rcnaatmk",
+        "ashyogaatmk"
+    ],
+    answer: "ashyogaatmk"
+},
+
+{
+    question: "marketing expenditure bhaar is :",
+    option: [
+        "udyog on",
+        "businessmen on",
+        "consumers on",
+        "all of these on"
+    ],
+    answer: "consumers on"
+},
+
+{
+    question: "…………..one aisii vidhi is which work to complete does is :",
+    option: [
+        "prkriyaa",
+        "udyog",
+        "objective",
+        "trade"
+    ],
+    answer: "prkriyaa"
+},
+
+{
+    question: "SEBI of kssetriiy office sthit is :",
+    option: [
+        "Delhi",
+        "Kolkata",
+        "Chennai",
+        "these tiinoN jgh"
+    ],
+    answer: "these tiinoN jgh"
+},
+
+{
+    question: "marketing on expenditure done gyaa money is",
+    option: [
+        "waste",
+        "unnecessary expenditure",
+        "graahkoN on bhaar",
+        "allocation"
+    ],
+    answer: "allocation"
+},
+
+{
+    question: "existing in aasiyaan of how many member desh are?",
+    option: [
+        "10",
+        "12",
+        "13",
+        "15"
+    ],
+    answer: "10"
+},
+
+{
+    question: "among the following complaint of aadhaar who/which-saa is ?",
+    option: [
+        "dossyukt goods",
+        "sevaaoN in nyuuntaa",
+        "adhik kiimt lenaa",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "...................... in sNdeshoN of turNt smaadhaan is hai / ",
+    option: [
+        "advertising",
+        "personal selling",
+        "sales promotion",
+        "publicity"
+    ],
+    answer: "personal selling"
+},
+
+{
+    question: "selection prkriyaa in bhre jaane vaale rikt aavedn letter in .......... bhrii goes haiN / ",
+    option: [
+        "yogytaaeN",
+        "personal suucnaaeN",
+        "minimum sviikaary salary sNbNdhii suucnaaeN",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "kendriikrnn from taatpry is is-",
+    option: [
+        "nirnny taking in adhikaariyoN to surkssit rkhnaa",
+        "nirnny taking of adhikaaroN of vikendriikrnn do",
+        "prbhaagoN of profit kendr bnaanaa",
+        "new kendr athvaa shaakhaaoN to kholnaa"
+    ],
+    answer: "nirnny taking in adhikaariyoN to surkssit rkhnaa"
+},
+
+{
+    question: "cash flow condition behtr hone on among the following who/which-sii capital of use do caahie ?",
+    option: [
+        "debt capital",
+        "equity aNsh capital",
+        "both of the above",
+        "none of these"
+    ],
+    answer: "debt capital"
+},
+
+{
+    question: "budget of arth is:",
+    option: [
+        "performance of niyojit lkssy",
+        "future of kaaryklaap of use",
+        "sNsaadhnoN of shii vivrnn",
+        "aashaanvit result of aNkoN in vitrnn"
+    ],
+    answer: "aashaanvit result of aNkoN in vitrnn"
+},
+
+{
+    question: "consumer protection adhiniym of under vivaad aate are :",
+    option: [
+        "company of aNsh smbndhii vivaad",
+        "dnnddit nature of vivaad",
+        "seller by dossii maal of sales smbndhii vivaad",
+        "naukrii smbndhii"
+    ],
+    answer: "seller by dossii maal of sales smbndhii vivaad"
+},
+
+{
+    question: "United Nations divs mnaayaa goes is-",
+    option: [
+        "24 sitmbr to",
+        "28 sitmbr to",
+        "24 akttuubr to",
+        "28 akttuubr to"
+    ],
+    answer: "24 akttuubr to"
+},
+
+{
+    question: "among the following who/which-saa capital sNrcnaa to set doing vaalaa element is ?",
+    option: [
+        "cash flow condition",
+        "byaaj aavrnn anupaat",
+        "debt bhugtaan aavrnn anupaat",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "economic development for ................. of need is hai / ",
+    option: [
+        "anvessnn",
+        "use",
+        "saahs",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "acche brand of vishesstaaeN are :",
+    option: [
+        "suukssm naam",
+        "smrnniiy",
+        "aakrssk",
+        "ye all"
+    ],
+    answer: "ye all"
+},
+
+{
+    question: "control prbNdhkiiy work is:",
+    option: [
+        "mandatory",
+        "necessary",
+        "optional",
+        "none of these"
+    ],
+    answer: "mandatory"
+},
+
+{
+    question: "leadership is :",
+    option: [
+        "time of waste",
+        "necessary",
+        "money of waste",
+        "unnecessary"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "vaidhaanik ruup in SEBI of establishment occurred was :",
+    option: [
+        "1988",
+        "1990",
+        "1992",
+        "1994"
+    ],
+    answer: "1992"
+},
+
+{
+    question: "among the following ttikaauu product of udaahrnn who/which-saa is?",
+    option: [
+        "furniture",
+        "nmk",
+        "mombttii",
+        "ddispaaslaaii"
+    ],
+    answer: "furniture"
+},
+
+{
+    question: "among the following who/which Security Council of fixed member not is?",
+    option: [
+        "France",
+        "Britain",
+        "Italy",
+        "China"
+    ],
+    answer: "Italy"
+},
+
+{
+    question: "shareholder of company in existing sNpdaa =",
+    option: [
+        "shares of aNkit value per share market value",
+        "shares of number × shares of aNkit value",
+        "shares of number × per share market value",
+        "shares of number × per share profit"
+    ],
+    answer: "shares of number × per share market value"
+},
+
+{
+    question: "financial prbndhk nirnny letaa is:",
+    option: [
+        "financial",
+        "investment",
+        "dividend",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "bhaartiiy raassttriiy sheyr market to stock eksceNj (sheyr market) of ruup in maanytaa which year in milii was ?",
+    option: [
+        "1992",
+        "1993",
+        "1994",
+        "1955"
+    ],
+    answer: "1993"
+},
+
+{
+    question: "International Monetary Fund of headquarters where is?",
+    option: [
+        "mniilaa in",
+        "jkaartaa in",
+        "Paris in",
+        "vaashiNgttn in"
+    ],
+    answer: "vaashiNgttn in"
+},
+
+{
+    question: "financial planning from lgaataar ............... of condition bnaakr rkhii jaa sktii hai / ",
+    option: [
+        "minimum capital",
+        "trltaa",
+        "maximum capital",
+        "(B) and (C)"
+    ],
+    answer: "trltaa"
+},
+
+{
+    question: "Abraham Maslow by need-praathmiktaa siddhaaNt of prtipaadn year in kiyaa / ",
+    option: [
+        "1843",
+        "1943",
+        "1893",
+        "1963"
+    ],
+    answer: "1943"
+},
+
+{
+    question: "maanvaadhikaar prissd when from skriy is?",
+    option: [
+        "2005 ii. from",
+        "2004 ii. from",
+        "2006 ii. from",
+        "2007 ii. from"
+    ],
+    answer: "2006 ii. from"
+},
+
+{
+    question: "henrii pheyol of jnm huaa was :",
+    option: [
+        "Japan",
+        "France",
+        "jrmnii",
+        "amriikaa"
+    ],
+    answer: "France"
+},
+
+{
+    question: "supervisor employees of is—",
+    option: [
+        "friend",
+        "guide",
+        "philosopher",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "product antraal (mix) to prbhaavit doing vaale ghttk",
+    option: [
+        "marketing",
+        "product",
+        "financial",
+        "ye all"
+    ],
+    answer: "marketing"
+},
+
+{
+    question: "vaannijyik prptr of maximum avdhi is hai / ",
+    option: [
+        "3 mhiinaa",
+        "6 mhiinaa",
+        "12 mhiinaa",
+        "24 mhiinaa"
+    ],
+    answer: "12 mhiinaa"
+},
+
+{
+    question: "1945 in United Nations of establishment occurred, iskaa maulik member who/which was?",
+    option: [
+        "Pakistan",
+        "baaNglaadesh",
+        "shriilNkaa",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "social environment of among the following who/which-saa udaahrnn is ?",
+    option: [
+        "currency of aapuurti",
+        "consumer protection adhiniym",
+        "bhaartiiy sNvidhaan",
+        "privaar of sNrcnaa"
+    ],
+    answer: "privaar of sNrcnaa"
+},
+
+{
+    question: "International annu uurjaa abhikrnn of establishment when occurred?",
+    option: [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+    ],
+    answer: "1957"
+},
+
+{
+    question: "utpaadkoN and vikretaaoN of anucit deals from consumers to khte haiN /  Security provides doing to",
+    option: [
+        "consumer protection adhiniym",
+        "consumer protection",
+        "consumer welfare",
+        "consumer shikssaa"
+    ],
+    answer: "consumer protection"
+},
+
+{
+    question: "management of how many str are?",
+    option: [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    answer: "3"
+},
+
+{
+    question: "one person XYZ company of 100 aNsh ₹ 100 per share of dr from khriidtaa hai /  some time after market value of shares ₹ 120 ho goes hai /  uskii company in sNpdaa how much hogii ?",
+    option: [
+        "₹12,000/",
+        "₹8,000",
+        "₹10,000",
+        "₹10,120"
+    ],
+    answer: "₹12,000/"
+},
+
+{
+    question: "among the following who/which-saa srkaarii niitiyoN in change of business and udyog on prbhaav of vrnnn not does?",
+    option: [
+        "graahkoN of bddh'tii maaNg",
+        "prtiyogitaa in increase",
+        "kRssi in change",
+        "market muulktaa"
+    ],
+    answer: "kRssi in change"
+},
+
+{
+    question: "management of siddhaaNt are :",
+    option: [
+        "saarvbhaum",
+        "lciile",
+        "smpuurnn",
+        "practical"
+    ],
+    answer: "smpuurnn"
+},
+
+{
+    question: "secondary market in puurv nirmit prtibhuutiyoN of .................. is hai / ",
+    option: [
+        "purchase",
+        "sales",
+        "purchase-sales",
+        "stock"
+    ],
+    answer: "purchase-sales"
+},
+
+{
+    question: "effective communication for necessary are :",
+    option: [
+        "spsstttaa",
+        "shisstttaa",
+        "nirntrtaa",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "nimnlikhit in who/which-sii consumer protection adhiniym of vishesstaa is ?",
+    option: [
+        "bhNddoN of phailaav",
+        "area of phailaav",
+        "praavdhaanoN of atipuurk nature",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "shoNpiNg kiimt dRshy among the following whose udaahrnn is ?",
+    option: [
+        "primary packaging",
+        "secondary packaging",
+        "transportation packaging",
+        "none of these"
+    ],
+    answer: "primary packaging"
+},
+
+{
+    question: "marketing vicaardhaaraa of kendr-bindu .................. is hai / ",
+    option: [
+        "consumer satisfaction",
+        "consumer welfare",
+        "product of gunnvttaa",
+        "production of quantity"
+    ],
+    answer: "consumer satisfaction"
+},
+
+{
+    question: "consumer protection paarit huaa was :",
+    option: [
+        "1786",
+        "1886",
+        "1986",
+        "1996"
+    ],
+    answer: "1986"
+},
+
+{
+    question: "management of social responsibility hai / ",
+    option: [
+        "all of prti",
+        "employees of prti",
+        "srkaar of prti",
+        "smaaj of prti"
+    ],
+    answer: "all of prti"
+},
+
+{
+    question: "International annu uurjaa abhikrnn of establishment when occurred?",
+    option: [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+    ],
+    answer: "1957"
+},
+
+{
+    question: "one supervisor ............ role adaa does hai / ",
+    option: [
+        "one main person of ruup in",
+        "one mdhysth of ruup in",
+        "one maanviiy sNbNdh specialist of ruup in",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "km prbhaavpuurnntaa advertising of baare in what btaatii hai / ",
+    option: [
+        "profit",
+        "limit",
+        "aakssep",
+        "aakssep of khNddn"
+    ],
+    answer: "limit"
+},
+
+{
+    question: "nirdeshn of management of str on need is is—",
+    option: [
+        "high",
+        "middle",
+        "low",
+        "all str"
+    ],
+    answer: "all str"
+},
+
+{
+    question: "bilkul bdd'ii priyojnaaoN for among the following what apnaayaa goes is ?",
+    option: [
+        "prtt",
+        "sii0 pii0 em0",
+        "both of the above",
+        "management audit"
+    ],
+    answer: "prtt"
+},
+
+{
+    question: "entrepreneurial traits from related haiN / ",
+    option: [
+        "work creation deals",
+        "profit creation deals",
+        "risk bearing deals",
+        "none of these"
+    ],
+    answer: "risk bearing deals"
+},
+
+{
+    question: "work on self development aavshyktaaeN puurnn of goes are, by :",
+    option: [
+        "work in mehnt",
+        "kism product aashvst do",
+        "training kaarykrm in bhaagiidaarii",
+        "none of the above"
+    ],
+    answer: "training kaarykrm in bhaagiidaarii"
+},
+
+{
+    question: "responsibility lekhaaNkn in among the following persons of which ciij of lekhaa rkhaa goes haiN / ",
+    option: [
+        "smptti",
+        "income",
+        "responsibility",
+        "all of the above"
+    ],
+    answer: "responsibility"
+},
+
+{
+    question: "'suurjmukhii of one nirmaataa by one raassttriiy smaacaar letter in die ge advertising in khaa ki uskaa product Vitamins, Minerals and Protein from bhrpuur hai /  ttestt doing on all daave jhuutthe paae ge /  that whose udaahrnn hai / ",
+    option: [
+        "consumer shossnn",
+        "consumer bhlaaii",
+        "consumer jaankaarii",
+        "any not"
+    ],
+    answer: "consumer shossnn"
+},
+
+{
+    question: "aNtrraassttriiy Court in nyaayaadhiishoN of number how much is is?",
+    option: [
+        "5",
+        "8",
+        "10",
+        "15"
+    ],
+    answer: "15"
+},
+
+{
+    question: "United League of Nations of mhaasciv who/which are?",
+    option: [
+        "mnmohn siNh",
+        "Ban of Moon",
+        "baaraak obaamaa",
+        "maadhv nepaalii"
+    ],
+    answer: "Ban of Moon"
+},
+
+{
+    question: "financial management of prmpraagt vicaardhaaraa to tyaag diyaa gyaa was :",
+    option: [
+        "1910-20 in",
+        "1920-30 in",
+        "1930-40 in",
+        "1940-50 in"
+    ],
+    answer: "1930-40 in"
+},
+
+{
+    question: "financial management of main work are:",
+    option: [
+        "financial planning",
+        "kossoN to received do",
+        "shuddh profit of aavNttn",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "prmpraagt management in shrmikoN to mjduurii dii goes is-",
+    option: [
+        "km",
+        "adhik",
+        "maximum",
+        "none of these"
+    ],
+    answer: "km"
+},
+
+{
+    question: "goods khriidii not goes blki unheN becaa goes hai /  this statement ................ vicaardhaaraa from sNbNdhit hai / ",
+    option: [
+        "product",
+        "bikrii",
+        "production",
+        "marketing"
+    ],
+    answer: "bikrii"
+},
+
+{
+    question: "scientific management svaamiyoN of…………….is :",
+    option: [
+        "pkss in",
+        "vipkss in",
+        "both",
+        "shaayk"
+    ],
+    answer: "pkss in"
+},
+
+{
+    question: "India in most phle stock vipnni of establishment occurred was",
+    option: [
+        "1857",
+        "1877",
+        "1887",
+        "1987"
+    ],
+    answer: "1887"
+},
+
+{
+    question: "ydi any baateN smaan rheN to tax of dr in nigmit profit on increase hogii :",
+    option: [
+        "debt apekssaakRt sste hoNge",
+        "debt apekssaakRt km sste hoNge",
+        "cost of debt on any prbhaav not hogaa",
+        "hm some not tax skte"
+    ],
+    answer: "debt apekssaakRt sste hoNge"
+},
+
+{
+    question: "financial planning in what smmilit done goes is ?",
+    option: [
+        "financial uddeshyoN of determination",
+        "financial niitiyoN of determination",
+        "financial kaaryvidhiyoN of determination",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "................ advertising of viruddh aakssep hai / ",
+    option: [
+        "social muulyoN to ahelnnaa",
+        "value of kmii",
+        "various utpaadoN of jnyaan",
+        "product kism in sudhaar"
+    ],
+    answer: "social muulyoN to ahelnnaa"
+},
+
+{
+    question: "United Nations of establishment of uttrdaayii element among these from who/which not is?",
+    option: [
+        "London ghossnnaa",
+        "moNsko ghossnnaa",
+        "attlaaNttik caarttr",
+        "cenjus smjhautaa"
+    ],
+    answer: "cenjus smjhautaa"
+},
+
+{
+    question: "State Commission disputes of settlement tax can is",
+    option: [
+        "₹ 5 lakh up to",
+        "₹ 10 lakh up to",
+        "₹ 20 lakh up to",
+        "₹1 crore from adhik"
+    ],
+    answer: "₹1 crore from adhik"
+},
+
+{
+    question: "entrepreneurship of need ................. for is hai / ",
+    option: [
+        "development prkriyaa of praarNbh doing",
+        "development to maintaining",
+        "employment opportunities available doing",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "among the following who/which-saa three striiy complaint redressal tNtr of organs not is ?",
+    option: [
+        "aNtrNational Commission",
+        "National Commission",
+        "State Commission",
+        "District Forum"
+    ],
+    answer: "aNtrNational Commission"
+},
+
+{
+    question: "planning all prbNdhkiiy kriyaaoN of is:",
+    option: [
+        "praarmbh",
+        "ant",
+        "praarmbh and ant both",
+        "none of these"
+    ],
+    answer: "praarmbh and ant both"
+},
+
+{
+    question: "one entrepreneur of dhyaan where kendrit is is?",
+    option: [
+        "business praarNbh doing sNbNdhii kriyaaoN on",
+        "business operation sNbNdhii kriyaaoN on",
+        "atydhik profit acquired doing on",
+        "prtiyogitaa of saamnaa doing on"
+    ],
+    answer: "business praarNbh doing sNbNdhii kriyaaoN on"
+},
+
+{
+    question: "....................... advertising of limit of udaahrnn hai / ",
+    option: [
+        "km shktishaalii",
+        "alokpriytaa",
+        "prtipusstti of absence",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "jaarj aar. ttairii of anusaar management of work are :",
+    option: [
+        "2",
+        "4",
+        "6",
+        "7"
+    ],
+    answer: "4"
+},
+
+{
+    question: "United Nations of establishment when occurred?",
+    option: [
+        "1945",
+        "1950",
+        "1952",
+        "1955"
+    ],
+    answer: "1945"
+},
+
+{
+    question: "one acchii yojnaa is is :",
+    option: [
+        "srciilii",
+        "time taking vaalii",
+        "locpuurnn",
+        "sNkiirnn"
+    ],
+    answer: "locpuurnn"
+},
+
+{
+    question: "psychological examination in ............... to smmilit done goes",
+    option: [
+        "ruci examination",
+        "buddhimttaa examination",
+        "both of the above",
+        "normal jnyaan examination"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "among the following who/which maanvaadhikaar of one prkaar is?",
+    option: [
+        "abhivykti of independence",
+        "social smaantaa",
+        "economic adhikaar",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "control of need stroN on is hai / ",
+    option: [
+        "high",
+        "Madhya",
+        "low",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "employees of maaNg recruitment prkriyaa of who/which-saa stage is ?",
+    option: [
+        "first",
+        "second",
+        "third",
+        "fourth"
+    ],
+    answer: "second"
+},
+
+{
+    question: "vstu nirmaann of vicaar aate only ............... activity praarNbh ho goes hai / ",
+    option: [
+        "purchase",
+        "sales",
+        "marketing",
+        "production"
+    ],
+    answer: "marketing"
+},
+
+{
+    question: "...................... to vipnnnkrtaa khte haiN / ",
+    option: [
+        "satisfaction khojne vaalaa",
+        "satisfaction provides doing vaalaa",
+        "goods selling vaalaa",
+        "services selling vaalaa"
+    ],
+    answer: "satisfaction provides doing vaalaa"
+},
+
+{
+    question: "India of liberalization of niiti rhii is:",
+    option: [
+        "sphl",
+        "asphl",
+        "aNsht: sphl",
+        "none of these"
+    ],
+    answer: "sphl"
+},
+
+{
+    question: "employees of training is",
+    option: [
+        "necessary",
+        "unnecessary",
+        "mandatory",
+        "money of waste"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "planning aadhaarit is…………..",
+    option: [
+        "bhuutkaal on",
+        "aage aane on",
+        "future on",
+        "all of the above"
+    ],
+    answer: "future on"
+},
+
+{
+    question: "United Nations of which mhaasciv of air durghttnaa in mRtyu occurred?",
+    option: [
+        "ttraagiv loNrdd",
+        "ddaig hmrsholdd",
+        "kthaaNtt",
+        "ddoN. bii.bii. Ghali"
+    ],
+    answer: "ddaig hmrsholdd"
+},
+
+{
+    question: "bons nirnny of nirdhaark are :",
+    option: [
+        "laabhoN of quantity",
+        "kossoN in trltaa",
+        "company of aayu",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "recruitment of who/which-saa srot new organization for available not is is ?",
+    option: [
+        "aaNtrik",
+        "baahy",
+        "both of the above",
+        "prtykss recruitment"
+    ],
+    answer: "aaNtrik"
+},
+
+{
+    question: "which year in World Trade Organization of establishment occurred?",
+    option: [
+        "1945",
+        "1965",
+        "1975",
+        "1995"
+    ],
+    answer: "1995"
+},
+
+{
+    question: "consumer disputes of nipttaare of avsthaa tNtr is:",
+    option: [
+        "one striiy",
+        "dvistriiy",
+        "tri-striiy",
+        "any not"
+    ],
+    answer: "dvistriiy"
+},
+
+{
+    question: "employment anubNdh in ................. suucnaaeN dii goes haiN / ",
+    option: [
+        "joNb of naam",
+        "responsibility",
+        "salary",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "nirdeshn of tttv are:",
+    option: [
+        "supervision",
+        "all",
+        "leadership",
+        "motivation"
+    ],
+    answer: "all"
+},
+
+{
+    question: "“planning future to pkdd'ne for bnaayaa gyaa piNjraa hai / ” this statement is",
+    option: [
+        "nyuumain",
+        "hrle",
+        "eln",
+        "tterii"
+    ],
+    answer: "eln"
+},
+
+{
+    question: "prbndhkiiy audit in among the following kiskii jaaNc of goes is ?",
+    option: [
+        "prbndhkiiy nirnnyoN of kvaalittii",
+        "management pddhtiyoN of kushltaa",
+        "both of the above",
+        "profit-haani khaataa"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "United League of Nations of headquarters where is?",
+    option: [
+        "lNdn in",
+        "vaashiNgttn in",
+        "Paris in",
+        "nyuuyoNrk in"
+    ],
+    answer: "nyuuyoNrk in"
+},
+
+{
+    question: "sales promotion of objective are",
+    option: [
+        "new vstu from avgt kraanaa maatr",
+        "new customer aakrssit doing hetu maatr",
+        "competition of saamnaa doing hetu maatr",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "primary and secondary markets",
+    option: [
+        "one-duusre from competition do are",
+        "one duusre to cooperation dete (complementary) are",
+        "independent ruup from work do are",
+        "one-duusre to niyNtrit do are"
+    ],
+    answer: "one duusre to cooperation dete (complementary) are"
+},
+
+{
+    question: "leadership of objective one person of ........ prtisht kssmtaa of use do hai / ",
+    option: [
+        "40",
+        "50",
+        "80",
+        "100"
+    ],
+    answer: "100"
+},
+
+{
+    question: "time of three anumaan among the following kismeN lgaae jaate are ?",
+    option: [
+        "prtt",
+        "sii0 pii0 em0",
+        "both of the above",
+        "management audit"
+    ],
+    answer: "prtt"
+},
+
+{
+    question: "among the following sales promotion activity who/which-sii is ?",
+    option: [
+        "chuutt",
+        "kttautii",
+        "product sNyojn",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "prmaannu praudyogikii of peace puurnn upyog and uskii Security from smbddh United Nations of ejensii of naam is",
+    option: [
+        "United Nations nirstriikrnn smiti",
+        "International aannvik uurjaa ejensii",
+        "United Nations International Security smiti",
+        "none of these"
+    ],
+    answer: "International aannvik uurjaa ejensii"
+},
+
+{
+    question: "smnvy established done goes is:",
+    option: [
+        "highest str of management by",
+        "middle striiy management by",
+        "low str of management by",
+        "among these from any by not"
+    ],
+    answer: "highest str of management by"
+},
+
+{
+    question: "aaNtrik ttreddiNg of profit among the following who/which utthaataa is ?",
+    option: [
+        "all shareholder",
+        "all Rnnptrdhaarii",
+        "company of gupt suucnaa rkhne vaale",
+        "all employee"
+    ],
+    answer: "company of gupt suucnaa rkhne vaale"
+},
+
+{
+    question: "United Nations pdbndh of rcnaa kisne of?",
+    option: [
+        "F.ddii. ruujveltt",
+        "joseph sttaalin",
+        "vinsttn crcil",
+        "cyaaNg kaaii shek"
+    ],
+    answer: "F.ddii. ruujveltt"
+},
+
+{
+    question: "Security prissd of any temporary member of kaarykaal what is is?",
+    option: [
+        "1 year",
+        "2 year",
+        "3 year",
+        "4 year"
+    ],
+    answer: "2 year"
+},
+
+{
+    question: "among the following who/which United Nations of one aadhikaarik language not is?",
+    option: [
+        "arbii",
+        "jaapaanii",
+        "spenish",
+        "ciinii"
+    ],
+    answer: "jaapaanii"
+},
+
+{
+    question: "among the following who/which-saa business pryaavrnn of srvshresstth dyotk hai / ",
+    option: [
+        "phcaan do",
+        "performance do",
+        "ho rhe privrtnoN of saamnaa do",
+        "this all"
+    ],
+    answer: "this all"
+},
+
+{
+    question: "scientific management of muulaadhaar………:",
+    option: [
+        "mental revolution",
+        "paarishrmik",
+        "mental revolution not",
+        "all of the above"
+    ],
+    answer: "mental revolution"
+},
+
+{
+    question: "management of social responsibility of nature in laaguu is is :",
+    option: [
+        "buyer of saavdhaanii of niym",
+        "seller to saavdhaanii of niymn",
+        "these both in from any also not",
+        "none of these"
+    ],
+    answer: "seller to saavdhaanii of niymn"
+},
+
+{
+    question: "United Nations of establishment time uske ghossnnaa-letter on how many deshoN by hstaakssr kie?",
+    option: [
+        "50",
+        "51",
+        "53",
+        "54"
+    ],
+    answer: "51"
+},
+
+{
+    question: "currency market in ................. prtibhuutiyoN in deals done goes hai / ",
+    option: [
+        "short-term",
+        "long-term",
+        "both of the above",
+        "BSE"
+    ],
+    answer: "both of the above"
+},
+
+{
+    question: "abhiprernnaa of vishesstaa",
+    option: [
+        "positive",
+        "negative",
+        "positive and negative",
+        "sNkhyaatmk"
+    ],
+    answer: "positive and negative"
+},
+
+{
+    question: "United capital vaalii company for dividend giving is :",
+    option: [
+        "optional",
+        "mandatory",
+        "necessary",
+        "none of these"
+    ],
+    answer: "optional"
+},
+
+{
+    question: "among the following who/which-sii planning of limit not is :",
+    option: [
+        "time of waste",
+        "control of aadhaar",
+        "kttortaa",
+        "atydhik cost"
+    ],
+    answer: "control of aadhaar"
+},
+
+{
+    question: "staffing activity is",
+    option: [
+        "sevivrgiiy department of",
+        "production department of",
+        "marketing department of",
+        "financial department of"
+    ],
+    answer: "sevivrgiiy department of"
+},
+
+{
+    question: "labeling is :",
+    option: [
+        "mandatory",
+        "necessary",
+        "optional",
+        "money of waste"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "us formal communication of what naam is jismeN officer one phie of center (hb) of ruup in work does is?",
+    option: [
+        "chain communication",
+        "ckriy communication",
+        "ghuumtaa huaa communication",
+        "mukt flow communication"
+    ],
+    answer: "ckriy communication"
+},
+
+{
+    question: "................ anucit trade deals of udaahrnn hai / ",
+    option: [
+        "jmaakhorii do",
+        "giphtt skiim jaarii do",
+        "set prmaannoN of paaln n do",
+        "all of the above"
+    ],
+    answer: "all of the above"
+},
+
+{
+    question: "India in management…………….. / ",
+    option: [
+        "necessary",
+        "unnecessary",
+        "vilaasitaa",
+        "none of these"
+    ],
+    answer: "necessary"
+},
+
+{
+    question: "paikej vaalii consumer utpaadoN on labeling mandatory is",
+    option: [
+        "kuchek on",
+        "all on",
+        "any on not",
+        "none of these"
+    ],
+    answer: "kuchek on"
+},
+
+{
+    question: "training shbd to ................. of with jodd'aa goes hai / ",
+    option: [
+        "prbndhkoN",
+        "shrmikoN",
+        "pryveksskoN",
+        "shrmikoN and pryveksskoN"
+    ],
+    answer: "shrmikoN and pryveksskoN"
+},
+
+{
+    question: "consumer protection adhiniym of under shikaaytkrtaa from aashy is :",
+    option: [
+        "consumer",
+        "state srkaar",
+        "keNdriiy srkaar",
+        "all of these"
+    ],
+    answer: "all of these"
+},
+
+{
+    question: "globalization of arth is…….",
+    option: [
+        "world of various arthvyvsthaaoN of ekiikrnn",
+        "saarvjnik area in investment",
+        "nijii area in nivesh",
+        "all of the above"
+    ],
+    answer: "world of various arthvyvsthaaoN of ekiikrnn"
+},
+
+{
+    question: "which desh by Security Council in veto power of srvaadhik baar use done?",
+    option: [
+        "U.es.e.",
+        "France",
+        "ruus",
+        "China"
+    ],
+    answer: "ruus"
+},
+
+{
+    question: "low in who/which sales promotion upkrnn not is?",
+    option: [
+        "nmuune",
+        "paik of andr inaam",
+        "kuupn",
+        "vaarnnttii"
+    ],
+    answer: "vaarnnttii"
+},
+
+{
+    question: "liberalization of arth is…………",
+    option: [
+        "world of various arthvyvsthaaoN of ekiikrnn",
+        "laaiseNs of needs and aniyNtrnnoN to aasaan do",
+        "saarvjnik area in vinivesh",
+        "none of these"
+    ],
+    answer: "laaiseNs of needs and aniyNtrnnoN to aasaan do"
+},
+
+{
+    question: "world in most phle stock vipnni of establishment occurred was",
+    option: [
+        "Delhi",
+        "London",
+        "America",
+        "Japan"
+    ],
+    answer: "America"
+},
+
+{
+    question: "top-level working capital of saamaanytH result is is:",
+    option: [
+        "highest current anupaat, highest risk and uuNcaa profit",
+        "lowest current anupaat, highest risk and profit",
+        "highest equity, lowest risk and lowest profit",
+        "lowest equity, lowest risk and highest profit"
+    ],
+    answer: "highest current anupaat, highest risk and uuNcaa profit"
+},
+
+{
+    question: "customer market of .................. is hai / ",
+    option: [
+        "king",
+        "naukr",
+        "hmdrd",
+        "seller"
+    ],
+    answer: "king"
+},
 ];
 
 // --- Helper: Shuffle questions ---
