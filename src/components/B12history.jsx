@@ -7983,10 +7983,7980 @@ const historyHindi = [
 
 // English Questions
 const historyEnglish = [
-  // Bricks, Beads and Bones (Harappan Civilisation)
-  { question: "When did Harappan Civilisation develop?", option: ["2600 BCE to 1900 BCE", "None", "Both", "None"], answer: "2600 BCE to 1900 BCE" },
-  { question: "When was Harappan Civilisation discovered?", option: ["1921", "1947", "1857", "1900"], answer: "1921" },
-  
+{
+    question: "Lakshmibai was the queen of which place?",
+    option: [
+        "Awadh",
+        "Lucknow",
+        "Jhansi",
+        "Meerut"
+    ],
+    answer: "Jhansi"
+},
+
+{
+    question: "Which of the following Vedas contains 10 mandalas, 1,028 hymns and 10,580 verses?",
+    option: [
+        "Rigveda",
+        "Yajurveda",
+        "Samaveda",
+        "Atharvaveda"
+    ],
+    answer: "Rigveda"
+},
+
+{
+    question: "Where did Subhas Chandra Bose form the Indian National Army?",
+    option: [
+        "Malaya",
+        "Burma",
+        "Thailand",
+        "Singapore"
+    ],
+    answer: "Singapore"
+},
+
+{
+    question: "Where is the famous Virupaksha Temple located?",
+    option: [
+        "Hampi",
+        "Belur",
+        "Chidambaram",
+        "Srirangam"
+    ],
+    answer: "Hampi"
+},
+
+{
+    question: "Which Mauryan ruler had the Sudarshan Lake constructed?",
+    option: [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "None of these"
+    ],
+    answer: "Chandragupta Maurya"
+},
+
+{
+    question: "Where was the Permanent Settlement implemented in India?",
+    option: [
+        "Bengal",
+        "Punjab",
+        "South India",
+        "All of these"
+    ],
+    answer: "Bengal"
+},
+
+{
+    question: "Hampi is associated with which empire?",
+    option: [
+        "Maurya",
+        "Gupta",
+        "Bahmani",
+        "Vijayanagara"
+    ],
+    answer: "Vijayanagara"
+},
+
+{
+    question: "Which three Indian languages' texts, translated into Arabic, was Al-Biruni familiar with?",
+    option: [
+        "Sanskrit, Pali and Prakrit",
+        "Hindi, Sanskrit and Tamil",
+        "Hindi, Urdu and Sanskrit",
+        "Sanskrit, Telugu, Malayalam"
+    ],
+    answer: "Sanskrit, Pali and Prakrit"
+},
+
+{
+    question: "Where did jotedars generally live?",
+    option: [
+        "in the village",
+        "in cities",
+        "in metropolitan cities",
+        "in towns"
+    ],
+    answer: "in the village"
+},
+
+{
+    question: "When Ibn Battuta reached Delhi, who was sitting on the throne of Delhi?",
+    option: [
+        "Ghiyasuddin Tughlaq",
+        "Muhammad bin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Alauddin Khilji"
+    ],
+    answer: "Muhammad bin Tughlaq"
+},
+
+{
+    question: "In which year was the Hindu Mahasabha established?",
+    option: [
+        "1907 AD",
+        "1915 AD",
+        "1939 AD",
+        "1929 AD"
+    ],
+    answer: "1915 AD"
+},
+
+{
+    question: "What is the total number of verses in the Mahabharata?",
+    option: [
+        "100000",
+        "100217",
+        "100500",
+        "90000"
+    ],
+    answer: "100217"
+},
+
+{
+    question: "In which century did Al-Biruni come to India?",
+    option: [
+        "eleventh",
+        "tenth",
+        "fourteenth",
+        "seventeenth"
+    ],
+    answer: "eleventh"
+},
+
+{
+    question: "After victory in which war did the East India Company obtain the Diwani rights of Bengal, Bihar and Orissa?",
+    option: [
+        "Plassey",
+        "Buxar",
+        "Panipat",
+        "Haldighati"
+    ],
+    answer: "Buxar"
+},
+
+{
+    question: "Which of the following is not included under archaeology?",
+    option: [
+        "literature",
+        "sikof",
+        "inscription",
+        "ruins"
+    ],
+    answer: "literature"
+},
+
+{
+    question: "The Second Round Table Conference was held in London",
+    option: [
+        "1934 AD",
+        "1931 AD",
+        "1935 AD",
+        "1921 AD"
+    ],
+    answer: "1931 AD"
+},
+
+{
+    question: "fifteenth century in Vijayanagara city about most important one of description is obtained:",
+    option: [
+        "diplomat Abdur Razzaq Samarqandi from",
+        "Muhammad Ibn Ahmad abuu rehaan Al-Biruni from",
+        "ittlii from came maartoPolo from",
+        "morkto from came Ibn Battuta from"
+    ],
+    answer: "diplomat Abdur Razzaq Samarqandi from"
+},
+
+{
+    question: "Mahanavami of platform to which foreign traveler ‘victory of building’ of term gave ?",
+    option: [
+        "Domingos Paes",
+        "Fernao Nuniz",
+        "Abdur Razzaq",
+        "nitolii tonnttii"
+    ],
+    answer: "Domingos Paes"
+},
+
+{
+    question: "Harappa civilization of possibly sbfrom famous klaakRti dance of currency in nude woman of one ofNsymuurti was obtained",
+    option: [
+        "Mohenjo-daro from",
+        "Harappa from",
+        "Dholavira from",
+        "surtotdd'aa from"
+    ],
+    answer: "Mohenjo-daro from"
+},
+
+{
+    question: "Ajivika sect of founder who was?",
+    option: [
+        "Ananda",
+        "Makkhali Gosala",
+        "Rahulabhadra",
+        "Mahakashyap"
+    ],
+    answer: "Makkhali Gosala"
+},
+
+{
+    question: "Vijayanagara of dhvNsh after hsof identity of went",
+    option: [
+        "Hampi name from",
+        "vaarigl name from",
+        "taaliitott name from",
+        "vnihttttii name from"
+    ],
+    answer: "Hampi name from"
+},
+
+{
+    question: "Champaran Satyagraha is related to from which state is ?",
+    option: [
+        "Bihar",
+        "north province",
+        "Madhya Pradesh",
+        "Maharashtra"
+    ],
+    answer: "Bihar"
+},
+
+{
+    question: "Buddha of Eightfold route in which principle was not?",
+    option: [
+        "right view",
+        "right rest",
+        "right speech",
+        "right conduct"
+    ],
+    answer: "right conduct"
+},
+
+{
+    question: "“victory Hind” of slogan who gave?",
+    option: [
+        "Bhagat Singh",
+        "Chandrashekhar",
+        "Jawaharlal didhruu",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Subhas Chandra Bose"
+},
+
+{
+    question: "Buddhist religion in Theravada of founder who was?",
+    option: [
+        "Upali",
+        "Mahakashyap",
+        "Ananda",
+        "vaatsyaayn"
+    ],
+    answer: "Mahakashyap"
+},
+
+{
+    question: "League did direct ofryvaahii day mnaadid of ailaan did was",
+    option: [
+        "16 August, 1946",
+        "16 August, 1948",
+        "11 August, 1945",
+        "None of these"
+    ],
+    answer: "16 August, 1946"
+},
+
+{
+    question: "nlaayiraadivy treatise of is described-",
+    option: [
+        "Sangam literature as",
+        "Tamil Veda as",
+        "Sanskrit Veda as",
+        "Malayalam literary work as"
+    ],
+    answer: "Tamil Veda as"
+},
+
+{
+    question: "‘ foreigner ‘ which language of word is ?",
+    option: [
+        "Persian",
+        "Arabic",
+        "Urdu",
+        "Sanskrit"
+    ],
+    answer: "Persian"
+},
+
+{
+    question: "Mohenjo-daro of literal mtlb is-",
+    option: [
+        "mRttoN of mound",
+        "great of mound",
+        "living of mound",
+        "None of these"
+    ],
+    answer: "mRttoN of mound"
+},
+
+{
+    question: "Survey of India was formed was",
+    option: [
+        "1878 AD",
+        "1778 AD",
+        "1978 AD",
+        "2007 AD"
+    ],
+    answer: "1878 AD"
+},
+
+{
+    question: "Ashoka of obtained inscriptions of number –",
+    option: [
+        "77",
+        "75",
+        "66",
+        "44"
+    ],
+    answer: "44"
+},
+
+{
+    question: "Vijayanagara of greatest ruler who was ?",
+    option: [
+        "brave nrsiNh",
+        "Krishnadeva Roy",
+        "Achyuta Roy",
+        "Sadashiva Roy"
+    ],
+    answer: "Krishnadeva Roy"
+},
+
+{
+    question: "year 1924 in, by whom British Sirofr from this demand was made that Indian Constitution of construction for Constitution Assembly formed jaae?",
+    option: [
+        "M. N. Roy",
+        "Mahatma Gandhi",
+        "Motilal didhru",
+        "Gopalakrishna Gokhale"
+    ],
+    answer: "Motilal didhru"
+},
+
+{
+    question: "Buddhist association in entered bedid of process is called :",
+    option: [
+        "ordination",
+        "Dhamma wheel turning",
+        "thread",
+        "lay follower"
+    ],
+    answer: "ordination"
+},
+
+{
+    question: "Sidhu-ofnhuu led which revolt?",
+    option: [
+        "Munda revolt",
+        "Santhal revolt",
+        "Sannyasi revolt",
+        "be revolt"
+    ],
+    answer: "Santhal revolt"
+},
+
+{
+    question: "Francois Bernier which country from India came was, thatwas the name of :",
+    option: [
+        "Portugal",
+        "France",
+        "England",
+        "Spain"
+    ],
+    answer: "France"
+},
+
+{
+    question: "kliiintt Attlee did this declaration when of that British rule June 1948 AD. until India chodd' degaa",
+    option: [
+        "20 January, 1947 AD.",
+        "20 February, 1947 AD.",
+        "20 March, 1947 AD.",
+        "20 April, 1947 AD."
+    ],
+    answer: "20 February, 1947 AD."
+},
+
+{
+    question: "on foot postal system per mile three avsthaanaa were which was called?",
+    option: [
+        "claim",
+        "Uluka",
+        "mandapa",
+        "chdd'ii"
+    ],
+    answer: "claim"
+},
+
+{
+    question: "Harappa civilization in shv generally in which direction by placing buried go were ?",
+    option: [
+        "east – west",
+        "north – east",
+        "north – south",
+        "south – west"
+    ],
+    answer: "north – south"
+},
+
+{
+    question: "Ulgulan revolt of didtaa who was?",
+    option: [
+        "Sidhu",
+        "Gomdhar Kunwar",
+        "cittr Singh",
+        "Birsa Munda"
+    ],
+    answer: "Birsa Munda"
+},
+
+{
+    question: "third Buddhist Assembly of organization where happened was?",
+    option: [
+        "Rajgir",
+        "Pataliputra",
+        "Vaishali",
+        "Kundalvana"
+    ],
+    answer: "Pataliputra"
+},
+
+{
+    question: "entire Indian Constitution in the making of Constitution Assembly to how much time did it take?",
+    option: [
+        "2 year 7 month 23 day",
+        "2 year 11 month 18 day",
+        "2 year 11 month 14 day",
+        "2 year 11 month 23 day"
+    ],
+    answer: "2 year 11 month 18 day"
+},
+
+{
+    question: "Rihla of compositionofr is the name of :",
+    option: [
+        "Ibn Battuta",
+        "Al-Biruni",
+        "maarto Polo",
+        "durte Barbosa"
+    ],
+    answer: "Ibn Battuta"
+},
+
+{
+    question: "Safavids and Mughals of between dispute reason for what was?",
+    option: [
+        "Kandahar",
+        "Agra",
+        "Afghanistan",
+        "None of these"
+    ],
+    answer: "Kandahar"
+},
+
+{
+    question: "Al-Biruni birth of Khwarizm in happened was :",
+    option: [
+        "873 AD",
+        "993 AD",
+        "1073 AD",
+        "999 AD"
+    ],
+    answer: "993 AD"
+},
+
+{
+    question: "Aurangzeb when ascended the throne?",
+    option: [
+        "1658 AD",
+        "1660 AD",
+        "1664 AD",
+        "1617 AD"
+    ],
+    answer: "1658 AD"
+},
+
+{
+    question: "Dharmasutras and Dharmashastras how many types of marriage to acceptance dete are ?",
+    option: [
+        "2",
+        "4",
+        "8",
+        "6"
+    ],
+    answer: "8"
+},
+
+{
+    question: "Bengal and Bihar in permanent settlement start taxdid of shrey whom gave goes is?",
+    option: [
+        "Lord ofrnvaalis",
+        "Lord Wellesley",
+        "Lord Ripon",
+        "Lord Curzon"
+    ],
+    answer: "Lord ofrnvaalis"
+},
+
+{
+    question: "‘gopuram’ is related to–",
+    option: [
+        "cow from",
+        "city from",
+        "trade from",
+        "temple from"
+    ],
+    answer: "temple from"
+},
+
+{
+    question: "Tuzuk A Babri author of who is?",
+    option: [
+        "Babur",
+        "Humayun",
+        "gulbdn Begum",
+        "Badauni"
+    ],
+    answer: "Babur"
+},
+
+{
+    question: "suttvibhNg, khNdhof, onivaar these three part are",
+    option: [
+        "Vinaya Pitaka of",
+        "Sutta Pitaka of",
+        "Abhidhamma Pitaka of",
+        "None of the above"
+    ],
+    answer: "Vinaya Pitaka of"
+},
+
+{
+    question: "eighth from eighteenth century until Vedic pantheon of the three deities who became completely secondary, they were-",
+    option: [
+        "Varuna, Vayu and Indra",
+        "Agni, Indra and Soma",
+        "Usha, Surya and Aditi",
+        "None of these"
+    ],
+    answer: "Agni, Indra and Soma"
+},
+
+{
+    question: "Jain aagm were written",
+    option: [
+        "avdhii in",
+        "Pali in",
+        "Prakrit in",
+        "Magadhi in"
+    ],
+    answer: "Prakrit in"
+},
+
+{
+    question: "kaurvoN of capital as are mentioned-",
+    option: [
+        "Hastinapur",
+        "Indraprastha",
+        "ishukr",
+        "all"
+    ],
+    answer: "all"
+},
+
+{
+    question: "gotra term of emergence when did it happen?",
+    option: [
+        "Rigvedic ofl",
+        "Buddhistofl",
+        "Later Vedic ofl",
+        "Mauryaofl"
+    ],
+    answer: "Later Vedic ofl"
+},
+
+{
+    question: "Constitution Assembly first session of when did it happen?",
+    option: [
+        "16 August, 1947 to",
+        "26 January, 1948 to",
+        "09 December, 1946 to",
+        "26 November, 1946 to"
+    ],
+    answer: "09 December, 1946 to"
+},
+
+{
+    question: "Mauryaofliin Kalinga state situated was",
+    option: [
+        "present northern Odisha in",
+        "present eastern Odisha in",
+        "present western Odisha in",
+        "present southern Odisha in"
+    ],
+    answer: "present southern Odisha in"
+},
+
+{
+    question: "Permanent in India form from 10 vrssiiy census of beginning 1881 in which Governor General during the period of happened?",
+    option: [
+        "Clive",
+        "Warren Hastings",
+        "Ripon",
+        "Mayo"
+    ],
+    answer: "Ripon"
+},
+
+{
+    question: "Later Vedic ofl in Aryans of activities of ofndr where was?",
+    option: [
+        "Punjab and Delhi",
+        "uttraapth",
+        "Indus and thatof principal tributary rivers of land Yamuna from Bengal of western boundary until",
+        "Ganga of uuonii valley of region"
+    ],
+    answer: "Indus and thatof principal tributary rivers of land Yamuna from Bengal of western boundary until"
+},
+
+{
+    question: "British Sirofr of policies from distressed having become fast of declaration",
+    option: [
+        "Jawaharlal didhruu",
+        "Mahatma Gandhi",
+        "vinobaa bhaave",
+        "jyotibaa phule"
+    ],
+    answer: "Mahatma Gandhi"
+},
+
+{
+    question: "Harappa where situated is ?",
+    option: [
+        "paawhichtaan in",
+        "in India",
+        "didpaal in",
+        "bhuuttaan in"
+    ],
+    answer: "paawhichtaan in"
+},
+
+{
+    question: "Al-Biruni which language of jaanofr was not ?",
+    option: [
+        "Syriac",
+        "Persian",
+        "Hebrew and Sanskrit",
+        "Greek"
+    ],
+    answer: "Greek"
+},
+
+{
+    question: "in India which year of uonaant dshofy (each 10 years in) census start happened he/that was",
+    option: [
+        "1681 AD",
+        "1781 AD",
+        "1881 AD",
+        "1951 AD"
+    ],
+    answer: "1881 AD"
+},
+
+{
+    question: "Rudradaman was-",
+    option: [
+        "Hindu-Greek",
+        "Shaka",
+        "Parthian",
+        "Satavahana"
+    ],
+    answer: "Shaka"
+},
+
+{
+    question: "Harsha did ‘Maharajadhiraja’ of title when dhaarnn of?",
+    option: [
+        "630 AD.",
+        "635 AD.",
+        "641 AD.",
+        "640 AD."
+    ],
+    answer: "641 AD."
+},
+
+{
+    question: "“you me khuun two, maiN you freedom duuNgaa” /  whose statement was it",
+    option: [
+        "Bhagat Singh",
+        "Rash Behari Bose",
+        "Mohan Singh",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Subhas Chandra Bose"
+},
+
+{
+    question: "Xuanzang of travel account of what name is ?",
+    option: [
+        "Huan P",
+        "P. C. Yu.",
+        "Xi. Yu. of.",
+        "None of these"
+    ],
+    answer: "Xi. Yu. of."
+},
+
+{
+    question: "early Vedic economy what type was?",
+    option: [
+        "pastoral",
+        "agriculture on aadhaarit",
+        "commercial",
+        "None of these"
+    ],
+    answer: "pastoral"
+},
+
+{
+    question: "Santhal revolt when did it happen?",
+    option: [
+        "1855 AD",
+        "1851 AD",
+        "1841 AD",
+        "1832 AD"
+    ],
+    answer: "1855 AD"
+},
+
+{
+    question: "ciinii traveler ‘Faxian’ likhtaa is-‘when they city or market come were then unheN lkdd'ii by knocking-knocking do happened aanaa pdd'taa was whichfrom people ifrom dekhdid of fault from avoid jaaeN this statement was said for whom ?",
+    option: [
+        "Chandala",
+        "Shudra",
+        "Ambashtha",
+        "Ugra"
+    ],
+    answer: "Chandala"
+},
+
+{
+    question: "Xuanzang for how long in India was",
+    option: [
+        "14 year",
+        "8 year",
+        "16 year",
+        "12 year"
+    ],
+    answer: "14 year"
+},
+
+{
+    question: "cotton supply association establishment of where of went?",
+    option: [
+        "Britain in",
+        "ameriof in",
+        "in India",
+        "thesein anywhere not"
+    ],
+    answer: "Britain in"
+},
+
+{
+    question: "Tripitaka literally means?",
+    option: [
+        "four baskets",
+        "three baskets",
+        "three ptte",
+        "three phl"
+    ],
+    answer: "three baskets"
+},
+
+{
+    question: "coNl buildings this city of major feature is",
+    option: [
+        "Delhi",
+        "Bombay",
+        "Madras",
+        "Calcutta"
+    ],
+    answer: "Bombay"
+},
+
+{
+    question: "Pitaka three are Which of the following Pitaka in spiritual and philosophical principles of collection is?",
+    option: [
+        "Sutta Pitaka",
+        "Vinaya Pitaka",
+        "Abhidhamma Pitaka",
+        "None of these"
+    ],
+    answer: "Abhidhamma Pitaka"
+},
+
+{
+    question: "Sultan Mahmud capital of was the name of:",
+    option: [
+        "Khwarizm",
+        "Ghazni",
+        "kndhaar",
+        "ofbul"
+    ],
+    answer: "Ghazni"
+},
+
+{
+    question: "Magadha empire capital of was",
+    option: [
+        "cmpaa",
+        "Kaushambi",
+        "Pataliputra",
+        "Ujjain"
+    ],
+    answer: "Pataliputra"
+},
+
+{
+    question: "greatof India composition in which language happened ?",
+    option: [
+        "Pali",
+        "Hindi",
+        "Prakrit",
+        "Sanskrit"
+    ],
+    answer: "Sanskrit"
+},
+
+{
+    question: "Muhammad Ghori did following among appointed whom as his representative ?",
+    option: [
+        "Qutbuddin Aibak",
+        "Iltutmish",
+        "Razia",
+        "None of these"
+    ],
+    answer: "Qutbuddin Aibak"
+},
+
+{
+    question: "sixth century AD. BC in aisaa which Mahajanapada was, where first monarchy was, but after in gnntNtr established be went was-",
+    option: [
+        "Punjab",
+        "Chedi",
+        "Vajji",
+        "Vatsa"
+    ],
+    answer: "Chedi"
+},
+
+{
+    question: "siivel did his book ‘A phaargottn Empire’ in which foreign travelers of travel accountoN has used ?",
+    option: [
+        "Domingos Paes and Fernao Nuniz",
+        "nitolii tonnttii and acdurrjjaak",
+        "Afanasy Nikitin and Lividev",
+        "Abdur Razzaq and edduarddii Barbosa"
+    ],
+    answer: "Domingos Paes and Fernao Nuniz"
+},
+
+{
+    question: "Khwaja Muinuddin of shrine on aadidone first Sultan who was?",
+    option: [
+        "giyaasuddiin Khilji",
+        "Muhammad bin Tughlaq",
+        "Alauddin Khilji",
+        "None of these"
+    ],
+    answer: "Muhammad bin Tughlaq"
+},
+
+{
+    question: "Harihara and bkof did Vijayanagara empire establishment of of was",
+    option: [
+        "1336 AD",
+        "1236 AD",
+        "1136 AD",
+        "1436 AD"
+    ],
+    answer: "1336 AD"
+},
+
+{
+    question: "Dandi in which state situated is ?",
+    option: [
+        "Bihar in",
+        "north province in",
+        "Gujarat in",
+        "Maharashtra in"
+    ],
+    answer: "Gujarat in"
+},
+
+{
+    question: "awhenr Ajmer of shrine (Khwaja Muinuddin) on how many times came?",
+    option: [
+        "10 times",
+        "12 times",
+        "14 times",
+        "15 times"
+    ],
+    answer: "14 times"
+},
+
+{
+    question: "Which of the following one movement Dandi March from began ?",
+    option: [
+        "svdeshii movement",
+        "civil disobedience movement",
+        "non-cooperation movement",
+        "India Quit movement"
+    ],
+    answer: "civil disobedience movement"
+},
+
+{
+    question: "Rihla according to subcontinent of largest city was ?",
+    option: [
+        "Surat",
+        "Delhi",
+        "Daulatabad",
+        "Agra"
+    ],
+    answer: "Delhi"
+},
+
+{
+    question: "1857 of revolt before Delhi of totvaal happened",
+    option: [
+        "Gangadhar didhruu",
+        "Motilal didhruu",
+        "arunn didhruu",
+        "Jawaharlal didhruu"
+    ],
+    answer: "Gangadhar didhruu"
+},
+
+{
+    question: "Rigveda how many in total in hymns are ?",
+    option: [
+        "1028 hymns",
+        "1050 hymns",
+        "1000 hymns",
+        "870 hymns"
+    ],
+    answer: "1028 hymns"
+},
+
+{
+    question: "Sher Shah of mwhenraa is located where?",
+    option: [
+        "Delhi",
+        "Agra",
+        "bdraaN",
+        "Sasaram"
+    ],
+    answer: "Sasaram"
+},
+
+{
+    question: "Banawali in which state situated is ?",
+    option: [
+        "Gujarat",
+        "Haryana",
+        "Rajasthan",
+        "Punjab"
+    ],
+    answer: "Haryana"
+},
+
+{
+    question: "following scholars among which first India came?",
+    option: [
+        "Xuanzang (Hinen-Tsang)",
+        "Ibn Battuta (Ibn-Batutah)",
+        "maartoPolo (Marcro-Polo)",
+        "Faxian (Fe-Hien)"
+    ],
+    answer: "Faxian (Fe-Hien)"
+},
+
+{
+    question: "Damin-i-toh what was?",
+    option: [
+        "land",
+        "sword",
+        "title",
+        "horse"
+    ],
+    answer: "land"
+},
+
+{
+    question: "varna system how many in total in varna were ?",
+    option: [
+        "three",
+        "four",
+        "five",
+        "six"
+    ],
+    answer: "four"
+},
+
+{
+    question: "salt ofnuun who todd'aa ?",
+    option: [
+        "Motilal didhruu",
+        "Mahatma Gandhi",
+        "Madan Mohan Malaviya",
+        "Chandrashekhar Azad"
+    ],
+    answer: "Mahatma Gandhi"
+},
+
+{
+    question: "thirteenth century in one new element as who/which Islam dhrmaavlmbii large number in came, they were-",
+    option: [
+        "Mughal",
+        "Turk",
+        "Sufi",
+        "Afghan"
+    ],
+    answer: "Turk"
+},
+
+{
+    question: "Ibn Battuta where was a resident of ?",
+    option: [
+        "aphriiof",
+        "Asia",
+        "Europe",
+        "ameriof"
+    ],
+    answer: "aphriiof"
+},
+
+{
+    question: "Constitution Assembly of permanent chairman as whom chosen went?",
+    option: [
+        "Dr.. B. R. Ambedkar",
+        "Sachchidananda Sinha",
+        "Dr.. Rajendra Prasad",
+        "S. Radhakrishnan"
+    ],
+    answer: "Dr.. Rajendra Prasad"
+},
+
+{
+    question: "ancient of India greatofvy is the name of-",
+    option: [
+        "Rigveda",
+        "Manusmriti",
+        "Mahabharata",
+        "None of the above"
+    ],
+    answer: "Mahabharata"
+},
+
+{
+    question: "daasoN about detailed description which traveler gave is ?",
+    option: [
+        "Al-Biruni",
+        "Bernier",
+        "Ibn Battuta",
+        "None of these."
+    ],
+    answer: "Ibn Battuta"
+},
+
+{
+    question: "Shankaracharya of vote is-",
+    option: [
+        "dualism",
+        "non-dualism",
+        "difference-and-non-difference",
+        "dual-non-dualism"
+    ],
+    answer: "non-dualism"
+},
+
+{
+    question: "Which of the following guild was called ?",
+    option: [
+        "landlords of association to",
+        "whichaanoN of association to",
+        "traders of association to",
+        "adhiofriyoN of association to"
+    ],
+    answer: "traders of association to"
+},
+
+{
+    question: "South India of Nayanar saints did his worshipped deity god whom considered?",
+    option: [
+        "Rama to",
+        "Vishnu to",
+        "Shiva to",
+        "Krishna to"
+    ],
+    answer: "Shiva to"
+},
+
+{
+    question: "following among who ‘Constitution drafting Committee’ was not a member of?",
+    option: [
+        "Muhammad saadullaah",
+        "Jawahar Lal didhru",
+        "of.M. Munshi",
+        "A.of. Ayyar"
+    ],
+    answer: "Jawahar Lal didhru"
+},
+
+{
+    question: "Brahmi script which profr written goes was?",
+    option: [
+        "right from left",
+        "left from right",
+        "both trph from written goes was",
+        "None of these"
+    ],
+    answer: "left from right"
+},
+
+{
+    question: "James priNfromp of main uplbdhi was ?",
+    option: [
+        "Sanskrit meaning of nioflnaa",
+        "Brahmi and Kharosthi meaning of",
+        "Devanagari script meaning of",
+        "All of these"
+    ],
+    answer: "Brahmi and Kharosthi meaning of"
+},
+
+{
+    question: "greatof India critical edition relation withit one extremely mhttvaaofNkssii oniyojnaa of which year beginning happened was he/that was-",
+    option: [
+        "1919 AD",
+        "1915 AD",
+        "1717 AD",
+        "1616 AD"
+    ],
+    answer: "1919 AD"
+},
+
+{
+    question: "Who among the following Constitution Assembly to the members of directly elected did?",
+    option: [
+        "provinces of Legislative Assembly",
+        "federal vyvsthaapiof",
+        "urpyukt both",
+        "None of these"
+    ],
+    answer: "provinces of Legislative Assembly"
+},
+
+{
+    question: "which foreign traveler apdid travel account ‘three smudroN paar of journey’ likhkr India–Russia maitrii of basis taiyaar did",
+    option: [
+        "nitolo tonnttii",
+        "Afanasy Nikitin",
+        "G.S. Lividev",
+        "Domingos Paes"
+    ],
+    answer: "Afanasy Nikitin"
+},
+
+{
+    question: "Meerut cantonment in soldiers did when revolt tax had given ?",
+    option: [
+        "10 May, 1857",
+        "14 May, 1857",
+        "24 May, 1857",
+        "31 May, 1857"
+    ],
+    answer: "10 May, 1857"
+},
+
+{
+    question: "of which city or thatof forts description of generally by most travelers did went is ?",
+    option: [
+        "Lahore",
+        "Chunar",
+        "ofliNjr",
+        "Gwalior"
+    ],
+    answer: "Gwalior"
+},
+
+{
+    question: "Harappa civilization in obtained avtl ckof on which archaeologist did profsh ddaalaa is ?",
+    option: [
+        "Cunningham",
+        "ardidstt maiof",
+        "John Marshall",
+        "suurj bhaan"
+    ],
+    answer: "ardidstt maiof"
+},
+
+{
+    question: "kaibididtt Mission 1946 AD India came, who thisof member were not ?",
+    option: [
+        "Cripps",
+        "Avery",
+        "Pethick Lawrence",
+        "Alexander"
+    ],
+    answer: "Avery"
+},
+
+{
+    question: "Tenali Rama is related to which dynasty from is ?",
+    option: [
+        "Vijayanagara",
+        "Bijapur",
+        "Mughal",
+        "Bahmani"
+    ],
+    answer: "Vijayanagara"
+},
+
+{
+    question: "1857 of revolution of major ofrnn what was ?",
+    option: [
+        "stii practice of smaapti",
+        "lapse of principle",
+        "grease ones ofrtuus",
+        "isaaii religion of propagation"
+    ],
+    answer: "grease ones ofrtuus"
+},
+
+{
+    question: "Indus valley civilization of judd'vaaN capital was",
+    option: [
+        "Mohenjo-daro – cnduuddd'o",
+        "Harappa – Lothal",
+        "Harappa – Mohenjo-daro",
+        "loyl ofliibNgaa"
+    ],
+    answer: "Harappa – Mohenjo-daro"
+},
+
+{
+    question: "northern western India from obtained Ashoka of inscriptions in script of use did went is",
+    option: [
+        "Kharosthi script",
+        "Aramaic script",
+        "Brahmi script",
+        "None of the above"
+    ],
+    answer: "Kharosthi script"
+},
+
+{
+    question: "frontier Gandhi was called ?",
+    option: [
+        "Khan Abdul Ghaffar Khan",
+        "Sikandar hyaat Khan",
+        "Muhammad Ali Jinnah",
+        "Maulana Azad"
+    ],
+    answer: "Khan Abdul Ghaffar Khan"
+},
+
+{
+    question: "Vardhamana to Mahavira or which is called",
+    option: [
+        "east knowledge attainment reason for",
+        "alaukik shaariirik bl because of",
+        "happiness-sorrow on victory paadid because of",
+        "bauddhik kssmtaa because of"
+    ],
+    answer: "happiness-sorrow on victory paadid because of"
+},
+
+{
+    question: "shrenn is called?",
+    option: [
+        "traders to",
+        "dstofroN to",
+        "landlords to",
+        "whichaanoN to"
+    ],
+    answer: "whichaanoN to"
+},
+
+{
+    question: "Which of the following Mahajanapada Deccan in situated was?",
+    option: [
+        "Kosala",
+        "Avanti",
+        "Assaka",
+        "Matsya"
+    ],
+    answer: "Assaka"
+},
+
+{
+    question: "Indus civilization to which guild is classified under ?",
+    option: [
+        "historical ofl",
+        "proto historical ofl",
+        "east historical ofl",
+        "None of these"
+    ],
+    answer: "proto historical ofl"
+},
+
+{
+    question: "Lord Buddha to at which place knowledge (enlightenment) was obtained?",
+    option: [
+        "Vaishali",
+        "Bodh Gaya",
+        "Sarnath",
+        "Kapilavastu"
+    ],
+    answer: "Bodh Gaya"
+},
+
+{
+    question: "Megasthenes of description from which ruler dynasty of jaanofrii is obtained ?",
+    option: [
+        "hryk",
+        "Nanda dynasty",
+        "Shunga dynasty",
+        "Maurya dynasty"
+    ],
+    answer: "Maurya dynasty"
+},
+
+{
+    question: "Odisha of Gajapati state establishment of happened was",
+    option: [
+        "1535 AD",
+        "1435 AD",
+        "1635 AD",
+        "1235 AD"
+    ],
+    answer: "1435 AD"
+},
+
+{
+    question: "tobacco of plant which century of shuruaatii years in North India brought went?",
+    option: [
+        "fifteenth century",
+        "seventeenth century",
+        "nineteenth century",
+        "twentieth century"
+    ],
+    answer: "seventeenth century"
+},
+
+{
+    question: "Lothal which river of bank situated is ?",
+    option: [
+        "Indus",
+        "Beas",
+        "Bhogava",
+        "Ravi"
+    ],
+    answer: "Bhogava"
+},
+
+{
+    question: "uttraadhiofr of war eventually which ruler won?",
+    option: [
+        "Dara",
+        "Shuja",
+        "muraad",
+        "Aurangzeb"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "greatof India sbfrom instructive and rock part which is",
+    option: [
+        "Upanishad",
+        "Bhagavad Gita",
+        "aarnnyk",
+        "Brahmin"
+    ],
+    answer: "Bhagavad Gita"
+},
+
+{
+    question: "3 February 1858 to Sagar in revolt of suppression who did ?",
+    option: [
+        "haivlaak",
+        "Hugh Rose",
+        "aauttuun",
+        "Taylor"
+    ],
+    answer: "Hugh Rose"
+},
+
+{
+    question: "twelfth century by the time Jagannath of worship which deity began to be worshipped as?",
+    option: [
+        "Shiva of",
+        "Rama of",
+        "Vishnu of",
+        "Ganesha of"
+    ],
+    answer: "Vishnu of"
+},
+
+{
+    question: "medieval travelers of srtaaj which traveler to said went is ?",
+    option: [
+        "Ibn Battuta",
+        "Al-Biruni",
+        "Al-Masudi",
+        "maartoPolo"
+    ],
+    answer: "maartoPolo"
+},
+
+{
+    question: "Khwaja Muinuddin Chishti Sahib of Ajmer situated shrine first which Sultan went?",
+    option: [
+        "Balban",
+        "Muhammad-bin-Tughlaq",
+        "Alauddin Khilji",
+        "awhenr"
+    ],
+    answer: "Muhammad-bin-Tughlaq"
+},
+
+{
+    question: "awhenr when ascended the throne then thatof age was",
+    option: [
+        "10 year",
+        "13 year",
+        "20 year",
+        "25 year"
+    ],
+    answer: "13 year"
+},
+
+{
+    question: "North India in devotion movement of beginning which saint did did?",
+    option: [
+        "wheniir",
+        "Nanak",
+        "Ramananda",
+        "Chaitanya Mahaprabhu"
+    ],
+    answer: "Ramananda"
+},
+
+{
+    question: "Constitution Assembly of view formally proposed who did?",
+    option: [
+        "M. N. Roy",
+        "Motilal didhru",
+        "Jawaharlal didhru",
+        "Mahatma Gandhi"
+    ],
+    answer: "M. N. Roy"
+},
+
+{
+    question: "first shsraabdii in who/which trader sea of route western India in came, they were-",
+    option: [
+        "Portuguese",
+        "Arabs",
+        "British",
+        "French"
+    ],
+    answer: "Arabs"
+},
+
+{
+    question: "Mahatma Gandhi to ‘Mahatma’ Who said",
+    option: [
+        "Rabindranath Tagore",
+        "Jawaharlal didhruu",
+        "Bal Gangadhar Tilak",
+        "None of these"
+    ],
+    answer: "Rabindranath Tagore"
+},
+
+{
+    question: "Shunga dynasty who founded",
+    option: [
+        "Pushyamitra",
+        "Vasumitra",
+        "Agnimitra",
+        "Devabhuti"
+    ],
+    answer: "Pushyamitra"
+},
+
+{
+    question: "Bengal in Asiatic Society who founded",
+    option: [
+        "ofrnvaalis did",
+        "Dalhousie did",
+        "William Jones did",
+        "Warren Hastings did"
+    ],
+    answer: "William Jones did"
+},
+
+{
+    question: "ofshii in which famous saint birth of happened?",
+    option: [
+        "Meera",
+        "wheniir",
+        "Guru Nanak",
+        "Vallabhacharya"
+    ],
+    answer: "wheniir"
+},
+
+{
+    question: "Mughal dynasty establishment of was done by whom?",
+    option: [
+        "Babur",
+        "awhenr",
+        "Humayun",
+        "None of these"
+    ],
+    answer: "Babur"
+},
+
+{
+    question: "Jesus of first century after Buddhist religion divided went was?",
+    option: [
+        "Alvars and Nayanar in",
+        "Hinayana and Vajrayana in",
+        "Mahayana and Vajrayana in",
+        "Hinayana and Mahayana"
+    ],
+    answer: "Hinayana and Mahayana"
+},
+
+{
+    question: "Muslim League establishment of In which year did it occur ?",
+    option: [
+        "1902 AD",
+        "1906 AD",
+        "1907 AD",
+        "1919 AD"
+    ],
+    answer: "1906 AD"
+},
+
+{
+    question: "Cholas of sbfrom chottii administrative iofAD who was ?",
+    option: [
+        "Ur",
+        "Mandalam",
+        "Valanadu",
+        "Kurram"
+    ],
+    answer: "Ur"
+},
+
+{
+    question: "Indian Constitution Assembly of ‘federal-power Committee’ who was the chairman of?",
+    option: [
+        "Sardar Patel",
+        "Dr.. B. R. Ambedkar",
+        "allaadii Krishnaswami Ayyar",
+        "Pt. Jawaharlal didhru"
+    ],
+    answer: "Pt. Jawaharlal didhru"
+},
+
+{
+    question: "Ashoka of inscriptions in which script of use did went is ?",
+    option: [
+        "Brahmi script",
+        "Devanagari script",
+        "Persian script",
+        "None of these"
+    ],
+    answer: "Brahmi script"
+},
+
+{
+    question: "Rajmahal of hills in mainly the people who were were they were-",
+    option: [
+        "Paharia and Santhal people",
+        "Paharia and Bhil people",
+        "Paharia and British people",
+        "None of these"
+    ],
+    answer: "Paharia and Santhal people"
+},
+
+{
+    question: "in which Buddhist text 16 Mahajanapadas (kssetriiy states) of first is mentioned?",
+    option: [
+        "bhgvtii suutr",
+        "diighniofy",
+        "mhaavNsh",
+        "aaNguttrniofy"
+    ],
+    answer: "aaNguttrniofy"
+},
+
+{
+    question: "which Mughal emperor did apdid old father to prison in ddaal gave?",
+    option: [
+        "Babur",
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "John Marshall did who/which book written was thatfor the publication of who provided the grant was?",
+    option: [
+        "Shah Jahan Begum did",
+        "Sultan where Begum did",
+        "mhaaraajaajii did",
+        "All of these"
+    ],
+    answer: "Sultan where Begum did"
+},
+
+{
+    question: "Awadh in 1857 in revolt of didtRtv who did ?",
+    option: [
+        "Mangal paaNddey did",
+        "Tatya Tope did",
+        "Begum Hazrat Mahal did",
+        "Lakshmibai did"
+    ],
+    answer: "Begum Hazrat Mahal did"
+},
+
+{
+    question: "Mughalofliin in cities camp city Who said was ?",
+    option: [
+        "Bernier did",
+        "motteskyuu did",
+        "Ibn Battuta",
+        "None of these"
+    ],
+    answer: "Bernier did"
+},
+
+{
+    question: "Constitution Assembly for election when completed happened?",
+    option: [
+        "1945 in",
+        "1946 in",
+        "1947 in",
+        "1948 in"
+    ],
+    answer: "1946 in"
+},
+
+{
+    question: "greatof India preface how many in verses one one east original text of mention did went is ?",
+    option: [
+        "1,00,000",
+        "50,000",
+        "24,000",
+        "5,000"
+    ],
+    answer: "24,000"
+},
+
+{
+    question: "following in which statement is correct ?",
+    option: [
+        "Muhammad Ghori apdid uttraadhiofr about toAD decision not le found was",
+        "Ghori apdid family of did not trust anyone",
+        "Ghori to toAD bettaa was not",
+        "All of the above"
+    ],
+    answer: "Ghori apdid family of did not trust anyone"
+},
+
+{
+    question: "“sher-A-Punjab” of name from whom to go goes is?",
+    option: [
+        "Bhagat Singh",
+        "Chandrashekhar Azad",
+        "Saifuddin Kitchlew",
+        "Lala Lajpat Rai"
+    ],
+    answer: "Lala Lajpat Rai"
+},
+
+{
+    question: "historyofroN of mtaanusaar greatofvyoN in who/which jaanofrii is obtained is adhiofNshtyaa related is-",
+    option: [
+        "Rigvedic ofl from",
+        "north Vedic ofl from",
+        "Maurya ofl from",
+        "None of these"
+    ],
+    answer: "north Vedic ofl from"
+},
+
+{
+    question: "Pushtimarg of jhaan was called?",
+    option: [
+        "wheniir",
+        "Vallabhacharya",
+        "Nanak",
+        "Ravidas"
+    ],
+    answer: "Vallabhacharya"
+},
+
+{
+    question: "Harappa civilization of city was",
+    option: [
+        "two tiered",
+        "three tiered",
+        "one tiered",
+        "All of these"
+    ],
+    answer: "two tiered"
+},
+
+{
+    question: "Ibn Battuta which country came from, thatwas the name of :",
+    option: [
+        "morkto",
+        "ujbewhichtaan",
+        "Herat",
+        "Portugal"
+    ],
+    answer: "morkto"
+},
+
+{
+    question: "1857 of revolt during of India emperor who was ?",
+    option: [
+        "Siraj-ud-daulah",
+        "sujaauddaulaa",
+        "Bahadur Shah II",
+        "All of these"
+    ],
+    answer: "Bahadur Shah II"
+},
+
+{
+    question: "Harappa civilization in found went seals generally on what type of is was ?",
+    option: [
+        "tribhujaaofr",
+        "golaaofr",
+        "cautor",
+        "All of these"
+    ],
+    answer: "cautor"
+},
+
+{
+    question: "following among who Constitution Assembly of sNvaidhaanik slaahofr were?",
+    option: [
+        "shrt Chandra Bose",
+        "of. M. Munshi",
+        "rfii Ahmad kidvii",
+        "theydidgl Nursing Rao"
+    ],
+    answer: "theydidgl Nursing Rao"
+},
+
+{
+    question: "Talwandi is the birthplace of?",
+    option: [
+        "wheniir",
+        "Nanak",
+        "Ravidas",
+        "Meera"
+    ],
+    answer: "Nanak"
+},
+
+{
+    question: "mhaaraajaa Mehtab Chand lived from-",
+    option: [
+        "1820-1879",
+        "1920-1939",
+        "1729-1799",
+        "None of these"
+    ],
+    answer: "1820-1879"
+},
+
+{
+    question: "Sikh religion of first Guru who were?",
+    option: [
+        "Tegh Bahadur",
+        "Guru Nanak",
+        "Guru Govind Singh",
+        "None of these"
+    ],
+    answer: "Guru Nanak"
+},
+
+{
+    question: "chotte permanent market to what say were ?",
+    option: [
+        "town",
+        "civil lines",
+        "ganj",
+        "haaitt ttaaun"
+    ],
+    answer: "ganj"
+},
+
+{
+    question: "Megasthenes of iNddiof which statement about is true?",
+    option: [
+        "iNddiof actual form from obtained not happened hai / ",
+        "ddaayoddors did iNddiof of some uddhrnnoN to presented did hai / ",
+        "iNddiof Mauryaofliin history jaandid of important source hai / ",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Mughalofliin of India history of jaanofrii is obtained is:",
+    option: [
+        "Mughal shaastoN of by written autobiography from",
+        "Mughal shaastoN of courtier historyofroN by written description from",
+        "baadshaahoN of various phrmaanoN of compilation from",
+        "All of the above from"
+    ],
+    answer: "All of the above from"
+},
+
+{
+    question: "blvn of daughter of marriage which Sufi saint of with happened was?",
+    option: [
+        "Nizamuddin Auliya",
+        "Fariduddin ganj-A-Shankar",
+        "Qutbuddin Bakhtiyar ofof",
+        "muiinuddiin Chishti"
+    ],
+    answer: "Fariduddin ganj-A-Shankar"
+},
+
+{
+    question: "bundelkhnndd of at which place Hugh Rose of suppression wheel during vidrohii didtaa Tatya Tope, queen Lakshmibai, Roy Sahib, Bakhtawali, suppression Singh and aliibhaadur second etc. ektrit happened ?",
+    option: [
+        "Jhansi",
+        "Satara",
+        "oflpii",
+        "llitpur"
+    ],
+    answer: "oflpii"
+},
+
+{
+    question: "first siktoN of cln beginning is prtiit is is",
+    option: [
+        "first century BC of approximately from",
+        "fifth century Jesus BC of approximately from",
+        "tenth century Jesus BC of approximately from",
+        "fifth century AD of approximately from"
+    ],
+    answer: "fifth century Jesus BC of approximately from"
+},
+
+{
+    question: "Mahatma Gandhi south aphriiof from India back came",
+    option: [
+        "1914 in",
+        "1909 in",
+        "1915 in",
+        "1890 in"
+    ],
+    answer: "1915 in"
+},
+
+{
+    question: "Qutbuddin Aibak on the throne when sat ?",
+    option: [
+        "1206 AD",
+        "1208 AD",
+        "1209 AD",
+        "1212 AD"
+    ],
+    answer: "1206 AD"
+},
+
+{
+    question: "civil disobedience movement when beginning happened?",
+    option: [
+        "1920",
+        "1923",
+        "1930",
+        "1933"
+    ],
+    answer: "1930"
+},
+
+{
+    question: "Harappa resident worship do were",
+    option: [
+        "maternal goddess of",
+        "vRkss aatmaaoN of",
+        "pauraannik of",
+        "All of these of"
+    ],
+    answer: "maternal goddess of"
+},
+
+{
+    question: "Karaikal ammaiyaar named woman whose devotee were?",
+    option: [
+        "Shiva",
+        "Vishnu",
+        "Rama",
+        "Krishna"
+    ],
+    answer: "Shiva"
+},
+
+{
+    question: "Mughal ofl in one collective graamiinn community of hissaa happened do were-",
+    option: [
+        "ptrofr, pttvaarii and panchayat",
+        "cultivator whichaan, panchayat and village of chief (or muqaddam)",
+        "vidhaaym, ddoNkttr and saahuuofr",
+        "whichaan, adhyaapk and Pandit"
+    ],
+    answer: "cultivator whichaan, panchayat and village of chief (or muqaddam)"
+},
+
+{
+    question: "Ganga and Son rivers of Sangam on 'Pataliputra' named city establishment of of went was",
+    option: [
+        "Bimbisara by",
+        "Ajatashatru by",
+        "udybhdr by",
+        "Mundaka by"
+    ],
+    answer: "Bimbisara by"
+},
+
+{
+    question: "Bhagavad Gita of English in translation who did ?",
+    option: [
+        "Charles Wilkins",
+        "viliyms Jones",
+        "jsttin",
+        "viveofNanda"
+    ],
+    answer: "Charles Wilkins"
+},
+
+{
+    question: "ofNgres and Muslim League in Lucknow agreement when did it happen ?",
+    option: [
+        "January, 1916 AD",
+        "December, 1916 AD",
+        "January, 1919 AD",
+        "September, 1919 AD"
+    ],
+    answer: "December, 1916 AD"
+},
+
+{
+    question: "Mahabharata world of sbfrom lmbaa greatofvy is, thishow many in total in onv are ?",
+    option: [
+        "17 onv",
+        "18 onv",
+        "19 onv",
+        "8 onv"
+    ],
+    answer: "18 onv"
+},
+
+{
+    question: "‘awhenrnaamaa’ of composition who did was?",
+    option: [
+        "Amir khusro",
+        "Al-Biruni",
+        "Ibn Battuta",
+        "Abul Fazl"
+    ],
+    answer: "Abul Fazl"
+},
+
+{
+    question: "tenth century until jitdid Alvars saints of rcnaaoN of compilation did went was, thoseof number was—",
+    option: [
+        "twelve",
+        "five",
+        "eighteen",
+        "chttiis"
+    ],
+    answer: "twelve"
+},
+
+{
+    question: "Bengal in dvaidh rule who founded",
+    option: [
+        "Clive did",
+        "Warren Hastings did",
+        "Lord Hastings did",
+        "Cornwallis did"
+    ],
+    answer: "Clive did"
+},
+
+{
+    question: "raakhaaldaas Banerjee to Mohenjo-daro of remains In which year were found ?",
+    option: [
+        "1920 AD",
+        "1921 AD",
+        "1922 AD",
+        "1923 AD"
+    ],
+    answer: "1922 AD"
+},
+
+{
+    question: "gaaNdhiijii whom his political Guru consider were ?",
+    option: [
+        "Bal Gangadhar Tilak to",
+        "Dadabhai Naoroji to",
+        "Gopalakrishna Gokhale to",
+        "Lala Lajpat Roy to"
+    ],
+    answer: "Gopalakrishna Gokhale to"
+},
+
+{
+    question: "yuunik who were ?",
+    option: [
+        "Greek mathematician",
+        "iiraanii traveler",
+        "French physician",
+        "None of these"
+    ],
+    answer: "Greek mathematician"
+},
+
+{
+    question: "istmraarii settlement implemented did jaadid after how many percent from more jmiiNdaariyaaN hstaaNtrit tax gave went were?",
+    option: [
+        "75 percent",
+        "95 percent",
+        "15 percent",
+        "45 percent"
+    ],
+    answer: "75 percent"
+},
+
+{
+    question: "wheniir disciple were-",
+    option: [
+        "raamaanuj of",
+        "Nanak of",
+        "Ramananda of",
+        "Shankaracharya of"
+    ],
+    answer: "Ramananda of"
+},
+
+{
+    question: "Charles Cornwallis of life-ofl was-",
+    option: [
+        "1838-1905",
+        "1738-1805",
+        "1638-1705",
+        "None of these"
+    ],
+    answer: "1738-1805"
+},
+
+{
+    question: "Mahatma Buddha to greatoninirvaann was obtained",
+    option: [
+        "Kapilavastu in",
+        "Pataliputra in",
+        "Kushinagar in",
+        "went in"
+    ],
+    answer: "Kushinagar in"
+},
+
+{
+    question: "Constitution Assembly by last form from passed Constitution how many in total in article and schedules was?",
+    option: [
+        "375 article and 7 schedules",
+        "387 article and schedules",
+        "395 article and 8 schedules",
+        "395 article and 10 schedules"
+    ],
+    answer: "395 article and 8 schedules"
+},
+
+{
+    question: "Harshavardhana of ruleofl in ruleofy income of main means bhuumikr was, who/which upj of-",
+    option: [
+        "fifth part was",
+        "fourth part was",
+        "sixth part was",
+        "None of these"
+    ],
+    answer: "sixth part was"
+},
+
+{
+    question: "English in Mughal courtier historyofroN by lekhn ofry of modern historyofroN did original text of style to name gave:",
+    option: [
+        "kroNnikls (chronicle)",
+        "caapluus historyofroN of description",
+        "emperors of aadeshaanusaar written account",
+        "None of the above"
+    ],
+    answer: "kroNnikls (chronicle)"
+},
+
+{
+    question: "Buddha crit of author were?",
+    option: [
+        "Gautama Buddha",
+        "Ashvaghosha",
+        "Mahavira",
+        "None of these"
+    ],
+    answer: "Ashvaghosha"
+},
+
+{
+    question: "Indian subcontinent of first civilization of viofs happened",
+    option: [
+        "godaavrii of plain in",
+        "Ganga of plain in",
+        "Indus of plain in",
+        "mhaandii of plain in"
+    ],
+    answer: "Indus of plain in"
+},
+
+{
+    question: "Bihar in Champaran Satyagraha when began ?",
+    option: [
+        "1925 AD",
+        "1917 AD",
+        "1912 AD",
+        "1905 AD"
+    ],
+    answer: "1917 AD"
+},
+
+{
+    question: "17th century in Which of the following European traveler Indian subcontinent came to ?",
+    option: [
+        "Al Biruni",
+        "Ibn Battuta",
+        "Abul Fazl",
+        "Francois Bernier"
+    ],
+    answer: "Francois Bernier"
+},
+
+{
+    question: "aatmaa of punrjnm main subject is",
+    option: [
+        "aitrey Upanishad of",
+        "kaussiitof Upanishad of",
+        "taittiriiy Upanishad of",
+        "ofnopnissd of"
+    ],
+    answer: "kaussiitof Upanishad of"
+},
+
+{
+    question: "siidhii ofrrvaaii of dhmof who gave ?",
+    option: [
+        "Hindu Mahasabha",
+        "Muslim League",
+        "self-rule dl",
+        "ofNgres"
+    ],
+    answer: "Muslim League"
+},
+
+{
+    question: "Al-Biruni where came from ?",
+    option: [
+        "morkto",
+        "France",
+        "Herat",
+        "ujbewhichtaan"
+    ],
+    answer: "ujbewhichtaan"
+},
+
+{
+    question: "year 1947 in, punrgtthn of phlsvruup Constitution Assembly of members of number how many rh went?",
+    option: [
+        "289",
+        "299",
+        "324",
+        "333"
+    ],
+    answer: "299"
+},
+
+{
+    question: "gNgaaputr is called",
+    option: [
+        "shdev",
+        "Arjuna",
+        "Bhishma",
+        "Pandu"
+    ],
+    answer: "Bhishma"
+},
+
+{
+    question: "Lucknow in Awadh of ciiph Commissioner of freedom fromnaaniyoN did htyaa tax gave was  /  that Commissioner was the name of–",
+    option: [
+        "yuuroj",
+        "vilsn",
+        "Henry Lawrence",
+        "haivloNk"
+    ],
+    answer: "Henry Lawrence"
+},
+
+{
+    question: "Buddha of updeshoN of compilation is",
+    option: [
+        "Buddha conduct in",
+        "Sutta Pitaka in",
+        "Abhidhamma Pitaka in",
+        "Vinaya Pitaka in"
+    ],
+    answer: "Sutta Pitaka in"
+},
+
+{
+    question: "second Buddhist music of chairmanship Which of the followingdid of ?",
+    option: [
+        "greatofshyp",
+        "srvofminii",
+        "moggliputt tiss",
+        "vsumti"
+    ],
+    answer: "srvofminii"
+},
+
+{
+    question: "emperor awhenr of coronation who from year in happened?",
+    option: [
+        "1555 AD",
+        "1556 AD",
+        "1557 AD",
+        "None of these"
+    ],
+    answer: "1556 AD"
+},
+
+{
+    question: "‘woman's property’ of uttraadhiofr right whom was -",
+    option: [
+        "only daughter",
+        "only father",
+        "only onivaar",
+        "son to"
+    ],
+    answer: "only daughter"
+},
+
+{
+    question: "Indian archaeology of father is called?",
+    option: [
+        "Lord Curzon",
+        "alekjenddr Cunningham",
+        "Dayaram Sahni",
+        "Lord Dalhousie"
+    ],
+    answer: "alekjenddr Cunningham"
+},
+
+{
+    question: "saaimn kmiishn India came was ?",
+    option: [
+        "1925 in",
+        "1928 in",
+        "1932 in",
+        "1935 in"
+    ],
+    answer: "1928 in"
+},
+
+{
+    question: "South India in Alvars saints did his worshipped deity god whom considered?",
+    option: [
+        "Vishnu to",
+        "Shiva to",
+        "Rama to",
+        "Ganesha to"
+    ],
+    answer: "Vishnu to"
+},
+
+{
+    question: "1920 in which great didtaa of death happened ?",
+    option: [
+        "Mahatma Gandhi",
+        "Firoz Shah",
+        "Bal Gangadhar Tilak",
+        "None of these"
+    ],
+    answer: "Bal Gangadhar Tilak"
+},
+
+{
+    question: "Jain religion to how many sect in baaNttaa went was?",
+    option: [
+        "three sect",
+        "two sect",
+        "four sect",
+        "five sect"
+    ],
+    answer: "two sect"
+},
+
+{
+    question: "Rajasthan and Maharashtra both province of India which part in come are, they are-",
+    option: [
+        "western",
+        "southern",
+        "eastern",
+        "northern"
+    ],
+    answer: "western"
+},
+
+{
+    question: "king mjhole kd of is  /  mottaa bedid of apekssaa ptlaa is  /  thatof cehre on ceck of daag is  /  he/that extremely nyaaypriy is  /  Krishnadeva Roy of relation in this statement whose is ?",
+    option: [
+        "nitolii tonnttii",
+        "Fernao Nuniz",
+        "Abdur Razzaq",
+        "Domingos Paes"
+    ],
+    answer: "Domingos Paes"
+},
+
+{
+    question: "ttoNlsttoNy aashrm who founded was ?",
+    option: [
+        "Mahatma Gandhi",
+        "Annie befromntt",
+        "Jawaharlal didhruu",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Mahatma Gandhi"
+},
+
+{
+    question: "‘woman's property’ of uttraadhiofr right whom was ?",
+    option: [
+        "only daughter",
+        "only father",
+        "only onivaar",
+        "son to"
+    ],
+    answer: "only daughter"
+},
+
+{
+    question: "svej nhr trade for kholii went",
+    option: [
+        "1870 AD",
+        "1869 AD",
+        "1978 AD",
+        "1860 AD"
+    ],
+    answer: "1869 AD"
+},
+
+{
+    question: "Harappa civilization of administration was",
+    option: [
+        "raajtNtraatmk",
+        "loktNtraatmk",
+        "ngrpaaliof jaisaa",
+        "gnntNtraatmk"
+    ],
+    answer: "ngrpaaliof jaisaa"
+},
+
+{
+    question: "1857 of revolution from east aphvaah spread was was , who – C aphvaah is correct ?",
+    option: [
+        "ofrtuusoN in cow and suar of grease bhrii happened is  / ",
+        "ghii , aattaa v shkkr in cow v suar of hddddiyoN of cuuraa was found is  / ",
+        "villages in cpaatiyaaN and cantonment in kml of phuul bheje jaa were are",
+        "said/mentioned all aphvaaheN spread was was"
+    ],
+    answer: "said/mentioned all aphvaaheN spread was was"
+},
+
+{
+    question: "adidK foreign travelers did of India which two ciijoN to asaamaany considered-",
+    option: [
+        "duudh and aNdde",
+        "naariyl and paan",
+        "ppiitaa and ttmaattr",
+        "khrbuujaa and trbuujaa"
+    ],
+    answer: "naariyl and paan"
+},
+
+{
+    question: "Megasthenes according to Pataliputra of treatise three members of one Commission does was, this Commission of six mandala were, each mandala in member were",
+    option: [
+        "six",
+        "five",
+        "four",
+        "three"
+    ],
+    answer: "five"
+},
+
+{
+    question: "awhenr when siNhaasn sat on?",
+    option: [
+        "1545",
+        "1556",
+        "1575",
+        "1580"
+    ],
+    answer: "1556"
+},
+
+{
+    question: "Harappa of bstiyoN from 2000 from more mhreN found went are, these became is hai / ",
+    option: [
+        "lohe of",
+        "silver of",
+        "phirojaa ptthr of",
+        "shelkhdd'ii of"
+    ],
+    answer: "shelkhdd'ii of"
+},
+
+{
+    question: "year 1922 in, Which of the followingdid this udgaar vykt did that ‘Indian Constitution bhaartiiyoN of icchaanusaar will be’?",
+    option: [
+        "Motilal didhru",
+        "Gopalakrishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi"
+    ],
+    answer: "Mahatma Gandhi"
+},
+
+{
+    question: "famous gaaytrii mNtr following in which deity to smrpit is?",
+    option: [
+        "Surya",
+        "Indra",
+        "saavitrii",
+        "Varuna"
+    ],
+    answer: "saavitrii"
+},
+
+{
+    question: "Indian soldiers by did went first revolt who – like was ?",
+    option: [
+        "tol revolt",
+        "vellaur revolt",
+        "1857 AD. of revolt",
+        "Nil revolt"
+    ],
+    answer: "vellaur revolt"
+},
+
+{
+    question: "Basava bsaa nye movement of caalk were-",
+    option: [
+        "Brahmin",
+        "ksstriy",
+        "Shudra",
+        "vaishy"
+    ],
+    answer: "Brahmin"
+},
+
+{
+    question: "Constitution Assembly in ddoN0 Bhimrao Ambedkar of election from which place happened was?",
+    option: [
+        "west Bengal from",
+        "Mumbai presiddeNsii from",
+        "ttofliin central India from",
+        "Punjab from"
+    ],
+    answer: "west Bengal from"
+},
+
+{
+    question: "son of aage maataa of gotra which dynasty of people lgaate were ?",
+    option: [
+        "Shaka",
+        "yvn",
+        "Satavahana",
+        "kussaann"
+    ],
+    answer: "Satavahana"
+},
+
+{
+    question: "Mahatma Gandhi birth of happened",
+    option: [
+        "2 October, 1869, Gujarat",
+        "2 October, 1866, toloftaa",
+        "2 October, 1869, Rajasthan",
+        "None of these"
+    ],
+    answer: "2 October, 1869, Gujarat"
+},
+
+{
+    question: "sindhughaattii civilization in vishaal snaanaagaar of remains where from were obtained are ?",
+    option: [
+        "Harappa",
+        "Mohenjo-daro",
+        "ofliibNgn",
+        "Lothal"
+    ],
+    answer: "Mohenjo-daro"
+},
+
+{
+    question: "Islam of which century from rise happened, he/that was-",
+    option: [
+        "saatviiN",
+        "thirteenth",
+        "first",
+        "tenth"
+    ],
+    answer: "saatviiN"
+},
+
+{
+    question: "Subhas Chandra Bose did Hindustan of temporary Sirofr establishment of of declaration Singapore of kailehaal in when of ?",
+    option: [
+        "4 October, 1943 AD.",
+        "3 October 1943 AD.",
+        "2 October, 1943 AD.",
+        "5 October, 1943 AD."
+    ],
+    answer: "4 October, 1943 AD."
+},
+
+{
+    question: "Sheikh Qutbuddin Bakhtiyar ofof is related to which Sufi sect from is?",
+    option: [
+        "Chishti",
+        "Suhrawardy",
+        "ofdirii",
+        "nkshbrii"
+    ],
+    answer: "Chishti"
+},
+
+{
+    question: "of India Constitution Assembly formed taxdid of basis what was?",
+    option: [
+        "Indian national ofNgres of proposal",
+        "kaibididtt Mission plaan, 1946",
+        "Indian freedom Act, 1947",
+        "Indian ddominiyn of provincial/state vidhaanmNddl of proposal"
+    ],
+    answer: "kaibididtt Mission plaan, 1946"
+},
+
+{
+    question: "Jain religion according to sNsaar 6 drvyoN from milkr became hai /  among these who thesein is not-",
+    option: [
+        "jiiv",
+        "pudgl",
+        "ofl",
+        "paataal"
+    ],
+    answer: "paataal"
+},
+
+{
+    question: "Shahjahanabad to bsaayaa was",
+    option: [
+        "awhenr did",
+        "shhryaar did",
+        "Shah Jahan did",
+        "Aurangzeb did"
+    ],
+    answer: "Shah Jahan did"
+},
+
+{
+    question: "Sikh religion of dsveN Guru who were?",
+    option: [
+        "Guru Nanak",
+        "Guru Govind Singh",
+        "Guru Tegh Bahadur",
+        "Guru Arjuna god"
+    ],
+    answer: "Guru Govind Singh"
+},
+
+{
+    question: "approximately tenth from seventeenth century until in India various foreign travelers did which ofrnnoN from prerit having become journey of was, they were :",
+    option: [
+        "trade for",
+        "soldier abhiyaan taxdid purohitoN as religious knowledge attainment and tiirth yaatraaeN taxdid for",
+        "saahs of bhaavnaa from prerit having become",
+        "appropriate all three point (A) from (C) is correctN"
+    ],
+    answer: "appropriate all three point (A) from (C) is correctN"
+},
+
+{
+    question: "Calcutta in British of kilebndii bstii was the name of –",
+    option: [
+        "Fort fromNtt joNrj",
+        "Fort fromNtt ddevidd",
+        "Fort William",
+        "None of these"
+    ],
+    answer: "Fort William"
+},
+
+{
+    question: "Buddhist religion of mhaasaaNghik association of founder who were?",
+    option: [
+        "Upali",
+        "Ananda",
+        "gosaal",
+        "Mahakashyap"
+    ],
+    answer: "Mahakashyap"
+},
+
+{
+    question: "‘Delhi clo’ of slogan who gave ?",
+    option: [
+        "Gandhiji",
+        "Jawaharlal didhruu",
+        "Rajendra Prasad",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Subhas Chandra Bose"
+},
+
+{
+    question: "maariicii was",
+    option: [
+        "Buddhist goddess",
+        "Jain goddess",
+        "Hindu goddess",
+        "None of these"
+    ],
+    answer: "Buddhist goddess"
+},
+
+{
+    question: "1609 AD hoNkins which Mughal ruler of court came to?",
+    option: [
+        "awhenr",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Jahangir"
+},
+
+{
+    question: "saint wheniir birth of where happened was?",
+    option: [
+        "Delhi",
+        "Varanasi",
+        "Mathura",
+        "Hyderabad"
+    ],
+    answer: "Varanasi"
+},
+
+{
+    question: "greatof India approximately how many years first composition happened was-",
+    option: [
+        "100 year",
+        "1000 year",
+        "50 year",
+        "500 year"
+    ],
+    answer: "1000 year"
+},
+
+{
+    question: "Lothal situated is",
+    option: [
+        "Gujarat in",
+        "west Bengal in",
+        "Rajasthan in",
+        "Punjab in"
+    ],
+    answer: "Gujarat in"
+},
+
+{
+    question: "Indian Constitution Assembly in woman members of total number how many was?",
+    option: [
+        "10",
+        "12",
+        "13",
+        "15"
+    ],
+    answer: "15"
+},
+
+{
+    question: "Mauryaofl amongnaa of treatise taxdid one adhiofrii is called was -",
+    option: [
+        "prdeshttaa",
+        "sNsthaa",
+        "raajuk",
+        "blaadhykss"
+    ],
+    answer: "blaadhykss"
+},
+
+{
+    question: "in India tobacco of plant brought went-",
+    option: [
+        "British by England from",
+        "huunnoN by",
+        "Portuguese by Portugal from",
+        "arboN by"
+    ],
+    answer: "Portuguese by Portugal from"
+},
+
+{
+    question: "kutubmiinaar construction of who start did?",
+    option: [
+        "Iltutmish",
+        "Jalaluddin Khilji",
+        "Qutbuddin Aibak",
+        "Razia"
+    ],
+    answer: "Qutbuddin Aibak"
+},
+
+{
+    question: "iNddiyn didshnl aarmii formation of who did ?",
+    option: [
+        "Bhagat Singh",
+        "Chandrashekhar Azad",
+        "Subhas Chandra Bose",
+        "Gandhiji"
+    ],
+    answer: "Subhas Chandra Bose"
+},
+
+{
+    question: "Mahatma Buddha of life of which ghttnaa greatoninirvaann as to go goes is?",
+    option: [
+        "thosebirth of",
+        "thoseof death",
+        "thoseof gRh tyaag",
+        "None of these"
+    ],
+    answer: "thoseof death"
+},
+
+{
+    question: "akhil Indian census of first pryaas which year did went was, he/that was",
+    option: [
+        "1872 AD",
+        "1772 AD",
+        "1716 AD",
+        "1657 AD"
+    ],
+    answer: "1872 AD"
+},
+
+{
+    question: "following in who Jain religion of virt is not?",
+    option: [
+        "correct trust",
+        "correct knowledge",
+        "correct aacrnn",
+        "correct view"
+    ],
+    answer: "correct view"
+},
+
+{
+    question: "nyuu pNt name was",
+    option: [
+        "Tatya Tope of",
+        "Mangal Pandey of",
+        "Nana Sahib of",
+        "queen Lakshmibai of"
+    ],
+    answer: "Nana Sahib of"
+},
+
+{
+    question: "each gotra one ___ of name on is was ?",
+    option: [
+        "Vedic Rssi",
+        "Brahmin community",
+        "dhrmguru",
+        "All of the above"
+    ],
+    answer: "Vedic Rssi"
+},
+
+{
+    question: "following among who Constitution Assembly was not a member of?",
+    option: [
+        "of. M. Munshi",
+        "N. gopaalsvaamii aayNgaar",
+        "H. H. beg",
+        "T. T. kRssnnmaacaarii"
+    ],
+    answer: "H. H. beg"
+},
+
+{
+    question: "Al-Biruni which language of jaanofr was not, thatwas the name of :",
+    option: [
+        "Greek language",
+        "Hebrew language",
+        "Syriac language",
+        "Sanskrit language"
+    ],
+    answer: "Greek language"
+},
+
+{
+    question: "Sufi vote of phirdausii shaakhaa following among where sbfrom more pnpii?",
+    option: [
+        "Bengal",
+        "Odisha",
+        "Delhi",
+        "Bihar"
+    ],
+    answer: "Bihar"
+},
+
+{
+    question: "Ghori of death after following in whichof between power for struggle happened?",
+    option: [
+        "taajuddiin ylduuj",
+        "naasiruddiin kubaacaa",
+        "Qutbuddin Aibak",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Mahatma Gandhi of autobiography in which language was ?",
+    option: [
+        "English",
+        "gujraatii",
+        "Hindi",
+        "bNglaa"
+    ],
+    answer: "gujraatii"
+},
+
+{
+    question: "Shah Jahan of which daughter did Khwaja Muinuddin Chishti of Ajmer situated shrine described is?",
+    option: [
+        "jhaaNaaraa",
+        "roshnaaraa",
+        "gauhraaraa",
+        "All of these did"
+    ],
+    answer: "jhaaNaaraa"
+},
+
+{
+    question: "which Purana in guptshaastoN description of happened is?",
+    option: [
+        "Vishnu Purana",
+        "Vayu Purana",
+        "Matsya Purana",
+        "Garuda Purana"
+    ],
+    answer: "Vayu Purana"
+},
+
+{
+    question: "Bernier and pelegre according to in India agriculture land of owner who was ?",
+    option: [
+        "landlord",
+        "kRssk",
+        "state",
+        "appropriate all"
+    ],
+    answer: "state"
+},
+
+{
+    question: "Francis buofnn of vivrnnoN from which jnjaati about ptaa cltaa is?",
+    option: [
+        "gaudd'",
+        "Santhal",
+        "tol",
+        "hummaar"
+    ],
+    answer: "Santhal"
+},
+
+{
+    question: "following among who “nigrNth” as vikhyaat are?",
+    option: [
+        "aajiivik",
+        "Lingayat",
+        "Buddhist",
+        "Jain"
+    ],
+    answer: "Jain"
+},
+
+{
+    question: "Constitution Assembly of temporary chairman who were?",
+    option: [
+        "B. R. Ambedkar",
+        "Dr.. Rajendra Prasad",
+        "Sachchidananda Sinha",
+        "of. M. Munshi"
+    ],
+    answer: "Sachchidananda Sinha"
+},
+
+{
+    question: "following among which puraattvvid / puraattvvidoN by Harappa in khudaaii completed kraayaa went ?",
+    option: [
+        "Dayaram Sahni",
+        "M.S. vaitts",
+        "Martimer Wheeler",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "jizya whichfrom liyaa goes was?",
+    option: [
+        "traders from",
+        "buddhijiiviyoN from",
+        "sainitoN from",
+        "jimmiyoN from"
+    ],
+    answer: "jimmiyoN from"
+},
+
+{
+    question: "which Upanishad Atharvaveda relation withit is not?",
+    option: [
+        "question Upanishad",
+        "Mundaka Upanishad",
+        "maaNdduuky Upanishad",
+        "shvetaashvtr Upanishad"
+    ],
+    answer: "shvetaashvtr Upanishad"
+},
+
+{
+    question: "which ofrnn Muslim League did Constitution Assembly of bhissofr did?",
+    option: [
+        "Muslim League Constitution Assembly of chairman whichii Muslim to bnaanaa wants was",
+        "Muslim League to Constitution Assembly in ucit prtinidhitv not was found was",
+        "Muslim League muslimoN for one different Constitution Assembly wants was",
+        "gave went all"
+    ],
+    answer: "Muslim League muslimoN for one different Constitution Assembly wants was"
+},
+
+{
+    question: "vii. S. sukthaaNkr one famous scholar were-",
+    option: [
+        "English",
+        "phreNc",
+        "Tamil",
+        "Sanskrit"
+    ],
+    answer: "Sanskrit"
+},
+
+{
+    question: "‘sllekhnaa’ related is",
+    option: [
+        "Vedic religion from",
+        "Buddhist religion from",
+        "Jain religion from",
+        "shaakt religion from"
+    ],
+    answer: "Jain religion from"
+},
+
+{
+    question: "Aurangzeb did which Sikh Guru of vdh caused?",
+    option: [
+        "Guru Govind Singh",
+        "Guru Arjuna god",
+        "Guru tegbhaadur",
+        "raamdaas"
+    ],
+    answer: "Guru tegbhaadur"
+},
+
+{
+    question: "ptNjli of vyaakrnn on Sanskrit text of translation who Arabic language in did?",
+    option: [
+        "Al-Biruni",
+        "Abul Razzaq",
+        "Ibn Battuta",
+        "None of these"
+    ],
+    answer: "Al-Biruni"
+},
+
+{
+    question: "Baburnama in which language was written is?",
+    option: [
+        "Arabic",
+        "Persian",
+        "turof",
+        "Portuguese"
+    ],
+    answer: "turof"
+},
+
+{
+    question: "smRtiyoN is related to is-",
+    option: [
+        "Hindu religious literature from",
+        "Buddhist religious literature from",
+        "Jain religious literature from",
+        "Islam religious literature from"
+    ],
+    answer: "Hindu religious literature from"
+},
+
+{
+    question: "who–like foreign traveler ghodd'oN of trader was ?",
+    option: [
+        "Afanasy Nikitin",
+        "Fernao Nuniz",
+        "nitolo tonnttii",
+        "(a) and (b)"
+    ],
+    answer: "(a) and (b)"
+},
+
+{
+    question: "Awadh in belejlii by tributary treaty implemented of went was",
+    option: [
+        "1801 AD",
+        "1781 AD",
+        "1856 AD",
+        "1819 AD"
+    ],
+    answer: "1801 AD"
+},
+
+{
+    question: "Guptaofl in land-revenue clan production of how much part was?",
+    option: [
+        "1/4 from 1/6",
+        "1/2 from 1/3",
+        "1/5 from 1/6",
+        "None of these"
+    ],
+    answer: "1/4 from 1/6"
+},
+
+{
+    question: "Awadh in freedom fromnaaniyoN who led ?",
+    option: [
+        "Begum Hazrat palace did",
+        "Khan Bahadur Khan did",
+        "Bahadur Shah second did",
+        "Tatya Tope did"
+    ],
+    answer: "Begum Hazrat palace did"
+},
+
+{
+    question: "hoysloN of state of viofs happened was",
+    option: [
+        "ofrl in",
+        "Maharashtra in",
+        "Karnataka in",
+        "None of these"
+    ],
+    answer: "Karnataka in"
+},
+
+{
+    question: "Mahatma Gandhi did which proposal to ‘dduubte happened bank of agrim taariikh of cek’ said was ?",
+    option: [
+        "Cripps proposal",
+        "C.R. proposal",
+        "vevl proposal",
+        "kaibididtt Mission proposal"
+    ],
+    answer: "Cripps proposal"
+},
+
+{
+    question: "Which of the following city paaNddvoN by made went considered goes is ?",
+    option: [
+        "Hastinapur",
+        "Indraprastha",
+        "Kaushambi",
+        "shraavstii"
+    ],
+    answer: "Indraprastha"
+},
+
+{
+    question: "seven dviipoN of city is called",
+    option: [
+        "Bombay",
+        "shimlaa",
+        "Calcutta",
+        "baiNglor"
+    ],
+    answer: "Bombay"
+},
+
+{
+    question: "following which site in khaaNcedaar khet of evidence were found are ?",
+    option: [
+        "Banawali",
+        "Lothal",
+        "ofliibNgaa",
+        "raakhiigddh'ii"
+    ],
+    answer: "ofliibNgaa"
+},
+
+{
+    question: "Constitution of various phluoN of study for Constitution Assembly did how many smitiyaaN appointed of was?",
+    option: [
+        "eight",
+        "twelve",
+        "thirteen",
+        "seventeen"
+    ],
+    answer: "thirteen"
+},
+
+{
+    question: "which century of aaspaas islaamii duniyaa in Sufi silsiloN formation of bedid seemed/was applied?",
+    option: [
+        "eleventh",
+        "twelfth",
+        "thirteenth",
+        "fourteenth"
+    ],
+    answer: "twelfth"
+},
+
+{
+    question: "Indian study related baadhaaoN description of that foreign traveler by did went is?",
+    option: [
+        "Al-Biruni",
+        "Ibn Battuta",
+        "Al-Masudi",
+        "Abdur Razzaq"
+    ],
+    answer: "Al-Biruni"
+},
+
+{
+    question: "Pandu of ptnii of what is the name was ?",
+    option: [
+        "kuntii",
+        "ambaaliof",
+        "styvrtii",
+        "lopaa"
+    ],
+    answer: "kuntii"
+},
+
+{
+    question: "Constitution Assembly (punrgtthit) in indigenous riyaastoN for how many representative were?",
+    option: [
+        "100",
+        "70",
+        "85",
+        "65"
+    ],
+    answer: "70"
+},
+
+{
+    question: "Sheikh Muinuddin Chishti of shrine situated is :",
+    option: [
+        "Delhi in",
+        "Agra in",
+        "Fatehpur Sikri in",
+        "Ajmer in"
+    ],
+    answer: "Ajmer in"
+},
+
+{
+    question: "Company ofl in aksr powerful landlords for who/which word use did goes was, he/that was-",
+    option: [
+        "totvaal",
+        "king",
+        "ryot",
+        "jotedars"
+    ],
+    answer: "king"
+},
+
+{
+    question: "Jain religion of first Tirthankara who were?",
+    option: [
+        "Parshvanatha",
+        "Mahavira",
+        "Vardhamana",
+        "owner Rishabhadeva"
+    ],
+    answer: "owner Rishabhadeva"
+},
+
+{
+    question: "vnnik word of use happened ?",
+    option: [
+        "ofriigroN for",
+        "whichaan for",
+        "trader for",
+        "sainitoN for"
+    ],
+    answer: "trader for"
+},
+
+{
+    question: "Survey of India was formed was -",
+    option: [
+        "1767 AD",
+        "1878 AD",
+        "1888 AD",
+        "1898 AD"
+    ],
+    answer: "1767 AD"
+},
+
+{
+    question: "svrnngirii of word meaning what is ?",
+    option: [
+        "sonaa",
+        "sodid of mountain",
+        "silver of mountain",
+        "None of these"
+    ],
+    answer: "sodid of mountain"
+},
+
+{
+    question: "mnu memory of compilation happened ?",
+    option: [
+        "500 Jesus east 500 AD until",
+        "300 Jesus east 300 AD until",
+        "400 Jesus east 400 AD until",
+        "200 Jesus east 200 AD until"
+    ],
+    answer: "200 Jesus east 200 AD until"
+},
+
+{
+    question: "1857 AD. of revolt of taatoflik ofrnn what was ?",
+    option: [
+        "riNg pheNs policy",
+        "laips of principle",
+        "grease ones ofrtuus",
+        "Christian religion of propagation"
+    ],
+    answer: "grease ones ofrtuus"
+},
+
+{
+    question: "Parshvanatha by prtipaadit four mhaavrtoN in Mahavira did fifth which mhaavrt jodd'aa?",
+    option: [
+        "celibacy",
+        "ahiNsaa",
+        "true",
+        "astey"
+    ],
+    answer: "celibacy"
+},
+
+{
+    question: "panchayat of Sardar one chief is was, jifrom say were-",
+    option: [
+        "muqaddam or chief",
+        "amiil or Amir",
+        "Chaudhary or srpNc",
+        "pNc or pitaamh"
+    ],
+    answer: "muqaddam or chief"
+},
+
+{
+    question: "following in woman saint were-",
+    option: [
+        "Meera",
+        "Andal",
+        "Karaikal",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "aupniveshik in cities generally following three city included did go are",
+    option: [
+        "Madras, klktaa and Bombay",
+        "vishaakhaapttttnm, tocci and maisuur",
+        "Delhi, Surat and Agra",
+        "None of these"
+    ],
+    answer: "Madras, klktaa and Bombay"
+},
+
+{
+    question: "Lingayat movement of beginning where happened?",
+    option: [
+        "tmilnaaddu",
+        "Karnataka",
+        "Odisha",
+        "Kashmir"
+    ],
+    answer: "Karnataka"
+},
+
+{
+    question: "Constitution Assembly of draft (draft) Committee of niyukti when of went?",
+    option: [
+        "29 April, 1947",
+        "11 June, 1947",
+        "29 August, 1947",
+        "16 December, 1947"
+    ],
+    answer: "29 August, 1947"
+},
+
+{
+    question: "in India Al-Biruni whichof with came was, thatwas the name of :",
+    option: [
+        "mohmmdii Ghori",
+        "taimuurlNg",
+        "Mahmud gjnvii",
+        "naadirshaah"
+    ],
+    answer: "Mahmud gjnvii"
+},
+
+{
+    question: "‘kro or mro’ of slogan gave",
+    option: [
+        "Gandhiji",
+        "Tilak",
+        "Gokhale",
+        "Subhas Chandra"
+    ],
+    answer: "Gandhiji"
+},
+
+{
+    question: "Al-Biruni in India whose with came was ?",
+    option: [
+        "Mo. bin ofsim",
+        "Mahmud Ghazni",
+        "Mo. Ghori",
+        "Qutbuddin Aibak"
+    ],
+    answer: "Mahmud Ghazni"
+},
+
+{
+    question: "‘etc. text saahib’ of compilation who did?",
+    option: [
+        "Guru Arjuna god",
+        "Guru Nanak",
+        "Guru Govind Singh",
+        "Guru Tegh Bahadur"
+    ],
+    answer: "Guru Arjuna god"
+},
+
+{
+    question: "Indian Constitution Assembly in ‘jhNddaa Committee’ who was the chairman of?",
+    option: [
+        "je0 bii0 Kripalani",
+        "of. M. Munshi",
+        "Dr.. B. R. Ambedkar",
+        "Jawaharlal didhru"
+    ],
+    answer: "je0 bii0 Kripalani"
+},
+
+{
+    question: "Xuanzang of death when did it happen ?",
+    option: [
+        "660 AD.",
+        "664 AD.",
+        "662 AD.",
+        "666 AD."
+    ],
+    answer: "664 AD."
+},
+
+{
+    question: "phaarvrdd block (1939 AD.) who founded ?",
+    option: [
+        "Jinnah did",
+        "Rajagopalachari did",
+        "Subhas Chandra Bose did",
+        "M.M. Roy did"
+    ],
+    answer: "Subhas Chandra Bose did"
+},
+
+{
+    question: "kuNtuk who was?",
+    option: [
+        "soldier shiviroN of principal",
+        "praadeshik Governor",
+        "sNvaadvaahk",
+        "elephant fromnaa of principal"
+    ],
+    answer: "elephant fromnaa of principal"
+},
+
+{
+    question: "Mauryaofliin currency ‘ofrssaapnn’ which dhaatu from became is was?",
+    option: [
+        "silver from",
+        "taaNbe from",
+        "sodid from",
+        "piitl from"
+    ],
+    answer: "silver from"
+},
+
+{
+    question: "following among woman rhsyvaadii saint were-",
+    option: [
+        "Andal",
+        "Karaikal",
+        "rbiyaa",
+        "miiraabaaii"
+    ],
+    answer: "rbiyaa"
+},
+
+{
+    question: "awhenr did who from year in jizya tax smaapt tax had given?",
+    option: [
+        "1556 AD",
+        "1564 AD",
+        "1566 AD",
+        "diirghkrnn one bhuaayaamii onighttnaa is"
+    ],
+    answer: "1564 AD"
+},
+
+{
+    question: "Delhi which river of bank situated is?",
+    option: [
+        "Son",
+        "Yamuna",
+        "gomtii",
+        "Ganga"
+    ],
+    answer: "Yamuna"
+},
+
+{
+    question: "maanytaanusaar amr word of aavirbhaav Sanskrit of which word from happened, he/that is",
+    option: [
+        "mgr",
+        "smr",
+        "kmr",
+        "rkm"
+    ],
+    answer: "smr"
+},
+
+{
+    question: "Ryotwari system in land of owner who is was?",
+    option: [
+        "landlord",
+        "British Sirofr",
+        "whichaan",
+        "None of these"
+    ],
+    answer: "whichaan"
+},
+
+{
+    question: "following among who from two region lNbii duurii ones important trade route on situated were ?",
+    option: [
+        "Magadha and Taxila",
+        "suvrnngirii and ujjyinii",
+        "Taxila and ujjainii",
+        "None of these"
+    ],
+    answer: "Taxila and ujjainii"
+},
+
+{
+    question: "Ain-A-awhenrii according to land to how many parts in baaNttaa was?",
+    option: [
+        "two parts in",
+        "five parts in",
+        "four parts in",
+        "six parts in"
+    ],
+    answer: "four parts in"
+},
+
+{
+    question: "Andal of correct onicy is-",
+    option: [
+        "he/that Alvars woman was",
+        "he/that Nayanar woman was",
+        "he/that Alvars man was",
+        "he/that Nayanar man was"
+    ],
+    answer: "he/that Alvars woman was"
+},
+
+{
+    question: "Cornwallis todd became-",
+    option: [
+        "1797 AD",
+        "1775 AD",
+        "1805 AD",
+        "1793 AD"
+    ],
+    answer: "1793 AD"
+},
+
+{
+    question: "third century of aas-paas first Jain Assembly of organization where happened was?",
+    option: [
+        "Vaishali",
+        "raajgRh",
+        "Vallabhi",
+        "Pataliputra"
+    ],
+    answer: "Pataliputra"
+},
+
+{
+    question: "which book of translation for ‘rjmnaamaa’ word of use did went is, he/that is:",
+    option: [
+        "Mahabharata",
+        "raamaaynn",
+        "awhenrnaamaa",
+        "Baburnama"
+    ],
+    answer: "Mahabharata"
+},
+
+{
+    question: "which devotion saint did apdid sNdesh of propagation for sbbefore Hindi of use did?",
+    option: [
+        "daaduu",
+        "wheniir",
+        "Ramananda",
+        "tulsiidaas"
+    ],
+    answer: "Ramananda"
+},
+
+{
+    question: "Gandhara Mahajanapada capital of was",
+    option: [
+        "pttnaa",
+        "mhissmtii",
+        "haattk",
+        "Taxila"
+    ],
+    answer: "Taxila"
+},
+
+{
+    question: "of India Constitution of creator whom considered goes are?",
+    option: [
+        "Mahatma Gandhi",
+        "Bhimrao Ambedkar",
+        "Jawaharlal didhru",
+        "B.N.Rao"
+    ],
+    answer: "Bhimrao Ambedkar"
+},
+
+{
+    question: "greatof India war how many days until claa ?",
+    option: [
+        "15",
+        "18",
+        "16",
+        "17"
+    ],
+    answer: "18"
+},
+
+{
+    question: "central Asia of route having become Ibn Battuta year 1333 AD site route from reached was:",
+    option: [
+        "siNdh",
+        "multaan",
+        "Lahore",
+        "Panipat"
+    ],
+    answer: "siNdh"
+},
+
+{
+    question: "Indian Constitution Assembly establishment of when did it happen?",
+    option: [
+        "10 June, 1946",
+        "09 December, 1946",
+        "26 November, 1949",
+        "26 December, 1949"
+    ],
+    answer: "09 December, 1946"
+},
+
+{
+    question: "Vijayanagara empire of last capital who/which tirupti of smiip was, of what is the name was ?",
+    option: [
+        "cndrgiri",
+        "penutonnddaa",
+        "trivendrm",
+        "None of these"
+    ],
+    answer: "cndrgiri"
+},
+
+{
+    question: "second vishvyuddh In which year beginning happened ?",
+    option: [
+        "1937 AD.",
+        "1939 AD.",
+        "1942 AD.",
+        "1945 AD."
+    ],
+    answer: "1939 AD."
+},
+
+{
+    question: "ksstriy word of literary meaning is",
+    option: [
+        "king",
+        "ldd'aakuu",
+        "rkssk",
+        "state or region on adhiofr to be"
+    ],
+    answer: "state or region on adhiofr to be"
+},
+
+{
+    question: "Jain religion and Buddhist religion in what smaantaaeN were?",
+    option: [
+        "both only aniishvrvaadii are",
+        "both Vedic-krmofnndd of virodhii are",
+        "caste-practice of both dhrmoN in place not",
+        "All of the above is correctN"
+    ],
+    answer: "All of the above is correctN"
+},
+
+{
+    question: "Mahatma Gandhi of maataa of what is the name was ?",
+    option: [
+        "kstuurbaa Gandhi",
+        "raambhaabaaii",
+        "putliibaaii",
+        "None of these"
+    ],
+    answer: "putliibaaii"
+},
+
+{
+    question: "Sultan ul Hind whom said went?",
+    option: [
+        "Khwaja Muinuddin Chishti",
+        "Fariduddin ganj-A-Shankar",
+        "Nizamuddin Auliya",
+        "Sheikh sliim Chishti"
+    ],
+    answer: "Khwaja Muinuddin Chishti"
+},
+
+{
+    question: "sixth century AD. BC in monarchy were",
+    option: [
+        "part, Magadha, Vatsa, Vajji",
+        "toshl, Chedi, ofshii, Vajji",
+        "part, Magadha, Kuru, Matsya",
+        "part, Magadha, ofshii, toshl"
+    ],
+    answer: "part, Magadha, ofshii, toshl"
+},
+
+{
+    question: "Ain-A-awhenrii how many parts in divided is?",
+    option: [
+        "two",
+        "three",
+        "four",
+        "five"
+    ],
+    answer: "five"
+},
+
+{
+    question: "biijk in whose updesh sNklit are?",
+    option: [
+        "wheniir",
+        "Guru Nanak",
+        "Chaitanya",
+        "Ramananda"
+    ],
+    answer: "wheniir"
+},
+
+{
+    question: "Muslim League by mukti day when celebrated went",
+    option: [
+        "22 December, 1935 AD.",
+        "22 December, 1936 AD.",
+        "22 December, 1938 AD.",
+        "22 December, 1939 AD."
+    ],
+    answer: "22 December, 1939 AD."
+},
+
+{
+    question: "Indus valley nivaasiyoN to which dhaatu of knowledge was not ?",
+    option: [
+        "sonaa",
+        "silver",
+        "iron",
+        "taaNbaa"
+    ],
+    answer: "iron"
+},
+
+{
+    question: "India capital of Calcutta from Delhi sthaanaaNtrit happened was–",
+    option: [
+        "1909 AD",
+        "1910 AD",
+        "1911 AD",
+        "1912 AD"
+    ],
+    answer: "1911 AD"
+},
+
+{
+    question: "puraannoN according to ‘paaNddvoN of descendant nickssu did Hastinapur of baaddh' in bh jaadid after his capital where made was ?",
+    option: [
+        "shraavstii",
+        "Vaishali",
+        "Kaushambi",
+        "likeoft"
+    ],
+    answer: "Kaushambi"
+},
+
+{
+    question: "1857 AD. of revolt of ofnuon in didtRtb who did ?",
+    option: [
+        "Tatya Tope",
+        "Nana Sahib",
+        "Bahadur Shah",
+        "Mangal Pandey"
+    ],
+    answer: "Nana Sahib"
+},
+
+{
+    question: "most European traveler which Mughal ruler during in India came were?",
+    option: [
+        "awhenr",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Jahangir"
+},
+
+{
+    question: "year 1895 in, by whom first Constitution Assembly of formation of demand presented of went?",
+    option: [
+        "Mahatma Gandhi",
+        "Jawaharlal didhru",
+        "B. R. Ambedkar",
+        "Bal Gangadhar Tilak"
+    ],
+    answer: "Bal Gangadhar Tilak"
+},
+
+{
+    question: "Harappa which river of bank situated is ?",
+    option: [
+        "Indus",
+        "Beas",
+        "stlj",
+        "Ravi"
+    ],
+    answer: "Ravi"
+},
+
+{
+    question: "Jain religion of 24th Tirthankara who were?",
+    option: [
+        "Rishabhadeva",
+        "Parshvanatha",
+        "Vardhamana",
+        "Mahavira"
+    ],
+    answer: "Mahavira"
+},
+
+{
+    question: "ofNgres establishment of when did it happen was ?",
+    option: [
+        "1858",
+        "1851",
+        "1885",
+        "1890"
+    ],
+    answer: "1885"
+},
+
+{
+    question: "following among two most lokpriy smRtiyaaN are-",
+    option: [
+        "Manusmriti and yaajnyvlky memory",
+        "naard memory and onaashr memory",
+        "ons Roy memory and hnumaan memory",
+        "Vishnu memory and Shaiva memory"
+    ],
+    answer: "Manusmriti and yaajnyvlky memory"
+},
+
+{
+    question: "Buddhist text Tripitaka of composition happened",
+    option: [
+        "Mahatma Buddha of birth from east",
+        "Mahatma Buddha of nirvaann obtained taxdid after",
+        "Mahatma Buddha of life ofl in",
+        "None of the above"
+    ],
+    answer: "Mahatma Buddha of nirvaann obtained taxdid after"
+},
+
+{
+    question: "Al-Biruni of work kitaab Al-Hind which language in essentially was written, he/that was-",
+    option: [
+        "Arabic language",
+        "Sanskrit language",
+        "Greek language",
+        "Hebrew language"
+    ],
+    answer: "Arabic language"
+},
+
+{
+    question: "in India seventeenth century in who/which also crop as aphriiof and Spain of route aayii was, thatwas the name of-",
+    option: [
+        "mkof",
+        "wheat",
+        "rice",
+        "cotton"
+    ],
+    answer: "mkof"
+},
+
+{
+    question: "‘kainn of shvetaaNbr’ book last form from at which place sNklit of went?",
+    option: [
+        "Vallabhi",
+        "knnauj",
+        "ilaahaabaad",
+        "Pataliputra"
+    ],
+    answer: "Vallabhi"
+},
+
+{
+    question: "which movement daaNddii from beginning did went ?",
+    option: [
+        "non-cooperation movement",
+        "civil disobedience movement",
+        "Khilafat movement",
+        "India Quit movement"
+    ],
+    answer: "civil disobedience movement"
+},
+
+{
+    question: "Buddhist literature main form in was written was-",
+    option: [
+        "Sanskrit in",
+        "Pali in",
+        "Prakrit in",
+        "Hindi in"
+    ],
+    answer: "Pali in"
+},
+
+{
+    question: "civil disobedience movement of beginning who did ?",
+    option: [
+        "Gandhiji",
+        "Jawaharlal didhruu",
+        "Maulana Abul klaam Azad",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Gandhiji"
+},
+
+{
+    question: "Maurya empire main form from divided was",
+    option: [
+        "four provinces in",
+        "two provinces in",
+        "five provinces in",
+        "eight provinces in"
+    ],
+    answer: "five provinces in"
+},
+
+{
+    question: "mhaalvaadd'ii land-revenue system by whom implemented of went?",
+    option: [
+        "Lord Dalhousie",
+        "Lord Bentinck",
+        "William Bentinck",
+        "oNklainndd"
+    ],
+    answer: "Lord Bentinck"
+},
+
+{
+    question: "which Purana in Maurya shaastoN description of is?",
+    option: [
+        "Vayu Purana",
+        "Matsya Purana",
+        "Vishnu Purana",
+        "Garuda Purana"
+    ],
+    answer: "Vishnu Purana"
+},
+
+{
+    question: "year 1942 in, which plan of tht this sviiofr did went that in India one elected Constitution Assembly formation of will be, who/which yuddhoonaaNt Constitution construction of kregii?",
+    option: [
+        "Cripps plan",
+        "vevel plan",
+        "kaibididtt Mission plan",
+        "maauNttbettn plan"
+    ],
+    answer: "Cripps plan"
+},
+
+{
+    question: "prince Dara is related to which series from was?",
+    option: [
+        "Chishti",
+        "Suhrawardy",
+        "ofdirii",
+        "All of these from"
+    ],
+    answer: "ofdirii"
+},
+
+{
+    question: "1937 AD. how many in provinces in vidhaayii assemblies of election happened ?",
+    option: [
+        "11",
+        "15",
+        "556",
+        "325"
+    ],
+    answer: "11"
+},
+
+{
+    question: "which ruler of court in assttdiggj live were ?",
+    option: [
+        "Devaraya-I of",
+        "Krishnadevaraya of",
+        "Achyuta Roy of",
+        "Sadashiva Roy of"
+    ],
+    answer: "Krishnadevaraya of"
+},
+
+{
+    question: "religion word literally means?",
+    option: [
+        "mosque",
+        "pvitr place",
+        "crc",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "Vishnu of ten incarnation of jikr which Purana in is?",
+    option: [
+        "Matsya Purana",
+        "Vayu Purana",
+        "Garuda Purana",
+        "Vishnu Purana"
+    ],
+    answer: "Matsya Purana"
+},
+
+{
+    question: "Vijayanagara on rule taxdid one first dynasty was",
+    option: [
+        "suluv dynasty",
+        "knnv dynasty",
+        "Sangam dynasty",
+        "arviNdu dynasty"
+    ],
+    answer: "Sangam dynasty"
+},
+
+{
+    question: "tol revolt of didtaa who were ?",
+    option: [
+        "sidhuu–ofnhuu",
+        "Birsa Munda",
+        "Tirat Singh",
+        "gomdh Kunwar"
+    ],
+    answer: "gomdh Kunwar"
+},
+
+{
+    question: "ofliibNgn situated is",
+    option: [
+        "sindh in",
+        "Punjab in",
+        "Rajasthan in",
+        "Bengal in"
+    ],
+    answer: "Rajasthan in"
+},
+
+{
+    question: "Muhammad Ali Jinnah about which statement is correct ?",
+    option: [
+        "homruul League movement of smrthn did",
+        "non-cooperation movement of opposition did",
+        "bevel plan asviiofr of",
+        "all three statement is correctN"
+    ],
+    answer: "all three statement is correctN"
+},
+
+{
+    question: "Harshavardhana during amongnaa of supreme adhiofrii who is was ?",
+    option: [
+        "blaadhikRt",
+        "mhaablaadhikRt",
+        "bhaaltii",
+        "kttuk"
+    ],
+    answer: "mhaablaadhikRt"
+},
+
+{
+    question: "Iyengar system related was",
+    option: [
+        "Mughal empire from",
+        "Vijayanagara empire from",
+        "Bahmani empire from",
+        "Delhi sltnt from"
+    ],
+    answer: "Vijayanagara empire from"
+},
+
+{
+    question: "sixth century AD. BC of central in 'pukkusaarin' named king which Mahajanapada in state tax was was ?",
+    option: [
+        "ambhk",
+        "ati",
+        "Gandhara",
+        "shuurfromn"
+    ],
+    answer: "Gandhara"
+},
+
+{
+    question: "Sagar in British man, mhilaaoN and bccoN to how many day forts in shrnn taking rhnaa pdd'aa ?",
+    option: [
+        "50 day",
+        "111 day",
+        "222 day",
+        "150 day"
+    ],
+    answer: "222 day"
+},
+
+{
+    question: "ttraivl these d Mughal Empire whose work was ?",
+    option: [
+        "Francois Bernier",
+        "pelesrtt",
+        "Abdul Razzaq",
+        "None of these"
+    ],
+    answer: "Francois Bernier"
+},
+
+{
+    question: "amRtsr (jaaliyaavaalaa) in jnsNhaar happened was",
+    option: [
+        "13 April, 1919 in",
+        "13 February, 1909 in",
+        "13 March, 1929 in",
+        "13 January, 1919 in"
+    ],
+    answer: "13 April, 1919 in"
+},
+
+{
+    question: "Vijayanagara shaastoN of who/which Odisha of smofliin dynasty of ruler were, thosewas the name of",
+    option: [
+        "raajpti",
+        "Gajapati",
+        "ashvpti",
+        "raassttrpti"
+    ],
+    answer: "Gajapati"
+},
+
+{
+    question: "15 February 1942 to Singapore of ptn on 40,000 Indian yuddhbndiyoN to taking Azad Hind army who founded ?",
+    option: [
+        "Mohan Singh",
+        "Subhas Chandra Bose",
+        "Rash Behari Bose",
+        "priitm Singh"
+    ],
+    answer: "Mohan Singh"
+},
+
+{
+    question: "which European traveler peshe from physician was ?",
+    option: [
+        "piittr muNddii",
+        "ttaivrniyr",
+        "raalph phic",
+        "Bernier"
+    ],
+    answer: "Bernier"
+},
+
+{
+    question: "Dhamma of principle of beginning who did ?",
+    option: [
+        "Chandra Gupta Maurya",
+        "sea Gupta did",
+        "caannky did",
+        "Ashoka did"
+    ],
+    answer: "Ashoka did"
+},
+
+{
+    question: "Bihar in 1857 of revolt of major didtaa who was / was ?",
+    option: [
+        "baajiiraav",
+        "Lakshmibai",
+        "diliip Singh",
+        "Kunwar Singh"
+    ],
+    answer: "Kunwar Singh"
+},
+
+{
+    question: "Shaiva religion of followers khlaate the / ",
+    option: [
+        "Alvars",
+        "Nayanar",
+        "kraaiofl",
+        "bhaagvt"
+    ],
+    answer: "Nayanar"
+},
+
+{
+    question: "Aurangzeb did snaatnii revolt of suppression when did?",
+    option: [
+        "1672 AD",
+        "1674 AD",
+        "1678 AD",
+        "1680 AD"
+    ],
+    answer: "1672 AD"
+},
+
+{
+    question: "Delhi sltnt establishment of happened was",
+    option: [
+        "1526 AD",
+        "1206 AD",
+        "1326 AD",
+        "1406 AD"
+    ],
+    answer: "1206 AD"
+},
+
+{
+    question: "‘Satavahana dynasty’ who founded",
+    option: [
+        "saatkrnnii first",
+        "simuk",
+        "gautmiiputr saatkrnnii",
+        "pulumaavii"
+    ],
+    answer: "simuk"
+},
+
+{
+    question: "in India railway of beginning when did it happen ?",
+    option: [
+        "1753 AD",
+        "1973 AD",
+        "1853 AD",
+        "None of these"
+    ],
+    answer: "1853 AD"
+},
+
+{
+    question: "following among Portuguese traveler who was ?",
+    option: [
+        "edduajhai Barbosa",
+        "Domingos Paes",
+        "Fernao Nuniz",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which ruler graaNdd ttrNk rodd of and adidK sraayoN had constructed?",
+    option: [
+        "Babur",
+        "Humayun",
+        "Sher Shah",
+        "awhenr"
+    ],
+    answer: "Sher Shah"
+},
+
+{
+    question: "following which site in ofplaceddid of found jaadid from mntoN to made jaadid of process spsstt be goes is ?",
+    option: [
+        "raakhiigddh'ii",
+        "Ropar",
+        "cnhuuddd'o",
+        "Dholavira"
+    ],
+    answer: "cnhuuddd'o"
+},
+
+{
+    question: "Maharashtra of saint who were?",
+    option: [
+        "tuofRama",
+        "raamdaas",
+        "jnyaadidshvr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "greatof India approximately how many years first composition happened was that they were-",
+    option: [
+        "100 year",
+        "50 year",
+        "1000 year",
+        "500 year"
+    ],
+    answer: "1000 year"
+},
+
+{
+    question: "following among who Indian Constitution of ‘draft Committee’ of member were not?",
+    option: [
+        "gopaalaacaarii Iyengar",
+        "alaadi Krishnaswami",
+        "B. R. Ambedkar",
+        "Dr.. Rajendra Prasad"
+    ],
+    answer: "Dr.. Rajendra Prasad"
+},
+
+{
+    question: "ruleofy entry dvaar for following among who–like word most appropriate is",
+    option: [
+        "gopuram",
+        "mandapa",
+        "gddiidvaar",
+        "nreshdvaar"
+    ],
+    answer: "gopuram"
+},
+
+{
+    question: "puunaa agreement In which year did it occur ?",
+    option: [
+        "1932 AD",
+        "1934 AD",
+        "1999 AD",
+        "1942 AD"
+    ],
+    answer: "1932 AD"
+},
+
+{
+    question: "Guptaofl in most important commercial site was?",
+    option: [
+        "Pataliputra",
+        "Vaishali",
+        "Ujjain",
+        "bhdd'auc"
+    ],
+    answer: "Ujjain"
+},
+
+{
+    question: "Sagar in 1 July 1857 to revolt of beginning who did ?",
+    option: [
+        "Sheikh rmjaan",
+        "Bakhtawali",
+        "suppression Singh",
+        "bodhn dauaa"
+    ],
+    answer: "Sheikh rmjaan"
+},
+
+{
+    question: "yvn word which language of is, he/that is",
+    option: [
+        "Hindi",
+        "hindvii",
+        "Sanskrit",
+        "apbhrNsh"
+    ],
+    answer: "Sanskrit"
+},
+
+{
+    question: "ddhaaii day of jhopdd'aa construction of who caused was?",
+    option: [
+        "nitolii ofNttii",
+        "Abdur Razzaq",
+        "Aibak",
+        "Balban"
+    ],
+    answer: "Aibak"
+},
+
+{
+    question: "16th century in Indian villages in who/which adidK baahrii taakteN daakhil happened, they were-",
+    option: [
+        "Mughal state",
+        "trade",
+        "currency and market",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "greatin India eight profr of marriage of mention is, thesehow many in total in profr of marriage shresstth and dhrmsmmt maadid go are ?",
+    option: [
+        "4",
+        "8",
+        "7",
+        "6"
+    ],
+    answer: "4"
+},
+
+{
+    question: "miir-bkhshii name adhiofrii major was:",
+    option: [
+        "vitt-department of",
+        "sainy department of",
+        "videsh department of",
+        "rule court of"
+    ],
+    answer: "sainy department of"
+},
+
+{
+    question: "miiraabaaii did whom his only pti sviiofr did?",
+    option: [
+        "mevaadd' of sisodiyaa clan of prince to",
+        "Shiva to",
+        "Vishnu of incarnation Krishna to",
+        "None of these"
+    ],
+    answer: "Vishnu of incarnation Krishna to"
+},
+
+{
+    question: "year 1938 in, which person did ‘vysk mtaadhiofr of basis on’ Constitution Assembly of formation of demanded?",
+    option: [
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "vllbh brother Patel",
+        "Jawaharlal didhru"
+    ],
+    answer: "Jawaharlal didhru"
+},
+
+{
+    question: "Mahabharata and Purana in Mathura of ruler dynasty to said went is",
+    option: [
+        "puru",
+        "turvs",
+        "Yadu",
+        "all"
+    ],
+    answer: "Yadu"
+},
+
+{
+    question: "which ruler Humayun of ptn reason for became?",
+    option: [
+        "Bahadur Shah",
+        "Sher Shah",
+        "Mahmud lodii",
+        "None of these"
+    ],
+    answer: "Sher Shah"
+},
+
+{
+    question: "Russia in India vidyaa of jnk is called ?",
+    option: [
+        "nitolii tonnttii",
+        "Afanasy Nikitin",
+        "G.S. Lividev",
+        "Domingos Paes"
+    ],
+    answer: "G.S. Lividev"
+},
+
+{
+    question: "Subhas Chandra Bose Indian national ofNgres of chairman when bdid ?",
+    option: [
+        "1938 AD. of hripuraa session in",
+        "1939 AD. of tripurii session in",
+        "1938 and 1939 AD. both in",
+        "kbhii not"
+    ],
+    answer: "1938 and 1939 AD. both in"
+},
+
+{
+    question: "saaNcii stuup of khoj who did?",
+    option: [
+        "General Taylor",
+        "alekjeNddr Cunningham",
+        "eph C maisii",
+        "mejr koNl"
+    ],
+    answer: "General Taylor"
+},
+
+{
+    question: "Muhammad Ali and shaukt Ali onson were",
+    option: [
+        "brother–brother",
+        "father–son",
+        "mitr",
+        "caacaa–bhtiijaa"
+    ],
+    answer: "brother–brother"
+},
+
+{
+    question: "greatof India original author were ?",
+    option: [
+        "bard charioteer",
+        "Veda Beas",
+        "oflidaas",
+        "None of these"
+    ],
+    answer: "bard charioteer"
+},
+
+{
+    question: "jn word of Rigveda in 275 times use did went hai /  jnpd usii Veda in how many times use did went is?",
+    option: [
+        "200 times",
+        "300 times",
+        "10 times",
+        "one times also not"
+    ],
+    answer: "one times also not"
+},
+
+{
+    question: "bulNd drvaajaa at which place is?",
+    option: [
+        "Agra",
+        "Fatehpur Sikri",
+        "phtehgddh'",
+        "phirojpur"
+    ],
+    answer: "Fatehpur Sikri"
+},
+
+{
+    question: "varna system according to Shudra of ofry was ?",
+    option: [
+        "Veda pddh'naa",
+        "war ldd'naa",
+        "trade to do",
+        "all three varnas of fromvaa to do"
+    ],
+    answer: "all three varnas of fromvaa to do"
+},
+
+{
+    question: "1857 of revolt to who first freedom struggle said ?",
+    option: [
+        "B 0 D 0 Savarkar",
+        "R 0 C 0 Majumdar",
+        "Jawaharlal",
+        "None of these"
+    ],
+    answer: "B 0 D 0 Savarkar"
+},
+
+{
+    question: "Bahmani state establishment of happened was",
+    option: [
+        "1347 AD",
+        "1247 AD",
+        "1447 AD",
+        "1547 AD"
+    ],
+    answer: "1347 AD"
+},
+
+{
+    question: "Mahatma Gandhi did first whichaan movement where start did ?",
+    option: [
+        "brdaulii",
+        "cNpaarnn",
+        "Dandi",
+        "vrdhaa"
+    ],
+    answer: "cNpaarnn"
+},
+
+{
+    question: "which only foreign traveler did Mughalofliin ofrkhaanaa of description gave is ?",
+    option: [
+        "Bernier",
+        "Bernier",
+        "mnuucii",
+        "gulelii kairii"
+    ],
+    answer: "Bernier"
+},
+
+{
+    question: "shikmii-ryot to Bengal in jmiin who ptttte on detaa was?",
+    option: [
+        "ryot",
+        "Company",
+        "landlord",
+        "iktedaar"
+    ],
+    answer: "ryot"
+},
+
+{
+    question: "which postal system to Uluka was called ?",
+    option: [
+        "on foot postal system",
+        "ashv postal system",
+        "bailgaadd'ii postal system",
+        "None of these"
+    ],
+    answer: "ashv postal system"
+},
+
+{
+    question: "Indus valley civilization whose smofliin not maanii goes ?",
+    option: [
+        "China of civilization",
+        "misr of civilization",
+        "mesopottaamiyaa of civilization",
+        "kriitt of civilization"
+    ],
+    answer: "kriitt of civilization"
+},
+
+{
+    question: "Indus civilization of resident which deity of lay follower were?",
+    option: [
+        "Indra",
+        "Shiva",
+        "Vishnu",
+        "Agni"
+    ],
+    answer: "Shiva"
+},
+
+{
+    question: "vidrohiyoN of Bahadur Shah Zafar from what maaNg was ?",
+    option: [
+        "thoseof powerful top",
+        "thoseof aashiirvaad",
+        "thoseof saaraa khjaanaa",
+        "Company from treaty tax India on Mughal power of purnsthaapnaa taxdid for Marathas of aahvaan of declaration to do"
+    ],
+    answer: "thoseof aashiirvaad"
+},
+
+{
+    question: "second Buddhist sNgti of organization Vaishali in whose rule ofl in of went was?",
+    option: [
+        "Ashoka",
+        "oflaashok",
+        "Ajatashatru",
+        "None of these"
+    ],
+    answer: "oflaashok"
+},
+
+{
+    question: "East India Company establishment of when did it happen?",
+    option: [
+        "1600 AD",
+        "1605 AD",
+        "1610 AD",
+        "1615 AD"
+    ],
+    answer: "1600 AD"
+},
+
+{
+    question: "Deccan in Chola powerful bdid were",
+    option: [
+        "second from eighth century",
+        "nauviiN from thirteenth century",
+        "fifteenth from seventeenth century",
+        "None of these"
+    ],
+    answer: "nauviiN from thirteenth century"
+},
+
+{
+    question: "bhirvivaah means ?",
+    option: [
+        "gotra from baahr marriage to do",
+        "gotra of aNdr marriage to do",
+        "any religion in marriage to do",
+        "None of these"
+    ],
+    answer: "gotra from baahr marriage to do"
+},
+
+{
+    question: "peshksh meaning of was-",
+    option: [
+        "hiNduoN by gave jaadid one one religious tax",
+        "Mughal state of by lii jaadid one one profr of bheNtt",
+        "dhruv site from luuttaa happened maal",
+        "mraatthaa by British from vsuulaa went ttaiks"
+    ],
+    answer: "Mughal state of by lii jaadid one one profr of bheNtt"
+},
+
+{
+    question: "Harihara and bukof which dynasty of ruler were ?",
+    option: [
+        "Sangam dynasty",
+        "saaluv dynasty",
+        "tuluv dynasty",
+        "araaviidduu dynasty"
+    ],
+    answer: "Sangam dynasty"
+},
+
+{
+    question: "Mahatma Buddha of ghr tyaagdid after thatof first Guru who was?",
+    option: [
+        "Ananda",
+        "Ashvaghosha",
+        "aalaar and udkraamputt",
+        "None of these"
+    ],
+    answer: "aalaar and udkraamputt"
+},
+
+{
+    question: "shiofr during route in pdd'did ones in the village land-revenue related jaanofrii which emperor first obtained of?",
+    option: [
+        "awhenr",
+        "Humayun",
+        "Jahangir",
+        "Shah Jahan"
+    ],
+    answer: "awhenr"
+},
+
+{
+    question: "his travel account ‘mtl'saaden’ name from which foreign traveler written",
+    option: [
+        "Domingos Paes",
+        "Abdur Razzaq",
+        "nitolo tonnttii",
+        "Fernao Nuniz"
+    ],
+    answer: "Abdur Razzaq"
+},
+
+{
+    question: "Indus civilization in godii baadd'aa where from was found is ?",
+    option: [
+        "ofliibNgaan",
+        "Ropar",
+        "bnvaalii",
+        "Lothal"
+    ],
+    answer: "Lothal"
+},
+
+{
+    question: "1942 AD who movement happened ?",
+    option: [
+        "Khilafat",
+        "non-cooperation",
+        "civil disobedience",
+        "India Quit"
+    ],
+    answer: "India Quit"
+},
+
+{
+    question: "sliim Chishti of shrine where avsthit is?",
+    option: [
+        "Agra",
+        "Ajmer",
+        "Vijayanagara",
+        "Delhi"
+    ],
+    answer: "Agra"
+},
+
+{
+    question: "‘Sir’ of title who back of was ?",
+    option: [
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak",
+        "rviindr naath Tagore",
+        "Jawaharlal didhruu"
+    ],
+    answer: "rviindr naath Tagore"
+},
+
+{
+    question: "Mauryaofl in jnpd from obtained bedid one income to was called",
+    option: [
+        "durg",
+        "raassttr",
+        "national",
+        "None of the above"
+    ],
+    answer: "raassttr"
+},
+
+{
+    question: "1857 of revolt during iNglainndd of prdhaanmNtrii who was ?",
+    option: [
+        "ddijrailii",
+        "raabrtt piil",
+        "paamrsttn",
+        "glaiddstton"
+    ],
+    answer: "paamrsttn"
+},
+
+{
+    question: "traveler brbosaa is related to was",
+    option: [
+        "France from",
+        "Portugal from",
+        "niidrlaiNdd from",
+        "England from"
+    ],
+    answer: "Portugal from"
+},
+
+{
+    question: "lapse of principle is related to was",
+    option: [
+        "Lord Curzon from",
+        "Dalhousie from",
+        "littttn from",
+        "miNtto from"
+    ],
+    answer: "Dalhousie from"
+},
+
+{
+    question: "which tiirthyaatrii to travelers of prince is called ?",
+    option: [
+        "Xuanzang",
+        "phaahiyaan",
+        "itsiNg",
+        "hvelii"
+    ],
+    answer: "Xuanzang"
+},
+
+{
+    question: "jaaliyaaNvaalaa baag htyaaofNdd In which year did it occur ?",
+    option: [
+        "1919 AD",
+        "1920 AD",
+        "1907 AD",
+        "1929 AD"
+    ],
+    answer: "1919 AD"
+},
+
+{
+    question: "Xuanzang did knnauj in one religious conference of organization did whichof ofry is was-",
+    option: [
+        "18 days until",
+        "20 days until",
+        "16 days until",
+        "17 days until"
+    ],
+    answer: "18 days until"
+},
+
+{
+    question: "Harappa civilization of largest city who was ?",
+    option: [
+        "Mohenjo-daro",
+        "ofliibNgaa",
+        "Lothal",
+        "rNgpur"
+    ],
+    answer: "Mohenjo-daro"
+},
+
+{
+    question: "India Quit movement when did it happen ?",
+    option: [
+        "8 August, 1942 in",
+        "6 August, 1940 in",
+        "25 January, 1949 to",
+        "None of these"
+    ],
+    answer: "8 August, 1942 in"
+},
+
+{
+    question: "Kalinga on victory who obtained did was ?",
+    option: [
+        "Chandra Gupta Maurya",
+        "biNdusaar",
+        "Ashoka",
+        "None of these"
+    ],
+    answer: "Ashoka"
+},
+
+{
+    question: "1857 of revolution of daurn Sagar and aas – paas of region in who British to oneshaan did ?",
+    option: [
+        "Bakhtawali",
+        "suppression Singh",
+        "bodhn dauaa",
+        "All of these did"
+    ],
+    answer: "All of these did"
+},
+
+{
+    question: "Guru Nanak is related to which religion from is?",
+    option: [
+        "Sikh",
+        "Islam",
+        "Buddhist",
+        "yhuudii"
+    ],
+    answer: "Sikh"
+},
+
+{
+    question: "‘Fort William’ which city in situated is ?",
+    option: [
+        "Bombay",
+        "Madras",
+        "Delhi",
+        "toloftaa"
+    ],
+    answer: "toloftaa"
+},
+
+{
+    question: "for the first time Harappa to In which year utkhnit did went ?",
+    option: [
+        "1921",
+        "1924",
+        "1927",
+        "1930"
+    ],
+    answer: "1921"
+},
+
+{
+    question: "tol revolt of didtaa who were?",
+    option: [
+        "Sidhu-ofnhuu",
+        "Birsa Munda",
+        "Buddha Bhagat",
+        "Tirat Singh"
+    ],
+    answer: "Buddha Bhagat"
+},
+
+{
+    question: "greatof India great edition in clan regions of number is-",
+    option: [
+        "one lakh",
+        "two lakh",
+        "ten lakh",
+        "five lakh"
+    ],
+    answer: "one lakh"
+},
+
+{
+    question: "vaasudev Krishna, whom bhaagvt sect of prnnetaa considered goes hai /  birth which clan in happened?",
+    option: [
+        "vRssnni",
+        "Yadu",
+        "kaushly",
+        "None of these"
+    ],
+    answer: "vRssnni"
+},
+
+{
+    question: "cauriicauraa ofnndd when did it happen ?",
+    option: [
+        "5 February, 1922",
+        "16 February, 1922",
+        "20 March, 1922",
+        "None of these"
+    ],
+    answer: "5 February, 1922"
+},
+
+{
+    question: "‘dronnaacaary’ to which disciple did Guru dkssinnaa in shrss his aNguutthaa ofttkr de gave?",
+    option: [
+        "hirnnydhnu",
+        "eklvy",
+        "Arjuna",
+        "krnn"
+    ],
+    answer: "eklvy"
+},
+
+{
+    question: "year 1936 in, who from session in Indian national ofNgres by Constitution Assembly of formation of demand rkhii went?",
+    option: [
+        "ofnpur session",
+        "Mumbai session",
+        "phaijpur session",
+        "Lahore session"
+    ],
+    answer: "phaijpur session"
+},
+
+{
+    question: "greatof India critical edition relation withit one extremely mhttvaaofNkssii oniyojnaa of which year beginning happened was he/that was-",
+    option: [
+        "1919 AD",
+        "1915 AD",
+        "1717 AD",
+        "1616 AD"
+    ],
+    answer: "1919 AD"
+},
+
+{
+    question: "mirjaa gaalib for who–like north most correct is ?",
+    option: [
+        "he/that Islam of prcaark was",
+        "he/that one famous shaayr was",
+        "he/that Sufi snt and yoddhaa soldier was",
+        "he/that one vikhyaat ptrofr was"
+    ],
+    answer: "he/that one famous shaayr was"
+},
+
+{
+    question: "‘Bhagavad Gita’ greatof India which onv from avtrit hai / ",
+    option: [
+        "etc.onv",
+        "Bhishma onv",
+        "sauptik onv",
+        "dronn onv"
+    ],
+    answer: "Bhishma onv"
+},
+
+{
+    question: "Ibn Battuta did his journey of description wrote:",
+    option: [
+        "Persian in",
+        "Urdu in",
+        "English in",
+        "Arabic in"
+    ],
+    answer: "Persian in"
+},
+
+{
+    question: "suuryaast ofnuun which on was implemented?",
+    option: [
+        "raiytoN on",
+        "jotedars on",
+        "landlords on",
+        "saahuuofroN on"
+    ],
+    answer: "landlords on"
+},
+
+{
+    question: "Vijayanagara empire how many in raajvNshoN did rule did was ?",
+    option: [
+        "two",
+        "four",
+        "three",
+        "five"
+    ],
+    answer: "four"
+},
+
+{
+    question: "Mughal dynasty of shaastoN did self for apdid for who/which name chosen he/that was:",
+    option: [
+        "Turk-Mongol",
+        "mNgoliyaavaasii",
+        "taimuurii",
+        "Turk-aphgaanii"
+    ],
+    answer: "taimuurii"
+},
+
+{
+    question: "sixteen Mahajanapadas of rise happened",
+    option: [
+        "Maurya era in",
+        "Buddha era in",
+        "Gupta era in",
+        "Rigvedic era in"
+    ],
+    answer: "Buddha era in"
+},
+
+{
+    question: "Mahatma Gandhi by was started first jn-movement who was?",
+    option: [
+        "Nil movement",
+        "non-cooperation movement",
+        "India Quit movement",
+        "salt movement"
+    ],
+    answer: "Nil movement"
+},
+
+{
+    question: "Aurangzeb is related to which Sufi series from was?",
+    option: [
+        "Chishti",
+        "Suhrawardy",
+        "ofdirii",
+        "nkshbndii"
+    ],
+    answer: "nkshbndii"
+},
+
+{
+    question: "December, 1943 in League did ofNgres of ‘India Quit movement’ of naare of muofble in nyaa slogan ‘baaNtto and bhaago’ apdid which session in gave ?",
+    option: [
+        "kraaNcii session in",
+        "Lahore session in",
+        "Surat session in",
+        "islaamaabaad session in"
+    ],
+    answer: "kraaNcii session in"
+},
+
+{
+    question: "khaalsaa sect formation of who did?",
+    option: [
+        "Guru Nanak",
+        "Guru Tegh Bahadur",
+        "Guru Govind Singh",
+        "Guru Arjuna god"
+    ],
+    answer: "Guru Govind Singh"
+},
+
+{
+    question: "which indigenous riyaast of representative did ‘Constitution Assembly’ in part not liyaa was?",
+    option: [
+        "Kashmir",
+        "Hyderabad",
+        "maisuur",
+        "juunaagrh"
+    ],
+    answer: "Hyderabad"
+},
+
+{
+    question: "Tamil region relation withit mnnikkvaackr of two vishesstaaeN were-",
+    option: [
+        "ofNsy statueofr, Shaiva followers devotion giit gaayk",
+        "Shaiva followers and Tamil in bhktigiit of compositionofr",
+        "Tamil devotion gaan and danceofr",
+        "above all three in first correct is"
+    ],
+    answer: "Shaiva followers and Tamil in bhktigiit of compositionofr"
+},
+
+{
+    question: "Constitution Assembly in which province of prtinidhitv sbfrom more was?",
+    option: [
+        "Bengal",
+        "Chennai",
+        "Mumbai",
+        "united province"
+    ],
+    answer: "united province"
+},
+
+{
+    question: "victory city of establishment during Delhi of Sultan who was ?",
+    option: [
+        "Muhammad bin Tughlaq",
+        "Balban",
+        "Alauddin Khilji",
+        "Firoz Shah Tughlaq"
+    ],
+    answer: "Muhammad bin Tughlaq"
+},
+
+{
+    question: "following kthnoN among who from Constitution Assembly of formation about is correctN:-<br>1. Constitution Assembly of members of cyn 1946 in provincial elections of basis on did went was<br>2. indigenous states of prtinidhiyoN to Constitution Assembly in smmlit not did went<br>3. Constitution Assembly of bhiitr view vimrsh people by vykt of went raayoN from prbhaavit not is was<br>4. collective shbhaagiitaa of bhaav arose taxdid for people from sujhaav maaNge went were lower gave kuutt of use tax correct north cudid",
+    option: [
+        "ofvl option 1",
+        "option 2 and 3",
+        "option 3 and 4",
+        "option 1 and 4"
+    ],
+    answer: "option 1 and 4"
+},
+
+{
+    question: "Roy Bahadur Dayaram Sahni did where utkhnn caused was ?",
+    option: [
+        "Mohenjo-daro",
+        "Harappa",
+        "Lothal",
+        "ofliibNgaa"
+    ],
+    answer: "Harappa"
+},
+
+{
+    question: "Portuguese did govaa on when adhiofr did?",
+    option: [
+        "1515",
+        "1512",
+        "1510",
+        "1509"
+    ],
+    answer: "1510"
+},
+
+{
+    question: "Shah Jahan during happened uttraadhiofr war description of which traveler did hai / ",
+    option: [
+        "nitolotoT",
+        "Bernier",
+        "Abdur Razzaq",
+        "paiddes"
+    ],
+    answer: "Bernier"
+},
+
+{
+    question: "following kthnoN among which one is correct?",
+    option: [
+        "year 1946 in provincial assemblies by of India Constitution Assembly chosen went",
+        "Jawaharlal didhru M.A.Jinnah and Sardar vllbh brother Patel of India Constitution Assembly were members",
+        "of India Constitution Assembly of first session January 1947 in happened",
+        "of India Constitution 26 January 1950 to aNgiikRt did went"
+    ],
+    answer: "year 1946 in provincial assemblies by of India Constitution Assembly chosen went"
+},
+
+{
+    question: "iNddiof kitaab of author were ?",
+    option: [
+        "Cunningham",
+        "jaan Marshall",
+        "Megasthenes",
+        "All of these"
+    ],
+    answer: "Megasthenes"
+},
+
+{
+    question: "Panipat of first war when did it happen?",
+    option: [
+        "1526",
+        "1540",
+        "1556",
+        "1575"
+    ],
+    answer: "1526"
+},
+
+{
+    question: "sinyu valley civilization in hl of evidence where from was found is ?",
+    option: [
+        "Harappa",
+        "Mohenjo-daro",
+        "Ropar",
+        "ofliibNgaa"
+    ],
+    answer: "ofliibNgaa"
+},
+
+{
+    question: "victory Hind of slogan who gave ?",
+    option: [
+        "Bhagat Singh",
+        "Chandrashekhar",
+        "Jawaharlal didhruu",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Subhas Chandra Bose"
+},
+
+{
+    question: "Bengal of famous saint who were?",
+    option: [
+        "Chaitanya Mahaprabhu",
+        "Guru Nanak",
+        "wheniir",
+        "baabaa phriid"
+    ],
+    answer: "Chaitanya Mahaprabhu"
+},
+
+{
+    question: "Safavids of mainly power was:",
+    option: [
+        "iiraan in",
+        "Turk in",
+        "ujbewhichtaan in",
+        "Afghanistan in"
+    ],
+    answer: "iiraan in"
+},
+
+{
+    question: "kaur (Kuru) wheniile of rise which two large wheniiloN of united bedid on happened-",
+    option: [
+        "Bharata and drhuuyuu",
+        "Bharata and Kuru",
+        "Yadu and turvs",
+        "Yadu and puru"
+    ],
+    answer: "Bharata and Kuru"
+},
+
+{
+    question: "Meera whose devotee was ?",
+    option: [
+        "Rama",
+        "Krishna",
+        "Nanak",
+        "Vishnu"
+    ],
+    answer: "Krishna"
+},
+
+{
+    question: "greatof India original kthaa of author who were ?",
+    option: [
+        "bard charioteer",
+        "Veda Beas",
+        "thread",
+        "None of the above"
+    ],
+    answer: "bard charioteer"
+},
+
+{
+    question: "William Jones did Asiatic Society establishment of when of was?",
+    option: [
+        "1784 AD",
+        "1835 AD",
+        "1861 AD",
+        "1902 AD"
+    ],
+    answer: "1784 AD"
+},
+
+{
+    question: "Harappa vaasiyoN by main crops were",
+    option: [
+        "wheat and jau, til",
+        "yv, muuNgphlii and rice",
+        "wheat, rice and sugarcane",
+        "wheat, cotton and sugarcane"
+    ],
+    answer: "wheat and jau, til"
+},
+
+{
+    question: "Aurangzeb of dehaaNt happened was:",
+    option: [
+        "1857 AD",
+        "1707 AD",
+        "1907 AD",
+        "1607 AD"
+    ],
+    answer: "1707 AD"
+},
+
+{
+    question: "vedaaNgoN of number what is?",
+    option: [
+        "5",
+        "4",
+        "6",
+        "7"
+    ],
+    answer: "6"
+},
+
+{
+    question: "Mohenjo-daro which language of word is ?",
+    option: [
+        "Hindi",
+        "sindhii",
+        "Urdu",
+        "Persian"
+    ],
+    answer: "sindhii"
+},
+
+{
+    question: "1920 AD who movement happened ?",
+    option: [
+        "Khilafat",
+        "non-cooperation",
+        "India Quit",
+        "civil disobedience"
+    ],
+    answer: "non-cooperation"
+},
+
+{
+    question: "Megasthenes in India which ruler of raajduut bnkr came was ?",
+    option: [
+        "Sikandar",
+        "ddaaymesk",
+        "fromlyuuks",
+        "None of these"
+    ],
+    answer: "fromlyuuks"
+},
+
+{
+    question: "Mughal empire of actual founder were:",
+    option: [
+        "awhenr",
+        "Babur",
+        "Humayun",
+        "above among toAD also not"
+    ],
+    answer: "Babur"
+},
+
+{
+    question: "Mahavira owner did Jain religion of principles in which principle jodd'aa was?",
+    option: [
+        "ahiNsaa",
+        "astey",
+        "celibacy",
+        "aonigrh"
+    ],
+    answer: "celibacy"
+},
+
+{
+    question: "Francois Bernier in India which century came to he/that was:",
+    option: [
+        "seventeenth",
+        "nineteenth",
+        "eighteenth",
+        "fifteenth"
+    ],
+    answer: "seventeenth"
+},
+
+{
+    question: "Dara shitoh of son of what name was?",
+    option: [
+        "sulemaan shitoh",
+        "Shuja",
+        "shaahryaar",
+        "None of these"
+    ],
+    answer: "sulemaan shitoh"
+},
+
+{
+    question: "Nizamuddin Auliya of shrine where is?",
+    option: [
+        "Delhi",
+        "Agra",
+        "Ajmer",
+        "Fatehpur Sikri"
+    ],
+    answer: "Delhi"
+},
+
+{
+    question: "Ryotwari settlement of jnk were-",
+    option: [
+        "maarttin brdd",
+        "buofnn",
+        "munro and riidd",
+        "All of these"
+    ],
+    answer: "munro and riidd"
+},
+
+{
+    question: "Nizamuddin Auliya which Sufi series relation withit were?",
+    option: [
+        "Chishti",
+        "Suhrawardy",
+        "ofdirii",
+        "None of these"
+    ],
+    answer: "Chishti"
+},
+
+{
+    question: "South India in at which place revolt happened was ?",
+    option: [
+        "tolhaapur",
+        "Satara",
+        "puunaa",
+        "All of these jgh"
+    ],
+    answer: "All of these jgh"
+},
+
+{
+    question: "rehlaa who written ?",
+    option: [
+        "Al-Biruni",
+        "Ibn Battuta",
+        "Ibn jubair",
+        "maartoPolo"
+    ],
+    answer: "Ibn Battuta"
+},
+
+{
+    question: "18th century in Bengal in niilaamii how many in percent from more bikrii phrjii is was?",
+    option: [
+        "95 percent",
+        "99 percent",
+        "75 percent",
+        "39 percent"
+    ],
+    answer: "95 percent"
+},
+
+{
+    question: "greatof India great edition in clan regions of number is ?",
+    option: [
+        "one lakh",
+        "two lakh",
+        "ten lakh",
+        "five lakh"
+    ],
+    answer: "one lakh"
+},
+
+{
+    question: "Deccan dNgaa Commission when formed happened?",
+    option: [
+        "1875 AD",
+        "1880 AD",
+        "1885 AD",
+        "1890 AD"
+    ],
+    answer: "1875 AD"
+},
+
+{
+    question: "Jains of language what was?",
+    option: [
+        "Pali",
+        "Prakrit",
+        "Sanskrit",
+        "hiNdii"
+    ],
+    answer: "Prakrit"
+},
+
+{
+    question: "1916 in happened Indian national ofNgres of Lucknow session of chairmanship who did was?",
+    option: [
+        "Rash Behari Bose",
+        "aNbiof crnn Majumdar",
+        "bhuupendrnaath Bose",
+        "None of these"
+    ],
+    answer: "aNbiof crnn Majumdar"
+},
+
+{
+    question: "Calcutta in Asiatic Society establishment of of",
+    option: [
+        "knighm",
+        "phliitt",
+        "D.C. Sirofr",
+        "William Jones"
+    ],
+    answer: "William Jones"
+},
+
+{
+    question: "Constitution Assembly to by whom muurt form prdaan did?",
+    option: [
+        "Mahatma Gandhi",
+        "Motilal didhru",
+        "M. N. Roy",
+        "Jawaharlal didhru"
+    ],
+    answer: "Jawaharlal didhru"
+},
+
+{
+    question: "Vijayanagara empire who founded ?",
+    option: [
+        "Harihara and bukof",
+        "Devaraya first",
+        "Krishnadeva Roy",
+        "Sadashiva Roy"
+    ],
+    answer: "Harihara and bukof"
+},
+
+{
+    question: "awhenr did Abul Fazl from apdid self period of of history likhvaayaa /  ancient ofl in aisii onNonaa where was?",
+    option: [
+        "China",
+        "yuunaan",
+        "rom",
+        "England"
+    ],
+    answer: "yuunaan"
+},
+
+{
+    question: "Jagannath literally means-",
+    option: [
+        "entire world of owner",
+        "Vishnu and Shiva of incarnation",
+        "all of hitaissii",
+        "None of these"
+    ],
+    answer: "entire world of owner"
+},
+
+{
+    question: "Mughal ofl in courtier language whom made went was?",
+    option: [
+        "Arabic language",
+        "turof language",
+        "Persian language",
+        "None of these"
+    ],
+    answer: "Persian language"
+},
+
+{
+    question: "Dharmasutras and Dharmashastras according to how many types of marriage to correct considered went is ?",
+    option: [
+        "2",
+        "4",
+        "6",
+        "8"
+    ],
+    answer: "4"
+},
+
+{
+    question: "he/that who person was whichdid 1842 of bundelaa revolt of suppression in British of mdd of was , mgr 1857 of revolution during thatdid vidrohiyoN of with gave and British to highly oneshaan did ?",
+    option: [
+        "Tatya Tope",
+        "Bakhtawali",
+        "Nana Sahib",
+        "Firoz Shah"
+    ],
+    answer: "Bakhtawali"
+},
+
+{
+    question: "Sanskrit texts in ‘clan’ word of use is is",
+    option: [
+        "onivaar for",
+        "king for",
+        "caste for",
+        "above for toAD not"
+    ],
+    answer: "onivaar for"
+},
+
+{
+    question: "Indian national ofNgres establishment of when did it happen was?",
+    option: [
+        "1881",
+        "1885",
+        "1888",
+        "1890"
+    ],
+    answer: "1885"
+},
+
+{
+    question: "Lingayat department who founded was?",
+    option: [
+        "Gopal",
+        "Basava",
+        "Bhadrabahu",
+        "Rishabhadeva"
+    ],
+    answer: "Basava"
+},
+
+{
+    question: "Constitution Assembly for various provinces from elected 292 members among ofNgres of how many representative elected having become came?",
+    option: [
+        "195",
+        "225",
+        "208",
+        "235"
+    ],
+    answer: "208"
+},
+
+{
+    question: "Harappa civilization of India which part in viksit happened was ?",
+    option: [
+        "south",
+        "puurvottr",
+        "pshcimottr",
+        "central India"
+    ],
+    answer: "pshcimottr"
+},
+
+{
+    question: "Ain-A-awhenrii essentially in which language was written is?",
+    option: [
+        "Devanagari",
+        "Persian",
+        "Sanskrit",
+        "None of these"
+    ],
+    answer: "Persian"
+},
+
+{
+    question: "Al-Biruni which languages of jnyaataa was thosein included thii / ",
+    option: [
+        "Syriac and Persian",
+        "Hebrew and Sanskrit",
+        "ofvl ‘K’ point is correct",
+        "‘K’ and ‘kh’ both point only is correctN"
+    ],
+    answer: "‘K’ and ‘kh’ both point only is correctN"
+},
+
+{
+    question: "India Quit movement during Gandhiji about this declaration who did that when duniyaa phr anywhere jiit were are, aifrom vkt in one kmjor dushmn of saamdid from jhuk skte are who/which hmeshaa hmaaraa dushmn was",
+    option: [
+        "viNsttn crcil",
+        "remje mekddoln",
+        "kliiintt Attlee",
+        "paarmsttn"
+    ],
+    answer: "viNsttn crcil"
+},
+
+{
+    question: "Ashoka apdid coronation after In which year Kalinga on victory obtained of?",
+    option: [
+        "7th year",
+        "8th year",
+        "9th year",
+        "10th year"
+    ],
+    answer: "8th year"
+},
+
+{
+    question: "Babur of sNsmrnnoN of essentially correct name and language correct is-",
+    option: [
+        "Tuzuk-A-Babri and turof",
+        "taariikhe Hindustan and Hindi",
+        "Baburnama and Persian",
+        "taariikhe-Babur shaahii and Urdu"
+    ],
+    answer: "Tuzuk-A-Babri and turof"
+},
+
+{
+    question: "Ashoka by prcaarit Buddhist religion where prclit not happened?",
+    option: [
+        "jaapaan",
+        "siiriyaa",
+        "Britain",
+        "shriilNof"
+    ],
+    answer: "Britain"
+},
+
+{
+    question: "of India for Constitution Assembly of composition for Constitution Assembly of view following among sbbefore who presented did?",
+    option: [
+        "self-rule party 1924",
+        "ofNgres party 1936",
+        "Muslim League did 1942",
+        "srvdl conference did 1946"
+    ],
+    answer: "self-rule party 1924"
+},
+
+{
+    question: "Ramananda of disciple who were?",
+    option: [
+        "Ravidas",
+        "wheniir",
+        "dhnnaa and piipaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "central India and dkknii ptthaar of jmiin on which crop ugaayii goes is?",
+    option: [
+        "cotton",
+        "sugarcane",
+        "srsoN",
+        "millet"
+    ],
+    answer: "cotton"
+},
+
+{
+    question: "Jain religion of Tirthankara Rishabhadeva of prtiik cinh is-",
+    option: [
+        "elephant",
+        "srp",
+        "saaNdd'",
+        "None of the above"
+    ],
+    answer: "saaNdd'"
+},
+
+{
+    question: "awhenr of important shaaNti policy to which name from to go went?",
+    option: [
+        "sulh - A - clan",
+        "diin - A - ilaahii",
+        "srvdhrm smbhaav",
+        "None of these"
+    ],
+    answer: "sulh - A - clan"
+},
+
+{
+    question: "aamuktmaalyaad who written ?",
+    option: [
+        "Harihara–I",
+        "bukof–I",
+        "Devaraya-I",
+        "Krishnadevaraya"
+    ],
+    answer: "Krishnadevaraya"
+},
+
+{
+    question: "didtaajii Subhas Chandra Bose did 1939 in which party formed was?",
+    option: [
+        "Indian freedom party",
+        "Azad Hind army",
+        "revolutionofrii morcaa",
+        "phoNrvrdd block"
+    ],
+    answer: "phoNrvrdd block"
+},
+
+{
+    question: "Vishnu to his pti who maantii were?",
+    option: [
+        "Meera",
+        "Andal",
+        "Karaikal",
+        "All of these"
+    ],
+    answer: "Andal"
+},
+
+{
+    question: "following among who Indian Constitution Assembly of draft (draft) Committee of chairman were?",
+    option: [
+        "Dr.. Rajendra Prasad",
+        "Pt. Jawaharlal didhru",
+        "Dr.. B. R. Ambedkar",
+        "purussottm daas ttNddn"
+    ],
+    answer: "Dr.. B. R. Ambedkar"
+},
+
+{
+    question: "which historyofr did only inscriptions of basis on Ashoka of history written?",
+    option: [
+        "D. R. bhnnddaarkr",
+        "James priNfromp",
+        "of. P. jaaysvaal",
+        "ttiiphenthelr"
+    ],
+    answer: "D. R. bhnnddaarkr"
+},
+
+{
+    question: "following Hindu deities among who saindhv civilization of major deity were ?",
+    option: [
+        "Ganesha",
+        "Shiva",
+        "Vishnu",
+        "Varuna"
+    ],
+    answer: "Shiva"
+},
+
+{
+    question: "Indian freedom Act when became ?",
+    option: [
+        "4 July, 1947 AD. to",
+        "18 July, 1947 AD. to",
+        "20 July, 1947 AD. to",
+        "15 August, 1947 AD. to"
+    ],
+    answer: "18 July, 1947 AD. to"
+},
+
+{
+    question: "Gautama Buddha of bcpn of what is the name was?",
+    option: [
+        "Subhas Chandra",
+        "mhaamaayaa",
+        "Siddhartha",
+        "None of these"
+    ],
+    answer: "Siddhartha"
+},
+
+{
+    question: "Aurangzeb of Hindu-virodhii policy of Mathura of which logoN did opposition did?",
+    option: [
+        "Rajput",
+        "Sikh",
+        "jaatt",
+        "None of these"
+    ],
+    answer: "jaatt"
+},
+
+{
+    question: "hrissenn of ‘pryaagprshsti’ in which Gupta emperor description of is?",
+    option: [
+        "Chandragupta first",
+        "ghttotkc",
+        "smudrgupt",
+        "kumaar Gupta"
+    ],
+    answer: "smudrgupt"
+},
+
+{
+    question: "British did first his phaikttrii where established did was?",
+    option: [
+        "hldiyaaN",
+        "Surat",
+        "toChina",
+        "All of these"
+    ],
+    answer: "Surat"
+},
+
+{
+    question: "Vijayanagara of shaastoN did apdid–aapto what said ?",
+    option: [
+        "Rao",
+        "rule",
+        "saamnt",
+        "Roy"
+    ],
+    answer: "Roy"
+},
+
+{
+    question: "Indian national ofNgres of first session of chairmanship of was",
+    option: [
+        "Dadabhai Naoroji",
+        "vyomesh Chandra Banerjee",
+        "Firoz Shah Mehta",
+        "Gopal Krishna Gokhale"
+    ],
+    answer: "vyomesh Chandra Banerjee"
+},
+
+{
+    question: "sixth century AD. BC adidK gnntaaNtrik state ameriof in were, this profr of states in one ruler state was, this state in which great person birth of happened was ?",
+    option: [
+        "Mahatma Buddha",
+        "Mahavira owner",
+        "above both",
+        "toAD not"
+    ],
+    answer: "Mahatma Buddha"
+},
+
+{
+    question: "1648 in Mughals did his capital Agra from where established of?",
+    option: [
+        "Lucknow",
+        "ahmdaabaad",
+        "Shahjahanabad",
+        "Agra"
+    ],
+    answer: "Shahjahanabad"
+},
+
+{
+    question: "Buddha of Sarnath in gave first prvcn what is called?",
+    option: [
+        "religion turning",
+        "dhrmckr turning",
+        "religion smaagm",
+        "central smaagm"
+    ],
+    answer: "dhrmckr turning"
+},
+
+{
+    question: "15 August, 1947 AD. to when India svtntr happened, that time Britain in which party of Sirofr was ?",
+    option: [
+        "lebr party",
+        "ripblik party",
+        "librl party",
+        "ddemokrettik party"
+    ],
+    answer: "lebr party"
+},
+
+{
+    question: "phaars of ruler by Abdur Razzaq to ofliioftt which century in bhejaa went, he/that was",
+    option: [
+        "fifteenth",
+        "fourteenth",
+        "eighteenth",
+        "sixteenth"
+    ],
+    answer: "fifteenth"
+},
+
+{
+    question: "Calcutta in supreme nyaayaaly establishment of when of went?",
+    option: [
+        "1771 AD",
+        "1773 AD",
+        "1775 AD",
+        "1785 AD"
+    ],
+    answer: "1773 AD"
+},
+
+{
+    question: "braahmnnoN of main ofry what was ?",
+    option: [
+        "study-adhyaapn",
+        "agriculture",
+        "trade",
+        "dkssinnaa denaa"
+    ],
+    answer: "study-adhyaapn"
+},
+
+{
+    question: "akhil Indian whichaan Assembly of first session where happened was ?",
+    option: [
+        "phaijaabaad",
+        "Lucknow",
+        "Delhi",
+        "Surat"
+    ],
+    answer: "Lucknow"
+},
+
+{
+    question: "meaning shaastr of composition who did was ?",
+    option: [
+        "caannky",
+        "kauttily",
+        "Vishnu Gupta",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "East India Company to Bengal of diivaanii who prdaan of?",
+    option: [
+        "Siraj-ud-daulah",
+        "shujaauddaulaa",
+        "Shah aalm second",
+        "miir ofsim"
+    ],
+    answer: "Shah aalm second"
+},
+
+{
+    question: "Rigveda of composition when did it happen ?",
+    option: [
+        "800 from 600 AD BC",
+        "600 from 200 AD BC",
+        "1000 from 800 AD BC",
+        "1500 from 1000 AD BC"
+    ],
+    answer: "1500 from 1000 AD BC"
+},
+
+{
+    question: "following in whose profshn Abul klaam Azad did did",
+    option: [
+        "nyuuiNddiyaa",
+        "alhilaal",
+        "yNg India",
+        "koNmredd"
+    ],
+    answer: "alhilaal"
+},
+
+{
+    question: "Jains of 24th Tirthankara who were?",
+    option: [
+        "Rishabhadeva",
+        "Parshvanatha",
+        "Bhadrabahu",
+        "Mahavira"
+    ],
+    answer: "Mahavira"
+},
+
+{
+    question: "1857 AD. of revolt in shhiid bedid one first person was",
+    option: [
+        "Tatya Tope",
+        "Mangal Pandey",
+        "Nana Sahib",
+        "Bahadur Shah"
+    ],
+    answer: "Mangal Pandey"
+},
+
+{
+    question: "Jain religion of founder who were?",
+    option: [
+        "Vardhamana Mahavira were",
+        "Bhadrabahu",
+        "Siddhartha",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "in India aadid one first Portuguese who was?",
+    option: [
+        "tolmbs",
+        "riyo-D-",
+        "vaasto-D-gaamaa",
+        "None of these"
+    ],
+    answer: "vaasto-D-gaamaa"
+},
+
+{
+    question: "Ibn Battuta is related to was:",
+    option: [
+        "morkto from",
+        "China from",
+        "mleshiyaa from",
+        "tibbt from"
+    ],
+    answer: "morkto from"
+},
+
+{
+    question: "‘ d grett rivoltt ‘ named book who written is  / ",
+    option: [
+        "pttttaabhisiitaarmaiyaa",
+        "Ashoka Mehta",
+        "James aauttrm",
+        "raabrtts"
+    ],
+    answer: "Ashoka Mehta"
+},
+
+{
+    question: "first Vijayanagara aadid one foreign traveler who was ?",
+    option: [
+        "nitolo ofnnttii",
+        "Abdur Razzaq",
+        "Domingos",
+        "Fernao Nuniz"
+    ],
+    answer: "nitolo ofnnttii"
+},
+
+{
+    question: "shuddhi movement which sNsthaa or organization did claayaa, he/that was",
+    option: [
+        "brhm society",
+        "Aryan society",
+        "yNg Bengal movement",
+        "None of these"
+    ],
+    answer: "Aryan society"
+},
+
+{
+    question: "iNddiyn myuujiym toloftaa establishment of when did it happen was?",
+    option: [
+        "1813",
+        "1814",
+        "1980",
+        "1520"
+    ],
+    answer: "1814"
+},
+
+{
+    question: "in India shhriikrnn of rphtaar which year after dhiimii was was he/that was",
+    option: [
+        "1700 AD",
+        "1800 AD",
+        "1900 AD",
+        "None of these"
+    ],
+    answer: "1800 AD"
+},
+
+{
+    question: "Harappa of bstiyoN of khudaaii of",
+    option: [
+        "Sir John Marshall",
+        "Sir William Jones",
+        "Martimer Wheeler",
+        "Sir John Marshall and Martimer Wheeler both"
+    ],
+    answer: "Sir John Marshall and Martimer Wheeler both"
+},
+
+{
+    question: "cgtaaii Turk about Which of the following vaaky most correct is:",
+    option: [
+        "self to taimuur and Babur of descendant consider were",
+        "cNgej Khan of sbfrom large son of dynasty consider were",
+        "self to islaamii turof of descendant consider were",
+        "None of the above"
+    ],
+    answer: "cNgej Khan of sbfrom large son of dynasty consider were"
+},
+
+{
+    question: "greatof India compositionofr who were ?",
+    option: [
+        "ptnyjli",
+        "baalmiof",
+        "mhrssi vedvyaas",
+        "athrvaa"
+    ],
+    answer: "mhrssi vedvyaas"
+},
+
+{
+    question: "Baburnama according to, rNtt by irrigation where of goes was?",
+    option: [
+        "Agra in",
+        "Lucknow in",
+        "Lahore in",
+        "Kashmir in"
+    ],
+    answer: "Lahore in"
+},
+
+{
+    question: "Indus civilization in seal bntaa was",
+    option: [
+        "fromlkhdd'ii of",
+        "iron of",
+        "taaNbaa of",
+        "All of these of"
+    ],
+    answer: "fromlkhdd'ii of"
+},
+
+{
+    question: "Ain-A-awhenrii in awhenr of how many suuboN description of is?",
+    option: [
+        "ten",
+        "twelve",
+        "thirteen",
+        "fourteen"
+    ],
+    answer: "twelve"
+},
+
+{
+    question: "khuddk niofy is related to is-",
+    option: [
+        "Vinaya Pitaka from",
+        "Sutta Pitaka from",
+        "Abhidhamma Pitaka from",
+        "khNdhof from"
+    ],
+    answer: "Sutta Pitaka from"
+},
+
+{
+    question: "ddoN0 Rajendra Prasad to when Constitution Assembly permanent chairman of chosen went?",
+    option: [
+        "09 December, 1946",
+        "11 December, 1947",
+        "13 December, 1946",
+        "11 December, 1946"
+    ],
+    answer: "11 December, 1946"
+},
+
+{
+    question: "‘aaiin A awhenrii how many parts in divided is ?",
+    option: [
+        "two",
+        "three",
+        "four",
+        "five"
+    ],
+    answer: "five"
+},
+
+{
+    question: "nuurjhaaN whose ptnii was?",
+    option: [
+        "awhenr",
+        "Humayun",
+        "Jahangir",
+        "Shah Jahan"
+    ],
+    answer: "Jahangir"
+},
+
+{
+    question: "prbhaavtii Gupta whose daughter was ?",
+    option: [
+        "Chandragupta Maurya",
+        "Chandragupta second",
+        "vikrmaadity",
+        "None of these"
+    ],
+    answer: "Chandragupta second"
+},
+
+{
+    question: "naalndaa university who founded",
+    option: [
+        "kumaargupt",
+        "skndgupt",
+        "raamgupt",
+        "cNdrgupt"
+    ],
+    answer: "kumaargupt"
+},
+
+{
+    question: "Bahadur Shah Zafar to ukhaadd' pheNof was:",
+    option: [
+        "Marathas did",
+        "sikhoN did",
+        "jaattoN did",
+        "British did"
+    ],
+    answer: "British did"
+},
+
+{
+    question: "Vallabhacharya birth of happened-",
+    option: [
+        "Agra",
+        "bellor",
+        "Varanasi",
+        "shriirNgpttttnm"
+    ],
+    answer: "Varanasi"
+},
+
+{
+    question: "Constitution Assembly in all decision which basis on for went?",
+    option: [
+        "ektaa and akhNddtaa",
+        "majority",
+        "srvsmmtii",
+        "shmti and smaayojnaa"
+    ],
+    answer: "shmti and smaayojnaa"
+},
+
+{
+    question: "haal by rcit ‘sptshtk’ which language in is?",
+    option: [
+        "Pali",
+        "Prakrit",
+        "Tamil",
+        "None of these"
+    ],
+    answer: "Prakrit"
+},
+
+{
+    question: "which woman did Satara , Ujjain , Gwalior etc. in 1838 from 1863 AD. until British of viruddh ssddyntr did ?",
+    option: [
+        "queen Lakshmibai",
+        "mhaaraanii baijaabaaii sidhiyaa",
+        "Begum Hazrat palace",
+        "ajiinn"
+    ],
+    answer: "mhaaraanii baijaabaaii sidhiyaa"
+},
+
+{
+    question: "Ashoka of Kalinga victory of is mentioned",
+    option: [
+        "10th inscription from",
+        "11th inscription from",
+        "12th inscription from",
+        "13th inscription from"
+    ],
+    answer: "13th inscription from"
+},
+
+{
+    question: "Indian Constitution to following among by whom constructed did went was?",
+    option: [
+        "British sNsd by",
+        "Indian sNsd by",
+        "Constitution Assembly by",
+        "Governor General by"
+    ],
+    answer: "Constitution Assembly by"
+},
+
+{
+    question: "Harappa civilization which era of civilization is ?",
+    option: [
+        "east – paassaann era",
+        "new – paassaann era",
+        "lauh era",
+        "ofNsy era"
+    ],
+    answer: "ofNsy era"
+},
+
+{
+    question: "svtntr of India last Governor General who were",
+    option: [
+        "Lord Curzon",
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "None of these"
+    ],
+    answer: "C. Rajagopalachari"
+},
+
+{
+    question: "Harappa ttiile of mention first 1826 AD who did ?",
+    option: [
+        "Charles maisn",
+        "jaan brttn",
+        "William brttn",
+        "Sir John Marshall"
+    ],
+    answer: "Charles maisn"
+},
+
+{
+    question: "1919 of Act to is called",
+    option: [
+        "Rowlatt Act",
+        "maale–miNtto reform Act",
+        "maannttegyuu–Chelmsford reform Act",
+        "None of these"
+    ],
+    answer: "maannttegyuu–Chelmsford reform Act"
+},
+
+{
+    question: "Mohenjo-daro which river of bank situated is ?",
+    option: [
+        "stlj",
+        "srsvtii",
+        "Ravi",
+        "Indus"
+    ],
+    answer: "Indus"
+},
+
+{
+    question: "revolution of suppression after who revolutionofrii didtaa didpaal went is  / ",
+    option: [
+        "Nana Sahib",
+        "Begum Hazrat palace",
+        "( a ) and ( b ) both",
+        "None of these"
+    ],
+    answer: "( a ) and ( b ) both"
+},
+
+{
+    question: "Ibn Battuta of India journey to which century relation withit considered goes is, he/that was :",
+    option: [
+        "eleventh",
+        "twelfth",
+        "fourteenth",
+        "thirteenth"
+    ],
+    answer: "fourteenth"
+},
+
+{
+    question: "bhaartvrss of last vaaysraay who was?",
+    option: [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Lal Bahadur Shastri",
+        "reddkliph"
+    ],
+    answer: "Lord Mountbatten"
+},
+
+{
+    question: "Jains of first Tirthankara were",
+    option: [
+        "Parshvanatha",
+        "Rishabhadeva",
+        "ajitnaath",
+        "pdmprbh"
+    ],
+    answer: "Rishabhadeva"
+},
+
+{
+    question: "awhenrnaamaa and Ain-A-awhenrii of anuvaadk who were?",
+    option: [
+        "bevrij",
+        "jairett",
+        "bloNkmain",
+        "all"
+    ],
+    answer: "all"
+},
+
+{
+    question: "which Constitution Assembly by of India Constitution of adhiniymn did went thatof member who-who were?",
+    option: [
+        "Governor General by nominated",
+        "raajnitik dloN by nominated",
+        "various provinces of vidhaan assemblies by nominated",
+        "logoN by cunaavit"
+    ],
+    answer: "various provinces of vidhaan assemblies by nominated"
+},
+
+{
+    question: "13 December 1946 to, Constitution Assembly of ‘uddeshy proposal’ by whom presented did went?",
+    option: [
+        "Sachchidananda Sinha",
+        "Dr.. B. R. Ambedkar",
+        "Pt. Jawaharlal didhru",
+        "aacaary je. B. Kripalani"
+    ],
+    answer: "Pt. Jawaharlal didhru"
+},
+
+{
+    question: "pttnaa in 1857 of revolution who led ?",
+    option: [
+        "piiralii",
+        "amr Singh",
+        "vaajid Ali",
+        "Kunwar Singh"
+    ],
+    answer: "piiralii"
+},
+
+{
+    question: "1857 AD. of revolt of days in who/which bhvissyvaannii of went was thoseaccording to Plassey of jNg of 100 year which date to puuraa to be was , bh ghii",
+    option: [
+        "13 June, 1957 AD",
+        "23 June, 1857 AD",
+        "3 June, 1957 AD",
+        "30 June, 1857 AD"
+    ],
+    answer: "23 June, 1857 AD"
+},
+
+{
+    question: "Bengal of division of declaration when did it happen ?",
+    option: [
+        "1905",
+        "1906",
+        "1911",
+        "1914"
+    ],
+    answer: "1905"
+},
+
+{
+    question: "aalmgiir which Mughal emperor of one pdvii was, thatwas the name of:",
+    option: [
+        "Aurangzeb",
+        "Shah Jahan",
+        "Jahangir",
+        "Bahadur Shah"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "Constitution to 26 January of day implemented taxdid of decision islie did went because?",
+    option: [
+        "ofNgres did this date to 1930 in freedom day as celebrated was",
+        "1942 in India chodddho movement beginning did went was",
+        "this one shubh day was",
+        "None of these"
+    ],
+    answer: "ofNgres did this date to 1930 in freedom day as celebrated was"
+},
+
+{
+    question: "Munda revolt of didtaa was",
+    option: [
+        "Birsa Munda",
+        "ofnhuu Munda",
+        "Sidhu",
+        "Gomdhar"
+    ],
+    answer: "Birsa Munda"
+},
+
+{
+    question: "in which text Babur from taking awhenr period of until of history is found is?",
+    option: [
+        "Baburnama",
+        "awhenrnaamaa",
+        "jhaaNgiirnaamaa",
+        "all in"
+    ],
+    answer: "awhenrnaamaa"
+},
+
+{
+    question: "Francis buofnn of description of tulnaa history of which skuul from of went is?",
+    option: [
+        "enaals",
+        "svaalttrn",
+        "maarksvaadii",
+        "saamraajyvaadii"
+    ],
+    answer: "enaals"
+},
+
+{
+    question: "tributary treaty of policy ofryaanvit of",
+    option: [
+        "beNttiNk did",
+        "Cornwallis did",
+        "Wellesley did",
+        "Dalhousie did"
+    ],
+    answer: "Wellesley did"
+},
+
+{
+    question: "‘vikttoriyaa ttrmins’ which style of building is",
+    option: [
+        "nvshaastriiy style",
+        "new–gaaNthik style",
+        "innddosaaraafromnik style",
+        "None of these"
+    ],
+    answer: "new–gaaNthik style"
+},
+
+{
+    question: "‘entire of India one Constitution will be’, this proposal Constitution Assembly by when passed did went?",
+    option: [
+        "22 January, 1946",
+        "20 January, 1947",
+        "26 July, 1946",
+        "22 January, 1947"
+    ],
+    answer: "22 January, 1947"
+},
+
+{
+    question: "Mughal ofl in in India sbfrom jyaadaa ugaaii jaadid one crops were-",
+    option: [
+        "rice, wheat, jvaar, millet etc.",
+        "caay, koNphii, Nil etc.",
+        "tilhn, dlhn, aphiim etc.",
+        "above among toAD also option correct is not"
+    ],
+    answer: "rice, wheat, jvaar, millet etc."
+},
+
+{
+    question: "which Mughal ruler to aalmgiir of pdvii gave went?",
+    option: [
+        "awhenr",
+        "Shah Jahan",
+        "Aurangzeb",
+        "None of these"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "Mughalofliin historical srotoN in included were-",
+    option: [
+        "historical text",
+        "Sirofrii and gair-Sirofrii dstaavej",
+        "that ofloN in became buildings and smaark",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "following among which basis on Constitution Assembly of election did went?",
+    option: [
+        "same adhiofr",
+        "srv mtaadhiofr",
+        "siimit mtaadhiofr",
+        "vrgiiy mtaadhiofr"
+    ],
+    answer: "vrgiiy mtaadhiofr"
+},
+
+{
+    question: "ongnaa Mughal ofl in was-",
+    option: [
+        "one administrative prkhNdd",
+        "provinces capital of",
+        "vishaaltmk province",
+        "among these toAD also not"
+    ],
+    answer: "one administrative prkhNdd"
+},
+
+{
+    question: "Calcutta in supreme nyaayaaly establishment of of went–",
+    option: [
+        "1885 AD",
+        "1773 AD",
+        "1771 AD",
+        "1673 AD"
+    ],
+    answer: "1773 AD"
+},
+
+{
+    question: "‘oflaa ofnuun’ whom said went ?",
+    option: [
+        "Rowlatt Act",
+        "ilbrtt bil",
+        "vudd ddispaic",
+        "Bengal proposal"
+    ],
+    answer: "Rowlatt Act"
+},
+
+{
+    question: "Gandhiji of political Guru who were?",
+    option: [
+        "Madan Mohan Malaviya",
+        "Gopal Krishna Gokhale",
+        "Lala Lajpat Roy",
+        "pNddit dvaariof Prasad mishr"
+    ],
+    answer: "Gopal Krishna Gokhale"
+},
+
+{
+    question: "“maaii eksperimentts vith ttuuth” whose autobiography is?",
+    option: [
+        "ttoNlsttaay",
+        "Madan Mohan Malaviya",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore"
+    ],
+    answer: "Mahatma Gandhi"
+},
+
+{
+    question: "Indian Constitution Assembly did Indian national dhvj of ruuonekhaa to which day aNgiiofr did?",
+    option: [
+        "23 August, 1947 to",
+        "13 September, 1947 to",
+        "15 August, 1947 to",
+        "22 July, 1947 to"
+    ],
+    answer: "22 July, 1947 to"
+},
+
+{
+    question: "14 November whichbirth of day is?",
+    option: [
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak",
+        "Jawaharlal didhruu",
+        "Lal Bahadur Shastri"
+    ],
+    answer: "Jawaharlal didhruu"
+},
+
+{
+    question: "sixteenth century during Hindustan in about-about how many percent people villages in live were?",
+    option: [
+        "75 percent",
+        "80 percent",
+        "85 percent",
+        "90 percent"
+    ],
+    answer: "85 percent"
+},
+
+{
+    question: "1685 in Mathura of jaattoN did whose didtRtv in revolt did?",
+    option: [
+        "gokul",
+        "raajaaraam",
+        "cuudd'aamn",
+        "None of these"
+    ],
+    answer: "raajaaraam"
+},
+
+{
+    question: "kaibididtt Mission plan under Constitution nirmaatrii onissd in each province of aavNttit member number nirdhaarit taxdid for one representative how many population of anupaat in was?",
+    option: [
+        "8 lakh person",
+        "10 lakh person",
+        "12 lakh person",
+        "15 lakh person"
+    ],
+    answer: "10 lakh person"
+},
+
+{
+    question: "Mughal ofl in irrigation of means what was?",
+    option: [
+        "kuoN",
+        "taalaab",
+        "nhr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "saamraajyvaadii historyofr are-",
+    option: [
+        "Abdul ofdir Badauni",
+        "ddblyuu0 ec0 morlaiNdd",
+        "aar0 pii0 tripaatthii",
+        "aar0 es0 shrmaa"
+    ],
+    answer: "ddblyuu0 ec0 morlaiNdd"
+},
+
+{
+    question: "‘Unto This Last’ named composition whose is ?",
+    option: [
+        "rskin",
+        "ttoNlsttoNy",
+        "henrii ddevidd",
+        "Mahatma Gandhi"
+    ],
+    answer: "rskin"
+},
+
+{
+    question: "ofvl Mughalofl of clan oflaaNtr (approximately) considered jaa sktaa is :",
+    option: [
+        "1530 from 1859 AD",
+        "1530 from 1540 and 1555 from 1857",
+        "16th century from seventeenth century until",
+        "None of the above"
+    ],
+    answer: "1530 from 1540 and 1555 from 1857"
+},
+
+{
+    question: "gettve of innddiyaa construction of when did it happen ?",
+    option: [
+        "1910 AD",
+        "1912 AD",
+        "1911 AD",
+        "1914 AD"
+    ],
+    answer: "1911 AD"
+},
+
+{
+    question: "aupniveshik rule first where established did went was?",
+    option: [
+        "maarvaadd'",
+        "Bengal",
+        "Bombay Deccan",
+        "thesein anywhere not"
+    ],
+    answer: "Bengal"
+},
+
+{
+    question: "haaroj did which city of saamrik importance to highly considered is and ufrom jblpur from also more important told is",
+    option: [
+        "Jhansi",
+        "ofnpur",
+        "Sagar",
+        "Lucknow"
+    ],
+    answer: "Sagar"
+},
+
+{
+    question: "Constitution Assembly last form from which day aakhirii times milii?",
+    option: [
+        "26 November, 1949 to",
+        "5 December, 1949 to",
+        "24 January, 1950 to",
+        "25 January, 1950 to"
+    ],
+    answer: "24 January, 1950 to"
+},
+
+{
+    question: "permanent settlement judd'aa was-",
+    option: [
+        "Warren Hastings from",
+        "velejlii from",
+        "Cornwallis from",
+        "Ripon from"
+    ],
+    answer: "Cornwallis from"
+},
+
+{
+    question: "awhenr did Todar Mal to diivaan-A-aashrph when appointed did ?",
+    option: [
+        "1582 AD",
+        "1583 AD",
+        "1584 AD",
+        "1585 AD"
+    ],
+    answer: "1582 AD"
+},
+
+{
+    question: "awhenr of vittmNtrii who was?",
+    option: [
+        "biirbl",
+        "maansiNh",
+        "Todar Mal",
+        "abulphjl"
+    ],
+    answer: "Todar Mal"
+},
+
+{
+    question: "jhokn baag htyaaofnndd 8 June to where happened ?",
+    option: [
+        "Jhansi",
+        "ofnpur",
+        "Sagar",
+        "Lucknow"
+    ],
+    answer: "Jhansi"
+},
+
+{
+    question: "queen Lakshmibai birth of at which place happened was",
+    option: [
+        "Jhansi",
+        "ofshii",
+        "ofnpur",
+        "oflpii"
+    ],
+    answer: "ofshii"
+},
+
+{
+    question: "1917 in Champaran Gandhi G whose anurodh on went were ?",
+    option: [
+        "Rajendra Prasad",
+        "arvind ghoss",
+        "Gopal Krishna Gokhale",
+        "prince shukl"
+    ],
+    answer: "prince shukl"
+},
+
+{
+    question: "following among which woman did 1857 of revolution in landof nibhaaii",
+    option: [
+        "taaiibaaii",
+        "ajiinn",
+        "shiilaadevii",
+        "All of these did"
+    ],
+    answer: "All of these did"
+},
+
+{
+    question: "Mughal emperor in generally greatest emperor considered goes is",
+    option: [
+        "Jalaluddin awhenr to",
+        "nsiiruddiin Humayun to",
+        "Jahangir to",
+        "Aurangzeb to"
+    ],
+    answer: "Jalaluddin awhenr to"
+},
+
+{
+    question: "seventeenth century in Marathas in written went one book in whose crcaa whichaanoN as is was?",
+    option: [
+        "bhuumihaar",
+        "yaadv",
+        "Rajput",
+        "Brahmin"
+    ],
+    answer: "Rajput"
+},
+
+{
+    question: "forest buk of yuvaa naayk moglii and author are:",
+    option: [
+        "ruddyaardd kipliNg",
+        "bifromNtt smith",
+        "Babur ges ofidid",
+        "John eph ricrdds"
+    ],
+    answer: "ruddyaardd kipliNg"
+},
+
+{
+    question: "Santhals of revolt and 1857 of revolt during English hukuumt of with who had given?",
+    option: [
+        "Buddha Bhagat",
+        "Mehtab Chand",
+        "Tirat Singh",
+        "Bahadur Shah"
+    ],
+    answer: "Mehtab Chand"
+},
+
+{
+    question: "second world war In which year beginning happened ?",
+    option: [
+        "1937 AD",
+        "1939 AD",
+        "1942 AD",
+        "1945 AD"
+    ],
+    answer: "1939 AD"
+},
+
+{
+    question: "shaahml where of rhdid one was ?",
+    option: [
+        "north province of aliigddh' of",
+        "north province of bdd'aut ongnaa of",
+        "north province of gaajiyaabaad of",
+        "None of these"
+    ],
+    answer: "north province of bdd'aut ongnaa of"
+},
+
+{
+    question: "Mughal court of rule related ofry which raajbhaassaa of maadhym from were?",
+    option: [
+        "Urdu",
+        "turof",
+        "Persian",
+        "None of these"
+    ],
+    answer: "Persian"
+},
+
+{
+    question: "he/that who person was who/which videsh in rhkn also 1857 of revolution on painii njr placed huye was and nyuuyaark ddelii ttrbyuun in thatdid this revolution on 21 article written ?",
+    option: [
+        "ofrl Marx",
+        "laarens",
+        "phaiddrik eNgels",
+        "vii.D. Savarkar"
+    ],
+    answer: "ofrl Marx"
+},
+
+{
+    question: "kaibididtt Mission plan according to Constitution Assembly how many in total in member bedid caahie were?",
+    option: [
+        "389",
+        "409",
+        "429",
+        "505"
+    ],
+    answer: "389"
+},
+
+{
+    question: "Constitution Assembly of udghaattn session of chairmanship who did was?",
+    option: [
+        "Jawaharlal didhru did",
+        "Sachchidananda Sinha did",
+        "B. R. Ambedkar did",
+        "C. Rajagopalachari did"
+    ],
+    answer: "Sachchidananda Sinha did"
+},
+
+{
+    question: "Dr.. Bhimrao Ambedkar dlit politics of prtiik bn went were",
+    option: [
+        "Mahatma Gandhi",
+        "Dr.. Bhimrao Ambedkar",
+        "Motilal didhruu",
+        "Sardar Patel"
+    ],
+    answer: "Dr.. Bhimrao Ambedkar"
+},
+
+{
+    question: "historyofr Abul Fazl which emperor of courtier was?",
+    option: [
+        "awhenr",
+        "Babur",
+        "Shah Jahan",
+        "Jahangir"
+    ],
+    answer: "awhenr"
+},
+
+{
+    question: "Damin-i-toh in whom bsaayaa went?",
+    option: [
+        "hills to",
+        "Santhals to",
+        "toloN to",
+        "muNddaaoN to"
+    ],
+    answer: "Santhals to"
+},
+
+{
+    question: "Mughal name vyutpnn happened is :",
+    option: [
+        "central Asia from",
+        "Mongol from",
+        "mNgolii named book from",
+        "None of the above"
+    ],
+    answer: "Mongol from"
+},
+
+{
+    question: "Constitution Assembly of draft (draft) Committee in members of number how many was?",
+    option: [
+        "five",
+        "seven",
+        "nauN",
+        "eleven"
+    ],
+    answer: "seven"
+},
+
+{
+    question: "southern state ahmdngr to last form from who vijit did?",
+    option: [
+        "awhenr",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Shah Jahan"
+},
+
+{
+    question: "kaibididtt Mission plan who was the chairman of ?",
+    option: [
+        "Pethick loNrens",
+        "luii phishr",
+        "Lord bevel",
+        "sttephordd Cripps"
+    ],
+    answer: "Pethick loNrens"
+},
+
+{
+    question: "Constitution Assembly did Constitution to last form from which day passed did?",
+    option: [
+        "15 August, 1947",
+        "15 December, 1948",
+        "26 November, 1949",
+        "26 January, 1950"
+    ],
+    answer: "26 November, 1949"
+},
+
+{
+    question: "Lucknow in 1857 of revolt who led ?",
+    option: [
+        "queen Lakshmibai",
+        "vegm Hazrat palace",
+        "brave Kunwar Singh",
+        "Nana sheb"
+    ],
+    answer: "vegm Hazrat palace"
+},
+
+{
+    question: "Mughal ofl in Indian-Persian source whichaan for generally on what use do were?",
+    option: [
+        "ryot or riaayaa",
+        "mujeriyaan",
+        "aasaamii or whichaan",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "mohndaas krmcNd to ‘Mahatma’ made was",
+    option: [
+        "eastern aphriiof did",
+        "western aphriiof did",
+        "southern aphriiof did",
+        "northern aphriiof did"
+    ],
+    answer: "southern aphriiof did"
+},
+
+{
+    question: "Madras, klkrtaa and Bombay all three cities of one general major feature what was ?",
+    option: [
+        "all three city essentially Matsya grhnn and bunaaii of village the / ",
+        "all three city British rule of raajdhaaniyaaN thiiN / ",
+        "all three city foreign ttkraav of one same ofndr nirNtr rhe / ",
+        "all three cities of people ofvl English language–bhaassaayii only the / "
+    ],
+    answer: "all three city essentially Matsya grhnn and bunaaii of village the / "
+},
+
+{
+    question: "Constitution Assembly of first session where happened was?",
+    option: [
+        "Mumbai in",
+        "toloftaa in",
+        "Lahore in",
+        "Delhi in"
+    ],
+    answer: "Delhi in"
+},
+
+{
+    question: "Constitution of draft (draft) Committee of smkss prstaavnaa of proposal by whom placed went?",
+    option: [
+        "Dr.. B. R. Ambedkar",
+        "B. N. Rao",
+        "Mahatma Gandhi",
+        "Pt. Jawaharlal didhru"
+    ],
+    answer: "Pt. Jawaharlal didhru"
+},
+
+{
+    question: "aof gdr to who ‘ revolution ‘ said ?",
+    option: [
+        "ofrl Marx",
+        "R.C. Majumdar",
+        "Jawaharlal didhruu",
+        "T.R. homs"
+    ],
+    answer: "ofrl Marx"
+},
+
+{
+    question: "khaanvaa of war in Babur did which Rajput ruler to onaajit did was?",
+    option: [
+        "medinii Roy",
+        "maan Singh",
+        "bhaarml",
+        "raannaa saaNgaa"
+    ],
+    answer: "raannaa saaNgaa"
+},
+
+{
+    question: "paawhichtaan formation of happened",
+    option: [
+        "1-2 August, 1947",
+        "14-17 August, 1947",
+        "12-13 August, 1971",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "durm which Mughal emperor was the name of, he/that were:",
+    option: [
+        "Shah Jahan",
+        "Jahangir",
+        "awhenr",
+        "None of these"
+    ],
+    answer: "Shah Jahan"
+},
+
+{
+    question: "which Sirofrii report from Indian kRssk jnjaatiyoN of sthiti of ptaa cltaa is?",
+    option: [
+        "buofnn of report",
+        "fifth report",
+        "Deccan dNgaa Commission report",
+        "said/mentioned all from"
+    ],
+    answer: "said/mentioned all from"
+},
+
+{
+    question: "following among which Mughal emperor to jiNdaa piir was called?",
+    option: [
+        "Babur",
+        "awhenr",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "Ain according to irrigation ones regions in year in clan crops is were-",
+    option: [
+        "five",
+        "three",
+        "four",
+        "seven"
+    ],
+    answer: "three"
+},
+
+{
+    question: "Indian national ofNgres of first woman chairman who was ?",
+    option: [
+        "Annie befromNtt",
+        "arunnaa aasph Ali",
+        "srojinii naaydduu",
+        "vijyaalkssmii Pandit"
+    ],
+    answer: "Annie befromNtt"
+},
+
+{
+    question: "Francis buofnn who was?",
+    option: [
+        "soldier",
+        "gaayk",
+        "abhiyntaa",
+        "srvekssk"
+    ],
+    answer: "srvekssk"
+},
+
+{
+    question: "Ryotwari system first where implemented of went?",
+    option: [
+        "Calcutta",
+        "Bombay",
+        "Madras",
+        "None of these"
+    ],
+    answer: "Madras"
+},
+
+{
+    question: "punrgtthit Constitution Assembly in various provinces for how many representative were?",
+    option: [
+        "208",
+        "229",
+        "249",
+        "289"
+    ],
+    answer: "229"
+},
+
+{
+    question: "mhaalvaadd'ii system in land-revenue whose with nirdhaarit did went?",
+    option: [
+        "ryot of with",
+        "jotedars of with",
+        "mhaal of with",
+        "None of these"
+    ],
+    answer: "mhaal of with"
+},
+
+{
+    question: "India aadid ones first yuuropiyn who were?",
+    option: [
+        "Portuguese",
+        "British",
+        "Dutch",
+        "French"
+    ],
+    answer: "Portuguese"
+},
+
+{
+    question: "“victory jvaan victory whichaan” of slogan who gave?",
+    option: [
+        "Mahatma Gandhi",
+        "Bal Gangadhar Tilak",
+        "Lal Bahadur Shastri",
+        "Bhimrao Ambedkar"
+    ],
+    answer: "Lal Bahadur Shastri"
+},
+
+{
+    question: "Constitution Assembly of member _____ representative were|",
+    option: [
+        "people by direct elected",
+        "people by aprtykss elected",
+        "Governor General by mnoniit",
+        "ofNgres and Muslim League by naamaaNkit"
+    ],
+    answer: "people by aprtykss elected"
+},
+
+{
+    question: "Gandhiji did non-cooperation movement In which year beginning did ?",
+    option: [
+        "1920 AD",
+        "1922 AD",
+        "1930 AD",
+        "1942 AD"
+    ],
+    answer: "1920 AD"
+},
+
+{
+    question: "saamprdaayik smsyaa suljhaadid for which formula presented did went ?",
+    option: [
+        "didhruu formula",
+        "League formula",
+        "Rajagopalachari formula",
+        "Tagore formula"
+    ],
+    answer: "Rajagopalachari formula"
+},
+
+{
+    question: "pNjaabii muslmaan yuvk Chaudhary Rahmat Ali did paawhichtaan name to presented did",
+    option: [
+        "1933, 45",
+        "1931, 32",
+        "1945, 46",
+        "1906, 07"
+    ],
+    answer: "1933, 45"
+},
+
+{
+    question: "prstaavit original Constitution in clan members of division which profr to be certain happened was?",
+    option: [
+        "indigenous riyaastoN of 93 representative",
+        "British provinces of 292 representative",
+        "main kmishnrii region of 4 representative",
+        "gave went all"
+    ],
+    answer: "gave went all"
+},
+
+{
+    question: "Aurangzeb did dubaaraa jizya tax when lgaayaa?",
+    option: [
+        "12 April, 1679 AD",
+        "15 March, 1680 AD",
+        "1 May, 1681 AD",
+        "None of these"
+    ],
+    answer: "12 April, 1679 AD"
+},
+
+{
+    question: "‘paawhichtaan’ word who gave ?",
+    option: [
+        "Jinnah",
+        "liyaakt Ali",
+        "Chaudhary Rahmat Ali",
+        "iwhenaal"
+    ],
+    answer: "Chaudhary Rahmat Ali"
+},
+
+{
+    question: "Jawaharlal didhruu of India first prdhaanmNtrii bdid–",
+    option: [
+        "1946 AD",
+        "1947 AD",
+        "1948 AD",
+        "1950 AD"
+    ],
+    answer: "1947 AD"
+},
+
+{
+    question: "'amlaa' by whom bhejaa adhiofrii is was?",
+    option: [
+        "diivaan",
+        "landlord",
+        "totvaal",
+        "mnsbdaar"
+    ],
+    answer: "landlord"
+},
+
+{
+    question: "cirsthaayii system In which year implemented of went?",
+    option: [
+        "1774 in",
+        "1776 in",
+        "1785 in",
+        "1793 in"
+    ],
+    answer: "1793 in"
+},
+
+{
+    question: "mhlvaadd'ii settlement where was implemented?",
+    option: [
+        "Bengal",
+        "north province",
+        "central province",
+        "Bombay"
+    ],
+    answer: "north province"
+},
+
+{
+    question: "Gandhi-irvin agreement when did it happen?",
+    option: [
+        "1928",
+        "1931",
+        "1935",
+        "1938"
+    ],
+    answer: "1931"
+},
+
+{
+    question: "sainitoN by use in brought jaadid one raaiphl of what is the name was , who/which 1857 of revolt reason for became ?",
+    option: [
+        "inphiildd",
+        "braaun bes",
+        "remiNgttn R 5",
+        "None of these"
+    ],
+    answer: "inphiildd"
+},
+
+{
+    question: "during whose reign in Mughal provinces of number sbfrom more was?",
+    option: [
+        "awhenr",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+    ],
+    answer: "Aurangzeb"
+},
+
+{
+    question: "Aurangzeb did when hinduoN of holii, diipaavlii utsvoN on prtibNdh seemed/was applied gave?",
+    option: [
+        "1665 AD",
+        "1670 AD",
+        "1672 AD",
+        "1680 AD"
+    ],
+    answer: "1665 AD"
+},
+
+{
+    question: "tobacco on which ruler prtibndh lgaayaa?",
+    option: [
+        "awhenr",
+        "Babur",
+        "Jahangir",
+        "Shah Jahan"
+    ],
+    answer: "Jahangir"
+},
+
+{
+    question: "1857 of revolt began",
+    option: [
+        "10 May to",
+        "13 May to",
+        "18 May to",
+        "26 May to"
+    ],
+    answer: "10 May to"
+},
+
+{
+    question: "1857 of revolt during of India Governor General who was ?",
+    option: [
+        "brought Clive",
+        "Lord baiNttik",
+        "brought kainiNg",
+        "Lord Dalhousie"
+    ],
+    answer: "brought kainiNg"
+},
+
+{
+    question: "nsiiruddiin Humayun of ofryofl was:",
+    option: [
+        "1526 from 1558 AD",
+        "1530 from 1540, 1555-1556 AD",
+        "1556-1605 AD",
+        "1605-1627 AD"
+    ],
+    answer: "1530 from 1540, 1555-1556 AD"
+},
+
+{
+    question: "In which year whichii profr of baahy hstkssep of binaa, ofNgres did Indian people by Constitution of construction of demand to taking proposal passed did was?",
+    option: [
+        "year 1928 AD.",
+        "year 1931 AD.",
+        "year 1936 AD.",
+        "year 1942 AD."
+    ],
+    answer: "year 1936 AD."
+},
+
+{
+    question: "queen Lakshmibai to which name from to go goes was ?",
+    option: [
+        "chbiilii",
+        "mnu",
+        "mnnikrnniof",
+        "All of these naamoN from"
+    ],
+    answer: "All of these naamoN from"
+},
+
+{
+    question: "rbii crop which Rtu in is is?",
+    option: [
+        "bsNt",
+        "griissm",
+        "vrssaa",
+        "ptjhdd'"
+    ],
+    answer: "bsNt"
+},
+
+{
+    question: "‘ Bengal aamii of paudhshaalaa ‘ was called ?",
+    option: [
+        "Hyderabad to",
+        "Awadh to",
+        "Jhansi to",
+        "ofnpur to"
+    ],
+    answer: "Awadh to"
+},
+
+{
+    question: "shhiid-A-aajm is called ?",
+    option: [
+        "ashphaakullaa Khan",
+        "Sardar Bhagat Singh",
+        "Chandrashekhar",
+        "Subhas Chandra Bose"
+    ],
+    answer: "Sardar Bhagat Singh"
+},
+
+{
+    question: "awhenr did soc-smjhkr whichto court of main language made, he/that was:",
+    option: [
+        "hiNdii of",
+        "Arabic",
+        "Persian",
+        "turof"
+    ],
+    answer: "Persian"
+},
+
+{
+    question: "Plassey in British and Bengal of Nawab in war happened was –",
+    option: [
+        "1764 AD",
+        "1805 AD",
+        "1757 AD",
+        "1856 AD"
+    ],
+    answer: "1757 AD"
+},
+
+{
+    question: "which report is related to in India East India Company of kriyaa-klaapoN from is?",
+    option: [
+        "11th report",
+        "21th report",
+        "5th report",
+        "None of these"
+    ],
+    answer: "5th report"
+},
+
+{
+    question: "Shah Jahan of putroN of between uttraadhiofr of nirnnaayk war where happened?",
+    option: [
+        "bhaadurpur",
+        "dhrmt",
+        "saamuugddh'",
+        "Panipat"
+    ],
+    answer: "saamuugddh'"
+},
+
+{
+    question: "city of principal adhiofrii is called was",
+    option: [
+        "purpaal",
+        "naagrk",
+        "totvaal",
+        "principal"
+    ],
+    answer: "purpaal"
+},
+
+{
+    question: "brave Kunwar Singh where of rhdidones were?",
+    option: [
+        "ofnpur",
+        "jblpur",
+        "jgdiirshpur",
+        "Jhansi"
+    ],
+    answer: "jgdiirshpur"
+},
+
+{
+    question: "following among who draft (draft) Committee was not a member of?",
+    option: [
+        "pN0jvaahrlaal didhru",
+        "Mo. sdaaullaah",
+        "of. M. Munshi",
+        "gopaalsvaamii Iyengar"
+    ],
+    answer: "pN0jvaahrlaal didhru"
+},
+
+{
+    question: "1857 of revolution of major didtaa Bahadur Shah Zafar to hddml did where from girphtaar did was ?",
+    option: [
+        "Lal forts from",
+        "Humayun of mwhenre in",
+        "alaaii drvaaje from",
+        "None of these"
+    ],
+    answer: "Humayun of mwhenre in"
+},
+
+{
+    question: "Constitution Assembly of how many upsthit members did Constitution on hstaakssr did?",
+    option: [
+        "262 members did",
+        "284 members did",
+        "287 members did",
+        "289 members did"
+    ],
+    answer: "284 members did"
+},
+
+{
+    question: "independent of India last grvnr General who was",
+    option: [
+        "Lord Curzon",
+        "Lord maaunttbettn",
+        "C. Rajagopalachari",
+        "theseintoAD not"
+    ],
+    answer: "C. Rajagopalachari"
+},
+
+{
+    question: "tobacco of fromforest first which Mughal emperor did did was?",
+    option: [
+        "Jahangir",
+        "Shah Jahan",
+        "Babur",
+        "awhenr"
+    ],
+    answer: "awhenr"
+},
+
+{
+    question: "‘gettve of innddiyaa’ which style of example is",
+    option: [
+        "nvshaastriiy style",
+        "new–goNthik style",
+        "innddo–saaraafromnik style",
+        "None of these"
+    ],
+    answer: "innddo–saaraafromnik style"
+},
+
+{
+    question: "bhuukhmrii and mhaamaariyoN of baavjuud 1600 from 1700 of between of India aabaadii about be went was-",
+    option: [
+        "1 crore",
+        "5 crore",
+        "3 crore",
+        "7 crore"
+    ],
+    answer: "5 crore"
+},
+
+{
+    question: "British East India Company to who had given",
+    option: [
+        "Britain of king did",
+        "Portuguese traders did",
+        "phraaNsiisiyoN did",
+        "Marathas did"
+    ],
+    answer: "Britain of king did"
+},
+
+{
+    question: "Ain-A-awhenrii of author who isN?",
+    option: [
+        "bdaayuuN",
+        "awhenr",
+        "Abul Fazl",
+        "phaijii"
+    ],
+    answer: "Abul Fazl"
+},
+
+{
+    question: "Aurangzeb of ruleofl in bundeloN did whose didtRtv in revolt did?",
+    option: [
+        "gokul",
+        "baalmukund",
+        "cmpt Roy",
+        "None of these"
+    ],
+    answer: "cmpt Roy"
+},
+
+{
+    question: "1919 of Act to what is called?",
+    option: [
+        "Rowlatt ektt",
+        "maarle-minntto reform Act",
+        "maannttegyu-Chelmsford reform Act",
+        "vrnaakyuulr Act"
+    ],
+    answer: "maannttegyu-Chelmsford reform Act"
+},
+
+{
+    question: "Muslim League did his paawhichtaan construction-related demand of proposal which year first did was, he/that was",
+    option: [
+        "1946 AD",
+        "1940 AD",
+        "1907 AD",
+        "1919 AD"
+    ],
+    answer: "1940 AD"
+},
+
+{
+    question: "whose ruleofl to Mughalofl of svrnnyug is called?",
+    option: [
+        "Babur",
+        "awhenr",
+        "Jahangir",
+        "Shah Jahan"
+    ],
+    answer: "Shah Jahan"
+},
+
+{
+    question: "saaimn kmiishn of bhaartiiyoN by opposition why did went ?",
+    option: [
+        "Commission in one also Indian member n bedid because of",
+        "Commission by atyaacaar taxdid because of",
+        "Commission in more member bedid because of",
+        "None of these"
+    ],
+    answer: "Commission in one also Indian member n bedid because of"
+},
+
+{
+    question: "Tatya Tope did British to highly staayaa  /  ufrom at which place 18 April, 1859 to phaaNsii gave went ?",
+    option: [
+        "Jhansi",
+        "shivpurii",
+        "ofnpur",
+        "Delhi"
+    ],
+    answer: "shivpurii"
+},
+
+{
+    question: "Madras name of bdlkr placed went",
+    option: [
+        "Chennai",
+        "bNgluruu",
+        "Hyderabad",
+        "sikndraabaad"
+    ],
+    answer: "Chennai"
+}, 
 ];
 
 // --- Helper: Shuffle questions ---
