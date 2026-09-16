@@ -8714,9 +8714,8711 @@ const biologyHindi = [
 
 // English Questions
 const biologyEnglish = [
-  // Reproduction in Organisms
-  { question: "Which method is included in asexual reproduction?", option: ["Binary fission", "Budding", "Spore formation", "All"], answer: "All" },
-  { question: "Which process occurs in sexual reproduction in humans?", option: ["Fertilization", "Germination", "Fission", "None"], answer: "Fertilization" },
+{
+    question: "T-of DNA Vector which is?",
+    option:["Thermus aquaticus","Salmonella typhimurium","Agrobacterium tumefaciens","Bacillus thuringiensis"],
+    answer:"Agrobacterium tumefaciens"
+},
+{
+    question: "Fertilizin protein where is found?",
+    option:["onerosoma on","sperm sira on","sperm of sataha on","egg membrane on"],
+    answer:"sperm of sataha on"
+},
+{
+    question: "somatic hybridization of ofrya kior jaa sakataa is:",
+    option:["protoplaasta of phyoojana by","ardhacharacterita pollenkosha by","of the cell kalchara by","pollen grain of kalchara by"],
+    answer:"protoplaasta of phyoojana by"
+},
+{
+    question: "among the following air-borne disease which-saa is?",
+    option:["tuberculosis","diphtheria","pneumonia","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "biosphere nichaya kisawith chetaavagrasta ho rahaa is?",
+    option:["population growth","rainfall","pollution","all of the above"],
+    answer:"pollution"
+},
+{
+    question: "which-saa raashtareeya park one seenga having gende for new home is",
+    option:["dudhavaa","ofrbeta","ofnhaa","bandhavagadha"],
+    answer:"dudhavaa"
+},
+{
+    question: "DNA in which-saa nitrogenous base is?",
+    option:["ATUC","AUGC","UTGC","ATGC"],
+    answer:"ATGC"
+},
+{
+    question: "goldena raathis kisa vitamin from rich rahataa is:",
+    option:["A","C","D","E"],
+    answer:"A"
+},
+{
+    question: "SCP is obtained:",
+    option:["klorelaa","spaairulinaa","fromnedesamasa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "chromosome praaroopa 2n - 1 ko is called",
+    option:["monosomy","nullisomy","trisomy","tetrasomy"],
+    answer:"monosomy"
+},
+{
+    question: "cultivation yogya crop of average age is:",
+    option:["1-2 year","5-15 year","10-20 year","20-30 year"],
+    answer:"5-15 year"
+},
+{
+    question: "Indian buffalo of animal vaijnyaanika name is।",
+    option:["byoobailasa byoobailasa","bosa indikasa","bosa taorasa","gailasa gailasa"],
+    answer:"byoobailasa byoobailasa"
+},
+{
+    question: "Spermatid of Spermatozoon in roopaantarana ko are called",
+    option:["Spermatogenesis","Spermiogenesis","Spermatocytogenesis","Gametogenesis"],
+    answer:"Spermiogenesis"
+},
+{
+    question: "thesein which diploid is",
+    option:["egg cells","sahaayaka cells","secondary nucleus","enteepodala cells"],
+    answer:"secondary nucleus"
+},
+{
+    question: "jenitika koda where rahataa is?",
+    option:["r-RNA","t-RNA","DNA","m-RNA"],
+    answer:"m-RNA"
+},
+{
+    question: "DNA paoleemareja of khoja kisane of?",
+    option:["oofjaaof","ofrnabarga","mesalasana va staahala","vaatasana va krika"],
+    answer:"ofrnabarga"
+},
+{
+    question: "kisee anther of Pollen sac in Microspore mother cell of number is",
+    option:["diploid","haploid","triploid","tetraploid"],
+    answer:"diploid"
+},
+{
+    question: "DNA organuliof-printinga ko kisane vikasita kior?",
+    option:["phleminga","eleka jaapharee","smitha","vaatsana"],
+    answer:"eleka jaapharee"
+},
+{
+    question: "when kisee in mutation pyoorina of sthaana on pirimideena pratisthaapita ho jaae to ifrom are called:",
+    option:["traanjishana","traansavarsana","traansaloofshana","thesevarsana"],
+    answer:"traansavarsana"
+},
+{
+    question: "Inner cell mass whose Precursor is?",
+    option:["baahya level","madhya level","anth level","snpoorna embryo"],
+    answer:"snpoorna embryo"
+},
+{
+    question: "if mother and child both of blood group O ho to father of blood group can be",
+    option:["A or B or O","A or B","only O","only AB"],
+    answer:"A or B or O"
+},
+{
+    question: "egge from lekara vayaska up to formation of snpoorna process ko are called:",
+    option:["conception","fertilization","development","cleavage"],
+    answer:"development"
+},
+{
+    question: "forest ecosystem in number of pyramid occurs:",
+    option:["seedhaa","ultaa","both","none of the above"],
+    answer:"ultaa"
+},
+{
+    question: "female heterogamety what is?",
+    option:["female by two bhinna praofra of gametes of formation","male by four praofra of bhinna gametes of formation","both (A) and (B)","none of these"],
+    answer:"female by two bhinna praofra of gametes of formation"
+},
+{
+    question: "birth rate control for which-see chemical method is used?",
+    option:["condom","loop","jelly cream","diaphragm"],
+    answer:"jelly cream"
+},
+{
+    question: "green coconut (daabha) in nihita milky water is",
+    option:["liquid chalaza","liquid nucellus","degenerated liquid free nuclear endosperm","liquid female gametophyte"],
+    answer:"degenerated liquid free nuclear endosperm"
+},
+{
+    question: "which jaiva development of sabafrom spashta pramaana detaa is?",
+    option:["fossil","vestigial organ","embryo","aaofriof"],
+    answer:"fossil"
+},
+{
+    question: "of DNA one bacterium cell from doosare bacterium cell in bacteriumbhojee by transfer ko koar are called?",
+    option:["traansaphaorameshana or roopaantarana","traansadakshana","thesevarsana","traansaleshana"],
+    answer:"traansadakshana"
+},
+{
+    question: "factor which pair of contrasting characters ko rateshaataa ho, is called",
+    option:["Dominance to Recessive","Alleles","Homologous pairs","Determinants"],
+    answer:"Alleles"
+},
+{
+    question: "sperm poonchha in Microtubules of arrangement occurs",
+    option:["9+0","9+2","7+0","7+2"],
+    answer:"9+2"
+},
+{
+    question: "heemokoriyala plaafromntaa is found",
+    option:["shashaka in","kutton in","horse in","human in"],
+    answer:"human in"
+},
+{
+    question: "maasika chakra in which occurs?",
+    option:["monkey","ape","human","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "bamboo species in flowerna (Flowering) occurs",
+    option:["poore organismnaofla in one baara","12 in the year one baara","pratiyear","50-100 in the year two baara"],
+    answer:"poore organismnaofla in one baara"
+},
+{
+    question: "‘greena haathat prabhaava’ of main ofraka is:",
+    option:["CFCs","CO₂","CO","CH₄"],
+    answer:"CO₂"
+},
+{
+    question: "laika prachaaleka regulation dior:",
+    option:["vaatasana and krika","beedala and taitama","milara and yoore","jaiwhen and monaoda"],
+    answer:"jaiwhen and monaoda"
+},
+{
+    question: "laaiofna soochaka is:",
+    option:["CO₂ pollution of","SO₂ pollution of","CO pollution of","water pollution of"],
+    answer:"SO₂ pollution of"
+},
+{
+    question: "when organism unfavorable condition ko leaving migration does, to ufrom are called:",
+    option:["migration","vernalization","both (A) and (B)","none of these"],
+    answer:"migration"
+},
+{
+    question: "jaiva vyavasthaa in sabafrom spashta iofee ko koar are called?",
+    option:["cell","tissue","organ","organism"],
+    answer:"organism"
+},
+{
+    question: "levelvinoarsa thisaan milataa is।",
+    option:["traopikala renaphaoresta","desert","disidyuasa forest","both (A) and (B)"],
+    answer:"traopikala renaphaoresta"
+},
+{
+    question: "viktorior lake sthita is:",
+    option:["South Africa","South America","Australia","Switzerland"],
+    answer:"South Africa"
+},
+{
+    question: "Anemophily in pollination by whom occurs",
+    option:["chamagaadada","air","bird","ghonghaa"],
+    answer:"air"
+},
+{
+    question: "blood in found jaane having major immunoglobulin is:",
+    option:["IgA","IgD","IgG","IgM"],
+    answer:"IgG"
+},
+{
+    question: "vishva Biodiversity Day is:",
+    option:["22 maee","5 joona","16 sitambara","29 disambara"],
+    answer:"22 maee"
+},
+{
+    question: "animal, which infanton ko birth dete are, are called:",
+    option:["eggja","jaraayuja","amphibians","dvilingee"],
+    answer:"jaraayuja"
+},
+{
+    question: "Antifertilizin one protein is, which is found",
+    option:["egg membrane on","vitelline ficcit","sperm between peesa on","sperm of agra sira having bhaaga on"],
+    answer:"sperm of agra sira having bhaaga on"
+},
+{
+    question: "kina pramaanon from this saabita occurs ki human languron of tulanaa in chimpanzee of more nikata is?",
+    option:["linga chromosomes of DNA from","of chromosome aaofriof from","fossil avashesha from","otosomsa and hetrosoma of DNA from"],
+    answer:"otosomsa and hetrosoma of DNA from"
+},
+{
+    question: "honey of produces।",
+    option:["male bee or drona","worker or fromvaka bee","queen bee","(A) and (C)"],
+    answer:"worker or fromvaka bee"
+},
+{
+    question: "barrier method of experiment birth rate of control for which-saa is?",
+    option:["condom","Vaginal pouch","diaphragm","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among the following which-saa 16 vibhinna gamete utpanna karegaa?",
+    option:["AaBbccDd","AaBbccDDEeFf","AaBbCcddEEFF","AaBbCcDDEeFf"],
+    answer:"AaBbCcDDEeFf"
+},
+{
+    question: "kisee moola cell in of chromosome number 14 is। Synergids in thisof number koar hogee",
+    option:["14","21","7","28"],
+    answer:"7"
+},
+{
+    question: "beetee (Bt) toxin (Toxin) kisafrom is obtained?",
+    option:["prokairiyota from","yookairiyota from","both (A) and (B)","none of these"],
+    answer:"prokairiyota from"
+},
+{
+    question: "chickenpox kisadue to occurs?",
+    option:["edino vaayarasa","vairifromlaa vaayarasa","bacteriumbhojee T2","SV-40 vaayarasa"],
+    answer:"vairifromlaa vaayarasa"
+},
+{
+    question: "in bacteria is found:",
+    option:["plaajamida DNA","RNA","plaajamida DNA and RNA both","none of these"],
+    answer:"plaajamida DNA and RNA both"
+},
+{
+    question: "which amara are?",
+    option:["reproduction cells","yakrita cells","vrikka cells","tntriof cells"],
+    answer:"reproduction cells"
+},
+{
+    question: "pollination sabhee flower organon of abscission ko induces is, apavaatenvaroopa",
+    option:["anther","Pistil","Sepals","Receptacles"],
+    answer:"Pistil"
+},
+{
+    question: "Clitoris whose homologous organs is?",
+    option:["skarotama","shishna","eggaashaya","valbhaa"],
+    answer:"shishna"
+},
+{
+    question: "baayolistika/gene gun of use in which is done?",
+    option:["plaajmida ko oftane in","kate DNA ko whichdane in","vijaateeya DNA ko onposhee cells in pravesha karaane for","DNA ko shuddha karane for"],
+    answer:"vijaateeya DNA ko onposhee cells in pravesha karaane for"
+},
+{
+    question: "daayanaasora kisa dauraana upasthita the?",
+    option:["peliyowhichika","preekaimbariyana","seenowhichika","mesowhichika"],
+    answer:"mesowhichika"
+},
+{
+    question: "munbaee and kolaoftaa of shaharon in main pradooshaka are:",
+    option:["CO, SO₂","owhichna","haaidroofrbana and garma air","algaeon of seedaanu"],
+    answer:"CO, SO₂"
+},
+{
+    question: "kisee hatoar of jagaha khoona of dhabbe mile। if DNA prophaaila karanaa ho to jaancha for among the following koar sabafrom upayukta rahegaa?",
+    option:["RBC","WBC","pletaletsa","plaajmaa"],
+    answer:"WBC"
+},
+{
+    question: "complementary gene in 9 : 3 : 3 : 1 of daaihaaibrida anupaata in which onivartita ho jaataa is?",
+    option:["9 : 7","12 : 3 : 1","15 : 1","13 : 3"],
+    answer:"9 : 7"
+},
+{
+    question: "among the following biofertilizer which is?",
+    option:["saatheseobacteria","virus","bacteriophage","sabhee"],
+    answer:"saatheseobacteria"
+},
+{
+    question: "among the following which-saa one kukkuta disease is?",
+    option:["smata","isjaa","raaneekheta","(B) and (C) both"],
+    answer:"(B) and (C) both"
+},
+{
+    question: "estarojena and projestaraona of hormone secretion kisafrom occurs?",
+    option:["plaafromntaa","egg","vrishana","vrikka"],
+    answer:"plaafromntaa"
+},
+{
+    question: "400 sperm formation in kitane secondary sperm cell of aavashyakataa hogee?",
+    option:["100","200","40","400"],
+    answer:"200"
+},
+{
+    question: "inheritance of acquired characters of theory kinaof by given?",
+    option:["daarvina","laimaarka","dee vreeja","iskala"],
+    answer:"laimaarka"
+},
+{
+    question: "among the following from which kraaee gene crop ko chhedaka from protects is?",
+    option:["Cry I Ab","Cry II Ab","Cry Ac","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "'niorseena' vitamin is:",
+    option:["B₁","B₂","B₁₂","B₃"],
+    answer:"B₃"
+},
+{
+    question: "alkohala by kisa organ on kuprabhaava padataa is?",
+    option:["hridaya","yakrita","mastishka","phephadaaa"],
+    answer:"yakrita"
+},
+{
+    question: "among the following which-saa reshedaara protein of udaaharana is?",
+    option:["insulina","hemoglobin","phaaibrothese","glookojana"],
+    answer:"phaaibrothese"
+},
+{
+    question: "fungusmoola udaaharana is:",
+    option:["decomposer","anth parasitism","symbiotic relationship","baahya parasitism"],
+    answer:"symbiotic relationship"
+},
+{
+    question: "Autogamy for anukoola is",
+    option:["Homogamy","Heterostyle","Dichogamy","svabndhoarkarana"],
+    answer:"Homogamy"
+},
+{
+    question: "kalionukiyon of which-from samooha in snkatagrasta species of number highest is?",
+    option:["fish","reptiles","chidaior","mammals"],
+    answer:"mammals"
+},
+{
+    question: "ovulation kisa hormone of praorsa from snbhava is?",
+    option:["LH","FSH","Estrogen","Progestrone"],
+    answer:"LH"
+},
+{
+    question: "among these phaphoondee by utpanna disease which-saa is?",
+    option:["tuberculosis","smallpox","ringworm and shaloaf vikshatiorn","shleepada"],
+    answer:"ringworm and shaloaf vikshatiorn"
+},
+{
+    question: "Polymerase Chain Reaction (PCR) whose jaancha for is used?",
+    option:["Genital herpes","malaria","Small pox","Measles"],
+    answer:"Genital herpes"
+},
+{
+    question: "one gene of vibhinna roopon ko are called",
+    option:["allele","onka gene","onicomplementary gene","ipeestetika gene"],
+    answer:"allele"
+},
+{
+    question: "kisee species of anraate organism-diversity ko are called",
+    option:["species diversity","alphaa diversity","genetic diversity","specieskarana"],
+    answer:"genetic diversity"
+},
+{
+    question: "human in conception of avadhi dinon in is",
+    option:["200","250","260","270 dina"],
+    answer:"270 dina"
+},
+{
+    question: "AZT aushadhi of whom treatment in is used?",
+    option:["malaria","AIDS","tee.bee.","oflaa jvaree"],
+    answer:"AIDS"
+},
+{
+    question: "egg formation of method ko are called:",
+    option:["oogenesis","eggaashaya","ovulation","female reproduction"],
+    answer:"oogenesis"
+},
+{
+    question: "yoka formation ko are called",
+    option:["Histogenesis","Glycogenesis","Oogenesis","Proteolysis"],
+    answer:"Histogenesis"
+},
+{
+    question: "biodiversity in sammilita are",
+    option:["jameeneeya","watereeya","ecosystem","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "kaloarna sonaa whose variety is?",
+    option:["wheat of improved variety","sonaa","both (A) and (B)","none of these"],
+    answer:"wheat of improved variety"
+},
+{
+    question: "among the following which-saa vestigial organ is?",
+    option:["ofna of pinnaa","ependiksa","fish of shalka","indhaka of agrabaahu"],
+    answer:"ependiksa"
+},
+{
+    question: "among the following which-see method of by disease of praarnbhika pahachaana of jaa sakatee is?",
+    option:["mootra vishleshana","blood vishleshana","PCR","none of these"],
+    answer:"PCR"
+},
+{
+    question: "among these which plant waterodbhida is?",
+    option:["water chestnut","cactus","shisham","oneesior"],
+    answer:"water chestnut"
+},
+{
+    question: "among these which greenhouse gas naheen is?",
+    option:["CO₂","CH₄","owhichna","CFCs"],
+    answer:"owhichna"
+},
+{
+    question: "among these which apane desha of pahalaa national park is",
+    option:["baandeepura","kaorbeta","ofnhaa","none of these"],
+    answer:"kaorbeta"
+},
+{
+    question: "elarjee in formation having antibody is:",
+    option:["IgA praofra of","IgE praofra of","IgM praofra of","IgG praofra of"],
+    answer:"IgE praofra of"
+},
+{
+    question: "vaahanon in ‘kaitelitika kanvartara’ of use of whom control for is done?",
+    option:["air pollution","water pollution","rediyoonetiva pollution","soil pollution"],
+    answer:"air pollution"
+},
+{
+    question: "kisee organism of symptom praaroopa whose oninaama occurs?",
+    option:["mutation and sahalagnataaen","cytoplasmee prabhaava and laingika viroopataa","environmenteeya onivartana and laingika dviroopataa","genepraroopa and environment of onsoan krioren"],
+    answer:"genepraroopa and environment of onsoan krioren"
+},
+{
+    question: "onkolaojee whose adhyayana is?",
+    option:["cancer","onkogenesa","both (A) and (B)","virus"],
+    answer:"cancer"
+},
+{
+    question: "when pregnancy thaharane in asamartha ho to kaorpasa lyootiyama in which badala jaataa is?",
+    option:["Corpus haemorrhagicum","kaorpasa alabiknsa","kaorpasa kaivaranosama","kaorpasa spaunjiyosama"],
+    answer:"kaorpasa alabiknsa"
+},
+{
+    question: "kraosinga ovara kisa avasthaa in occurs?",
+    option:["jaaigoteena","leptoteena","paiinsecteena","metaapheja"],
+    answer:"paiinsecteena"
+},
+{
+    question: "elarjee due to nikalane having rasaayana are:",
+    option:["histaamina","sirotonina","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "one species of evolutionary itihaasa jaanaa jaataa is",
+    option:["vyaktivritta (Ontogeny)","speciesvritta (Phylogeny)","poorvajataa","fossil science"],
+    answer:"speciesvritta (Phylogeny)"
+},
+{
+    question: "variationon of srota is",
+    option:["samasootree","ardadhasootree","niveshana","mutation"],
+    answer:"mutation"
+},
+{
+    question: "onesnkara kraosa of pheenotipika anupaata what is?",
+    option:["1 : 2 : 1","3 : 1","9 : 3 : 3 : 1","none of these"],
+    answer:"3 : 1"
+},
+{
+    question: "male hormone of origin where from is?",
+    option:["eggaashaya","vrishana","yakrita","mangoaashaya"],
+    answer:"vrishana"
+},
+{
+    question: "among the following which diploid is?",
+    option:["pollen","egg","(A) and (B)","yugmanaja"],
+    answer:"yugmanaja"
+},
+{
+    question: "onkhanalee infant that technique is jisain:",
+    option:["andavaahinee from yugmanaja lekara snvardhita is done, phira ifrom ropita do","andaanu lekara, phira ifrom nishechita karaakara ropita do","sperm and andaanu of snlayana occurs and yugmanaja of development onkhanalee in occurs","none of these"],
+    answer:"andaanu lekara, phira ifrom nishechita karaakara ropita do"
+},
+{
+    question: "commensalism in:",
+    option:["both withiyon ko laabha occurs","both withiyon ko haani is","durfaorce ko laabha whenki praforce nukasaana-viheena rahataa is","uonyukta in from koee naheen"],
+    answer:"durfaorce ko laabha whenki praforce nukasaana-viheena rahataa is"
+},
+{
+    question: "AIDS beemaaree in HIV kisa cell ko destroys?",
+    option:["B-cell","C-cell","T-linphosaaita","A and B both"],
+    answer:"T-linphosaaita"
+},
+{
+    question: "when koee character one from more vioneeta whichdaon of allele by snchaalita occurs to ufrom are called",
+    option:["multiple allelism","bahuandajataa (paoleeimbariyonee)","incomplete dominance","none of these"],
+    answer:"multiple allelism"
+},
+{
+    question: "one area special in primary produceron of number maximum in which hogee?",
+    option:["grassland ecosystem in","forest ecosystem in","reservoir ecosystem in","desert in"],
+    answer:"reservoir ecosystem in"
+},
+{
+    question: "one gene by kaee pheenotaaipa of control of kriormethod ko are called",
+    option:["Epistasis","Pleiotropism","codominance","Multiple allelism"],
+    answer:"Pleiotropism"
+},
+{
+    question: "artificial veerya-fromchana in nishechita eggon ko kisa avasthaa in nioflaa jaataa is?",
+    option:["4–12 cell avasthaa in","8–16 cell avasthaa in","8–32 cell avasthaa in","all of these avasthaa in"],
+    answer:"8–32 cell avasthaa in"
+},
+{
+    question: "recapitulation theory proposed kior gaor is",
+    option:["vaona beyara by","daarvina by","hekala by","arastoo by"],
+    answer:"hekala by"
+},
+{
+    question: "among the following which symbiotic relationship by naaitrojana sthira does?",
+    option:["vaolavaksa","raaiwhichbiyama","ofraa","none of these"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "protein of main snrachanaatmaka specialtaa is:",
+    option:["eethara bnwealth","thistara bnwealth","peptaaida bnwealth","uonokta sabhee"],
+    answer:"peptaaida bnwealth"
+},
+{
+    question: "nimna in which one aushadheeya plant is?",
+    option:["mango","bael","peepal","Sarpagandha"],
+    answer:"Sarpagandha"
+},
+{
+    question: "uterus in Decidua baahara when aataa is?",
+    option:["infant of birth with","infant of birth of baada","infant of birth of pahale","maasika pravaaha at the time of"],
+    answer:"infant of birth of baada"
+},
+{
+    question: "owhichna level ko is destroying:",
+    option:["SO₂","CFCs","Smog","light chemical okseejana"],
+    answer:"CFCs"
+},
+{
+    question: "plaajmotomee in which occurs?",
+    option:["haaidraa","obaelior","opelinaa and plaajmodiyama","plaajmodiyama"],
+    answer:"opelinaa and plaajmodiyama"
+},
+{
+    question: "among the following which-saa maize of major variety is?",
+    option:["gngaa 101","sharabatee","sonaaliof","shakti"],
+    answer:"gngaa 101"
+},
+{
+    question: "kisee female in 21ven of chromosome three replicayon due to 47 chromosomes of upasthiti main symptom is",
+    option:["daathose-sindroma of","triploidaa of","tarmaale-sindroma of","suon-pheemelanesa of"],
+    answer:"daathose-sindroma of"
+},
+{
+    question: "fourlsa daarvina ne jisa ship on apanee sea voyage of thatof name thaa",
+    option:["beegala","philipsa","elekjendara","none of the above"],
+    answer:"beegala"
+},
+{
+    question: "Cleavage for koar correct kathana is?",
+    option:["embryo of aaofra increases is","cell of aaofra decreases is","cell of aaofra increases is","embryo of aaofra decreases is"],
+    answer:"cell of aaofra decreases is"
+},
+{
+    question: "avasaadee chakra of antargata whose chakreekarana occurs?",
+    option:["lauha","phaosphorasa","both (A) and (B)","none of these"],
+    answer:"phaosphorasa"
+},
+{
+    question: "antariksha orna in among these mainth kinaof use okseejana utpaadana hetu is done?",
+    option:["algae","fungus","braayophaitsa","none of these"],
+    answer:"algae"
+},
+{
+    question: "peedojenesisa kisa laarvaa in is found?",
+    option:["teenior","phaisiyolaa","raanaa","titalee"],
+    answer:"phaisiyolaa"
+},
+{
+    question: "chhotee gardana, chhote ofna and chaudaee chhaatee of symptom relationshipita are",
+    option:["XXX chromosome having female from","XO chromosome having female from","XX chromosome having female from","uonyukta in from koee naheen"],
+    answer:"XO chromosome having female from"
+},
+{
+    question: "ameebaa in reproduction kisa praofra occurs?",
+    option:["konidior","kaliof","jemyoolsa","dvikhndana by"],
+    answer:"dvikhndana by"
+},
+{
+    question: "India in harita kraanti for vikasita of gaee ‘jaor’ and ‘ratnaa’ in which are?",
+    option:["rice of","wheat of","baajare of","makoaf of"],
+    answer:"rice of"
+},
+{
+    question: "spermatogenesis by one primary sperm cell from kitane sperm banate are?",
+    option:["1","4","16","32"],
+    answer:"4"
+},
+{
+    question: "kisee ritrovaayarasa in genetic material is:",
+    option:["RNA","DNA","hn RNA","none of these"],
+    answer:"RNA"
+},
+{
+    question: "humanon in ‘kraaee-du-chaita’ sindroma kisadue to paidaa occurs?",
+    option:["XX egge of normal Y-dhaaraka sperm by fertilization","chromosome 5 of laghu bhujaa of one bhaaga of haani","chromosome 5 of deergha bhujaa of one bhaaga of haani","21ven of chromosome trisootrataa"],
+    answer:"chromosome 5 of laghu bhujaa of one bhaaga of haani"
+},
+{
+    question: "among these kina two vibhinna praofra of animalon between aarkiyopteriksa one yojaka kadaee is?",
+    option:["water and land","land and pahaada","land and air","none of these"],
+    answer:"land and air"
+},
+{
+    question: "gravity of prabhaava against land which water of amount snchaya does, ufrom are called:",
+    option:["land of kshamataa","gravityaakarshana force","snchaya water","haaigroskopika water"],
+    answer:"land of kshamataa"
+},
+{
+    question: "of RNA synthesis occurs:",
+    option:["DNA of both valaya on","DNA of sense strand on","DNA of complementary strand on","cDNA on"],
+    answer:"DNA of complementary strand on"
+},
+{
+    question: "among the following cotton of baola varma pratirodhee gene snyojana is:",
+    option:["cry I Ac","cry II Ab","cry I Ab","cry I Ac and cry II Ab"],
+    answer:"cry I Ac and cry II Ab"
+},
+{
+    question: "HIV aakramana does:",
+    option:["B-limphosaaita","enteebaodeeja","T-limphosaaita","erithrosaaitsa"],
+    answer:"T-limphosaaita"
+},
+{
+    question: "gharon in harmful radiation of main source what is?",
+    option:["tyooforceaaita","rngeena tee.vee.","choolhaa","heetara"],
+    answer:"rngeena tee.vee."
+},
+{
+    question: "vaayarasa janita disease what is?",
+    option:["malaria","influenza","diphtheria","syphilis"],
+    answer:"influenza"
+},
+{
+    question: "baaralaoga ne whose naee species vikasita of?",
+    option:["wheat","rice","sugarcane","mango"],
+    answer:"wheat"
+},
+{
+    question: "India in methena of major srota is:",
+    option:["ganne of kheta","paddy of kheta","wheat of kheta","baagaana"],
+    answer:"paddy of kheta"
+},
+{
+    question: "transgenic crop in nimna for gene are:",
+    option:["naye protein of synthesis for","enteebaayotika of pratirodha for","enteebaayotiksa for enjaaima of formation in","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "ozone layer airmndala in where is found?",
+    option:["kshobhamndala","samataapamndala","baahyamndala","aayanamndala"],
+    answer:"samataapamndala"
+},
+{
+    question: "prithvee on origin of life from relationshipita book likhee gaee thee",
+    option:["operina by","heldena by","daarvina by","these sabhee of by"],
+    answer:"operina by"
+},
+{
+    question: "AIDS for sabafrom correct draga is:",
+    option:["Acyclovir","Didanosine","Zidovudine","Tetracycline"],
+    answer:"Zidovudine"
+},
+{
+    question: "forest conservation of upaaya are:",
+    option:["saamaajika foresteekarana oniyojanaaen","agriculture foresteekarana oniyojanaaen","shaharee foresteekarana oniyojanaaen","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "among the following which-saa tof RNA recognition is?",
+    option:["enteekodona","loop I","Loop IV","3-OH chhora"],
+    answer:"enteekodona"
+},
+{
+    question: "kisee O blood group having infant of mother-father in which-saa blood group can be?",
+    option:["B and B","A and B","O and O","AB and B"],
+    answer:"O and O"
+},
+{
+    question: "haardee-venabarga sntulana in adishaatmaka onivartana are",
+    option:["gene pravaaha","mutation","genetic apavaahana (Genetic drift)","gene rikaombineshana"],
+    answer:"genetic apavaahana (Genetic drift)"
+},
+{
+    question: "thesein which restarikshana enzyme naheen is?",
+    option:["EcoRI","BamHI","HindIII","pektineja"],
+    answer:"pektineja"
+},
+{
+    question: "gatisheela silioryukta seedaanu ko are called:",
+    option:["Aplanospores","konidior","joosporsa","oosporsa"],
+    answer:"joosporsa"
+},
+{
+    question: "‘katalaa’ fish is found।",
+    option:["mriduwater","kathora water","mriduwater and kathora water both","none of these"],
+    answer:"mriduwater"
+},
+{
+    question: "seedchola khaaor jaataa is",
+    option:["shareephaa of","apple of","orange of","among these sabhee"],
+    answer:"shareephaa of"
+},
+{
+    question: "gene therapy of pahale experiment kisa year kior gaor thaa?",
+    option:["1988","1989","1990","1992"],
+    answer:"1990"
+},
+{
+    question: "paineesilina enteebaayotika is produced",
+    option:["bacterium from","fungus from","algae from","virus from"],
+    answer:"fungus from"
+},
+{
+    question: "fertilization preventing of surgical method ko are called:",
+    option:["Vasectomy","Tubectomy","MTP","sabhee"],
+    answer:"Vasectomy"
+},
+{
+    question: "probaayotiksa is:",
+    option:["naye praofra of khaadya-padaartha","surakshita enteebaayotiksa","organismita maaikrobiyala khaadya complementary","cancer utpanna karane having maaikrobsa"],
+    answer:"organismita maaikrobiyala khaadya complementary"
+},
+{
+    question: "DNA anu of nucleotideon of complementary occurs:",
+    option:["tof RNA naaitrojanee besa","mof RNA naaitrojanee besa","raaibosoma of RNA","none of these"],
+    answer:"mof RNA naaitrojanee besa"
+},
+{
+    question: "among the following which onivartanasheela is, but khaasa species for sthira is?",
+    option:["A+T=G+C","G+C=T+T","A+G=T+C","none of these"],
+    answer:"A+T=G+C"
+},
+{
+    question: "riyo de jenero in year 1992 in snpanna huee prithvee shikhara sammelana of oninaamasvaroopa:",
+    option:["laala aankadae soochee of snkalana","jaiva nichayon of sthaapanaa","biodiversity sammelana","prakriti and natural"],
+    answer:"biodiversity sammelana"
+},
+{
+    question: "DNA of separation during in bacteria which-from of enzyme use is done?",
+    option:["laathisojaaima","ofitineja","fromluleja","proteineja"],
+    answer:"laathisojaaima"
+},
+{
+    question: "dhatooraa of haploid by whom praapta are?",
+    option:["embryo culture","vibhajyoup to culture","callus culture","anther culture"],
+    answer:"anther culture"
+},
+{
+    question: "seed ko sexual reproduction of utpaada is called whyki ye",
+    option:["gamete of snyojana from formed are","nae plants ko banaate are","lnbee avadhi up to sngrahita kara rakhe jaa sakate are","pollennalee of snyojana from banate are"],
+    answer:"gamete of snyojana from formed are"
+},
+{
+    question: "twoharaa fertilization in snyojana occurs",
+    option:["one egg and two sperm","sperm nucleus and egg nucleus with dhruva nucleus of","one male gamete egg with and doosare male gamete of synergid with","one male gamete of egg with and doosare male gamete of secondary nucleus with"],
+    answer:"one male gamete of egg with and doosare male gamete of secondary nucleus with"
+},
+{
+    question: "prakriti in two vibhinna speesheeja between antarajaateeya antarareproduction why snbhava naheen can be?",
+    option:["jaivika baadhaaon of chalate","environmenteeya baadhaaon of chalate","both praofra of baadhaaon due to","none of these"],
+    answer:"both praofra of baadhaaon due to"
+},
+{
+    question: "Genital warts one virus janita disease is, which kisafrom occurs?",
+    option:["klomaaidior traikometisa by","traaikomonaasa vaijaatheselisa by","trepeenemaa paileedama by","hyoomana paipeelomaa vaayarasa by"],
+    answer:"hyoomana paipeelomaa vaayarasa by"
+},
+{
+    question: "andaanu in baahara from anrate of ora levelon of among the following which-saa krama occurs?",
+    option:["whichnaa pailyoosidaa, peeup to kalaa and koronaa rediaitaa","whichnaa pailyoosidaa, koronaa rediaitaa and peeup to kalaa","koronaa rediaitaa, whichnaa pailyoosidaa and peeup to kalaa","peeup to kalaa, whichnaa pailyoosidaa and koronaa rediaitaa"],
+    answer:"koronaa rediaitaa, whichnaa pailyoosidaa and peeup to kalaa"
+},
+{
+    question: "gaatheseekomestior symptom is",
+    option:["klaatheseepheltarsa sindroma of","tarmaalesa sindroma of","saarsa of","daathosesa sindroma of"],
+    answer:"klaatheseepheltarsa sindroma of"
+},
+{
+    question: "jaivika shakti of maana nioflaa jaataa is:",
+    option:["birth-rate from death rate subtracting","birth-rate in death rate ko whichdakara","birth-rate and death rate of bhaagaphala from","none of these"],
+    answer:"birth-rate from death rate subtracting"
+},
+{
+    question: "one m-RNA in amino acid of koda for kitane nucleotide sequence are?",
+    option:["one","two","three","four"],
+    answer:"three"
+},
+{
+    question: "among the following from in which 12 in the year only one baara flower khilate are?",
+    option:["sunflower","peepal","neelaa kurenjee","neem"],
+    answer:"neelaa kurenjee"
+},
+{
+    question: "soil aondana ko kisa praofra roof jaa sakataa is?",
+    option:["human kriorkalaapon ko pratibandhita karaof","animals of pragati rokakara","air skareena of experiment karaof","shreshtha plant aavarana from"],
+    answer:"shreshtha plant aavarana from"
+},
+{
+    question: "“Morning after pills” from conception ko roof jaa sakataa is, if ifrom ______ ghnte of anrate lior jaae।",
+    option:["50","60","30","72"],
+    answer:"72"
+},
+{
+    question: "‘ikosistama’ shabda ko prastaavita kior:",
+    option:["odama ne","tensale ne","vitekara ne","golee ne"],
+    answer:"tensale ne"
+},
+{
+    question: "dvifertilization in which is found?",
+    option:["aavrittaseedee","anaavrittaseedee","teridophaaitsa","braayophaayatsa"],
+    answer:"aavrittaseedee"
+},
+{
+    question: "indala apane experiments in saphala hue whyki",
+    option:["thatne matara of plants ko chunaa","svatntra traits of adhyayana kior gaor","atyadhika traits ko chunaa gaor","matara of plant dvilingee occurs"],
+    answer:"thatne matara of plants ko chunaa"
+},
+{
+    question: "100 secondary egg cell and 200 secondary sperm cell from gametereproduction at the time of kitane egg and sperm banenge?",
+    option:["50 egg, 100 sperm","100 egg, 400 sperm","100 egg, 100 sperm","200 egg, 200 sperm"],
+    answer:"100 egg, 400 sperm"
+},
+{
+    question: "one DNA anu in edeeneena and thaayameena between upasthita haaidrojana bndhon of number is:",
+    option:["2","3","4","8"],
+    answer:"2"
+},
+{
+    question: "nimnalikhita nyooklika amla genetic material and utpareraka both of ofrya does:",
+    option:["DNA","RNA","both (A) and (B)","none of the above"],
+    answer:"RNA"
+},
+{
+    question: "among the following kaloarna sonaa whose variety is?",
+    option:["paddy","wheat","maize","matara"],
+    answer:"wheat"
+},
+{
+    question: "vaayarasa of kora in among these koar is found?",
+    option:["DNA","RNA","DNA or RNA in from koee one","none of these"],
+    answer:"DNA or RNA in from koee one"
+},
+{
+    question: "among the following which-see birth control of natural method naheen is?",
+    option:["baahya ejaculation","aavadhika snyama","vaafromktomee","breastfeeding anaartava"],
+    answer:"vaafromktomee"
+},
+{
+    question: "stenalee milara of experiment bataataa is",
+    option:["rasaayanavaada","aorganismotpatti mata","organismotpatti mata","penajenesisa"],
+    answer:"rasaayanavaada"
+},
+{
+    question: "protein synthesis for Initiation codon is:",
+    option:["AUG","GGU","Met","AUG and GUG"],
+    answer:"AUG"
+},
+{
+    question: "bird by pollination ko are called",
+    option:["Entomophily","Myrmecophily","Ornithophily","Chiropterophily"],
+    answer:"Ornithophily"
+},
+{
+    question: "which-saa third shrenee of insectnaashaka is?",
+    option:["insect ripelentsa","pheromonsa","paithojensa","insect hormone enaalaoga"],
+    answer:"insect hormone enaalaoga"
+},
+{
+    question: "kisee paoleepeptaaida shrrinkhalaa in 100 amino acid are। thisfrom kitane praofra of protein-formation tripleta jenetika koda of tahata can be?",
+    option:["20^100","100^20","100 × 20 × 3","100 × 3"],
+    answer:"20^100"
+},
+{
+    question: "among the following which-saa evolutionism from yukta is?",
+    option:["viluptataa","variation","reproduction","pratisoandhaa"],
+    answer:"variation"
+},
+{
+    question: "dvifertilization of oninaama occurs",
+    option:["cotyledon","ovuleofya","endosperm","embryo"],
+    answer:"endosperm"
+},
+{
+    question: "highest jameenee primary producertaa having paaritntra occurs",
+    option:["pond","ocean","desert","forest"],
+    answer:"forest"
+},
+{
+    question: "without fertilization of hee seed paidaa karane of process ko koar are called",
+    option:["asngareproduction","pollination","trisnlayana","anya"],
+    answer:"asngareproduction"
+},
+{
+    question: "mada chakra (oestrus cycles) is found",
+    option:["cow","bheda","dog","these sabhee in"],
+    answer:"these sabhee in"
+},
+{
+    question: "among the following taaichunga-1 whose variety is?",
+    option:["paddy of","wheat of","maize of","fromma of"],
+    answer:"paddy of"
+},
+{
+    question: "owhichna of motaaee maapee jaatee is:",
+    option:["NTU","daobasana iofee","paarta on miliyana","kilomeetara"],
+    answer:"daobasana iofee"
+},
+{
+    question: "jnka DNA kisako is called?",
+    option:["kodinga krama","naonakodinga krama","promotara gene","histona protein"],
+    answer:"naonakodinga krama"
+},
+{
+    question: "vibhaajana gene in, kodinga krama ko are called:",
+    option:["introna","onesona","sistaraana","operaona"],
+    answer:"onesona"
+},
+{
+    question: "among the following kisa animal of conservation asama of ofjeerngaa fromnchuree in kior jaa rahaa is",
+    option:["Indian baathisna","Indian lion","Indian rhinoceros","Indian elephant"],
+    answer:"Indian rhinoceros"
+},
+{
+    question: "among the following which yauna-snfourita disease is?",
+    option:["malaria","AIDS","dengoo","none of these"],
+    answer:"AIDS"
+},
+{
+    question: "seed of that ankurana ko jisain cotyledon land from ooon aa jaate are, are called",
+    option:["adholandka","bhoomyooonika","saorganismprajataa","none of these"],
+    answer:"bhoomyooonika"
+},
+{
+    question: "kuchha animals in being having sheetanishkariyataa is:",
+    option:["layabaddha","saamayika","kadaachita","kshanika"],
+    answer:"saamayika"
+},
+{
+    question: "one bindu mutation is",
+    option:["thaileseemior","sikila fromla eneemior","daathose sindroma","rataundhee"],
+    answer:"sikila fromla eneemior"
+},
+{
+    question: "‘sahelee’ which ki female contraceptive pill is, experiment is done:",
+    option:["rojaanaa","saaptaahika","timaahee","maasika"],
+    answer:"saaptaahika"
+},
+{
+    question: "plants which chattaanon on ugate are, are called:",
+    option:["okfaromlophaaita","lithophaaita","airiyophaaita","helophaaita"],
+    answer:"lithophaaita"
+},
+{
+    question: "aifrom padaartha jinaof prati immune response is, thosehen are called:",
+    option:["allergen","vaccine","antibody","antigen"],
+    answer:"antigen"
+},
+{
+    question: "kisee dnpatti ko two putra are। teesaree offspring of putree being of snbhaaforestaa is",
+    option:["100%","50%","25%","12.5%"],
+    answer:"50%"
+},
+{
+    question: "one saadhaarana food chain of correct krama is:",
+    option:["ghaasa → bakaree → human","bakaree → ghaasa → human","human → bakaree → ghaasa","none of these"],
+    answer:"ghaasa → bakaree → human"
+},
+{
+    question: "‘convergent evolution’ prarateshita occurs",
+    option:["homologous organson by","analogous organson by","vestigial organon by","uonokta sabhee by"],
+    answer:"analogous organson by"
+},
+{
+    question: "in which pollen grain of formation occurs",
+    option:["anther","stigma","filament","Pollen sac"],
+    answer:"Pollen sac"
+},
+{
+    question: "graaphiyana putee of growth and maturena by whom niyntrita occurs?",
+    option:["FSH-LH","FSH-LTH","ACTH-LH","GH-ADH"],
+    answer:"FSH-LH"
+},
+{
+    question: "among the following in which water pollination occurs",
+    option:["water hyacinth","lotus","Hydrilla","(B) and (C) both"],
+    answer:"Hydrilla"
+},
+{
+    question: "phloraaida of concentration airmndala in increase from occurs:",
+    option:["klorosisa","nekrosisa","phlorosisa","among these sabhee"],
+    answer:"phlorosisa"
+},
+{
+    question: "vishva of climate ko khataraa is:",
+    option:["CO₂ of amount increase from","O₂ of amount increase from","owhichna of amount increase from","N₂ of amount increase from"],
+    answer:"CO₂ of amount increase from"
+},
+{
+    question: "stema cell kisafrom utpanna is?",
+    option:["yoka saika from","pregnancystha infant of yakrita from","asthimajjaa from","sabhee from"],
+    answer:"sabhee from"
+},
+{
+    question: "klorelaa among the following what is?",
+    option:["bacterium","algae","protozoa","onela cell protein"],
+    answer:"algae"
+},
+{
+    question: "beedala and taotama of nyoorosporaa on kior gaor mahatvapoorna experiment siddha does ki:",
+    option:["one enzyme one gene ko sudhaarataa is","one enzyme one gene utpanna does","one gene by aneka gene utpanna are","none of these"],
+    answer:"one enzyme one gene utpanna does"
+},
+{
+    question: "Bt what is?",
+    option:["one organismtoxin protein","one pratirodhaka","peedakanaashaka","uonokta sabhee"],
+    answer:"one organismtoxin protein"
+},
+{
+    question: "prokairiyotika genetic tntra in nihita is:",
+    option:["DNA + histonsa","DNA + histona rahita","DNA + naonahistona","DNA and histona both hee anupasthita"],
+    answer:"DNA + histona rahita"
+},
+{
+    question: "entomophilasa flowers in pollination of maadhyama occurs",
+    option:["ant","insect","bird","havaa"],
+    answer:"insect"
+},
+{
+    question: "among the following which greenhouse gas naheen is?",
+    option:["SO₂","CH₄","CO₂","CFCs"],
+    answer:"SO₂"
+},
+{
+    question: "kisee flowering plants in maximum of chromosome number 2n=265 is। plant litorosaa in is, to minimum number is",
+    option:["2n = 4","2n = 14","2n = 2","2n = 16"],
+    answer:"2n = 4"
+},
+{
+    question: "asexual reproduction in kitane organism bhaaga lete are?",
+    option:["one","two","three","one bhee naheen"],
+    answer:"one"
+},
+{
+    question: "pollen kanon in specialkara which-saa vitamin occurs",
+    option:["vitamin B","vitamin A","vitamin D","vitamin C"],
+    answer:"vitamin B"
+},
+{
+    question: "nyooklika amla one praforce amla is। thisof amlataa of ofrana is:",
+    option:["phosphates","sugar","nitrogenous base","haaidrojana bnwealth"],
+    answer:"phosphates"
+},
+{
+    question: "of coconut endosperm of which-saa bhaaga liquid syncytium is called",
+    option:["coconut seed of liquid endosperm","Endosperm TET","Endosperm of baaharee level","among these sabhee"],
+    answer:"coconut seed of liquid endosperm"
+},
+{
+    question: "virus which cancer utpanna do, are called:",
+    option:["aburdeeya virus","bacteriumbhojee","tee.ema.vee. (TMV)","koee naheen"],
+    answer:"aburdeeya virus"
+},
+{
+    question: "photochemical smog in upasthita shaktishaalee tatva which aankhon in waterna paidaa do:",
+    option:["naaitrika oksaaida","SO","CO₂","naaitrasa oksaaida"],
+    answer:"naaitrasa oksaaida"
+},
+{
+    question: "ephaairaa laarvaa orelior in is found। thisof formation kisa method from occurs?",
+    option:["rijemaleeshana","vikhndeekarana","tootana","starobaailesana"],
+    answer:"starobaailesana"
+},
+{
+    question: "paarthenojenesisa is found:",
+    option:["onesolotala laarvaa in","miraasidiyama in","saroafrior in","sporosista and redior laarvaa in"],
+    answer:"sporosista and redior laarvaa in"
+},
+{
+    question: "AIDS by whom phailataa is?",
+    option:["blood of aadaana-pradaana","aonaa from aadaana-pradaana","laingika snbhoga","all of the above"],
+    answer:"all of the above"
+},
+{
+    question: "ubhayalingee praanee is:",
+    option:["hen","snake","both (A) and (B)","earthworm"],
+    answer:"earthworm"
+},
+{
+    question: "among the following which-saa tharmophilika bacteria from nikarshita taapa sthiree (Thermostable) enzyme is?",
+    option:["RNA paoleemareja","DNA polymerase","ristarikshana endonyookliaija","DNA ligeja"],
+    answer:"DNA polymerase"
+},
+{
+    question: "coconut in tarala and guddedaara padaartha occurs",
+    option:["embryo","anthbhittee daanaa","endosperm","none of these"],
+    answer:"endosperm"
+},
+{
+    question: "kisee mature pollen grain in kitane nuclei are",
+    option:["1","2","3","4"],
+    answer:"2"
+},
+{
+    question: "genetic code in kitane code are?",
+    option:["4","165","32","64"],
+    answer:"64"
+},
+{
+    question: "first parasitic cow of name koar thaa?",
+    option:["rojee","baforceee","heeraa","motee"],
+    answer:"rojee"
+},
+{
+    question: "SO₂ pollution of soochaka is:",
+    option:["algae","laaiofna","fungus","among these sabhee"],
+    answer:"laaiofna"
+},
+{
+    question: "on-pollination laabhadaayaka is, whyki thisof oninaama are",
+    option:["male offspring of birth lenaa","weak offspring","superior offspring","seed of formation"],
+    answer:"superior offspring"
+},
+{
+    question: "Follicles of rupture and ova of release is called",
+    option:["copulation","conjugation","ovulation","oviposition"],
+    answer:"ovulation"
+},
+{
+    question: "if pollination bee by sampanna ho to ifrom are called",
+    option:["Ornithophily","Myrmecophily","Entomophily","Chiropterophily"],
+    answer:"Entomophily"
+},
+{
+    question: "ofnon on baala of bahulataa of gene is found",
+    option:["X-kromosoma on","Y-kromosoma on","linga nirdhaaraneeya kromosoma on","alinga kromosoma on"],
+    answer:"Y-kromosoma on"
+},
+{
+    question: "kocha of avadhaaranaa kisafor correct naheen is?",
+    option:["diphtheria","leprosee","tee.bee.","isjaa"],
+    answer:"leprosee"
+},
+{
+    question: "blood of kolestaraola ko less karane for staitina of is used, ye kisafrom utpanna isn?",
+    option:["monoskasa onpyooreeyasa","traaikodarmaa","stareptokokasa","none of these"],
+    answer:"monoskasa onpyooreeyasa"
+},
+{
+    question: "oofjaaof tukadaaa relationshipita is।",
+    option:["traansavarsana","traansaleshana","otomeshana both","repleeofshana"],
+    answer:"repleeofshana"
+},
+{
+    question: "G-6-P deehaaidrogeneeja of lessee of whom heemolaathisisa from relationshipita is?",
+    option:["limphosaaitsa of","RBCs of","pletaletsa of","lyookosaaitsa of"],
+    answer:"RBCs of"
+},
+{
+    question: "one poshana level from doosare in energy pravaahita is",
+    option:["5%","10%","15%","20%"],
+    answer:"10%"
+},
+{
+    question: "gene abhiyntrita cropen agriculture in ofphee phaayademnda are, whyki:",
+    option:["theseof poshaka kshamataa less is","ye chemical fertilizer of paidaavaara badhaaate are","ye ajaivika dabaava of prati joardaa sahanasheela are","among these sabhee"],
+    answer:"ye ajaivika dabaava of prati joardaa sahanasheela are"
+},
+{
+    question: "genetic abhiorntriof in thistemaala pahalaa pratibnwealth of enzyme name what is?",
+    option:["EcoRV","EcoRI","Hind-III","none of these"],
+    answer:"EcoRI"
+},
+{
+    question: "organismnumber of samasta genes of yoga is called",
+    option:["genekosha","genepravaaha","gene bainka","none of the above"],
+    answer:"genekosha"
+},
+{
+    question: "hnsiorofra bloodaanu abloodtaa in amino acid snfactor occurs",
+    option:["α shrrinkhalaa in veleena by glootamika amla","α shrrinkhalaa in glootemika amla by veleena","β shrrinkhalaa in veleena by glootemika amla","β shrrinkhalaa in glootemika amla by veleena"],
+    answer:"β shrrinkhalaa in veleena by glootemika amla"
+},
+{
+    question: "fertilization what is",
+    option:["eggaa and male nyookliyasa of snyojana","eggaa and fromkndaree nyookliyasa of snyojana","eggaa and simalejida of snyojana","none of these"],
+    answer:"eggaa and male nyookliyasa of snyojana"
+},
+{
+    question: "doodha in which-saa daathisaiofraaida upasthita occurs?",
+    option:["maaltoja","glaiktoja","sukroja","laiktoja"],
+    answer:"laiktoja"
+},
+{
+    question: "‘mukulana’ by reproduction in which occurs?",
+    option:["penisiliyama","paaraamishiyama","yeesta","among these sabhee in"],
+    answer:"yeesta"
+},
+{
+    question: "‘he pheevara’ kisafrom occurs?",
+    option:["virus","vitamin of lessee from","elarjee","koee naheen"],
+    answer:"elarjee"
+},
+{
+    question: "poarja of gamete in of chromosome number is:",
+    option:["8","16","24","32"],
+    answer:"16"
+},
+{
+    question: "svatntraorganismee aairveeya naaitrojana sthireeofree bacterium is:",
+    option:["raaiwhichbiyama","stareptokokasa","ewhichtobaiktara","klostareediyama"],
+    answer:"klostareediyama"
+},
+{
+    question: "ecosystem in aahaara-level ko is called:",
+    option:["producer level","consumer level","shaaofhaaree level","poshana level"],
+    answer:"poshana level"
+},
+{
+    question: "sarvottama dudhaaroo nasla of pashu are।",
+    option:["laala sindhee (Red Sindhi)","holsatina-phrijiyana","saahivaala","none of these"],
+    answer:"holsatina-phrijiyana"
+},
+{
+    question: "antara-hybridization from growth is।",
+    option:["samajaatataa in","toxinmajaatataa in","both in","none of these"],
+    answer:"toxinmajaatataa in"
+},
+{
+    question: "katalaa is found।",
+    option:["alavaneeya water in","khaare water in","alavaneeya and lavaneeya both praofra of water in","kisee bhee water in"],
+    answer:"alavaneeya water in"
+},
+{
+    question: "monosomy and trisomy ko nimnavat aniroopita kior jaa sakataa is।",
+    option:["2n + 1, 2n + 3","2n – 1, 2n – 2","2n, 2n + 1","2n – 1, 2n + 1"],
+    answer:"2n – 1, 2n + 1"
+},
+{
+    question: "birth rate control of method which-see is?",
+    option:["GIFT","IVF-ET","IUCDs","ICSI"],
+    answer:"IUCDs"
+},
+{
+    question: "water pollution of normal soochaka organism is:",
+    option:["Lemna paucicostata","Eichhornia crassipes","Escherichia coli","Entamoeba histolytica"],
+    answer:"Escherichia coli"
+},
+{
+    question: "diploid is",
+    option:["egg","pollen","both (A) and (B)","yugmanaja"],
+    answer:"yugmanaja"
+},
+{
+    question: "veerya snchita is done।",
+    option:["tarala okseejana in","tarala naaitrojana in","tarala sodiyama in","none of these"],
+    answer:"tarala naaitrojana in"
+},
+{
+    question: "if jaivamndala from ofrbana daaioksaaida ko hataa dior jaae to which-from organism on sarvafirst buraa asara padaegaa?",
+    option:["primary producer","producer","secondary consumer","third consumer"],
+    answer:"primary producer"
+},
+{
+    question: "genetic material of mutation from prabhaavita being having chhote-from-chhotaa khnda is",
+    option:["reekaona","sistaraona","myootaona","onesaona"],
+    answer:"myootaona"
+},
+{
+    question: "taajamahala by whom nashta can be?",
+    option:["yamunaa nadee in baadha from","sngamaramara of uchcha taapa on apaghatana from","mathuraa of tela shodhaka ofrakhaane from nikalee SO₂ from","uonokta sabhee from"],
+    answer:"mathuraa of tela shodhaka ofrakhaane from nikalee SO₂ from"
+},
+{
+    question: "sameekarana dN/dt = rN kifrom niroopita does?",
+    option:["birth rate","growth rate","death rate","all of the above"],
+    answer:"growth rate"
+},
+{
+    question: "klona of pahachaana do",
+    option:["PCR from","jela ilektarophoresisa from","otorediyograaphee from","among these sabhee"],
+    answer:"otorediyograaphee from"
+},
+{
+    question: "urdhavavartee/shikharaanga (upright) pyramid that pyramid is which",
+    option:["energy pyramid which sadaiva khadaee avasthaa in are","energy pyramid which sadaiva ulatee avasthaa in adhovartee rahatee is","both (A) and (B)","none of these"],
+    answer:"energy pyramid which sadaiva khadaee avasthaa in are"
+},
+{
+    question: "linofja (sahalagnataa) of khoja kisane of thee?",
+    option:["indala","maorgana","puneta","moolara"],
+    answer:"maorgana"
+},
+{
+    question: "among the following from which biofertilizer is?",
+    option:["maaikoraaijaa","kior","ewhichbaiktara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "hisaaradela (Hisardale) whose variety is?",
+    option:["cow of","buffalo of","bheda of","fish of"],
+    answer:"bheda of"
+},
+{
+    question: "among the following which yauna snfourita disease is?",
+    option:["taayaphaayada","isjaa","malaria","syphilis"],
+    answer:"syphilis"
+},
+{
+    question: "egg prajaka is",
+    option:["hen","snake","magaramachchha","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "Implantation from pahale embryo ko poshana milataa is",
+    option:["Ovary from","eggvaahinee from","uterus of secretionna from","apane hee yolk from"],
+    answer:"uterus of secretionna from"
+},
+{
+    question: "one svastha female of poore organismna ofla in utpanna kula eggon of number is",
+    option:["4000","400","40","365"],
+    answer:"400"
+},
+{
+    question: "ikolaojee shabda kisane dior is?",
+    option:["odama","iskala","haorave","none of these"],
+    answer:"iskala"
+},
+{
+    question: "onkhanalee infanton ko utpanna karane in",
+    option:["fertilization baahya occurs va embryo of formation anraate occurs","fertilization anth occurs va embryo formation baahya occurs","fertilization va embryo formation both hee anraate are","fertilization va embryo formation both baahya are"],
+    answer:"fertilization baahya occurs va embryo of formation anraate occurs"
+},
+{
+    question: "human in that immunity which birth at the time of from maujooda rahatee is, kahalaatee is:",
+    option:["sahaja immunity","upaarjita immunity","svaimmunity","nishkariya immunity"],
+    answer:"sahaja immunity"
+},
+{
+    question: "one ecosystem in hare plants are",
+    option:["producer","consumer","decomposer","thesein koee naheen"],
+    answer:"producer"
+},
+{
+    question: "onesonyookfaorja of snratebha in which-saa vaakya wrong is?",
+    option:["DNA of sire from nucleotide ko alaga do।","this DNA ko bheetara vishishta sthalon on oftate are।","ye nucleotide ko alaga karane of atirikta bheetara vishishta sthalon on oftate are।","ye nyookleeeja enzymeon of one badae varga of satenya are।"],
+    answer:"this DNA ko bheetara vishishta sthalon on oftate are।"
+},
+{
+    question: "Parturition for snofta (Signal) where from shuroo occurs?",
+    option:["plaafromntaa","plaafromntaa and poorna vikasita pregnancystha infant","mother of pityootaree from secretionita oxytocin by","poorna vikasita pregnancystha infant by"],
+    answer:"plaafromntaa and poorna vikasita pregnancystha infant"
+},
+{
+    question: "reseed of vaccine kisane prachalita kior?",
+    option:["jemale","paashchara","daarvina","laimaarka"],
+    answer:"paashchara"
+},
+{
+    question: "sapheda cheetaa madhyapradesha in where surakshita is?",
+    option:["reevaa","bhopaala","indaura","gvaaliyara"],
+    answer:"reevaa"
+},
+{
+    question: "watereeya community in primary consumer are:",
+    option:["maansaahaaree","mritabhojee","shaaofhaaree","sarvaahaaree"],
+    answer:"shaaofhaaree"
+},
+{
+    question: "one vivaahita pairs of pahale from three putriorn are। aba chauthee offspring of socha rahe are। this bhaavee offspring of putra being of snbhaaforestaa kitane pratishata hogee?",
+    option:["100%","50%","25%","0%"],
+    answer:"50%"
+},
+{
+    question: "among the following which-saa jaiva factor is?",
+    option:["soil","vaashpa","water","sabhee"],
+    answer:"soil"
+},
+{
+    question: "kisee dvikundalita DNA of valaya in kshaara shrrinkhalaa between of dooree is?",
+    option:["0.34 nm","34 nm","5 Å","10"],
+    answer:"0.34 nm"
+},
+{
+    question: "bacterium of anulekhana iofee in snrachanaatmaka gene occurs:",
+    option:["monosistaraoneeka","paoleesistaraoneeka","naonasistaraoneeka","none of the above"],
+    answer:"paoleesistaraoneeka"
+},
+{
+    question: "idalee-dosaa of aate in which-saa sookshamaorganism is used?",
+    option:["yeesta","bacterium","virus","among these sabhee"],
+    answer:"yeesta"
+},
+{
+    question: "pregnancydhaarana of baada mother of mootra in which-saa hormone occurs?",
+    option:["LH","projestaraona","FSH","HCG"],
+    answer:"HCG"
+},
+{
+    question: "kisee Dihybrid cross for Independent assortment of niyama of anusaara koar correct is?",
+    option:["F2 vnshaja in 4 genotypes are","F2 in 16 phenotypes are","both Characters for only one individual homozygous recessive occurs","vibhinna phenotypes of bhatoxinyavaanee snbhava naheen is"],
+    answer:"both Characters for only one individual homozygous recessive occurs"
+},
+{
+    question: "DNA ko dekhane for is used:",
+    option:["itheediyama bromaaida","eneeleena bloo","fromphreneena","phaasta greena"],
+    answer:"itheediyama bromaaida"
+},
+{
+    question: "age snrachanaa of joarmiteeya niroopana whose vishishtataa is?",
+    option:["jaivika community of","samashti","bhoodrishya","paaritntra"],
+    answer:"samashti"
+},
+{
+    question: "among the following anulekhana and transfer with-with snpanna ho sakate are:",
+    option:["bacterium","sunucleusee","yeesta","none of the above"],
+    answer:"bacterium"
+},
+{
+    question: "maaikrospheeyarsa name kisane dior thaa?",
+    option:["sidanee phaoksa","operina","milara","yoore"],
+    answer:"sidanee phaoksa"
+},
+{
+    question: "among these which shrrinkhalaa praarnbhana kodaona is?",
+    option:["AUG","CCC","UAG","UAA"],
+    answer:"AUG"
+},
+{
+    question: "among the following which-saa reshedaara protein of udaaharana is?",
+    option:["insulina","hemoglobin","phaaibrojana","glookojana"],
+    answer:"phaaibrojana"
+},
+{
+    question: "among the following in which gamete sthaanaantarana for water of aavashyakataa naheen hotee?",
+    option:["algae","braayophaaitsa","teridophaaitsa","jimnosoanma"],
+    answer:"jimnosoanma"
+},
+{
+    question: "SCP is obtained।",
+    option:["klorelaa","spaairulinaa","soafnedesamasa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "koesaravetsa ko praayogika roopa from by whom utpanna kior gaor?",
+    option:["operina va sidanee phaoksa","phishara va haksale","jewhen va monaoda","yoore va milara"],
+    answer:"operina va sidanee phaoksa"
+},
+{
+    question: "pistior in ofyiof pravarwaealth by whom occurs?",
+    option:["staolona","ophafromta","ramale","sakara"],
+    answer:"ophafromta"
+},
+{
+    question: "replica during DNA paoleemareja by bahulakana of dishaa is।",
+    option:["5′ from 3′","3′ from 5′","5′ from 5′","3′ from 3′"],
+    answer:"5′ from 3′"
+},
+{
+    question: "nimnalikhita kshaara of doosaraa name 5-mithila yooraisila is:",
+    option:["edeneena","guaaneena","thaayameena","saaitoseena"],
+    answer:"thaayameena"
+},
+{
+    question: "watereeya pharna which biofertilizer of behada achchhaa udaaharana is:",
+    option:["saalvinior","ewhichlaa","maarsilior","teridiyama"],
+    answer:"ewhichlaa"
+},
+{
+    question: "variationon of onma srota is",
+    option:["samasootree","ardhasootree","fertilization","mutation"],
+    answer:"mutation"
+},
+{
+    question: "among these by whom dengoo of vistaara occurs?",
+    option:["see see makkhee","machchhara","pradooshita air","none of these"],
+    answer:"machchhara"
+},
+{
+    question: "kisee floweringya plants in one Pollen mother cell from one mature gametophyte of formation occurs",
+    option:["3 samasootree vibhaajana by","1 ardadhasootree and 3 sootree vibhaajana by","1 ardadhasootree and 2 samasootree vibhaajana by","onela ardadhasootree vibhaajana by"],
+    answer:"1 ardadhasootree and 2 samasootree vibhaajana by"
+},
+{
+    question: "nikata relationshipee between anthreproduction by occurs:",
+    option:["variationon in hraasa","variationon in growth","varchasva in hraasa","none of these"],
+    answer:"variationon in hraasa"
+},
+{
+    question: "air pollination in occurs",
+    option:["Salvia","Vallisneria","coconut (Coconut)","baotala-brusha (Bottle Brush)"],
+    answer:"coconut (Coconut)"
+},
+{
+    question: "forest-paaritntra in lion of poshana level is:",
+    option:["T₃","T₄","T₂","T₁"],
+    answer:"T₄"
+},
+{
+    question: "haardee-venabarga ko laagoo kior jaa sakataa is, among these whose anupasthiti in?",
+    option:["mutation","natural chayana","pumalesnyojana","these sabhee of anupasthiti in"],
+    answer:"these sabhee of anupasthiti in"
+},
+{
+    question: "Sertoli cells of control pityootaree of kisa hormone by occurs?",
+    option:["GH","prolektina","LH","FSH"],
+    answer:"FSH"
+},
+{
+    question: "goldena raathis in kisa vitamin ko sthaanaantarita kior gaor is?",
+    option:["vitamin A","vitamin B12","vitamin C","vitamin D"],
+    answer:"vitamin A"
+},
+{
+    question: "paddy of kheton in normal naaitrojana sthireeofraka is:",
+    option:["raaiwhichbiyama","ewhichspaairilama","osiletorior","phrenkior"],
+    answer:"ewhichspaairilama"
+},
+{
+    question: "anunmeelya pollination having paudhon in nishchita roopa from occurs",
+    option:["sva-pollination","on-pollination","both","none of these"],
+    answer:"sva-pollination"
+},
+{
+    question: "sunraateforest national park sthita is",
+    option:["raajasthaana","madhyapradesha","pashchima bngaala","uttarapradesha"],
+    answer:"pashchima bngaala"
+},
+{
+    question: "among the following correct of chunaava karen:",
+    option:["spnja of joospora","penisiliyama in jemyoolasa","algae in konidior","haaidraa of kaliof (bud)"],
+    answer:"haaidraa of kaliof (bud)"
+},
+{
+    question: "myootaajena which-saa is?",
+    option:["onesa-re","rediyoaiktiva kirana","sarason gaisa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "laika operaona and triptophaana operaona correct dhnga from gene of kriormethod rateshaate are",
+    option:["baiktirior in","fungus in","yookairiotsa in","none of these"],
+    answer:"baiktirior in"
+},
+{
+    question: "pratibnwealth endonyookfaorja of main use occurs:",
+    option:["gene laaibreree in","physical pratibnwealth maanachitra banaane in","gene kloninga in","these sabhee in"],
+    answer:"these sabhee in"
+},
+{
+    question: "pollen grainon of laghu seedaanu utpanna being in laghuseedaanu maatri cell in",
+    option:["one ardadhasootree vibhaajana","one samasootree vibhaajana","one ardadhasootree and one samasootree vibhaajana","one ardadhasootree and two samasootree vibhaajana"],
+    answer:"one ardadhasootree and one samasootree vibhaajana"
+},
+{
+    question: "male in Andropause of whom samatulya is?",
+    option:["Androgen binding protein","Female menopause","prostaaglaadina","endrojana"],
+    answer:"Female menopause"
+},
+{
+    question: "andavaahinee of antima bhaaga is called",
+    option:["thisthamasa","empulaa","phimbaree","thesephandeebulama"],
+    answer:"thisthamasa"
+},
+{
+    question: "PCR from jaancha is:",
+    option:["HIV of","cancer of","kshayaof disease","isjaa of"],
+    answer:"HIV of"
+},
+{
+    question: "pratibnwealth endonyookfaorja oftataa is:",
+    option:["one DNA rajju ko vishishta sthala on","DNA of both rajjuon ko","DNA of both rajjuon ko kisee bhee sthala on","onela rajjuof RNA ko"],
+    answer:"DNA of both rajjuon ko"
+},
+{
+    question: "shaanta ghaatee (Silent Valley) national park sthita is",
+    option:["ofrala in","tamilanaadu in","chhatteesagadha in","israteaabaada in"],
+    answer:"ofrala in"
+},
+{
+    question: "daarvina ne kisa ship on bhramana kior?",
+    option:["H.M.S. eegala","H.M.S. beegala","taaratonika","dee. maitriof"],
+    answer:"H.M.S. beegala"
+},
+{
+    question: "one gene whichdaaa doosare gene pairs of prabhaava ko dabaa detaa is। this ghatanaa ko are called",
+    option:["epistaisisa","prabhaavitaa","mutation","none of these"],
+    answer:"epistaisisa"
+},
+{
+    question: "decomposer (Decomposer) are",
+    option:["svaposhee","svath toxinmaposhee","aargenotraophsa","toxinmaposhee"],
+    answer:"toxinmaposhee"
+},
+{
+    question: "India in kitane jaivabhaugolika area are?",
+    option:["10","13","4","5"],
+    answer:"10"
+},
+{
+    question: "among the following kifrom kaoon-tee prevents is?",
+    option:["fertilization","andotsarga","veerya patana","aaropana"],
+    answer:"fertilization"
+},
+{
+    question: "when snkatotpanna plants and animalon ko thoseof natural aavaasa from alaga one special sthaana on thoseof dekhabhaala is done, ufrom are called",
+    option:["svasthaane","baahya sthaane","kraayoprijarveshana","none of these"],
+    answer:"baahya sthaane"
+},
+{
+    question: "one chromosome of two najadeeof genes between hogaa",
+    option:["twoharaa kraosinga ovara","koee kraosinga ovara naheen","bahuta less kraosinga ovara","niyamita kraosinga ovara"],
+    answer:"bahuta less kraosinga ovara"
+},
+{
+    question: "onecotyledonee in graaphtinga birale hee saphala occurs whyki:",
+    option:["onecotyledonee in bnda vaiskulara bndala occurs","onecotyledonee kaimbiyamaviheena are","samaanaantara venation occurs","one from more correct"],
+    answer:"onecotyledonee kaimbiyamaviheena are"
+},
+{
+    question: "RNA in nihita pyoorina are:",
+    option:["guaaneena and edineena","yoorasila and thaayameena","edineena and saaitoseena","yooraasila and guaaneena"],
+    answer:"guaaneena and edineena"
+},
+{
+    question: "Menstruation of tatoafla ofrana kisa hormone of vaapasee is?",
+    option:["FSH","FSH-RH","Progesterone","Estrogen"],
+    answer:"Progesterone"
+},
+{
+    question: "taajamahala of sunratetaa ko is destroying:",
+    option:["taapa","yamunaa nadee of pradooshita water","air pradooshaka","all of the above"],
+    answer:"air pradooshaka"
+},
+{
+    question: "DNA of two paolinucleotide shrrinkhalaaen kaisee isn?",
+    option:["samaantara","asantata","pratisamaantara","ardadhasnrakshee"],
+    answer:"pratisamaantara"
+},
+{
+    question: "seedaanda of seedaandaofya in paaee jaane having rachanaa which sporophaaita of antima is, ufrom koar are called",
+    option:["guruseedaanu maatricell","laghuseedaanu maatricell","sahaayaka cell","none of these"],
+    answer:"guruseedaanu maatricell"
+},
+{
+    question: "organismna of atirikta sthaleeya origin by whom bataaee gayee?",
+    option:["kaitestaraophijma","species formation","painsaonmior","svath origin"],
+    answer:"painsaonmior"
+},
+{
+    question: "when koee gene-whichdaaa doosare of prabhaava ko chhipaa detaa is, to ifrom are called",
+    option:["mutation","prabhaavitaa","Epistasis","none of these"],
+    answer:"Epistasis"
+},
+{
+    question: "thesein dvikhandana in which is found?",
+    option:["waterkumbhee","lotus","ameebaa","sarpa"],
+    answer:"ameebaa"
+},
+{
+    question: "Cryptorchidism of avasthaa in vrishana",
+    option:["ooneshana by baahara niofla dior jaataa is","embryo in vrishana vikasita naheen ho paataa is","sperm utpanna being from vrishana asamartha occurs","vrishana scrotum in jaane in asamartha occurs"],
+    answer:"vrishana scrotum in jaane in asamartha occurs"
+},
+{
+    question: "kraosinga ovara kisa avasthaa in occurs?",
+    option:["leptoteena","saayatooftheseesisa","paiinsecteena","daayaoftheseesisa"],
+    answer:"paiinsecteena"
+},
+{
+    question: "among the following which-saa enteebaodee elarjee shuroo does?",
+    option:["IgM","IgE","IgD","IgA"],
+    answer:"IgE"
+},
+{
+    question: "chhotee samashti from allele of aakasmika vilopana is",
+    option:["anukoolana","genetic apavaahana","species formation ofraka","chayanaatmaka daaba"],
+    answer:"genetic apavaahana"
+},
+{
+    question: "kisee haaibrida kraosa in sntati of geneotaaipika anupaata occurs",
+    option:["9 : 3 : 3 : 1","1 : 1 : 1 : 1","1 : 2 : 1","1 : 7 : 1"],
+    answer:"1 : 2 : 1"
+},
+{
+    question: "valaorofra maaitokondrior (Nebenkern) of aksheeya filament of fouron ora Arrangement where occurs?",
+    option:["Head","madhyapeesa","poonchha of end piece","poonchha of main peesa"],
+    answer:"madhyapeesa"
+},
+{
+    question: "gaimeeta of formation ko are called:",
+    option:["gaimeetojenesisa","saayatoofyanesisa","sporojenesisa","miyosaayata"],
+    answer:"gaimeetojenesisa"
+},
+{
+    question: "hybridization of pahachaana by whom is done?",
+    option:["PCR","otorediyograaphee","ELISA","ilektarophoresisa"],
+    answer:"otorediyograaphee"
+},
+{
+    question: "one hee sthaana on upasthita rahane having gene, jinaof vibhinna abhivyakti ho, are called:",
+    option:["bahualeela","bahugene","onkogene","sahaprabhaavitaa gene"],
+    answer:"bahugene"
+},
+{
+    question: "graama (+) and graama (-) bacteria in bhinnataa is found thoseof",
+    option:["cell wall in","nucleus in","mesosoma in","none of these"],
+    answer:"cell wall in"
+},
+{
+    question: "sabafrom badaaa paaritntra is",
+    option:["forest of paaritntra","samudree paaritntra","pond of paaritntra","ghaasa sthala of paaritntra"],
+    answer:"samudree paaritntra"
+},
+{
+    question: "fish of maansa anya jaanavaron of maansa from achchhaa is, whyki thisin prachura amount in is found।",
+    option:["protein","water","vasaa","staarcha"],
+    answer:"protein"
+},
+{
+    question: "two Microsporangia yukta Monothecous anther in which is found",
+    option:["braasiof","wealthiorn","ligyoomsa","hibiskasa"],
+    answer:"hibiskasa"
+},
+{
+    question: "saradaara sarovara baandha this nadee on banaa is",
+    option:["jhelama on","malemadaa on","taaptee on","voarsa on"],
+    answer:"malemadaa on"
+},
+{
+    question: "paaritntra shabda kisane dior?",
+    option:["khuraanaa","elenabarga","A.G. taansale","none of these"],
+    answer:"A.G. taansale"
+},
+{
+    question: "owhichna divasa when manaaor jaataa is?",
+    option:["5 sitambara","16 sitambara","25 disambara","30 janavaree"],
+    answer:"16 sitambara"
+},
+{
+    question: "among these which-see greenhouse gas is?",
+    option:["meethena","ofrbana daaioksaaida","klorophloroofrbana","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among the following watereeya ghaasa which-see is",
+    option:["vailisanairior","Hydrilla","whichsteraa","among these sabhee"],
+    answer:"whichsteraa"
+},
+{
+    question: "Tapetum which ovule in badalaava ho, is called",
+    option:["Amoeboid tapetum","Glandular tapetum","Integumentary tapetum","Flagellar tapetum"],
+    answer:"Integumentary tapetum"
+},
+{
+    question: "saapekshika jaivika sntulana of hraasa of ofrana is:",
+    option:["nimna temperature","uchcha temperature","radiation","pollution"],
+    answer:"pollution"
+},
+{
+    question: "traansakripshana of samaapti by whom is?",
+    option:["ko-protein of by","sigmaa phaiktara of by","ro-protein by","omegaa phaiktara of by"],
+    answer:"ro-protein by"
+},
+{
+    question: "when sntati of origin onela janaka by is taba this koar is called?",
+    option:["sexual reproduction","asexual reproduction","both (A) and (B)","aantarika fertilization"],
+    answer:"asexual reproduction"
+},
+{
+    question: "operaona maodala kisane prastaavita kior?",
+    option:["neerenabarga ne","jaiwhen and monaoda ne","khuraanaa","methaaee"],
+    answer:"jaiwhen and monaoda ne"
+},
+{
+    question: "sunrateforest of snrakshita jaivamndala India of kisa raajya of antargata is?",
+    option:["bihaara","uttara pradesha","asama","pashchima bngaala"],
+    answer:"pashchima bngaala"
+},
+{
+    question: "mineemother disease occurs:",
+    option:["kromiyama by","kaidamiyama of by","mithaaila marakaree by","rediyoonetiva tatva of by"],
+    answer:"mithaaila marakaree by"
+},
+{
+    question: "pratibnwealth enzyme Hind-III of srota is:",
+    option:["ee. kolaaee","bee. kolaaee","baiseelasa","heemopheelasa thesephlooenjee"],
+    answer:"heemopheelasa thesephlooenjee"
+},
+{
+    question: "nyoomaitophora normalth paae jaate are:",
+    option:["marudbhitwon in","waterodbhitwon in","meesophaaitsa in","lavanodbhitwon in"],
+    answer:"lavanodbhitwon in"
+},
+{
+    question: "bekaree in experiment being having yeesta is:",
+    option:["saikaromaathiseeja fromreevaathisee","saikaromaathiseeja oktosporasa","saikaromaathiseeja kyookoraathis","raaiwhichfromkaromaayaseeja"],
+    answer:"saikaromaathiseeja fromreevaathisee"
+},
+{
+    question: "femaleon in surgicalkrior by bndhoarkarana process ko are called:",
+    option:["naliof uchchhedana","shukravaahaka uchchhedana","pratoarropana","rodhaka"],
+    answer:"naliof uchchhedana"
+},
+{
+    question: "Follicles of rupture and ova of release is called",
+    option:["maithuna","snyugmana","eggobhedana","eggeekarana"],
+    answer:"eggobhedana"
+},
+{
+    question: "linga jaancha of which-see method of highest durupayoga is done?",
+    option:["Clotting test","amniyofromntesisa","irithroblaastosisa","enjeeograama"],
+    answer:"amniyofromntesisa"
+},
+{
+    question: "genetic roopa from one samaana organisms ko tissue kalchara of by vikasita is done, ifrom are called:",
+    option:["graaphtinga","kloninga","plaajmida","hybridization"],
+    answer:"kloninga"
+},
+{
+    question: "land of urvaraa shakti ko onibhaashita karane having organism samooha is:",
+    option:["maaikrobsa","jaivika khaada","yeesta","jaivika insectaanunaashaka"],
+    answer:"maaikrobsa"
+},
+{
+    question: "kramika development in yogadaana is",
+    option:["sva-pollination of","on-pollination of","ofyika pravarwaealth of","hybridization of"],
+    answer:"on-pollination of"
+},
+{
+    question: "kisa gene with enzyme RNA paolimareja jutaa huaa rahataa is?",
+    option:["niyntraka gene","promotara gene","snrachanaatmaka gene","oonetara gene"],
+    answer:"promotara gene"
+},
+{
+    question: "trika UUU koda kisafor occurs?",
+    option:["lyooseena","methioneena","phenilaeleneena","glaathiseena"],
+    answer:"phenilaeleneena"
+},
+{
+    question: "Tunica albuginea whose aavarana is?",
+    option:["shishna","vrishana","eggaashaya","vrishana kosha"],
+    answer:"vrishana"
+},
+{
+    question: "Mirabilis plants of laala (RR) and sapheda (rr) flowers of hybridization from gulaabee (Rr) flower is produced। gulaabee flower of hybridization sapheda flower from karaaor jaae to snbhaavita pheenotaaipa anupaata koar hogaa?",
+    option:["laala : gulaabee : sapheda (1 : 2 : 1)","gulaabee : sapheda (1 : 1)","laala : gulaabee (1 : 1)","laala : sapheda (3 : 1)"],
+    answer:"gulaabee : sapheda (1 : 1)"
+},
+{
+    question: "EcoRI of enzyme srota what is?",
+    option:["ee. kolaaee","tee.ema.vee.","praayaona","none of these"],
+    answer:"ee. kolaaee"
+},
+{
+    question: "water vaidyuta of snchalana (ilektarophoresisa) of use do:",
+    option:["DNA ko prithaka karane for","RNA ko prithaka karane for","protein ko prithaka karane for","among these sabhee ko prithaka karane for"],
+    answer:"among these sabhee ko prithaka karane for"
+},
+{
+    question: "DNA of paairimidina in is found:",
+    option:["thaayameena and saaitosina","edineena and guaanina","saaitosina and yooresila","thaayamina and yooresila"],
+    answer:"thaayameena and saaitosina"
+},
+{
+    question: "among the following which-from paoleepeptaaida human insulina in paae jaate are?",
+    option:["A and B","A and C","B and C","none of these"],
+    answer:"A and B"
+},
+{
+    question: "mashahoora vaijnyaanika indala mainth jaane jaate are apane",
+    option:["matara of paudhon of ofrya hetu","genetics of niyamon hetu","matara of paudhon of ofrya and genetics of niyamon hetu","none of these"],
+    answer:"matara of paudhon of ofrya and genetics of niyamon hetu"
+},
+{
+    question: "which-saa pyramid hameshaa ooon of ora occurs, ultaa kabhee naheen occurs?",
+    option:["number of pyramid","jaivaamount of pyramid","energy of pyramid","watereeya vyavasthaa of pyramid"],
+    answer:"energy of pyramid"
+},
+{
+    question: "paoleeploidee ko prerita karane for kisa rasaayana of is used?",
+    option:["saaitooftheseina","naaitrasa amla","kaolcheeseena","IAA"],
+    answer:"kaolcheeseena"
+},
+{
+    question: "kisee Dithecous anther in occurs",
+    option:["4 microsporangia","3 microsporangia","2 microsporangia","1 microsporangia"],
+    answer:"4 microsporangia"
+},
+{
+    question: "ELISA testa in prayukta enzyme (Reagent) ko are called:",
+    option:["endonyookliyeja","paoleemireja","laaigeja","peroksideja"],
+    answer:"peroksideja"
+},
+{
+    question: "pratijaiviof pratirodhee bacterium of praadurbhaava among these whose udaaharana is?",
+    option:["anukoolee radiation","traansadakshana","kisee community in poorvasthita variation","apasaaree krama development"],
+    answer:"kisee community in poorvasthita variation"
+},
+{
+    question: "beetee (Bt) toxin of rave kuchha bacteriumon by banaae jaate are, but bacterium svayn ko naheen maarate are whyki:",
+    option:["toxin nishkariya occurs","bacterium toxin of prati pratirodhee is","toxin amature is","toxin bacterium of special thailee in milataa is"],
+    answer:"toxin nishkariya occurs"
+},
+{
+    question: "one contraceptive pill ovulation ko kisa praofra rokatee is?",
+    option:["phailopiyana tyooba ko avaruddha kara","FSH and LH ko rokakara","FSH and LH pravana ko badhaaakara","Released ovum ko turnta barbaada kara"],
+    answer:"FSH and LH ko rokakara"
+},
+{
+    question: "baayolistika or gene gun of use in which occurs?",
+    option:["plaajmida ko oftane for","kate DNA ko whichdane for","vijaateeya DNA ko onposhee cells in pravesha karaane for","DNA ko shuddha karane for"],
+    answer:"vijaateeya DNA ko onposhee cells in pravesha karaane for"
+},
+{
+    question: "antibody by whom banatee is?",
+    option:["phaaibroblaasta","plaajmaa cells","histiyosaaitsa","maasta cells"],
+    answer:"plaajmaa cells"
+},
+{
+    question: "dee.ena.e. of kate bhaagon ko whichdane hetu among these whose is used?",
+    option:["traansakripteja","laaigeja","raaibonyookfaorja","none of these"],
+    answer:"laaigeja"
+},
+{
+    question: "among the following which-saa yauna-snlagna disease is?",
+    option:["rataundhee","glookomaa","heemophilior","sabhee"],
+    answer:"heemophilior"
+},
+{
+    question: "among the following which-saa primary reproduction organ is?",
+    option:["scrotum","penis","vrishana","prosteta"],
+    answer:"vrishana"
+},
+{
+    question: "if kisee lake in DDT is found to sarvaadhika concentration paaee jaaegee:",
+    option:["paada plavakon in","animal plavakon in","fish bhakshaka chidaiyon in","machhaliyon in"],
+    answer:"fish bhakshaka chidaiyon in"
+},
+{
+    question: "daarvina of phincha one achchhaa udaaharana is",
+    option:["audyogika melaanijma of","snyojee kadaee of","anukoolee radiation of","abhisaaree jaiva-development of"],
+    answer:"anukoolee radiation of"
+},
+{
+    question: "if normal male of shaadee heemophilior of vaahaka staree from ho to utpanna male offspringon of koar sthiti hogee?",
+    option:["sabhee heemophilior from grasta","50% normal, 50% diseasegrasta","sabhee normal","sabhee disease of vaahaka"],
+    answer:"50% normal, 50% diseasegrasta"
+},
+{
+    question: "one food chain in among the following sarvaadhika number whose is?",
+    option:["producer","primary consumer","secondary consumer","decomposer"],
+    answer:"producer"
+},
+{
+    question: "reda daataa buka in sammilita is",
+    option:["vilupta ho rahe paudhon of soochee","durlabha paudhon of soochee","aapattigrasta praaniyon of soochee","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "paudhon in geneticsya abhiorntriof for whose bahutaayata in experiment occurs?",
+    option:["egrobaikteeriyama tyoomepheshiyansa","jenthomonaosa sitraaee","baisilasa kaogyoolensa","klaostareediyama frompteeless"],
+    answer:"egrobaikteeriyama tyoomepheshiyansa"
+},
+{
+    question: "flower of female reproduction organ ko are called",
+    option:["jaaornga","pumnga","anther","punofsara"],
+    answer:"jaaornga"
+},
+{
+    question: "bacterium of cellwall ko todakara thatof DNA and anya vrihad ajaiva anuon ko mukta karane hetu among these which-saa enzyme is used?",
+    option:["laathisojaaima","fromluleja","ofitineja","kolaijineja"],
+    answer:"laathisojaaima"
+},
+{
+    question: "aastarelior of infantpaddyee praaniyon of anukoolee radiation among these whose udaaharana is?",
+    option:["apasaaree krama development","abhisaaree krama development","saalteshana","none of these"],
+    answer:"apasaaree krama development"
+},
+{
+    question: "baartholina of grnthi is",
+    option:["vaasa diphensa of kinaaron on","yoni of kinaaron on","pakshiyon of poonchha on","amphibianson of sira on"],
+    answer:"yoni of kinaaron on"
+},
+{
+    question: "thesein which videshee speesheeja naheen is?",
+    option:["lentaanaa lessaaraa","maingeepheraa indiof","aaikaornior kresipisa","paartheniyama histerophoraso"],
+    answer:"maingeepheraa indiof"
+},
+{
+    question: "pollen grain occurs",
+    option:["haploid","diploid","triploid","tetraploid"],
+    answer:"haploid"
+},
+{
+    question: "meenameaataa disease vikasita occurs:",
+    option:["peya water in aarfaromnika snchita being from","peya water in phloraaida jamaa being from","paare from pradooshita machhaliyon of fromforest from","water in tela of phaila jaane from"],
+    answer:"paare from pradooshita machhaliyon of fromforest from"
+},
+{
+    question: "eekha (sugarcane) in graaphtinga naheen can be, whyki",
+    option:["vascular bundles bikhare are","phloema jaailama of anrate of ora are","eekha of plants komala (delicate) are","this chota ko sahane in asamartha occurs"],
+    answer:"vascular bundles bikhare are"
+},
+{
+    question: "anunmeelya pollenita flower are",
+    option:["insect pollenita","chamagaadada pollenita","svapollenita","water pollenita"],
+    answer:"svapollenita"
+},
+{
+    question: "________ in pattiyon of khandon by ofyika reproduction occurs?",
+    option:["egeva and oflenchoya","baayophilama and oflenchoya","aisaperegasa and braayophilama","kraaeefromnthiyama and egeva"],
+    answer:"baayophilama and oflenchoya"
+},
+{
+    question: "genetic complementary which Nullisomic organism in hogaa",
+    option:["2n - 1","2n - 2","2n + 1","2n + 2"],
+    answer:"2n - 2"
+},
+{
+    question: "airmndala of nichale bhaaga from shikhara up to air stambha (kaolama) in owhichna of motaaee kisa iofee in maapee jaatee is?",
+    option:["daobasana iofee","araba iofee","paaskala iofee","none of these"],
+    answer:"daobasana iofee"
+},
+{
+    question: "one ardadhasootree cell vibhaajana from kitane male gamete banate are",
+    option:["4","1","2","8"],
+    answer:"4"
+},
+{
+    question: "ristarikshana enzyme among the following from which is?",
+    option:["laaigeja","onesonyookfaorja","endonyookfaorja","onesonyookfaorja and endonyookfaorja both"],
+    answer:"onesonyookfaorja and endonyookfaorja both"
+},
+{
+    question: "prosteta cancer for prayukta major enjaaima kleenikala jaancha which-saa is?",
+    option:["emaaileja","kshaareeya phaaspheteja","γ-GT","amleeya phaaspheteja"],
+    answer:"amleeya phaaspheteja"
+},
+{
+    question: "if kisee flower of anther and stylena one with mature ho jaaen to ifrom are called",
+    option:["Allogamy","Dichogamy","Homogamy","Syngamy"],
+    answer:"Homogamy"
+},
+{
+    question: "alkohala from ‘vinegaara’ of formation by whom occurs?",
+    option:["baisilasa sabatilisa","klostaridiyama","esitobaiktara esiti","ewhichtobaiktara"],
+    answer:"esitobaiktara esiti"
+},
+{
+    question: "apamaarjaka snroopana and dhulaaee in kapadaon from tela of dhabbe hataane for kisa sookshamaorganismee of is used?",
+    option:["saiofromaathiseeja fromrebaayasee","stareptokokasa","kaindeedaa laaipolitiof","laaipeja"],
+    answer:"kaindeedaa laaipolitiof"
+},
+{
+    question: "RNA for which correct is?",
+    option:["A=U","G=C","A+C","AEG"],
+    answer:"A=U"
+},
+{
+    question: "among the following kifrom stanadhaariyon of svarnaofla are called?",
+    option:["mesowhichika eraa","seenowhichika eraa","peliyowhichika eraa","koee naheen"],
+    answer:"seenowhichika eraa"
+},
+{
+    question: "among the following which uchcha organisms in gene kloninga hetu one vaahaka as experiment occurs?",
+    option:["baikulo virus","saalamonelaa taayapheemyooriyama","raaiwhichpasa naaigreekainsa","ritrovirus"],
+    answer:"ritrovirus"
+},
+{
+    question: "energy of pyramid occurs, hameshaa:",
+    option:["seedhaa","ultaa","tirachhaa","among these sabhee"],
+    answer:"seedhaa"
+},
+{
+    question: "Bt taoksina of baare in sacha what is?",
+    option:["thisof baiseelasa of anraate enteetaoksina occurs","nishkariya prototaoksina insect of aanta in sakriya ho jaataa is","Bt protein taoksina baiseelasa in sakriya rahataa is","sakriya taoksina peedaka of andaashaya in jaakara reproduction in baadhaa daalataa is"],
+    answer:"nishkariya prototaoksina insect of aanta in sakriya ho jaataa is"
+},
+{
+    question: "pollen thaile kinain paae jaate are",
+    option:["anther","floweraasana","eggaashaya","dalapunja"],
+    answer:"anther"
+},
+{
+    question: "svasthaane conservation (In situ conservation) of udaaharana is",
+    option:["animal udoarna","vaanaspatika udoarna","organism saphaaree park","among these sabhee"],
+    answer:"organism saphaaree park"
+},
+{
+    question: "saayanobacteria of experiment biofertilizer as is done:",
+    option:["wheat","maize","paddy","sugarcane"],
+    answer:"paddy"
+},
+{
+    question: "pollen grain of baahyachola banaa occurs",
+    option:["pektofromluloja","lignofromluloja","sporopaolenina","pollen kita"],
+    answer:"sporopaolenina"
+},
+{
+    question: "among the following from which yauna snfourita disease is?",
+    option:["gonorior","malaria","isjaa","none of these"],
+    answer:"gonorior"
+},
+{
+    question: "milara of experiment in use in laaor gaor thaa",
+    option:["H₂O, HCN, H₂ and CH₄","CH₄, NH₃, N₂ and H₂O","CH₄, HCN, N₂ and H₂","CH₄, H₂O, N₂ and H₂"],
+    answer:"CH₄, NH₃, N₂ and H₂O"
+},
+{
+    question: "yauna snfourita disease is:",
+    option:["khasaraa","tee.bee.","gonorior","taayaphaaida"],
+    answer:"gonorior"
+},
+{
+    question: "vishuddha laala flower and vishuddha sapheda flower having paudhon in hybridization karaane from pahalee sntati in sabhee gulaabee flower having plants mile। this one praofra of",
+    option:["incomplete dominance","poorna prabhaavitaa","snkara","none of these"],
+    answer:"incomplete dominance"
+},
+{
+    question: "among the following which-saa aanvika naaitrojana poshaka as use occurs?",
+    option:["mithenomonaasa","myookara","raaiwhichbiyama","spaaidiseaseaairaa"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "child's blood group O and father of B blood group ho, to father of geneotaaipa hogaa",
+    option:["IᴮIᴮ","Iᴮi","IᴬIᴮ","ii"],
+    answer:"Iᴮi"
+},
+{
+    question: "uchcha kula of paudhon of jadaon and fungus between banaae jaane having symbiotic relationship ko are called:",
+    option:["biodiversity","laaiofna","nodyoola","maaikoraaijaa"],
+    answer:"maaikoraaijaa"
+},
+{
+    question: "yootophiofshana praayh dekhaa jaataa is:",
+    option:["svachchha watereeya lakeon in","oceanon in","pahaadaon in","deserton in"],
+    answer:"svachchha watereeya lakeon in"
+},
+{
+    question: "among the following which videshee species is?",
+    option:["katalaa","rohoo","neela onchaa","hitpokaimpasa"],
+    answer:"neela onchaa"
+},
+{
+    question: "1928 in one vaijnyaanika ne first prabhaavee pratijaivika padaartha of khoja of। vaijnyaanika va pratijaivika padaartha are:",
+    option:["phleminga-stareptomaayaseena","phleminga-penisileena","vaaksamaina-penisileena","vaaksamaina-stareptomaayaseena"],
+    answer:"phleminga-penisileena"
+},
+{
+    question: "indala of second niyama is",
+    option:["separation of niyama","prabhaavitaa of niyama","bahuorganismee vnshaagati of niyama","svatntra apavyoohana of niyama"],
+    answer:"svatntra apavyoohana of niyama"
+},
+{
+    question: "sarvafirst formed paaraorganismee cow of name among these which thaa?",
+    option:["dejee","mejee","daolee","rojee"],
+    answer:"rojee"
+},
+{
+    question: "anther relationshipita is",
+    option:["pollen grain formation from","pollen grain development from","flowerkaliof of khulane from","stigma by pollen grain of grahana from"],
+    answer:"flowerkaliof of khulane from"
+},
+{
+    question: "among the following which-saa plant dvilingee is?",
+    option:["papeetaa","khajoora","coconut","among these koee two"],
+    answer:"coconut"
+},
+{
+    question: "ghareloo apavaahita water (seeveja) of reservoiron, nadiyon, lakeon in milane from among these in which growth is?",
+    option:["B.O.D.","C.O.D.","(A) and (B) both","none of these"],
+    answer:"(A) and (B) both"
+},
+{
+    question: "reservoiron in suposhana for sabafrom prabhaavashaalee are:",
+    option:["aofrbanika phaospheta","ofrbanika padaartha","algae","bacterium"],
+    answer:"aofrbanika phaospheta"
+},
+{
+    question: "among the following which-see baayogaisa is?",
+    option:["CO₂","CH₄","N₂","NO"],
+    answer:"CH₄"
+},
+{
+    question: "pashuon of more charane due to from occurs:",
+    option:["forestya animalon of naasha","forestspati of naasha","paudhon, animalon and soil of naasha","foreston of naasha"],
+    answer:"paudhon, animalon and soil of naasha"
+},
+{
+    question: "gene of Segregation kisa dauraana occurs?",
+    option:["metaapheja","enaapheja","propheja","embryo formation"],
+    answer:"enaapheja"
+},
+{
+    question: "siphalisa for sabafrom upayukta jaancha is:",
+    option:["ELISA","PCR","VDRL","DNA haaibreedaaijeshana"],
+    answer:"VDRL"
+},
+{
+    question: "enteehistaamina and steraoyada of experiment from sheeghrataa from aaraama milataa is:",
+    option:["elarjee from","naosior from","kapha from","sirarateda from"],
+    answer:"elarjee from"
+},
+{
+    question: "poliyo ko chikitseeya bhaashaa in koar are called?",
+    option:["shaishava lakavaa","wateraantaof","whendae of lakavaa","among these sabhee"],
+    answer:"shaishava lakavaa"
+},
+{
+    question: "edeenoseena diemeeneja of lessee ko kisa praofra doora kior jaa sakataa is?",
+    option:["gene therepee by","enteebaayotiksa banaakara","human-growth haormona by","intarapheraona of utpaadana kara"],
+    answer:"gene therepee by"
+},
+{
+    question: "indala of avadhaaranaa ko indala of niyama in kisane roopaantarita kior?",
+    option:["korensa","lionmaika","hyoogo di vreeja","maorgana"],
+    answer:"korensa"
+},
+{
+    question: "vidaala oneekshana kisa beemaaree for is done?",
+    option:["malaria","taaiphaaida","dengoo","none of these"],
+    answer:"taaiphaaida"
+},
+{
+    question: "one sva-nishechita trisnkara plant utpanna karegaa",
+    option:["4 bhinna gamete va 16 bhinna yugmanaja","8 bhinna gamete va 16 bhinna yugmanaja","8 bhinna gamete va 32 bhinna yugmanaja","8 bhinna gamete va 64 bhinna yugmanaja"],
+    answer:"8 bhinna gamete va 64 bhinna yugmanaja"
+},
+{
+    question: "onerosoma among the following from whose snbhaaga is?",
+    option:["gaoljeeofya","human sperm of sheersha","human sperm of madhya bhaaga","none of these"],
+    answer:"human sperm of sheersha"
+},
+{
+    question: "among the following from which naaitrojana chaorpachaya does?",
+    option:["raaiwhichbiyama","syoodomonaasa","ewhichbaiktara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "goldena raathis in is found।",
+    option:["vitamin-A","vitamin-B","vitamin-C,D","rice from one petrola-sareekhaa eenwealth banaane in"],
+    answer:"vitamin-A"
+},
+{
+    question: "kisa phala of seedchola khaaor jaataa is?",
+    option:["shareephaa","leechee","jaayaphala","among these sabhee ko"],
+    answer:"among these sabhee ko"
+},
+{
+    question: "tiddaa in linga nirdhaarana occurs",
+    option:["XY praofra","XO praofra","ZW praofra","none of the above"],
+    answer:"XO praofra"
+},
+{
+    question: "AaBbCc of testa kraosa by kitane pheenotaaipa utpanna are?",
+    option:["16","12","8","4"],
+    answer:"8"
+},
+{
+    question: "tripala enteejena vaccine of use naheen occurs:",
+    option:["diphtheria for","ontusisa for","taayaphaaida for","tetanasa for"],
+    answer:"taayaphaaida for"
+},
+{
+    question: "oofjaaof phregiantsa when becomes is?",
+    option:["pratilekhana","transfer","dvicharacterna","paarakramana"],
+    answer:"dvicharacterna"
+},
+{
+    question: "madhumeha diseaseiyon by use in laaor jaane having insulina of whom agnaashaya from nioflaa jaataa is?",
+    option:["sooara","bakaree","murgaa","buffalo"],
+    answer:"sooara"
+},
+{
+    question: "which jaiva fertilizer is?",
+    option:["maaikoraaijaa","naaitrojana sthireeofraka bacterium","naaitrojana sthireeofraka saayanobacteria","all of the above"],
+    answer:"all of the above"
+},
+{
+    question: "human gametes in chromosomes of kitanee number is?",
+    option:["21","23","44","46"],
+    answer:"23"
+},
+{
+    question: "among the following which-saa jaiva technique from relationshipita is?",
+    option:["plaastidsa","plaajmidsa","mutation","haaibrida"],
+    answer:"plaajmidsa"
+},
+{
+    question: "among the following which-saa chemical padaartha owhichna of onta on asara daalataa is?",
+    option:["klorophloroofrbana","kloreena","heksaaphloroofrbana","maolikyoolara ofrbana"],
+    answer:"klorophloroofrbana"
+},
+{
+    question: "protoplaasta kalchara of phyoowhichjena what is?",
+    option:["tarala naaitrojana","PEG","laiktika amla","among these sabhee"],
+    answer:"PEG"
+},
+{
+    question: "indala of experiments in vioneeta traits of whichdaee ko koar are called?",
+    option:["gene","pheenotaaipa","geneotaaipa","allele"],
+    answer:"allele"
+},
+{
+    question: "among these kinaof svara uchcha picha (svaramaana) of occurs",
+    option:["male","staree","kinmaale (hijadaaa/chhakoaf)","none of these"],
+    answer:"staree"
+},
+{
+    question: "kisa phala of seedchola khaaor jaataa is",
+    option:["jaayaphala","leechee","shareephaa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "embryokosha in among the following which-saa naheen occurs",
+    option:["egg samuchchaya","two dhruveeya nucleus","guruseedaanureproduction cell","enteepodalsa"],
+    answer:"guruseedaanureproduction cell"
+},
+{
+    question: "kaliof ropana udaaharana is:",
+    option:["ofyika reproduction of","tissue culture of","sexual reproduction of","praofrnana of"],
+    answer:"ofyika reproduction of"
+},
+{
+    question: "vikasita sperm ko poshana kisafrom milataa is?",
+    option:["antarkoshiofya cell","soanmetogoniyama","sperm cell","sartolee cell"],
+    answer:"sartolee cell"
+},
+{
+    question: "tritiofla human by formed first paddyya crop is। this wheat of kisawith hybridization karaof taiorra of gaee is?",
+    option:["raaee","millet","sugarcane","jau"],
+    answer:"raaee"
+},
+{
+    question: "among the following from which natural paaritntra of udaaharana is?",
+    option:["forest","nadee","pond","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "human blood AB varga in",
+    option:["enteebaodee upasthita are","enteebaodee anupasthita are","enteebaodee A upasthita are","enteebaodee B upasthita are"],
+    answer:"enteebaodee anupasthita are"
+},
+{
+    question: "DNA of naonakodinga krama ko are called:",
+    option:["vikhndita gene","introna","onesona","none of these"],
+    answer:"introna"
+},
+{
+    question: "rodha code of number is।",
+    option:["one","two","three","four"],
+    answer:"three"
+},
+{
+    question: "among the following which-saa correct krama is?",
+    option:["gametereproduction – snyugmana – embryo reproduction – yugmajaa","snyugmana – gametereproduction – yugmaja – embryo reproduction","gametereproduction – snyugmana – yugmaja – embryo reproduction","yugmaja – embryo reproduction – snyugmana – gametereproduction"],
+    answer:"gametereproduction – snyugmana – yugmaja – embryo reproduction"
+},
+{
+    question: "among these vilupta ho gae are:",
+    option:["dodo","laala paandaa","steelarsa see ofoo","dodo and steelarsa see ofoo"],
+    answer:"dodo and steelarsa see ofoo"
+},
+{
+    question: "flower of male reproduction-organ ko are called",
+    option:["jaaornga","pumnga","korolaa","anya"],
+    answer:"pumnga"
+},
+{
+    question: "kisee aavrittaseedee of endosperm cell in 24 chromosome are। thisof gamete in of chromosome number hogee",
+    option:["8","16","24","48"],
+    answer:"8"
+},
+{
+    question: "pollen grain of cytoplasm in which wealthee occurs",
+    option:["vasaa and staarcha","protein","staarcha and Flavonoids","DNA"],
+    answer:"vasaa and staarcha"
+},
+{
+    question: "kaee traits ko prabhaavita karane having gene is called",
+    option:["edeetiva","pliyotraopika","epistetika","sapleeintaree"],
+    answer:"pliyotraopika"
+},
+{
+    question: "among the following which-saa ecological pyramid formation in bhaaga naheen letaa?",
+    option:["shushka bhaara","vyashtiyon of number","energy pravaaha of rate","taajaa bhaara"],
+    answer:"taajaa bhaara"
+},
+{
+    question: "female in Clitoris of whom samajaata is?",
+    option:["male of Penis of samajaata","male of shishna of samaroopa","Vestigeal organ","prosteta of samajaata"],
+    answer:"male of Penis of samajaata"
+},
+{
+    question: "kisee pollen grain of baaharee level among the following kisa pratirodhee padaartha from banaa occurs",
+    option:["tainina","pektofromluloja","sporopolenina","liganina"],
+    answer:"sporopolenina"
+},
+{
+    question: "among these which bacterium janita disease is?",
+    option:["kushtha disease","tuberculosis","isjaa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "reproduction-prithakataa aavashyaka is:",
+    option:["organisms of astitva for","vibhinna speciesyon in suspashtataa banaae rakhane for","ganeeja of anukoolataa for","death rate of growth for"],
+    answer:"vibhinna speciesyon in suspashtataa banaae rakhane for"
+},
+{
+    question: "anukoolana of aadhaara on bhinna organisms between samaanataa kahalaatee is",
+    option:["samaanaantara development","apasaaree development","convergent evolution","kramika development"],
+    answer:"convergent evolution"
+},
+{
+    question: "raaibotaaida banaa occurs:",
+    option:["raaiboja + phaospheta + yooresila","deeokseeraaiboja + yooresila + phaospheta","thaaimeena + raaiboja + phaospheta","deeoksee raaiboja + phaospheta + edeneena"],
+    answer:"raaiboja + phaospheta + yooresila"
+},
+{
+    question: "daatra cell abloodtaa is",
+    option:["daihika sahalagna prabhaavee symptom due to","hemoglobin of β-globina shrinkhalaa in glootaimika amla of sthaana on veleena aane due to","DNA of kisee bhee one kshaaraka yugma in onivartana due to","nucleusyukta lnbee hnsiorofra cells by"],
+    answer:"hemoglobin of β-globina shrinkhalaa in glootaimika amla of sthaana on veleena aane due to"
+},
+{
+    question: "among the following which-saa one symptom bahugeneeeya vnshaagati of udaaharana is?",
+    option:["Mirabilis jalapa in flower of rnga","male bee of utpaadana","udoarna matara in phalee of aakriti","humanon in tvachaa of rnga"],
+    answer:"humanon in tvachaa of rnga"
+},
+{
+    question: "one baalaka of blood varga O is and thatof father of blood varga B is to thatof father of gene praaroopa among these which hogaa?",
+    option:["IᴼIᴼ","IᴮIᴼ","IᴮIᴮ","IᴬIᴬ"],
+    answer:"IᴮIᴼ"
+},
+{
+    question: "eggaashaya from nikalane on human egge in nihita are",
+    option:["one Y-chromosome","two X-chromosome","one X-chromosome","XY-chromosome"],
+    answer:"one X-chromosome"
+},
+{
+    question: "praaimarsa of use is done:",
+    option:["PCR","kloninga","DNA snsaawealth","none of these"],
+    answer:"PCR"
+},
+{
+    question: "when one anther amature occurs taba ghane susnbaddha sajaateeya cells of samooha occurs, which are called",
+    option:["seedaanureproduction tissue","laghuseedaanu chatushtaya","laghuseedaanureproduction","pollen grain"],
+    answer:"seedaanureproduction tissue"
+},
+{
+    question: "thesein which bahuroopataa ko rateshaataa is?",
+    option:["spaaidiseaseaairaa","khajoora","bee","papeetaa"],
+    answer:"bee"
+},
+{
+    question: "human female of embryo in kisa praofra of Cleavage occurs?",
+    option:["Holoblastic and samaana","Meroblastic","Holoblastic","Diploblastic"],
+    answer:"Holoblastic and samaana"
+},
+{
+    question: "kisee geneotaaipa AaBBCcDD by kitane praofra of gamete bana sakate are?",
+    option:["4","3","16","64"],
+    answer:"4"
+},
+{
+    question: "human gamete in of chromosome number is:",
+    option:["21","23","44","46"],
+    answer:"23"
+},
+{
+    question: "genetic complementary which Nullisomic organism in hogaa",
+    option:["2n - 1","2n - 2","2n + 1","2n + 2"],
+    answer:"2n - 2"
+},
+{
+    question: "among the following in which sarvaadhika jaivaamount is?",
+    option:["sheetoshna forest","traopikala rainfall forest","alpaathese forest","taayagaa"],
+    answer:"traopikala rainfall forest"
+},
+{
+    question: "among the following from which virus janita disease is?",
+    option:["isjaa","malaria","poliyo","among these sabhee"],
+    answer:"poliyo"
+},
+{
+    question: "makoaf in pushta haaibrida kaifrom is obtained?",
+    option:["prerita mutation","two haaibrida laatheseon ko kraosa karavaakara","seedon of phailaava DNA with","joardaa producer paudhon from seed praapta karaof"],
+    answer:"two haaibrida laatheseon ko kraosa karavaakara"
+},
+{
+    question: "kisafrom vikasita sperm ko poshana milataa is?",
+    option:["Interstitial cells","spermatogonia","spermatocytes","Sertoli cell"],
+    answer:"Sertoli cell"
+},
+{
+    question: "starobaayalenthasa kuntheeornaa (neelaakurnjee) 12 in the year one baara floweringkarana from gujarataa is। this kisa pahaadaee area in is found",
+    option:["ofrala and karnaataka","odaishaa","aandhra pradesha","madhya pradesha"],
+    answer:"ofrala and karnaataka"
+},
+{
+    question: "operaona maodala prastaavita kior thaa:",
+    option:["vaatsana and krika ne","nirenabarga ne","jaiwhen and monaada ne","none of these"],
+    answer:"jaiwhen and monaada ne"
+},
+{
+    question: "pollen grain whose pratinidhitva does",
+    option:["male gameteodbhida","female gameteodbhida","both (A) and (B)","none of these"],
+    answer:"male gameteodbhida"
+},
+{
+    question: "vishva environment divasa manaaor jaataa is:",
+    option:["6 disambara ko","5 joona ko","6 janavaree ko","none of these"],
+    answer:"5 joona ko"
+},
+{
+    question: "nyooklika amla paolimara are:",
+    option:["nucleotide of","nyookliyosaaida of","amino acid of","nyookliyoprotein of"],
+    answer:"nucleotide of"
+},
+{
+    question: "plants in kloninga hetu kisa snvaahaka of use occurs?",
+    option:["pBR 322","Ti plaajamida","pBR 322 and Ti plaajamida both","none of these"],
+    answer:"pBR 322 and Ti plaajamida both"
+},
+{
+    question: "enzyme laaigeja of is used:",
+    option:["DNA ko khndita karane for","khndita DNA ko whichdane for","DNA ko shodhita karane for","organism-pratiofraka of utpaadana kshamataa badhaaane for"],
+    answer:"khndita DNA ko whichdane for"
+},
+{
+    question: "insect pratirodhee onaageneee cotton of formation of whom DNA tukadae ko pratoxinta karaakara kior gaor is?",
+    option:["one insect of","one bacterium of","cotton of forestee relationshipee of","one virus of"],
+    answer:"one bacterium of"
+},
+{
+    question: "among these which andaja is?",
+    option:["oneidanaa","kngaaroo","cow","none of these"],
+    answer:"oneidanaa"
+},
+{
+    question: "among the following which samaapana kodona is?",
+    option:["AUG","CCC","UAG","GGG"],
+    answer:"UAG"
+},
+{
+    question: "eggaashaya of najadeeka of phailopiyana tyooba of bhaaga is",
+    option:["thisthamasa","thesephandeebulama","greevaa","Ampulla"],
+    answer:"thesephandeebulama"
+},
+{
+    question: "pratibnwealth enzyme of khoja from kifrom oftanaa snbhava ho saof?",
+    option:["DNA","RNA","protein","among these sabhee"],
+    answer:"DNA"
+},
+{
+    question: "lemaarkavaada of relationship is",
+    option:["use and anupayoga","upaarjita traits of vnshaagati","(A) and (B) both","none of these"],
+    answer:"(A) and (B) both"
+},
+{
+    question: "endometrium whose aavarana banaataa is?",
+    option:["Bladder","yoni","uterus","eggvaahinee"],
+    answer:"uterus"
+},
+{
+    question: "among the following which cancer from relationshipita is?",
+    option:["lipomaa","lyooofmior","limphomaa","all of these"],
+    answer:"all of these"
+},
+{
+    question: "if mother of blood group O and infant of bhee blood group O ho to father of blood group koar can be?",
+    option:["O","A","B","AB"],
+    answer:"O"
+},
+{
+    question: "bandhaorkarana (sterilization) of one method is",
+    option:["IUDCB","madhyachchhada","shukravaahikochchhedana","loop"],
+    answer:"shukravaahikochchhedana"
+},
+{
+    question: "haploid chromosome in which is found?",
+    option:["jaaigota","gamete","embryo","seed"],
+    answer:"gamete"
+},
+{
+    question: "photoofmikala smaoga in hameshaa upasthita rahataa is:",
+    option:["O₃","H₂S","CO","kloreena"],
+    answer:"O₃"
+},
+{
+    question: "staniyon in ‘baara baodee’ prarateshita does",
+    option:["staree of cells in upasthita sampoorna heterokromaitina","staree of ofyika cells in two X-chromosomes in from one nishkariya X-chromosome","staree and male of cells in upasthita sampoorna heterokromaitina","male of ofyika cells in upasthita Y-chromosome"],
+    answer:"staree of ofyika cells in two X-chromosomes in from one nishkariya X-chromosome"
+},
+{
+    question: "human blood varga which-which from are?",
+    option:["A, B, C and O","B, C, D and O","A, B, AB and O","all of the above"],
+    answer:"A, B, AB and O"
+},
+{
+    question: "aadi vaataavarana in among the following whose abhaava thaa?",
+    option:["naaitrojana","amonior","okseejana","mithena"],
+    answer:"okseejana"
+},
+{
+    question: "lnbe va baune matara of plants in monohaaibrida anupaata 3 : 1 is to theseof geneotaaipa koar hogaa?",
+    option:["TT × Tt","Tt × Tt","TT × tt","Tt × tt"],
+    answer:"Tt × Tt"
+},
+{
+    question: "maize in proteinyukta endosperm ko are called",
+    option:["Apophysis","Scutellum","Coleoptile","alyoorona wall"],
+    answer:"alyoorona wall"
+},
+{
+    question: "‘poosaa svarnimaa’ sarason of variety kisa disease of pratirodhaka variety is?",
+    option:["chilee mojeka vaayarasa","baikteeriyala vaayarasa","shveta gerika","kuchita organmaaree"],
+    answer:"shveta gerika"
+},
+{
+    question: "Human female of embryo in kisa praofra of Cleavage occurs?",
+    option:["Holoblastic and samaana","Meroblastic","Holoblastic and asamaana","Diploblastic"],
+    answer:"Holoblastic and samaana"
+},
+{
+    question: "plants of aisaa which-saa bhaaga is jisain one of anrate doosaree peedhaee is",
+    option:["ankurita pollen grain","seed","anishechita ovule","embryo"],
+    answer:"seed"
+},
+{
+    question: "among the following which-saa disease protozoa parasitic by snfourita occurs?",
+    option:["ameebaayasisa","malaria","oflaajaara","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "thesein which-saa kathana correct naheen is?",
+    option:["Ori that sequence is jahaan from replica of shuruaata is।","pashchavirus normal cells ko cancer cells in roopaantarita kara dete are।","paudhon in vijaateeya DNA ko pravesha karaane for genegana of experiment naheen is done।","DNA ko vishishta sthalon on oftane for pratibnwealth of enzyme is used।"],
+    answer:"paudhon in vijaateeya DNA ko pravesha karaane for genegana of experiment naheen is done।"
+},
+{
+    question: "human protein alphaa-1 enteetripseena of use which-see beemaaree of nidaana in is done?",
+    option:["AIDS","cancer","imphaayafrommaa","uonokta sabhee"],
+    answer:"imphaayafrommaa"
+},
+{
+    question: "kraosinga ovara among these kisa avasthaa in occurs?",
+    option:["paiinsecteena","diploteena","daaoroftheseesisa","none of these"],
+    answer:"paiinsecteena"
+},
+{
+    question: "first human population visphota of ofrana huaa:",
+    option:["agriculture","audyogiofkarana","alpaayu vivaaha","sabhyataa in onivartana"],
+    answer:"agriculture"
+},
+{
+    question: "among the following which praarnbhika kodona is?",
+    option:["AUG","UAG","UAA","UUA"],
+    answer:"AUG"
+},
+{
+    question: "when F1 plant lambepana for toxinmayugmajee ko svapollenita karaaor gaor, F2 peedhaee in both lnbe and baune plants utpanna hue। this kisa theory ko siddha does?",
+    option:["prabhaavitaa","blendeda vnshaagati","separation of niyama","svatntra apavyoohana of niyama"],
+    answer:"separation of niyama"
+},
+{
+    question: "samooha of antibodyja from elarjika krior praarnbha is:",
+    option:["IgG","IgE","IgM","IgA"],
+    answer:"IgE"
+},
+{
+    question: "eggaashaya from eggaa nikalane of process ko koar are called?",
+    option:["oogenesis","ovulation","rawhichchakra","spermatogenesis"],
+    answer:"ovulation"
+},
+{
+    question: "anda upakarana in is",
+    option:["egg punja","egg va dhruveeya nucleus","egg va prativoarsaanta cells","egg va sahaayaka cells"],
+    answer:"egg va sahaayaka cells"
+},
+{
+    question: "kisee onela snkara in geneotaaipa of anupaata hogaa",
+    option:["3 : 1","1 : 1","1 : 2 : 1","2 : 1"],
+    answer:"1 : 2 : 1"
+},
+{
+    question: "among the following which-saa kshaara RNA in maujooda naheen occurs?",
+    option:["thaaimeena","yooraasila","edineena","guaaneena"],
+    answer:"thaaimeena"
+},
+{
+    question: "enteekodona kisafrom relationshipita is?",
+    option:["t-RNA","m-RNA","r-RNA","genetic RNA"],
+    answer:"t-RNA"
+},
+{
+    question: "among the following which virus janita disease is?",
+    option:["phloo","poliyo","AIDS","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "human tvachaa of rnga kisafrom niyntrita occurs?",
+    option:["onela allele","dvika allele","less from less three prithaka gene","four allele"],
+    answer:"less from less three prithaka gene"
+},
+{
+    question: "kisee aabaadee of svaroopa nirbhara does:",
+    option:["vitarana on","ghanatva on","jaateeya rachanaa on","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "ofjeerngaa raashtareeya park is:",
+    option:["ofrala","karnaataka","bngaala","asoma"],
+    answer:"asoma"
+},
+{
+    question: "among these in which erila (aril) naheen is found",
+    option:["shareephaa","leechee","mango","miristiof"],
+    answer:"mango"
+},
+{
+    question: "human in tvachaa of rngon of vnshaagati udaaharana is:",
+    option:["one gene of vnshaagati","two gene of vnshaagati","more gene of vnshaagati","among these sabhee"],
+    answer:"more gene of vnshaagati"
+},
+{
+    question: "among the following which-saa bacterium naaitrojana sthireekarana karane in samartha is?",
+    option:["ee. kolaaee","raaiwhichbiyama","egrobaiktiriyama","none of these"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "anulekhana at the time of of DNA that sthala jisa on RNA paolimareja judataa is, is called:",
+    option:["graanhee","pramotara","thesehensara","niormaka"],
+    answer:"pramotara"
+},
+{
+    question: "indala ne one shuddha bainganee flower having matara of plants ko sapheda flower having plants from kraosa karavaaor to pahalee peedhaee in kaifrom plants mile?",
+    option:["sabhee bainganee flower having plants","sabhee sapheda flower having plants","50% bainganee and 50% sapheda flower having plants","75% bainganee and 25% sapheda flower having plants"],
+    answer:"sabhee bainganee flower having plants"
+},
+{
+    question: "which-saa plant maingrova area in is found?",
+    option:["raaiwhichphoraa","baboola","cheeda","tektonaa"],
+    answer:"raaiwhichphoraa"
+},
+{
+    question: "kisee Monohybrid cross of Phenotypes of F2 vnshaja in anupaata is",
+    option:["3 : 1","1 : 2 : 1","9 : 3 : 3 : 1","2 : 1"],
+    answer:"3 : 1"
+},
+{
+    question: "baisilasa thurinjiensisa by secretionita toxin protein among these which is?",
+    option:["tyoobuleena","insulina","kraaee protein","among these sabhee"],
+    answer:"kraaee protein"
+},
+{
+    question: "anaavarodhita reproduction kshamataa is:",
+    option:["birth rate","thatna kshamataa","biodiversity","reproduction kshamataa"],
+    answer:"reproduction kshamataa"
+},
+{
+    question: "prithvee sammelana kisa year aayojita huaa thaa?",
+    option:["1972 in","1992 in","1952 in","among these sabhee"],
+    answer:"1992 in"
+},
+{
+    question: "bacterium and virus by human in being having of disease pataa karane for upayukta ELISA method kisa theory on aadhaarita is?",
+    option:["pratijana-antibody krior","pratijana-pratijana krior","antibody-antibody krior","none of these"],
+    answer:"pratijana-antibody krior"
+},
+{
+    question: "among the following by whom insectnaashee paairethrama made jaataa is?",
+    option:["saaimopogona","tephrosior","kraaifromntheemama","viteeverior"],
+    answer:"kraaifromntheemama"
+},
+{
+    question: "paudhon in neemaitodon from being having diseases ko jaiviofya control among the following by whom ofragara siddha huaa?",
+    option:["paathisolithasa tiktoriyasa","syoodomonaasa frompaisior","glaaioklaidiyama vaairasa","peesilomaathiseeja lilaisinasa"],
+    answer:"peesilomaathiseeja lilaisinasa"
+},
+{
+    question: "Egg apparatus banaa occurs",
+    option:["Egg cell","Synergids","Antipodals","both (A) and (B)"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "one chhotee fish saarka of aadhaara on chipaof rahatee is and thisfrom bhojana praapta does। this relationship is called:",
+    option:["pratiorganismitaa","commensalism","onbhakshana","parasitism"],
+    answer:"commensalism"
+},
+{
+    question: "among the following which-saa enjaaima uchcha temperature on bhee sakriya occurs?",
+    option:["fromlyooleja","taika paolimareja","laathisojaaima","pekteneja"],
+    answer:"taika paolimareja"
+},
+{
+    question: "ghaasasthaleeya ecosystem in graasahaoon is",
+    option:["producer","primary consumer","secondary consumer","tertiary consumer"],
+    answer:"primary consumer"
+},
+{
+    question: "onela kosheeya protein (SCP) kisafrom is obtained?",
+    option:["onekosheeya sookshamaorganisms from","bahukosheeya sookshamaorganisms from","bacterium by","onekosheeya and bahukosheeya sookshamaorganisms both from"],
+    answer:"onekosheeya and bahukosheeya sookshamaorganisms both from"
+},
+{
+    question: "‘krisamasa disease’ of doosaraa name is",
+    option:["daathose sindroma","nidraa disease","heemopheelior B","hipetaaitisa B"],
+    answer:"heemopheelior B"
+},
+{
+    question: "fertilization of baada ovule vikasita hokara seed becomes is, whenki carpel from koar vikasita occurs?",
+    option:["pereesoanma","periofrpa","testaa","none of these"],
+    answer:"periofrpa"
+},
+{
+    question: "“ecosystem” shabda of use of shreya dior jaataa is:",
+    option:["gaardamale ko","odama ko","taonasalee ko","vaarminga ko"],
+    answer:"taonasalee ko"
+},
+{
+    question: "which-saa RNA thodae samaya for occurs?",
+    option:["mRNA","tRNA","rRNA","snRNA"],
+    answer:"mRNA"
+},
+{
+    question: "among the following from which satya phala is?",
+    option:["apple","naashapaatee","ofjoolaa","coconut"],
+    answer:"coconut"
+},
+{
+    question: "among the following which-see orntrika technique pregnancydhaarana preventing for greevaa of ooon lagaaee jaatee is?",
+    option:["diaphragm","condom","loop","kaoon-tee"],
+    answer:"diaphragm"
+},
+{
+    question: "among the following which mithoar phala is?",
+    option:["apple","mango","oflaa","none of these"],
+    answer:"apple"
+},
+{
+    question: "SO₂ of pollution destroys:",
+    option:["laaiofna","fungus","algae","fish"],
+    answer:"laaiofna"
+},
+{
+    question: "nimna in which-saa lambavat advivibhaajana (Longitudinal binary fission) does?",
+    option:["yooglinaa","plaajamodiyama","plenerior","peraamishiyama"],
+    answer:"yooglinaa"
+},
+{
+    question: "soybean of crop in growth for jaiva fertilizer as experiment being having organism is:",
+    option:["ewhichspaairilama","raaiwhichbiyama","naostaoka","ewhichtobaiktara"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "gamete in chromosome of fromta occurs:",
+    option:["2n","3n","4n","n"],
+    answer:"n"
+},
+{
+    question: "stanapaayee organisms in male hormone of origin where is?",
+    option:["leevara in","andakosha in","kidanee in","phephadaaa in"],
+    answer:"andakosha in"
+},
+{
+    question: "among the following which-see khoja mahaja one snyogavasha ghatanaa is?",
+    option:["penisilina","thesesulina","klorophenikola","DNA"],
+    answer:"penisilina"
+},
+{
+    question: "alkohala udyoga in utpanna bacteria of naor starena which-saa is?",
+    option:["ee. kolaaee","saikromaayaseeja","baiseelasa sabataayalisa","syoodomonaasa puteedaa"],
+    answer:"baiseelasa sabataayalisa"
+},
+{
+    question: "embryo science of janaka which isn?",
+    option:["Hippocrates","Pander","arastoo","Spemann"],
+    answer:"arastoo"
+},
+{
+    question: "human male in sperm bhndaarana kisa reproduction organ in occurs?",
+    option:["shishna","shukravaahiof","epidimisa","vrishana"],
+    answer:"epidimisa"
+},
+{
+    question: "onkogene among these kisafor uttaradaayee is?",
+    option:["cancer","AIDS","kshaya-disease","poliyo"],
+    answer:"cancer"
+},
+{
+    question: "ofrbana monooksaaida from human of mauta ho jaatee is whyki this nashta kara detaa is",
+    option:["hemoglobin","phaaitokroma","saaitokroma","both (A) and (B)"],
+    answer:"hemoglobin"
+},
+{
+    question: "amla rainfall in SO₂ salphayoorika amla of bhaaga occurs:",
+    option:["100%","70%","50%","30%"],
+    answer:"70%"
+},
+{
+    question: "among the following kisa DNA anu in pyoorina is?",
+    option:["A and C","C and T","A and G","none of these"],
+    answer:"A and G"
+},
+{
+    question: "among the following which correct phala is",
+    option:["coconut","apple","naashapaatee","ofjoo"],
+    answer:"coconut"
+},
+{
+    question: "if pollen grain of sthaanaantarana air by occurs to ifrom are called",
+    option:["Anemophily","Entomophily","Ornithophily","Myrmecophily"],
+    answer:"Anemophily"
+},
+{
+    question: "among the following which eggja naheen is?",
+    option:["sarpa","hen","ghadaiorla","human"],
+    answer:"human"
+},
+{
+    question: "prithvee of nikata airmandala of area is called:",
+    option:["staretospheeyara","meesospheeyara","tropospheeyara","tharmospheeyara"],
+    answer:"tropospheeyara"
+},
+{
+    question: "human egg about yokarahita occurs, ifrom are called",
+    option:["Microlecithal","Alecithal","Macrolecithal","Mesolecithal"],
+    answer:"Alecithal"
+},
+{
+    question: "pollen grain of thatee plants of doosare flower of stylena on jamaa being ko are called",
+    option:["Dichogamy","Geitonogamy","Xenogamy","Hydrogamy"],
+    answer:"Geitonogamy"
+},
+{
+    question: "Ti plaajmida is found:",
+    option:["egrobaikteeriyama tyoomeephesiensa in","thischirichior kolaaee in","baikteeriyopheja in","among these kisee in naheen"],
+    answer:"egrobaikteeriyama tyoomeephesiensa in"
+},
+{
+    question: "dengoo bukhaara kisadue to occurs?",
+    option:["bacterium","virus","protozoa","krimi"],
+    answer:"virus"
+},
+{
+    question: "somaaklonala variation kisafrom praapta ho sakatee is?",
+    option:["kaolcheeseena of experiment from","hybridization from","gaamaa kiranon of radiation from","tissue culture from"],
+    answer:"tissue culture from"
+},
+{
+    question: "DNA ripeyaringa is:",
+    option:["DNA paoleemareja I by","DNA paoleemareja II by","both (A) and (B)","laaigeja by"],
+    answer:"DNA paoleemareja I by"
+},
+{
+    question: "Y-chromosome on sthita genesa are",
+    option:["mutant genesa","otosomala genesa","holaindarika genesa","linga sahalagna gene"],
+    answer:"holaindarika genesa"
+},
+{
+    question: "among the following which-saa prabhaavashaalee character is?",
+    option:["varnaandhataa","rataundhee","Rht","elbinijma"],
+    answer:"Rht"
+},
+{
+    question: "dvisnkara kraosa of pheenotipika anupaata what is?",
+    option:["1 : 2 : 1","3 : 1","9 : 3 : 3 : 1","none of these"],
+    answer:"9 : 3 : 3 : 1"
+},
+{
+    question: "vuchererior bainkrophtee aadamee in phaailerior disease paidaa does। this kisa samooha of is?",
+    option:["protozoa","virus","bacterium","helamintha"],
+    answer:"helamintha"
+},
+{
+    question: "egrobaikteeriyama tyoomeepheseeyansa in is found:",
+    option:["A-plaajmida","Ti-plaajmida","C-plaajmida","G-plaajmida"],
+    answer:"Ti-plaajmida"
+},
+{
+    question: "samataapa mndala in onaabainganee radiationon ko nimnalikhita of by avashoshita is done:",
+    option:["okseejana","owhichna","SO₂","organa"],
+    answer:"owhichna"
+},
+{
+    question: "Indian graameena area in baayodeewater of srota as whose use kior jaa rahaa is?",
+    option:["yoophaorbior","chukanraate","sugarcane","pongaamior"],
+    answer:"pongaamior"
+},
+{
+    question: "cancer kisa ofrana from occurs?",
+    option:["bacterium by","onkogenesa of by","both (A) and (B)","none of these"],
+    answer:"onkogenesa of by"
+},
+{
+    question: "nimnalikhita vaijnyaanikon ne ee. kolaaee in laika prachaaleka of spashta jaanaofree dee:",
+    option:["jaiwhen and monaoda","vaatasana and krika","beedala and taitama","none of these"],
+    answer:"jaiwhen and monaoda"
+},
+{
+    question: "jaiva technique in prayukta 'aanvika kainchee' is:",
+    option:["DNA paoleemareja","DNA laaigeja","ristarikshana endonyookliaija","heliofja"],
+    answer:"ristarikshana endonyookliaija"
+},
+{
+    question: "if one nadee seeveja from dooshita ho jaae to fish mara jaaengee, whyki",
+    option:["O₂ of water in lessee ho jaatee is","water of durgndha due to","seeveja in maujooda diseaseaanuon due to","thosa padaarthon of kleshma in phnsane due to"],
+    answer:"O₂ of water in lessee ho jaatee is"
+},
+{
+    question: "aaloo in ofyika sncharana by whom occurs?",
+    option:["pattiorn","stnbha","jada","seed"],
+    answer:"stnbha"
+},
+{
+    question: "pollen grain whose specialtaa is",
+    option:["braayophaayatsa and aavrittaseedee","teridophaayatsa and aavrittaseedee","aavrittaseedee and anaavrittaseedee","aavrittaseedee and fungus"],
+    answer:"aavrittaseedee and anaavrittaseedee"
+},
+{
+    question: "DNA pumaleyogaja technique in Restriction endonuclease vrihat apaimaane on use is done। ye praapta are:",
+    option:["baikteeriyopheja from","bacterium cell from","plaajmidsa from","sabhee prokairiyotika cells from"],
+    answer:"bacterium cell from"
+},
+{
+    question: "if one nadee seeveja from dooshita ho jaae to fish mara jaaengee:",
+    option:["buree durgndha from","O₂ of lessee from","seeveja in upasthita diseaseaanuon from","thosa padaarthon of gilon in phnsane on"],
+    answer:"O₂ of lessee from"
+},
+{
+    question: "conception avadhi is",
+    option:["birth and Puberty between of","embryo formation and conception between of","fertilization and infant birth between of","fertilization and pregnancydhaarana between of"],
+    answer:"fertilization and infant birth between of"
+},
+{
+    question: "owhichna level is found:",
+    option:["troposphiyara in","onesosphiyara in","meewhichsphiyara in","staraitosphiyara in"],
+    answer:"staraitosphiyara in"
+},
+{
+    question: "pratibnwealth endonyookfaorja DNA of kisa vishishta nucleotide sequenceon ko pahachaanataa is?",
+    option:["pailindaromika","enzyme","plaajmida","among these sabhee"],
+    answer:"pailindaromika"
+},
+{
+    question: "ecosystem of two factor are:",
+    option:["plants and praanee","jaivika and ajaivika","okseejana and ofrbana","none of the above"],
+    answer:"jaivika and ajaivika"
+},
+{
+    question: "jaiva dakaitee nimna in kisafrom relationshipita is?",
+    option:["paaramoanika jnyaana","jaiva anu and jaiva snsaawealth and jaiva snsaawealthon from gene ko nioflanaa","jaiva snsaawealth","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "varnaandhataa in diseaseee naheen pahachaana paataa is",
+    option:["laala and peelaa rnga","laala and haraa rnga","neelaa and haraa rnga","none of these"],
+    answer:"laala and haraa rnga"
+},
+{
+    question: "nirantara kriortmaka gene is:",
+    option:["gene baitaree","laksaree genesa","maailda genesa","haathat ofpinga genesa"],
+    answer:"haathat ofpinga genesa"
+},
+{
+    question: "daatra cell abloodtaa in beetaa globina shrrinkhalaa in glootaimika amla of kisa amino acid from pratisthaapana occurs?",
+    option:["glaathiseena","vaileena","espaartika amla","none of the above"],
+    answer:"vaileena"
+},
+{
+    question: "one hee phala of bheetara antheron from pollen grainon of stylena in pahunchanaa koar is called?",
+    option:["svapollination","ovulation","onpollination","fertilization"],
+    answer:"svapollination"
+},
+{
+    question: "gene of Segregation occurs",
+    option:["embryo formation in","enaapheja first in","enaapheja second in","metaapheja second in"],
+    answer:"enaapheja first in"
+},
+{
+    question: "sabafrom prachalita bacterium fertilizer is:",
+    option:["naaitrosomonaasa","naaitrobaiktara","naaitrosokokasa","raaiwhichbiyama"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "praaimaree soanmetosaaita from formation having sperms of number is",
+    option:["8","4","3","1"],
+    answer:"4"
+},
+{
+    question: "indala of niyamon ko maanyataa dilaaee",
+    option:["korensa","lionmaika","dee vreeja","these sabhee ne"],
+    answer:"these sabhee ne"
+},
+{
+    question: "staree in kisa hormone of pratikrior due to secondary laingika symptom vikasita are?",
+    option:["rileksina","projestaraona","thistrojena","gonedotropina"],
+    answer:"thistrojena"
+},
+{
+    question: "laika operaona of factor naheen is:",
+    option:["praaimara gene","promotara gene","snrachanaatmaka gene","niormaka gene"],
+    answer:"praaimara gene"
+},
+{
+    question: "among the following which-saa plant ubhayalingaashrayee occurs?",
+    option:["maaraofnshior","paathesesa","saaikasa","papeetaa"],
+    answer:"paathesesa"
+},
+{
+    question: "embryo of 16 koshiofya avasthaa kahalaatee is",
+    option:["morulaa","blaastomiyara","blaastulaa","gaistulaa"],
+    answer:"morulaa"
+},
+{
+    question: "nimnalikhita ne organuleechhaapee technique ko sarvafirst vikasita kior:",
+    option:["eleka jephareeja","aarthara kaornabarga","jemsa vaatasana","none of the above"],
+    answer:"eleka jephareeja"
+},
+{
+    question: "kyoto protokaola relationshipita is:",
+    option:["owhichna kshaya","harita griha prabhaava","water pollution","forestya organismna of conservation"],
+    answer:"harita griha prabhaava"
+},
+{
+    question: "among the following which DNA synthesis hetu of RNA tempaleta as experiment does?",
+    option:["rivarsa traansakripteja","DNA-dipendenta RNA paoleemareja","DNA paoleemareja","RNA paoleemareja"],
+    answer:"rivarsa traansakripteja"
+},
+{
+    question: "if kisee anther in 4-sporogenous cells hon, to pollen grain of number hogee",
+    option:["4","8","16","12"],
+    answer:"16"
+},
+{
+    question: "B-DNA of one poorna ghumaava in kitane besa peyarsa are?",
+    option:["10","12","20","15"],
+    answer:"10"
+},
+{
+    question: "Egg of Cortex in maujooda Cortical granules in is found, mainth",
+    option:["lipida","protein","glaaikojana","myookopaulisaiofraaidsa"],
+    answer:"lipida"
+},
+{
+    question: "pollen grain peele varna of are whyki thisin maujooda are",
+    option:["Flavonoids and Carotenoids","salphara","kromoplaasta","Etiolin"],
+    answer:"Flavonoids and Carotenoids"
+},
+{
+    question: "otomobaaila nirvaaup to in upasthita sarvaadhika harmful kanaofya padaartha is:",
+    option:["marakaree","leda","kaidamiyama","aarfaromnika"],
+    answer:"leda"
+},
+{
+    question: "gamete of snchayana ko are called:",
+    option:["pollination","sinagemee","paarthenojenesisa","sporojenesisa"],
+    answer:"sinagemee"
+},
+{
+    question: "MMC in 24 chromosome are। thisof endosperm in chromosomes of number hogee",
+    option:["12","24","36","48"],
+    answer:"36"
+},
+{
+    question: "among the following kisa plant in seed to becomes is but flower naheen",
+    option:["maize","pudeenaa","peepal","cheeda"],
+    answer:"cheeda"
+},
+{
+    question: "moola roma in which naheen hotee?",
+    option:["waterodbhida","lavanodbhida","sthalodbhida","heliophaaita"],
+    answer:"waterodbhida"
+},
+{
+    question: "normalth Capsella in endosperm occurs",
+    option:["haploid","diploid","triploid","bahucharacterita"],
+    answer:"triploid"
+},
+{
+    question: "kisee B-DNA of one valaya (spiral) in nucleotide of number is:",
+    option:["5","10","20","25"],
+    answer:"10"
+},
+{
+    question: "among these kisa krior from DDT of concentration agale poshee level in badhatee is?",
+    option:["water-prasphutana","jaiva aavarwaealth","suposhana","owhichna pollution"],
+    answer:"jaiva aavarwaealth"
+},
+{
+    question: "staarcha from ithenaola of audyogika utpaadana kisa khaasa species by occurs?",
+    option:["penisilina","ewhichtobaiktara","saiofromaayasija","laiktobaisilasa"],
+    answer:"saiofromaayasija"
+},
+{
+    question: "among the following which genetic material is called?",
+    option:["DNA","protein","vasaa","all of these"],
+    answer:"DNA"
+},
+{
+    question: "protein synthesis of krior snpanna is:",
+    option:["maaitokaondarior","lavaka","raaibosoma","fromntrosoma"],
+    answer:"raaibosoma"
+},
+{
+    question: "maleon from koar relationshipita is?",
+    option:["munha from khaayee jaane having goliorn","dimbavaahiofchchhedana","shukravaahikochchhedana","uonyukta in from koee naheen"],
+    answer:"shukravaahikochchhedana"
+},
+{
+    question: "dodo is",
+    option:["vilupta praanee","snkatagrasta praanee","aapattigrasta praanee","none of these"],
+    answer:"vilupta praanee"
+},
+{
+    question: "GAATTC kisa pratibanwaealth endonyookfaorja of abhijnyaana sthaana is?",
+    option:["HindIII","EcoRI","BamI","HindII"],
+    answer:"EcoRI"
+},
+{
+    question: "malaria parasitic of diseasevaahaka among these which is?",
+    option:["female kyooleksa","female enophileeja","female baaloo makkhee","among these sabhee"],
+    answer:"female enophileeja"
+},
+{
+    question: "meenameaataa disease is produced:",
+    option:["airmndala in aarfaromnika from","peene of paanee in phloraaida being from","peene of paanee in paaraayukta pradooshaka from","water in tela of phaila jaane from"],
+    answer:"peene of paanee in paaraayukta pradooshaka from"
+},
+{
+    question: "mother by die gae gamete and father by die gae gamete of snlayana from koar becomes is?",
+    option:["gamete","yugmanaja","sntati","kloma"],
+    answer:"yugmanaja"
+},
+{
+    question: "among the following aabhaasee phala which-saa is",
+    option:["staraoberee","akharota","apple","uonokta threeon"],
+    answer:"uonokta threeon"
+},
+{
+    question: "raaibosoma of badae guchchha ko are called:",
+    option:["megaasoma","maaikrosoma","paoleeraaibosoma","oligosoma"],
+    answer:"paoleeraaibosoma"
+},
+{
+    question: "DNA dvicharacterna in kisa enzyme of main landof rahatee is?",
+    option:["laaigeja","RNA paolimareja","DNA paolimareja","rivarsa traansakripteja"],
+    answer:"DNA paolimareja"
+},
+{
+    question: "Ecosystem for nirdeshee force is।",
+    option:["producer","jaivaamount","producer in nihita ofrbohaaidreta","saura energy"],
+    answer:"saura energy"
+},
+{
+    question: "ten pratishata energy-haasa of niyama kisane made?",
+    option:["lindemaina","lipamena","nyoobarga","barjiliyasa"],
+    answer:"lindemaina"
+},
+{
+    question: "embryokosha of fromntarala cell is",
+    option:["praarnbhika nucleus","secondary nucleus","sahaayaka cell","both (A) and (B)"],
+    answer:"secondary nucleus"
+},
+{
+    question: "speesheeja plaanterama book kisane likhee?",
+    option:["jaona re","kairolasa liniyasa","thiyophrestasa","none of these"],
+    answer:"kairolasa liniyasa"
+},
+{
+    question: "human in hima andhataa of main ofrana among these which-saa is?",
+    option:["UV-B kirana of avashoshana","thesephraa radiation of avashoshana","kaosmika radiation of avashoshana","svachchha mndala of hima aondana"],
+    answer:"UV-B kirana of avashoshana"
+},
+{
+    question: "siraof udyoga in kisa sookshamaorganism of use occurs?",
+    option:["klostareediyama of","eseetobaiktara of","traaikodarmaa of","stareptokokasa of"],
+    answer:"eseetobaiktara of"
+},
+{
+    question: "snkramita peyawater from phailane having disease among these which is?",
+    option:["miordee bukhaara or taaiphaaida","malaria","phaailerior","oflaa jvara"],
+    answer:"miordee bukhaara or taaiphaaida"
+},
+{
+    question: "gobara gaisa of one major factor is:",
+    option:["byootena","amonior","mithena","ithena"],
+    answer:"mithena"
+},
+{
+    question: "watereeya paudhon in katee-phatee pattiorn isn:",
+    option:["satahee areaphala less karane for","satahee areaphala badhaaane for","waterdhaaraaon of prabhaava less karane for","randharon of number badhaaane for"],
+    answer:"waterdhaaraaon of prabhaava less karane for"
+},
+{
+    question: "plants of pratyeka of the cell anrate one nae plants ko birth dene of kshamataa is। cells of this genetic character ko koar are called?",
+    option:["somaa klonala vairieshana","gene kloninga","fromlyoolara toteepotensee","among these sabhee"],
+    answer:"fromlyoolara toteepotensee"
+},
+{
+    question: "nimna in parasitic animal which-saa is?",
+    option:["fish","kharagosha","sooara","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "RNA antarakshepa what is?",
+    option:["peedakanaashee","koshiofya surakshaa of method","protein","none of these"],
+    answer:"koshiofya surakshaa of method"
+},
+{
+    question: "dvisnkara kraosa in anusymptomee (phenotaaipika) anupaata occurs",
+    option:["3 : 1","1 : 2 : 1","9 : 7","9 : 3 : 3 : 1"],
+    answer:"9 : 3 : 3 : 1"
+},
+{
+    question: "triptophaina operaona kisa praofra of tntra ko rateshaataa is?",
+    option:["preraneeya","damanaofree","A and B both","thesein koee naheen"],
+    answer:"damanaofree"
+},
+{
+    question: "which-saa enzyme uchcha taapakrama on bhee sakriya rahataa is?",
+    option:["fromlooleja","pektineja","taika paolimareja","laathisosaaima"],
+    answer:"taika paolimareja"
+},
+{
+    question: "genetics abhiorntriof in prayukta sabafrom normal bacterium is:",
+    option:["ishcheereeshior (Escherichia)","klaosatreediyama","saalmonelaa","besilasa"],
+    answer:"ishcheereeshior (Escherichia)"
+},
+{
+    question: "kailasa and saspenshana kalchara in which-saa oksina is used?",
+    option:["NAA","IBA","2,4-D","ebsisika amla"],
+    answer:"2,4-D"
+},
+{
+    question: "pollen and seedaanu of adhyayana ko koar are called",
+    option:["peleenolaojee","maarapholaojee","phaaikolaojee","saaitolaojee"],
+    answer:"peleenolaojee"
+},
+{
+    question: "among these which onelingee naheen is?",
+    option:["tilachattaa","dog","cow","earthworm"],
+    answer:"earthworm"
+},
+{
+    question: "gene in mutation, edeeneena gvaanina by pratisthaapita occurs, this is:",
+    option:["phrema-shiphta mutation","traansakripshana","traanjishana","traansavarjana"],
+    answer:"traanjishana"
+},
+{
+    question: "paanee by on-pollination ko are called",
+    option:["air-pollination","water-pollination","insect-pollination","these sabhee in"],
+    answer:"water-pollination"
+},
+{
+    question: "stareptomaathisina utpaadita is done:",
+    option:["stareptomaathisina skoliyasa by","stareptomaathisisa phredee by","stareptomaathisisa venejuelo by","stareptomaathisisa greesiyasa by"],
+    answer:"stareptomaathisisa greesiyasa by"
+},
+{
+    question: "among the following which onelingee is?",
+    option:["sarason","udahula","papeetaa","none of these"],
+    answer:"papeetaa"
+},
+{
+    question: "indala of theory ko twoharaane having vaijnyaanika which the?",
+    option:["daarvina, vailesa and hyoogo di veeja","daarvina, korensa and lionmaika","hyoogo di veeja, korensa and lionmaika","maorgana, hyoogo di vreeja and korensa"],
+    answer:"hyoogo di veeja, korensa and lionmaika"
+},
+{
+    question: "one flowering plant in female reproduction organ iofee ko are called",
+    option:["stareeofsara","punofsara","pollenkosha","anya"],
+    answer:"stareeofsara"
+},
+{
+    question: "mithemoglobina of formation in hemoglobin of pratikrior kisafrom is?",
+    option:["naaitreta","CO","CO₂","naaitrasa oksaaida"],
+    answer:"naaitreta"
+},
+{
+    question: "that organism or plant jisaof shareera in male and female both praofra of reproduction paae jaate are, is called:",
+    option:["spora","snyugmana","ubhayalingee","onelingee"],
+    answer:"ubhayalingee"
+},
+{
+    question: "Bt toxin is:",
+    option:["anthkoshiofya lipidsa","anthkoshiofya kristaleeya protein","baahya koshiofya kristaleeya protein","lipidsa"],
+    answer:"baahya koshiofya kristaleeya protein"
+},
+{
+    question: "leechee of khaaor jaane having bhaaga is called?",
+    option:["tegmena","endosperm","adhoarvarana","seedchola"],
+    answer:"seedchola"
+},
+{
+    question: "indala by given gametes of shuddhataa of niyama aadhaarita is",
+    option:["oneekshana hybridization","prateepa hybridization","onesnkara hybridization","dvisnkara hybridization"],
+    answer:"onesnkara hybridization"
+},
+{
+    question: "control (Regulatory) gene ko koar is called?",
+    option:["nirodhaka gene","ripresara","oonetara gene","promotara gene"],
+    answer:"nirodhaka gene"
+},
+{
+    question: "pollen grain of baahya chola kisafrom becomes is",
+    option:["fromluloja","pektina","sporopolenina","tepitama"],
+    answer:"sporopolenina"
+},
+{
+    question: "anthuterus technique of average asaphalataa of rate is:",
+    option:["23%","20%","1%","4%"],
+    answer:"4%"
+},
+{
+    question: "ushna katibndheeya saghana foreston of ofrana is",
+    option:["less rainfall and less temperature","more rainfall and less temperature","less rainfall and more temperature","more rainfall and more temperature"],
+    answer:"more rainfall and more temperature"
+},
+{
+    question: "G. J. Mendel thaa",
+    option:["britisha paarateee","aastareliyana paarateee","aastariyana paarateee","jarmana vaijnyaanika"],
+    answer:"aastariyana paarateee"
+},
+{
+    question: "dvisnkara kraosa in pheenotaaipika anupaata occurs",
+    option:["3 : 1","1 : 2 : 1","9 : 7","9 : 3 : 3 : 1"],
+    answer:"9 : 3 : 3 : 1"
+},
+{
+    question: "raaibosoma of vrihata samooha is called:",
+    option:["megaasoma","maaikrosoma","aleegosoma","paoleeraaibosoma"],
+    answer:"paoleeraaibosoma"
+},
+{
+    question: "100 pollen grain formation for kitane sootree vibhaajana of aavashyakataa hogee",
+    option:["100","50","25","20"],
+    answer:"25"
+},
+{
+    question: "Indiain the year environment surakshaa adhiniyama kisa year paasa huaa thaa?",
+    option:["1976","1986","1966","1996"],
+    answer:"1986"
+},
+{
+    question: "jinaof number bahuta less ho gaee is and vilupta being of kagaara on are thosehen are called:",
+    option:["bheja speciesorn","durlabha speciesorn","snkatamayee","kshati-aashnkita"],
+    answer:"snkatamayee"
+},
+{
+    question: "jaivika roopaantarita organism ho sakate are",
+    option:["diseaseaanu pratirodhaka","sookhaa pratirodhaka","diseaseaanu and sookhaa both pratirodhaka","none of these"],
+    answer:"diseaseaanu and sookhaa both pratirodhaka"
+},
+{
+    question: "aadhunika embryoscience of janaka are",
+    option:["shleedena and shvaana","hartaviga","arastoo","vaana beyara"],
+    answer:"vaana beyara"
+},
+{
+    question: "matara in aprabhaavee character is",
+    option:["jhurreedaara seed","lnbaa tanaa","gola seed","rngeena seedaavarana"],
+    answer:"jhurreedaara seed"
+},
+{
+    question: "which-saa 'thiormina' vitamin is?",
+    option:["B₁","B₂","B₆","B₁₂"],
+    answer:"B₁"
+},
+{
+    question: "human in ABO blood group whose udaaharana is?",
+    option:["Polygenic inheritance","Multifactor inheritance","Pleiotropic gene","Multiple alleles"],
+    answer:"Multiple alleles"
+},
+{
+    question: "paudhon of jadaon from tyoomara paidaa does:",
+    option:["E. coli","egrobaikteeriyama tyoomeephesiensa","tharmasa onevetiksa","none of these"],
+    answer:"egrobaikteeriyama tyoomeephesiensa"
+},
+{
+    question: "murde ko daphana karane and dharma of pramaana sarvafirst kisa fossil from milate are?",
+    option:["niendarathala","kro-maignaona","homo irektasa","homo isbilisa"],
+    answer:"niendarathala"
+},
+{
+    question: "ghareloo makkhee of Meiocytes in of chromosome number is:",
+    option:["8","12","34","21"],
+    answer:"12"
+},
+{
+    question: "indala of Law of Segregation kisa F2 anupaata on aadhaarita is?",
+    option:["1 : 2","9 : 3 : 3 : 1","1 : 2 : 1","3 : 1"],
+    answer:"1 : 2 : 1"
+},
+{
+    question: "among the following which-saa traansajenika plant naheen is?",
+    option:["soybean","maize","goldena raathis","kheeraa"],
+    answer:"kheeraa"
+},
+{
+    question: "heemopheelior femaleon of apekshaa maleon in normal roopa from is found whyki",
+    option:["this disease X-sahalagna prabhaavee mutation due to occurs","ladakiyon of number of badaaa bhaaga baaloarvasthaa in mara jaataa is","this disease X-sahalagna aprabhaavee mutation by occurs","this disease Y-sahalagna aprabhaavee mutation by occurs"],
+    answer:"this disease X-sahalagna aprabhaavee mutation by occurs"
+},
+{
+    question: "kisee Incomplete Dominance of F2 sntati in",
+    option:["pheenotaaipa of anupaata 3 : 1 is","geneotaaipa of anupaata 3 : 1 is","both hee","pheenotaaipa anupaata geneotaaipa anupaata of anuroopa occurs"],
+    answer:"pheenotaaipa anupaata geneotaaipa anupaata of anuroopa occurs"
+},
+{
+    question: "laojistika/onesaponenshiyala growth for sootra is:",
+    option:["dt/dN","dN/rN = dt","rN/dN = dt","dN/dt = rN"],
+    answer:"dN/dt = rN"
+},
+{
+    question: "kisee AABBCC genotype having organism from kitane taraha of gametes of snbhaaforestaa banatee is?",
+    option:["one","two","four","eight"],
+    answer:"one"
+},
+{
+    question: "among these protozoa parasitic by sncharita disease which-saa is?",
+    option:["ameebaayasisa","malaria","oflaa jvara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "anupravaaha snsaawealth in shaamila is:",
+    option:["separation","showealth","both (A) and (B)","utpaadana"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "bindu in mutation occurs",
+    option:["sanniveshana","one kshaara yugma in onivartana","dvicharacterna","vilopana"],
+    answer:"one kshaara yugma in onivartana"
+},
+{
+    question: "which sahaayaka reproduction grnthi is?",
+    option:["shukraashaya grnthi","prosteta grnthi","kaoon grnthi","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "female in which-see grnthi prosteta of samajaata is?",
+    option:["Perineal gland","dugdhagrnthi","paaraayurithrala grnthi","ofuon grnthi"],
+    answer:"paaraayurithrala grnthi"
+},
+{
+    question: "kisee nyookliyosaaida of pentoja sugar of kisa ofrbana with nitrogenous base judaaa occurs?",
+    option:["1","2","3","5"],
+    answer:"1"
+},
+{
+    question: "HIV nimna in kisa cell on aakramana does?",
+    option:["B-cell","T-cell","epitheeliyala cell","T heloan cell"],
+    answer:"T heloan cell"
+},
+{
+    question: "traopikala foreston in kuchha speciesyon of vilupti of main ofrana is।",
+    option:["diphorestaishana","ephoresteshana","paolyooshana","soila irosina"],
+    answer:"diphorestaishana"
+},
+{
+    question: "greevaa (Cervix) in which is found?",
+    option:["vrikka","phailopiyana tyooba","uterus of body and yoni between in","epididymis in"],
+    answer:"uterus of body and yoni between in"
+},
+{
+    question: "Gonorrhoea what is?",
+    option:["baikteeriyala disease","yauna disease","S.T.D.","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among these which-saa blood group saarvabhaumika blooddaataa is?",
+    option:["B","A","AB","O"],
+    answer:"O"
+},
+{
+    question: "Acrosome viheena sperm for koar naheen can be?",
+    option:["this bhojana naheen le sakataa","prachalana naheen kara sakataa","Seminal vesicle in chheda naheen kara sakataa","egg in chheda naheen kara sakataa is"],
+    answer:"egg in chheda naheen kara sakataa is"
+},
+{
+    question: "jirontolojee in whose adhyayana occurs?",
+    option:["bird","asthi","Ageing","prithvee"],
+    answer:"Ageing"
+},
+{
+    question: "among the following which-see orntrika technique pregnancydhaarana preventing for and IUCD for is?",
+    option:["kaoon-tee","sammishrita golee","phoma","Abortant golee"],
+    answer:"kaoon-tee"
+},
+{
+    question: "among the following which-saa tatva prithvee of aadiofleena vaataavarana in aanavika sthiti in upasthita naheen thaa?",
+    option:["ofrbana","okseejana","haaidrojana","naaitrojana"],
+    answer:"okseejana"
+},
+{
+    question: "jaiva-development of of the theory main relationship is",
+    option:["svath utpaadana from","vishishta srishtivaada from","dheere-dheere being having onivartanon from","vaataavarana of sthiti from"],
+    answer:"dheere-dheere being having onivartanon from"
+},
+{
+    question: "natural anishekareproduction (Parthenogenesis) is found",
+    option:["makkhee","bee in","machchhara in","all of these in"],
+    answer:"bee in"
+},
+{
+    question: "maize in 10 whichdaaa chromosome is। thisin kitane linofja samooha honge",
+    option:["20","40","10","5"],
+    answer:"10"
+},
+{
+    question: "yoka of vitarana if samaana roopa from ho to aifrom egge are",
+    option:["Isolecithal","Mesolecithal","Macrolecithal","Centrolecithal"],
+    answer:"Isolecithal"
+},
+{
+    question: "gira national park vikhoarta is",
+    option:["hirana for","sinha for","cheetaa for","bird for"],
+    answer:"sinha for"
+},
+{
+    question: "among the following which greenhouse gas is?",
+    option:["ofrbana daaioksaaida","meethena","CFC","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "of whom adhyayana ko onkolaojee are called?",
+    option:["kaoleraa","kushtha","tyoomara","malaria"],
+    answer:"tyoomara"
+},
+{
+    question: "ostareliyana enteejana jaancha by kisa beemaaree of pataa lacowaa jaataa is?",
+    option:["AIDS","hipetaaitisa-B","Genital warts","Chancroid"],
+    answer:"hipetaaitisa-B"
+},
+{
+    question: "pollination tabhee occurs when koee pollen grain",
+    option:["apanaa sperm nuclei vimukta does","stigma on aataa is","mature occurs and thisin 3 nuclei are","apanee sperm nuclei vimukta kare and eggaa and dhruva nucleus with fertilization kare"],
+    answer:"stigma on aataa is"
+},
+{
+    question: "virus-mukta plants by whom praapta ho sakate are?",
+    option:["embryo development","vibhajyoup to culture","protoplaasta culture","anther culture"],
+    answer:"vibhajyoup to culture"
+},
+{
+    question: "soil in upasthita raaiwhichbiyama bacterium apratyaksha roopa from paudhon of aabaadee in kisa praofra growth do?",
+    option:["naaitrojana-sthireekarana and soil of urvarataa in growth kara","fungusmoola by","pratiorganismitaa by","none of these"],
+    answer:"naaitrojana-sthireekarana and soil of urvarataa in growth kara"
+},
+{
+    question: "enthesisa of onighatanaa relationshipita is:",
+    option:["pollen grain formation","stylena on pollen grain of pahunchanaa","anther of development","flower kaliof of khulanaa"],
+    answer:"flower kaliof of khulanaa"
+},
+{
+    question: "indala ne kisa plants of chayana kior?",
+    option:["chanaa","paathesesa","tamaatara","gaardena matara"],
+    answer:"gaardena matara"
+},
+{
+    question: "kisa praofra of reproduction karane having praaniyon in more variationen dekhane ko milatee are?",
+    option:["sexual reproduction","asexual reproduction","gametereproduction","ofyika reproduction"],
+    answer:"sexual reproduction"
+},
+{
+    question: "paudhon in laingika reproduction ko sarvafirst kisane rateshaaor",
+    option:["Kolreuter","Camerarius","Van Benden","Nawaschin"],
+    answer:"Camerarius"
+},
+{
+    question: "ofyika reproduction among the following kisa praofra occurs?",
+    option:["jada","stnbha","pattee","threeon by"],
+    answer:"threeon by"
+},
+{
+    question: "among the following which forest ecosystem of one producer is?",
+    option:["vailisanerior","spaaidiseaseaairaa","tektonaa","nimphior"],
+    answer:"tektonaa"
+},
+{
+    question: "endosperm of origin kisafrom is",
+    option:["pollennaliof from","laghuseedaanu from","laghuseedaanupaddyee from","guruseedaanu from"],
+    answer:"guruseedaanu from"
+},
+{
+    question: "laaiofna whose samoohana is?",
+    option:["algae and algae","algae and fungus","algae and uchcha vargeeya paudhon of jadaen","fungus and fungus"],
+    answer:"algae and fungus"
+},
+{
+    question: "aanvika technique jisain kisee bhee ichchhita gene of anekon prati these-vitro synthesized of jaa sakatee are, kahalaatee is:",
+    option:["ELISA","PCR","jela ilektarophoresisa","phlo saaitometree"],
+    answer:"PCR"
+},
+{
+    question: "floweringya paudhon in sexual reproduction of khoja of thee",
+    option:["ofmeraariyasa","naavaashchina","staraasavargara","maaheshvaree"],
+    answer:"ofmeraariyasa"
+},
+{
+    question: "among the following which-saa pollen grain of stigma on shuroo in pollination in madada does",
+    option:["P","Ca++","Mo","Cl−"],
+    answer:"Ca++"
+},
+{
+    question: "among the following which diploid snrachanaa is?",
+    option:["andaanu","sperm","yugmanaja","among these sabhee"],
+    answer:"yugmanaja"
+},
+{
+    question: "kisee secretionna in pharaktoja, kailshiyama and enzymes highest is found in which?",
+    option:["male sahaayaka grnthi","yakrita","agnaorshaya","laara grnthi"],
+    answer:"male sahaayaka grnthi"
+},
+{
+    question: "samasootree vibhaajana occurs।",
+    option:["ofyika cell in","reproduction cell in","(A) and (B) both in","none of these"],
+    answer:"(A) and (B) both in"
+},
+{
+    question: "kisee gamete in kula gene of haploid set ko are called",
+    option:["geneotaaipa","pheenotaaipa","geneoma","linofja samooha"],
+    answer:"geneoma"
+},
+{
+    question: "diploid is",
+    option:["eggaa","pollen","both (A) and (B)","yugmanaja"],
+    answer:"yugmanaja"
+},
+{
+    question: "spaairulinaa whose prachura srota is?",
+    option:["protein","vitamin","khanija","all of the above"],
+    answer:"protein"
+},
+{
+    question: "traansajenika baasamatee rice of improved variety kaisee is?",
+    option:["ufrom chemical fertilizeron and growth of aavashyakataa naheen is","uchcha utpaadana and vitamin-A from prachura is","sabhee insect-peedakon and paddy of diseases of prati poornataor pratirodhaka is","uchcha utpaadana does kintu thisin koee abhilaakshanika sugndha naheen is"],
+    answer:"uchcha utpaadana and vitamin-A from prachura is"
+},
+{
+    question: "one hee locus on upasthita kisee gene of vibhinna roopon ko koar are called?",
+    option:["malteepala allele","paoleegenesa","onkogenesa","sahaprabhaavee"],
+    answer:"malteepala allele"
+},
+{
+    question: "one correct sequence in DNA khanda judate are:",
+    option:["DNA laaigeja by","RNA paoleemareja by","heliofja by","DNA TÍCIATO GRI"],
+    answer:"DNA laaigeja by"
+},
+{
+    question: "among the following from which vilupta speesheeja is?",
+    option:["onesoraa","nipenthisa","teekomaa","none of these"],
+    answer:"none of these"
+},
+{
+    question: "pheromona jaala in koar occurs?",
+    option:["male pheromona","female pheromona","(A) and (B) both","none of these"],
+    answer:"female pheromona"
+},
+{
+    question: "havaa of by pollenita being having floweron ko are called",
+    option:["insect pollenitaa","air pollenita","havaa pollenita","none of these"],
+    answer:"air pollenita"
+},
+{
+    question: "paaritntra shabda of namekarana kior:",
+    option:["mauragana","e. jee. taansale","laamaarka","none of these"],
+    answer:"e. jee. taansale"
+},
+{
+    question: "stareeofsara of bhaaga among the following which-saa is",
+    option:["stigma","vartatiof","eggaashaya","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "indala ne proposed kior",
+    option:["sahalagnataa of niyama","heredity of niyama","tharmodaayanameiksa of niyama","none of these"],
+    answer:"heredity of niyama"
+},
+{
+    question: "thesein which cow of species naheen is?",
+    option:["jarsee","karana svisa","karana phraathis","soortee"],
+    answer:"soortee"
+},
+{
+    question: "onelingataa of sthiti ko ullikhita karane for kisa shabda of experiment occurs?",
+    option:["samagameteee","ubhayalingaashrayee","onelingaashrayee","toxinma gamete"],
+    answer:"onelingaashrayee"
+},
+{
+    question: "among these which yauna-snbaddha character is?",
+    option:["varnaandhataa","rataundhee","poorna andhataa","none of these"],
+    answer:"varnaandhataa"
+},
+{
+    question: "fertilization of baada seed of aavarana kisafrom becomes is",
+    option:["Embryo sac","Integuments","Ovule","Chalazal region"],
+    answer:"Integuments"
+},
+{
+    question: "developmentsheela embryo by of endosperm upabhoga of whom seed in occurs",
+    option:["coconut","arnda","matara","maize"],
+    answer:"matara"
+},
+{
+    question: "cancer kisa ofrana from occurs?",
+    option:["bacterium by","onkogenesa of by","A and B both","none of these"],
+    answer:"onkogenesa of by"
+},
+{
+    question: "kuchha flowers of pollenkosha and stylena between kuchha natural rodha are jinadue to pollination mushkila from occurs or hotaa hee naheen, thosehen koar are called",
+    option:["svaynbndhyataa","heterostaailee","harakogaimee","geigaimee"],
+    answer:"harakogaimee"
+},
+{
+    question: "which-saa diploid is",
+    option:["pollen grain","Egg","Megaspore","MMC"],
+    answer:"MMC"
+},
+{
+    question: "klorelaa among the following what is?",
+    option:["bacterium","algae","protozoa","onela cell protein"],
+    answer:"algae"
+},
+{
+    question: "among the following which Mendelian Law of Independent Assortment of apavaada is?",
+    option:["kraosinga ovara","apoorna varchasva","Segregation","sahalagnataa"],
+    answer:"sahalagnataa"
+},
+{
+    question: "spaairulinaa is:",
+    option:["jaiva fertilizer","jaiva peedakanaashee","khaane yogya fungus","singala fromla protein"],
+    answer:"singala fromla protein"
+},
+{
+    question: "jaane-maane paaritntra ecology are",
+    option:["pee. maaheshvaree","ee. pee. odama","ema. esa. svaameenaathana","beeraforce saahanee"],
+    answer:"ee. pee. odama"
+},
+{
+    question: "paomphareta (Pomfret) is।",
+    option:["samudree fish","jheengaa of one species","anthsthalee fish","mriduwatereeya fish"],
+    answer:"samudree fish"
+},
+{
+    question: "pollen grain in maujooda oksina (Auxin) whose growth in madada does",
+    option:["pollennalee and eggaashaya","only pollennalee","only eggaashaya","male gamete"],
+    answer:"pollennalee and eggaashaya"
+},
+{
+    question: "asexual reproduction in organismdhaariyon of origin kitane janakon of bhaaga lene from is?",
+    option:["one","two","three","four"],
+    answer:"one"
+},
+{
+    question: "vaifrom bacteriumon of samooha, which phaphoondee of filamenton from judakara jaala jaisee snrachanaa banaate are, are called",
+    option:["phlaoksa","mithenojena","plaajminojena","none of these"],
+    answer:"phlaoksa"
+},
+{
+    question: "eseetaabulerior among the following what is?",
+    option:["onela cell protein","algae","protozoa","bacterium"],
+    answer:"algae"
+},
+{
+    question: "among the following which murgiyon of beemaaree naheen is?",
+    option:["raaneekheta","isjaa","smata","barda phloo"],
+    answer:"smata"
+},
+{
+    question: "kisee normal dvicotyledonee embryokosha in nucleus of Arrangement occurs",
+    option:["3 + 3 + 2","2 + 3 + 3","3 + 2 + 3","2 + 4 + 2"],
+    answer:"3 + 2 + 3"
+},
+{
+    question: "which-saa Terminal (stop) kodona is?",
+    option:["UAG (anbara)","UAA (okara)","UGA (opala)","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "pahachaanie among these which-saa adhoore paaritntra of udaaharana is?",
+    option:["ghaasa of maidaana","guphaa","nadee","daladalee area"],
+    answer:"guphaa"
+},
+{
+    question: "Micropyle in which is found",
+    option:["Ovule","Seed","anupalabdha/aspashta vikalpa","anupalabdha/aspashta vikalpa"],
+    answer:"Ovule"
+},
+{
+    question: "laala tvachaa having maveshee ko when sapheda rnga having from kraosa karavaaor gaor to F1 peedhaee in maveshiyon of rnga chitawhenraa or rona ho gaor। this kisako prarateshita does?",
+    option:["sahaprabhavitaa","poorna prabhaavitaa","incomplete dominance","sahalagnataa"],
+    answer:"sahaprabhavitaa"
+},
+{
+    question: "operaona maodala koar prarateshita does?",
+    option:["gene of sinthesisa","gene of onesapreshana","gene of reguleshana","gene of phnkshana"],
+    answer:"gene of reguleshana"
+},
+{
+    question: "sabafrom praarnbhika organism the",
+    option:["rasaayana svaposhee","rasaayana toxinmaposhee","light svaposhee","svath utpanna being having"],
+    answer:"rasaayana toxinmaposhee"
+},
+{
+    question: "anther one four-kosheeya snrachanaa is jisain fouron konon on koar samaahita is",
+    option:["laghuseedaanupaddyee","pollenputee","tepeetama","organismdravya"],
+    answer:"laghuseedaanupaddyee"
+},
+{
+    question: "among these which krimi janita snkraamaka disease naheen is?",
+    option:["esoafriorsisa","phaailerior","hepetaaitisa","enofilostomiorsisa"],
+    answer:"hepetaaitisa"
+},
+{
+    question: "diseaseee of shareera in diseaseaanuon ko nashta karane having aushadhiorn are:",
+    option:["pratijaiviof","vaccine","opioidsa","among these sabhee"],
+    answer:"pratijaiviof"
+},
+{
+    question: "one food chain kisafrom aarnbha is?",
+    option:["naaitrojana sthireekarana karane having organisms from","lightsynthesis karane having from","shvasana from","vighatanakartaa from"],
+    answer:"lightsynthesis karane having from"
+},
+{
+    question: "among the following which onela cell protein is?",
+    option:["spaairulinaa","klorelaa","sinedesmasa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "indala ne traits of vnshaagati on ofrya when lightita karaaor?",
+    option:["1870","1900","1865","1845"],
+    answer:"1865"
+},
+{
+    question: "prabhaavee symptom praaroopa whose oninaama occurs?",
+    option:["oneekshaartha hybridization by","dvisnkara hybridization by","vnshaavalee vishleshana by","prateepa hybridization by"],
+    answer:"oneekshaartha hybridization by"
+},
+{
+    question: "among the following maasika chakra avadhi for which-saa correct kathana is?",
+    option:["egg of sarjana : 5ven dina","endometrium of pumaleformation : 5-10ven dina","endometrium by poshaka of formation Implantation for : 11-18ven dina","projestaraona level in growth : 1-15ven dina"],
+    answer:"endometrium of pumaleformation : 5-10ven dina"
+},
+{
+    question: "gaimeeta formation ko are called",
+    option:["gaimeetojesisa","saaitoofyanesisa","sporojenesisa","miyosaayata"],
+    answer:"gaimeetojesisa"
+},
+{
+    question: "egaaroja jela is obtained:",
+    option:["samudree ghaasa from","maize from","Hydrilla from","pharna from"],
+    answer:"samudree ghaasa from"
+},
+{
+    question: "Embryo sac in pravesha karate samaya pollennaliof in are",
+    option:["two male gamete","two male nucleus","four nae gamete","three male gamete"],
+    answer:"two male gamete"
+},
+{
+    question: "among the following which-saa male flower of bhaaga is",
+    option:["jaaornga","pumnga","stareeofsara","eggaashaya"],
+    answer:"pumnga"
+},
+{
+    question: "aapatita saura radiation in lightsynthesisaatmaka sakriya radiation (PAR) of pratishata kitanaa occurs?",
+    option:["100%","50%","1-5%","2-10%"],
+    answer:"50%"
+},
+{
+    question: "protein synthesis in two amino acids between kisa praofra of bndha becomes is?",
+    option:["peptaaida","haaidrojana","nucleotide","nyookliyosaaida"],
+    answer:"peptaaida"
+},
+{
+    question: "DNA anu pratisamaanaantarana is, whyki:",
+    option:["H-bond","phaospho-daathistara bnwealth","daayasalphaaida bnwealth","none of these"],
+    answer:"H-bond"
+},
+{
+    question: "one lake in second poshana level occurs:",
+    option:["plantplavaka","praaniplavaka","nitalaka","fish"],
+    answer:"praaniplavaka"
+},
+{
+    question: "blood group A in occurs",
+    option:["pratijana A, antibody B","pratijana B, antibody A","pratijana A, antibody B","pratijana A, antibody anupasthita"],
+    answer:"pratijana A, antibody B"
+},
+{
+    question: "human of ardadhasootreebhaajana cell (Meiocyte) in of chromosome number is:",
+    option:["40","42","44","46"],
+    answer:"46"
+},
+{
+    question: "among the following which-saa secondary pradooshaka is?",
+    option:["SO₂","CO₂","PAN","erosola"],
+    answer:"PAN"
+},
+{
+    question: "kina ofranon from aabaadee sadaa onivartanasheela is?",
+    option:["physical","jaivika","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "penisiliyama nameka fungus in asexual reproduction main roopa from kisa snrachanaa of by occurs?",
+    option:["mukulana","vikhndana","konidior","jemyoolasa"],
+    answer:"konidior"
+},
+{
+    question: "laiktika esida bacterium uchita taapa on doodha ko dahee in onivartita does and kisa vitamin of amount badhaaakara thisof poshakataa in growth does?",
+    option:["A","B","C","D"],
+    answer:"B"
+},
+{
+    question: "organism-pratiofraka or baayorionetara of snratebha in which-saa vaakya wrong is?",
+    option:["pratyeka organism-pratiofraka in one prakshobhaka tntra occurs।","vilodana tainka organism-pratiofraka normaltaor baelnaaofra are।","vaanchhita utpaada paane for organism-pratiofraka okseejana upalabdha naheen does।","pratyeka organism-pratiofraka in taapakrama and pH-control tntra are।"],
+    answer:"vaanchhita utpaada paane for organism-pratiofraka okseejana upalabdha naheen does।"
+},
+{
+    question: "DNA anu in saaitosina 18% is। edinina of pratishata is:",
+    option:["64","36","82","32"],
+    answer:"32"
+},
+{
+    question: "pavitra upaforest paae jaate are",
+    option:["pashchimee ghaata","araavalee of pahaadaiorn","khaasee and jayntior pahaadaee, meghaalaya","all of the above in"],
+    answer:"all of the above in"
+},
+{
+    question: "ozone layer in chhidra for which-saa desha sarvaadhika uttaradaayee is?",
+    option:["USA","jarmanee","roosa","jaapaana"],
+    answer:"USA"
+},
+{
+    question: "one lake-paaritntra occurs",
+    option:["artificial","aorganismeeya","natural","watervijnyaa"],
+    answer:"natural"
+},
+{
+    question: "among the following snvedanamndaka padaartha is?",
+    option:["tnbaakoo","daaroo or alkohala","hasheesha or herothese","bhaanga or opiyama"],
+    answer:"tnbaakoo"
+},
+{
+    question: "hama logon in varmiphaorma apendiksa kaisaa organ is?",
+    option:["aavashyaka organ","vestigial organ","ahomologous organs","none of these"],
+    answer:"vestigial organ"
+},
+{
+    question: "roota kaipa (moola topee) thesein upasthita occurs:",
+    option:["jeerophaaita","meewhichphaaita","haaidrophaaita","islophaaita"],
+    answer:"jeerophaaita"
+},
+{
+    question: "DNA khanda nimna by whichdaaa jaataa is:",
+    option:["laaigeja","paoleemareja","heliofja","jaayareja"],
+    answer:"laaigeja"
+},
+{
+    question: "ghadaiorla and me phlaaee (May fly) of organismnaofla occurs kramashh",
+    option:["15 year, 1 saptaaha","30 year, 1 saptaaha","45 year, 1 maheenaa","60 year, 1 dina"],
+    answer:"60 year, 1 dina"
+},
+{
+    question: "twoharaa fertilization whose specialtaa is",
+    option:["dvicotyledonee and onecotyledonee sabhee aavrittaseedee of","sabhee anaavritaseedee of","phenediseaseemsa of","Spermatophytes of"],
+    answer:"dvicotyledonee and onecotyledonee sabhee aavrittaseedee of"
+},
+{
+    question: "jnpinga gene is called:",
+    option:["khndita gene","traansaposona","saailenta gene","among these sabhee"],
+    answer:"traansaposona"
+},
+{
+    question: "sarvaadhika kapaala kshamataa is",
+    option:["niendarathala human of","kro-maignaona human of","aadhunika human of","jaavaa human of"],
+    answer:"niendarathala human of"
+},
+{
+    question: "mammals egg in Cleavage occurs",
+    option:["Meroblastic","Holoblastic","Unequal","Spiral"],
+    answer:"Holoblastic"
+},
+{
+    question: "uterus in kaoon-tee of one prabhaavee and anthuterusee yukti being of main ofrana is",
+    option:["sperms of fertilization kshamataa in lessee","uterus in kaoon aayana mochita being due to sperms of bhakshaofnu krior in growth","sperms of gatisheelataa in lessee","none of these"],
+    answer:"sperms of gatisheelataa in lessee"
+},
+{
+    question: "among these which population control of natural upaaya is।",
+    option:["shiofra","parasitism","(A) and (B) both","none of these"],
+    answer:"(A) and (B) both"
+},
+{
+    question: "pollen grain haraa naheen occurs whyki",
+    option:["thisin harita lavaka naheen are","plaastidsa of hraasa ho jaataa is","Plastids of badalaava kromoplaastasa in ho jaataa is","Vectors by aakarshana due to"],
+    answer:"thisin harita lavaka naheen are"
+},
+{
+    question: "among the following from kisa plants of species in seed of utpaadana asngareproduction by occurs?",
+    option:["estarersior and ghaasa","saaitrasa and mango","sarason","none of these"],
+    answer:"estarersior and ghaasa"
+},
+{
+    question: "among these which saarvabhaumika blooddaataa samooha is?",
+    option:["A","B","AB","O"],
+    answer:"O"
+},
+{
+    question: "aabaadee of adhyayana in kina ofrakon of dhoarna jarooree is?",
+    option:["satenyon of number and praofra","nishchita area or praofra","nishchita samaya","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "cell-snvaahita disease pratirodhee kisadue to occurs?",
+    option:["bee-limphosaaitsa","tee-limphosaaitsa","both (A) and (B)","plaajmaa cell"],
+    answer:"tee-limphosaaitsa"
+},
+{
+    question: "kraaee IAb gene one protein utpaadita does which rokathaama does:",
+    option:["kaorna borara","cotton baola krimi","neemaitoda ko","bacterium"],
+    answer:"kaorna borara"
+},
+{
+    question: "thesein which restarikshana enzyme naheen is?",
+    option:["EcoRI","BamHI","HindIII","Pectinase"],
+    answer:"Pectinase"
+},
+{
+    question: "enteebaayotika shabda of pranetaa are:",
+    option:["phleminga","jemale","vaaksamaina","none of these"],
+    answer:"vaaksamaina"
+},
+{
+    question: "hamaare jaivika sroton of main factor are:",
+    option:["insect","bird","nimaitodsa","foresteeya organismna"],
+    answer:"foresteeya organismna"
+},
+{
+    question: "milara-yoore experiment by major roopa from which-from amino acid taiorra kie gae the?",
+    option:["proleena","proleena and fromreena","elaaneena and glaathiseena","fromreena and triptophena"],
+    answer:"elaaneena and glaathiseena"
+},
+{
+    question: "AB blood group in 2 gene are which are",
+    option:["Co-dominant","Co-recessive","Incomplete dominant","Dominant-recessive"],
+    answer:"Co-dominant"
+},
+{
+    question: "mammals of sperm between bhaaga in koar is found",
+    option:["nucleus","rasapaddyee","maaitokaondarior","fromntreeola"],
+    answer:"maaitokaondarior"
+},
+{
+    question: "one hee flower of female reproductionaanga of anther from pahale mature being of avasthaa ko are called",
+    option:["Protogyny","Protandry","Heterogamy","Autogamy"],
+    answer:"Protogyny"
+},
+{
+    question: "Estrogen of secretion in which occurs?",
+    option:["kaoonsa lyootiyama","Membrane granulosa","Ovary germinal epithelium","pityootaree grnthi"],
+    answer:"Membrane granulosa"
+},
+{
+    question: "stanadhaariyon in vrishana vrishanakoshon in utarate are",
+    option:["spermatogenesis for","fertilization for","reproduction organon of development for","visarala organon of development for"],
+    answer:"spermatogenesis for"
+},
+{
+    question: "vnshaanugata twosha edinosina diemineja (ADA) of lessee of sthaayee treatment is done:",
+    option:["enjaaima pratisthaapana chikitsaa by","genetic abhiorntriof by laseeofnu in sakriya ADA gene and cof DNA pravesha karaakara","edinosina diemineja of sakriyaka denaa","asthi-majjaa of cells ko aarnbhika embryoeeya avasthaa in pravesha karaakara"],
+    answer:"genetic abhiorntriof by laseeofnu in sakriya ADA gene and cof DNA pravesha karaakara"
+},
+{
+    question: "dee०ena०e० of ve bhaaga which protein synthesis hetu kodinga in bhaaga naheen lete thosehen are called",
+    option:["intraonsa","onesaonsa","traansapowhichnsa","none of these"],
+    answer:"intraonsa"
+},
+{
+    question: "among the following which-saa wheat of improved variety is?",
+    option:["sonaaliof","poosaa","ratana","padmaa"],
+    answer:"sonaaliof"
+},
+{
+    question: "kutte (Dog) of snbhaavita organismna ofla occurs।",
+    option:["20 year","15 year","10 year","5 year"],
+    answer:"15 year"
+},
+{
+    question: "kisa avasthaa in shabda Dioecious of use occurs?",
+    option:["dvilingee","onelingee","ubhayalingee","gaatheseendromaarpha"],
+    answer:"onelingee"
+},
+{
+    question: "oonchaaee in prati 1000 meetara of growth on temperature kitanaa girataa is?",
+    option:["6.5°C","2.5°C","7.5°C","3.5°C"],
+    answer:"6.5°C"
+},
+{
+    question: "pudeena (Mint) ofyika pravarwaealth does:",
+    option:["antarbhoolevelee (sucker)","uonibhoolevelee (runner)","bhoolevelee (offset)","prakanda (rhizome)"],
+    answer:"antarbhoolevelee (sucker)"
+},
+{
+    question: "aavrittaseedee plant in seed of formation at the time of secondary nucleus onivartita ho jaataa is",
+    option:["embryo in","endosperm in","cotyledon in","seedchola in"],
+    answer:"endosperm in"
+},
+{
+    question: "kisa sthiti in F2 peedhaee in samasymptomee and samageneee anupaata samaana occurs?",
+    option:["dvisnkara kraosa","anucomplementary gene","incomplete dominance","nirodhaatmaka gene"],
+    answer:"incomplete dominance"
+},
+{
+    question: "paanee in ugane having awhichlaa kisa svatntra naaitrojana phiksinga saatheseobaikteeriyama with simbaayotika sammilana in occurs?",
+    option:["klorelaa","naastaoka","ainaabienaa","taolipothriksa"],
+    answer:"ainaabienaa"
+},
+{
+    question: "immunity-tntra ko poornaroopa from damana karane for which-see cells are?",
+    option:["kilara cells","sahaayaka T-cells","nirodhee T-cells","memoree cells"],
+    answer:"nirodhee T-cells"
+},
+{
+    question: "sperm ande of ghere ko gholane for one enjaaima yukta padaartha utpanna does। this is called",
+    option:["haailooronika amla","haailooronideja","enddaiseaseemona","daaesteja"],
+    answer:"haailooronideja"
+},
+{
+    question: "aigaaroja among the following kisafrom nioflaa jaataa is?",
+    option:["samudree ghaasa","maize","saaikasa","Hydrilla"],
+    answer:"samudree ghaasa"
+},
+{
+    question: "gamete formation of krior ko koar are called",
+    option:["oogenesis","gametereproduction","ofyika vibhaajana","none of these"],
+    answer:"gametereproduction"
+},
+{
+    question: "if kisee flower of anther and stigma vibhinna samaya in mature are hon, to ifrom are called",
+    option:["Dicliny","Dichogamy","Herkogamy","Cleistogamy"],
+    answer:"Dichogamy"
+},
+{
+    question: "onerosoma among these whose snbhaaga is?",
+    option:["human sperm of sira of","human sperm between bhaaga of","praarnbhika dimbaanujanacell of","blaastosista of"],
+    answer:"human sperm of sira of"
+},
+{
+    question: "among these which saa ecological pyramid hameshaa seedhaa occurs।",
+    option:["amount (Mass) of","number of","energy of","none of these"],
+    answer:"energy of"
+},
+{
+    question: "penisiliyama in reproduction occurs:",
+    option:["kaliof","vikhndana","jemyoolsa","konidior"],
+    answer:"konidior"
+},
+{
+    question: "which-see one onighatanaa jaiva development in natural chayana of daarvina of dhaaranaa ko sahayoga detee is?",
+    option:["paarageneee animalon of development","kloninga by daolee bheda of utpaadana","insecton in insectnaashaka pratirodhakataa utpanna honaa","organ transfer for stema cell from organ development"],
+    answer:"insecton in insectnaashaka pratirodhakataa utpanna honaa"
+},
+{
+    question: "aahaara shrrinkhalaa in 10% energy transfer of niyama kisane dior?",
+    option:["stenale","lindemaina","veejamaina","tenasle"],
+    answer:"lindemaina"
+},
+{
+    question: "AIDS in which-see cells sarvaadhika prabhaavita isn?",
+    option:["B-fromlsa","T-fromlsa","monosaaitsa","nyootrophilsa"],
+    answer:"T-fromlsa"
+},
+{
+    question: "tee-limphosaaita is produced:",
+    option:["peta from","thaaimasa from","yakrita from","asthi majjaa from"],
+    answer:"asthi majjaa from"
+},
+{
+    question: "population of adhyayana is called:",
+    option:["oflograaphee","mano organismscience","baayograaphee","demograaphee"],
+    answer:"demograaphee"
+},
+{
+    question: "which-from desha in biodiversity more is?",
+    option:["braajeela","dakshinee aphreeof","roosa","India"],
+    answer:"braajeela"
+},
+{
+    question: "hnsiorofra bloodksheenataa is",
+    option:["otosomala genetic disease","elosomika genetic disease","epistetika prabhaava","poshana vikriti"],
+    answer:"otosomala genetic disease"
+},
+{
+    question: "among the following which virus janita disease is?",
+    option:["phloo","poliyo","AIDS","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "gene therapy of first baara experiment when kior gaor thaa?",
+    option:["1990 in","2000 in","1890 in","1999 in"],
+    answer:"1990 in"
+},
+{
+    question: "toxin protein of name bataaie which baisilasa thooreenajiyensisa by made jaataa is।",
+    option:["tyooforceeena","insulina","kraaee protein","all of the above"],
+    answer:"kraaee protein"
+},
+{
+    question: "among these which klaayotorisa of homologous organs is",
+    option:["yoni","linga","(A) and (B) both hee","none of these"],
+    answer:"linga"
+},
+{
+    question: "AaBB and aaBB genotype having parents between kraosa of oninaama hogaa",
+    option:["sabhee AaBB","1AaBB : 3aaBB","1AaBB : 1aaBB","3AaBB : 1aaBB"],
+    answer:"1AaBB : 1aaBB"
+},
+{
+    question: "among the following which-saa kraosa 3 : 1 of anupaata ko rateshaataa is?",
+    option:["AaBb × AaBb","aabb × AABb","Aabb × Aabb","AaBb × aabb"],
+    answer:"Aabb × Aabb"
+},
+{
+    question: "Spermatid from sperm formation of antima kshana occurs",
+    option:["onerosoma of formation","Microtubules of formation","poonchha formation","cytoplasm of hraasa"],
+    answer:"cytoplasm of hraasa"
+},
+{
+    question: "kisee aavrittaseedee of Female gametophyte koar rateshaataa is",
+    option:["Egg","Carpel","Pollen grain","Oospore"],
+    answer:"Egg"
+},
+{
+    question: "maasika chakra is found",
+    option:["human of female in","stanapaayee female in","preemeeta of female in","none of these"],
+    answer:"preemeeta of female in"
+},
+{
+    question: "jaivika khaada of main source is:",
+    option:["haraa algae","yeesta","bacterium","laala algae"],
+    answer:"haraa algae"
+},
+{
+    question: "heemopheelior kisa taraha of beemaaree is?",
+    option:["vnshaagata disease","aprabhaavee symptom","X-chromosome sahalagna disease","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "kisee onivaara of aneka peedhaiyon of traits of vishleshana is called?",
+    option:["vnshaavalee vishleshana","indala vishleshana","paneta vishleshana","none of these"],
+    answer:"vnshaavalee vishleshana"
+},
+{
+    question: "veerya ko in which himeekrita is done?",
+    option:["tarala naaitrojana in","rephrijaretara in","barpha in","among these sabhee"],
+    answer:"tarala naaitrojana in"
+},
+{
+    question: "uchcha nucleotide in sugar is:",
+    option:["raaiboja","diokseeraaiboja","heksoja","koee pentoja"],
+    answer:"koee pentoja"
+},
+{
+    question: "aigaaroja of is used:",
+    option:["ilektarophoresisa in","gene kloninga in","DNA ko dekhane for","plaajmida ko oftane for"],
+    answer:"ilektarophoresisa in"
+},
+{
+    question: "one saaibrida, haaibrida occurs jisain paae jaate are।",
+    option:["two vibhinna paudhon of cell dravya","two vibhinna paudhon of geneoma and cell dravya","two vibhinna paudhon of cell dravya and one plants of geneoma","two vibhinna paudhon of geneoma"],
+    answer:"two vibhinna paudhon of cell dravya and one plants of geneoma"
+},
+{
+    question: "among these pratyoorjataa utpanna karane having beemaaree which is?",
+    option:["tvachaa cancer","he jvara","interika jvara","galagnda"],
+    answer:"he jvara"
+},
+{
+    question: "klaathesepheltara sindroma of chromosome factor is",
+    option:["2A + XX","2A + XXY","2A + Y","2A - XY"],
+    answer:"2A + XXY"
+},
+{
+    question: "protein synthesis of amino acid ko sakriya karane in whose aavashyakataa is:",
+    option:["AMP","ADP","GTP","ATP"],
+    answer:"ATP"
+},
+{
+    question: "salphara of sabafrom badaaa sngraahaka is",
+    option:["airmandala","chattaanen","ocean","lake"],
+    answer:"chattaanen"
+},
+{
+    question: "nucleuseeya endosperm in primary endosperm nucleus of vibhaajana of baada",
+    option:["cellwall of formation occurs","cellwall of formation naheen occurs","one badaee and one chhotee cell banatee is","none of these"],
+    answer:"cellwall of formation naheen occurs"
+},
+{
+    question: "air pollenita flower normalth are",
+    option:["aakarshaka","chhote","rngaheena","(B) and (C) both"],
+    answer:"(B) and (C) both"
+},
+{
+    question: "hnsiorofra cell abloodtaa prarateshita does",
+    option:["epeestesisa","sahaprabhaavitaa","pliyotraopee","incomplete dominance"],
+    answer:"pliyotraopee"
+},
+{
+    question: "sheetoshna praarea of major anaaja is।",
+    option:["paddy","wheat","maize","jau"],
+    answer:"wheat"
+},
+{
+    question: "praaimarsa of use is done",
+    option:["PCR in","kloninga in","DNA snsaawealth in","none of these"],
+    answer:"PCR in"
+},
+{
+    question: "forestya organismna snrakshita is",
+    option:["svasthaane","baahya sthale","both (A) and (B)","shiofriyon by chayanaatmaka shiofra karanaa"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "indala ne prastaavita kior thaa",
+    option:["sahalagnataa of niyama","10% energy of niyama","heredity of niyama","none of these"],
+    answer:"heredity of niyama"
+},
+{
+    question: "sitrika amla of utpaadana occurs",
+    option:["aisoanjilasa fungus from","bacterium from","yeesta from","virus from"],
+    answer:"aisoanjilasa fungus from"
+},
+{
+    question: "sunucleusiyon in t-RNA, 5S-rRNA and snRNA of anulekhana in among these which antargarasta is?",
+    option:["RNA paoleemareja I","RNA paoleemareja II","RNA paoleemareja III","among these sabhee"],
+    answer:"RNA paoleemareja III"
+},
+{
+    question: "dosaa and idalee of dheele-dhaale aate of floweree huee ubharee shakla kisa ofrana from is?",
+    option:["O₂","CO₂","H₂","N₂"],
+    answer:"CO₂"
+},
+{
+    question: "malegamete and female gamete of snyojana from koar becomes is?",
+    option:["egg","sperm","veerya","yugmaja"],
+    answer:"yugmaja"
+},
+{
+    question: "gene kloninga at the time of gene taiksee kifrom is called?",
+    option:["vaikseena","plaajmida","bacterium","protowhichana"],
+    answer:"plaajmida"
+},
+{
+    question: "hormone which maasika-chakra from relationshipita na ho",
+    option:["LH","FSH","thistraadiyola","TSH"],
+    answer:"TSH"
+},
+{
+    question: "kisee flower of eggaashaya are:",
+    option:["haploid","diploid","triploid","tetraploid"],
+    answer:"diploid"
+},
+{
+    question: "variation of antima srota is:",
+    option:["natural selection","laingika reproduction","mutation","hormonela kriormethod"],
+    answer:"mutation"
+},
+{
+    question: "moreaansha agriculture plant are।",
+    option:["otopaoleeploidsa","elopaoleeploidsa","ainyooploidsa","heploidsa"],
+    answer:"elopaoleeploidsa"
+},
+{
+    question: "among the following which ubhayalingaashrayee plant naheen is?",
+    option:["papeetaa","sarason","maize","udahula"],
+    answer:"papeetaa"
+},
+{
+    question: "population-visphota of oninaama is:",
+    option:["aaya in hraasa","land of hraasa","khanija of hraasa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "DNA shrrinkhalaa growth in oofjaaof khanda:",
+    option:["by anulekhana occurs","3′ from 5′ dishaa in bahulakataa rateshaate are and dvishaakhaa banaate are","DNA replica of ardadhasnrakshee prakriti ko rateshaate are","5′ from 3′ dishaa in bahulakataa rateshaate are and 3′ from 5′ DNA replica samajhaate are"],
+    answer:"5′ from 3′ dishaa in bahulakataa rateshaate are and 3′ from 5′ DNA replica samajhaate are"
+},
+{
+    question: "among the following which bacterium from being having beemaaree naheen is?",
+    option:["taaiphaaida","kushtha","diphtheerior","influenza"],
+    answer:"influenza"
+},
+{
+    question: "callus culture in jada of bananaa by whom prerita occurs?",
+    option:["jibarelina","saaitooftheseina","oksina","ethileena"],
+    answer:"oksina"
+},
+{
+    question: "main air pradooshaka is:",
+    option:["CO","CO₂","N₂","gndhaka"],
+    answer:"CO"
+},
+{
+    question: "kisee organism in haploid of chromosome number 10 is, thisof Tetrasomic number hogee",
+    option:["40","14","22","44"],
+    answer:"22"
+},
+{
+    question: "sthaleeya organismdhaariyon of population ghanatva kisa pada in maapaa jaataa is?",
+    option:["organismdhaaree/meetara","organismdhaaree/meetara²","organismdhaaree/meetara³","organismdhaaree/meetara²"],
+    answer:"organismdhaaree/meetara²"
+},
+{
+    question: "ecological diversity in which sammilita is?",
+    option:["alphaa diversity","beetaa diversity","gaamaa diversity","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "F2 vnshaja of Monohybrid genotypic anupaata 1 : 2 : 1 rateshaataa is",
+    option:["Segregation","Independent assortment","Dominance","Incomplete dominance"],
+    answer:"Segregation"
+},
+{
+    question: "Hysterectomy of taatoanya sarjaree by visthaapanaa is",
+    option:["yoni of","eggvaahinee of","uterus of","eggaashaya of"],
+    answer:"uterus of"
+},
+{
+    question: "DNA khnda which samaana agra and pashcha of Code ko padhataa is, is called:",
+    option:["Palindromic DNA","Plasmic DNA","complementary DNA","copy DNA"],
+    answer:"Palindromic DNA"
+},
+{
+    question: "hare plants producer are which",
+    option:["light energy ko chemical energy in badala dete are।","chemical energy ko light energy in badala dete are।","both (A) and (B) correct are","none of these"],
+    answer:"light energy ko chemical energy in badala dete are।"
+},
+{
+    question: "without fertilization of phala formation ko koar are called?",
+    option:["apayugmana","asngareproduction","anishekareproduction","among these sabhee"],
+    answer:"anishekareproduction"
+},
+{
+    question: "geneotaaipa of pataa ‘testa kraosa’ by is done। this kisabetween of kraosa is?",
+    option:["F1 haaibrida and prabhaavee janaka between","F1 haaibrida and recessive janaka between","two F1 haaibrida between","two F2 haaibrida between"],
+    answer:"F1 haaibrida and recessive janaka between"
+},
+{
+    question: "uchcha paidaavaara and disease pratirodhee ‘sonaaliof’ and ‘kaloarna sonaa’ whose varietyen are?",
+    option:["paddy","wheat","maize","cotton"],
+    answer:"wheat"
+},
+{
+    question: "mittee ko upajaaoo banaane in sahaayaka is?",
+    option:["insectnaashaka","jaivika khaada","yeesta","none of these"],
+    answer:"jaivika khaada"
+},
+{
+    question: "maorphina and apheema kisafrom is obtained?",
+    option:["kajaanasa ofjana","kainaabisa fromtaaivaa","paapaavara somaneepharama","raaulphior sapaitinaa"],
+    answer:"paapaavara somaneepharama"
+},
+{
+    question: "maontariyala protokaola of lakshaya is:",
+    option:["owhichna kshatiofree padaarthon in lessee laanaa","jaivadiversity of conservation","water pollution of control","ofrbana daaioksaaida nishoafsana in lessee"],
+    answer:"owhichna kshatiofree padaarthon in lessee laanaa"
+},
+{
+    question: "kisee Telolecithal egg in yolk is found",
+    option:["both sira on","one sire on","madhya in","poore egg of cytoplasm in"],
+    answer:"one sire on"
+},
+{
+    question: "malaria of treatment hetu kisa plants from davaa taiorra of gaee is?",
+    option:["maameena","kunaina","taiksola","tulasee"],
+    answer:"kunaina"
+},
+{
+    question: "human in blood O varga in",
+    option:["enteejana anupasthita are","enteebaodee anupasthita are","enteejana upasthita rahate are","enteebaodee A upasthita rahate are"],
+    answer:"enteejana anupasthita are"
+},
+{
+    question: "repliofsana among these kisafrom relationshipita is –",
+    option:["dee ena e","aara ena e","both from","none of these"],
+    answer:"dee ena e"
+},
+{
+    question: "shaaofhaaree insecton ko khaane having medhaka occurs:",
+    option:["primary consumer","secondary consumer","tertiary consumer","sheersha maansaahaaree"],
+    answer:"secondary consumer"
+},
+{
+    question: "gene kloninga in prayukta 'gene taxi' kifrom are called?",
+    option:["vaikseena","plaajmida","baikteeriyama","protozoa"],
+    answer:"plaajmida"
+},
+{
+    question: "daatra cell abloodtaa prarateshita does",
+    option:["epistaisisa","sahaprabhaavitaa","pleeotraopee","incomplete dominance"],
+    answer:"pleeotraopee"
+},
+{
+    question: "vishva AIDS divasa occurs:",
+    option:["1 maee","20 disambara","1 joona","1 disambara"],
+    answer:"1 disambara"
+},
+{
+    question: "thesein in which only one baara apane organismnaofla in flower khilate are?",
+    option:["bamboo","mango","leechee","jaamuna"],
+    answer:"bamboo"
+},
+{
+    question: "in which gene whichdaaa in naheen occurs?",
+    option:["yugmanaja","ofyika cell","endospermeeya cell","gamete"],
+    answer:"gamete"
+},
+{
+    question: "vrishana in hormone secretionita cell is",
+    option:["spermatogonia","spermatocyte","sustentacular cell","Leydig cells"],
+    answer:"Leydig cells"
+},
+{
+    question: "among the following in which Cleistogamy occurs",
+    option:["dhatooraa","pitoonior","komelinaa","glediolasa"],
+    answer:"komelinaa"
+},
+{
+    question: "doodha from dahee formation in kisa bacterium of use occurs?",
+    option:["stareptokokkasa","laiktobaisilasa","enaabenaa","none of these"],
+    answer:"laiktobaisilasa"
+},
+{
+    question: "vaatsana-krika praaroopa of DNA maodala in vrihad agroove whose site is?",
+    option:["histona protein of bnwealth","amleeya protein of bnwealth","RNA anu of bnwealth","glaaikoprotein of bnwealth"],
+    answer:"histona protein of bnwealth"
+},
+{
+    question: "among the following which dvilingee naheen is?",
+    option:["pheetaakrimi","dog","whichnka","spnja"],
+    answer:"dog"
+},
+{
+    question: "PCR from jaancha is:",
+    option:["HIV of","cancer of","tuberculosis of","isjaa of"],
+    answer:"HIV of"
+},
+{
+    question: "twoharaa fertilization in bhaaga lene having male nucleuson of number is",
+    option:["2","3","4","5"],
+    answer:"2"
+},
+{
+    question: "watereeya paaritntra in energy of pyramid kaisaa occurs?",
+    option:["hameshaa seedhaa","hameshaa ultaa","ghnteenumaa","none of these"],
+    answer:"hameshaa seedhaa"
+},
+{
+    question: "three vaijnyaanikon ne indala of oninaamon of punh khoja of, jisain which shaamila naheen is?",
+    option:["vaaltara satana","dee vreeja","kaorensa","vaona lionmaoka"],
+    answer:"vaaltara satana"
+},
+{
+    question: "karnaataka in baandeepura sthala prasiddha is",
+    option:["haathiyon for","hngula for","cheeton for","mora for"],
+    answer:"haathiyon for"
+},
+{
+    question: "oonona of which-saa gene ripreshana protein banaataa is?",
+    option:["oonetara","promotara","reguletara","snrachanaatmaka"],
+    answer:"reguletara"
+},
+{
+    question: "Seminal vesicle of secretionna by Fructose of upasthiti Forensic jaancha in prarateshita does?",
+    option:["syphilis","AIDS","forceaatoafra","Hepatitis"],
+    answer:"forceaatoafra"
+},
+{
+    question: "DNA avakshepita among the following of whom milaane from occurs?",
+    option:["sheetita ethenaola","sheetita mithenaola","garma ethenaola","eldihaaida"],
+    answer:"sheetita ethenaola"
+},
+{
+    question: "DNA anu in saaitoseena hameshaa kisafrom judaaa rahataa is?",
+    option:["thaayameena","yuraasila","guaaneena","saayatoseena"],
+    answer:"guaaneena"
+},
+{
+    question: "'phlevara fromvara' among these what is?",
+    option:["peedakanaashee","choowhichn of species","paaraorganismee tamaatara","insectnaashee protein"],
+    answer:"paaraorganismee tamaatara"
+},
+{
+    question: "LSD praapta is:",
+    option:["fungus from","laaiofna from","algae from","bacterium from"],
+    answer:"fungus from"
+},
+{
+    question: "agriculture biotechnology in prayukta major technique is:",
+    option:["tissue culture","roopaantarana","plant reproduction","DNA copykarana"],
+    answer:"tissue culture"
+},
+{
+    question: "among the following which-saa marudbhidee is?",
+    option:["kaiperisa","lotus","chaatheseaa roja","aaloo"],
+    answer:"kaiperisa"
+},
+{
+    question: "audyogika melaanijma of ghatanaa rateshaatee is",
+    option:["reproductionika separation","genetic separation","natural selection","bhaugolika vitarana"],
+    answer:"natural selection"
+},
+{
+    question: "B-DNA of one poorna ghumaava in naaitrogenesa besa of kitane peyarsa are?",
+    option:["5","10","15","20"],
+    answer:"10"
+},
+{
+    question: "kisee aavrittaseedee (Angiosperms) in kitane gamete pollennaliof in are?",
+    option:["one","two","three","aneka"],
+    answer:"two"
+},
+{
+    question: "sahopaofritaa kisabetween is?",
+    option:["titalee va flower","ishcherichior kolaaee va human","jooklorelaa va haaidraa","harmita kreba va samudree aineemona"],
+    answer:"jooklorelaa va haaidraa"
+},
+{
+    question: "svapollination ko among the following which-saa plant prevents is",
+    option:["ernda","maize","A and B both","none of these"],
+    answer:"ernda"
+},
+{
+    question: "goldena raathis in which-which saa padaartha more amount in is found?",
+    option:["thaayamina","pholika esida","beetaa-kairoteena","raaibophlevina"],
+    answer:"beetaa-kairoteena"
+},
+{
+    question: "by whom kisee aavrittaseedee in tetrad of fouron microspores dhaof rahate are",
+    option:["fromluloja","Sporopollenin","Pactose","Stamen"],
+    answer:"Sporopollenin"
+},
+{
+    question: "saaikasa in pollination occurs:",
+    option:["three koshiofya avasthaa in","four koshiofya avasthaa in","two koshiofya avasthaa in","one koshiofya avasthaa in"],
+    answer:"three koshiofya avasthaa in"
+},
+{
+    question: "phaailerior/elephantpaanva of disease diseaseaanu is:",
+    option:["vuchererior","esoafrisa","teenior","none of these"],
+    answer:"vuchererior"
+},
+{
+    question: "nimna in which-saa disease hemoglobin truti due to occurs?",
+    option:["daathose sindroma","phinaailainsectonyoorior","klaatheseepheltara sindroma","sikala fromla eneemior"],
+    answer:"sikala fromla eneemior"
+},
+{
+    question: "thesein kifrom ‘bngaala of aatnka’ kahaa gaor is?",
+    option:["ageva","waterkumbhee","oflaa","braayophilama"],
+    answer:"waterkumbhee"
+},
+{
+    question: "naee species of reproduction in flower kaliofon from punofsara of nikalanaa is called",
+    option:["baiginga","imaiskuleshana","taiginga","enthesisa"],
+    answer:"imaiskuleshana"
+},
+{
+    question: "bloo bebee sindaroma occurs:",
+    option:["TDS of moretaa from","DO of moretaa from","kloraaida of moretaa from","metahemoglobin from"],
+    answer:"metahemoglobin from"
+},
+{
+    question: "energy of pyramid occurs:",
+    option:["sadaiva ultaa","sadaiva seedhaa","both (A) and (B)","none of these"],
+    answer:"sadaiva seedhaa"
+},
+{
+    question: "among the following which-from samaroopa organ (Analogous organs) of udaaharana are?",
+    option:["kaskataa of shalka","ependiksa","insect and whenootara of pnkha","bird of pnkha and insect of mukhaanga"],
+    answer:"insect and whenootara of pnkha"
+},
+{
+    question: "aigaaroja of is used:",
+    option:["ilektarophoresisa in","gene kloninga in","DNA ko dekhane for","plaajmida ko oftane for"],
+    answer:"ilektarophoresisa in"
+},
+{
+    question: "jeerophaaitsa in are:",
+    option:["sikudae rndhra chhidra","gaharee jada","motee kyootikala","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among these which svaimmunity of disease udaaharana is?",
+    option:["damaa","roometaoyada artharaaitisa","cancer","none of these"],
+    answer:"roometaoyada artharaaitisa"
+},
+{
+    question: "ofyajmaa kisa avasthaa in becomes is",
+    option:["samasootree cell vibhaajana","emaaitosisa cell vibhaajana","ardadhasootree cell vibhaajana","none of these"],
+    answer:"ardadhasootree cell vibhaajana"
+},
+{
+    question: "oneidanaa what is?",
+    option:["avashoshee organism","yojaka kadaee","vilupta kadaee","none of these"],
+    answer:"yojaka kadaee"
+},
+{
+    question: "ecosystem in aahaara level ko is called:",
+    option:["poshana reeti","consumer level","producer level","shaaofhaaree level"],
+    answer:"consumer level"
+},
+{
+    question: "among the following in which gamana atyadhika ghata jaataa is?",
+    option:["aiwhichsoanmior","bahuspermtaa","alpaspermtaa","veerya in sperms of svath gatisheelataa of ghata jaanaa (esthenosoanmior)"],
+    answer:"veerya in sperms of svath gatisheelataa of ghata jaanaa (esthenosoanmior)"
+},
+{
+    question: "in which artificial seed of formation is done?",
+    option:["ofyika embryo","bahuembryo","both (A) and (B)","none of these"],
+    answer:"ofyika embryo"
+},
+{
+    question: "female gametophyte rateshaataa is",
+    option:["Ovule","Embryo sac","Megaspore mother cell","Megasporephyll"],
+    answer:"Embryo sac"
+},
+{
+    question: "anormal forestdhya male, shareera on less baala, less vikasita reproductionaanga of symptom kisafrom relationshipita are?",
+    option:["XXX chromosome having male from","XY chromosome having male from","XXY chromosome having male from","uonyukta in from koee naheen"],
+    answer:"XXY chromosome having male from"
+},
+{
+    question: "highest and sabafrom less gene having human chromosome which-from are?",
+    option:["chromosome 21 and Y","chromosome 1 and X","chromosome 1 and Y","chromosome X and Y"],
+    answer:"chromosome 1 and Y"
+},
+{
+    question: "one male Grasshopper in sex complement of number is",
+    option:["XY","XX","XO","YO"],
+    answer:"XO"
+},
+{
+    question: "human of bhojana of major daane are।",
+    option:["phalee","paddy","millet","tela seed"],
+    answer:"paddy"
+},
+{
+    question: "that animal which apane shareera of one tihaaee bhaara of baraabara water of lessee sahana kara sakataa is",
+    option:["nektayoorasa","oonta","chhipakalee","ofitona"],
+    answer:"oonta"
+},
+{
+    question: "gene vinimaya kisa avasthaa in occurs?",
+    option:["jaaigoteena","paiinsecteena","diploteena","liptoteena"],
+    answer:"paiinsecteena"
+},
+{
+    question: "if mahaaseedaanu maatrikosha in 10 chromosome hon to eliyoorona onta in kitane chromosome honge?",
+    option:["10","15","20","25"],
+    answer:"15"
+},
+{
+    question: "Y-sahalagnataa samooha of number that of the cell for koar hogee jisain 2n = 14?",
+    option:["5","10","7","14"],
+    answer:"7"
+},
+{
+    question: "jaivika shakti of maana nioflaa jaataa is:",
+    option:["birth rate – mrityurate","birth rate + mrityurate","birth rate ÷ mrityurate","none of these"],
+    answer:"birth rate – mrityurate"
+},
+{
+    question: "AIDS of ofraka what is?",
+    option:["traaikomonaasa","HIV","hipetaaitisa E","baisilasa entharesisa"],
+    answer:"HIV"
+},
+{
+    question: "Pollen kit chemical roopa from banaa occurs",
+    option:["protein from","lipida and Carotenoids from","ofrbohaaidretsa and Carotenoids from","Sporopollenin from"],
+    answer:"lipida and Carotenoids from"
+},
+{
+    question: "‘laala aankadaon of book’ lightita of is",
+    option:["IUCN","NEERI","NWAI","CITES"],
+    answer:"IUCN"
+},
+{
+    question: "edeneena of jagaha on saaitosina of aane ko are called",
+    option:["traansakripsana","traanjisana","traansavarsana","none of these"],
+    answer:"traansavarsana"
+},
+{
+    question: "snpoorna Linkage ko sabafrom pahale in which rateshaaor gaor?",
+    option:["maize","female human in","female drosophilaa in","male drosophilaa in"],
+    answer:"male drosophilaa in"
+},
+{
+    question: "vishishta genes ko onposhee paudhon in of whom use by pravesha karaaor gaor is?",
+    option:["egrobaiktiriyama snvaahaka","fungus","yeesta","kharapatavaara"],
+    answer:"egrobaiktiriyama snvaahaka"
+},
+{
+    question: "one hee nasla of pashuon between reproduction ko are called।",
+    option:["anthreproduction","bahihreproduction","bahihhybridization","hybridization"],
+    answer:"anthreproduction"
+},
+{
+    question: "which-saa dvilingee jaanavara is?",
+    option:["earthworm, haaidraa and whichnka","tilachattaa, aisaofrisa and haaidraa","earthworm, aisaofrisa and whichnka","aisoafrisa, tilachattaa and haaidraa"],
+    answer:"earthworm, haaidraa and whichnka"
+},
+{
+    question: "EcoRI pratibnwealth enzyme among the following kisa sequence ko pahachaanataa is?",
+    option:["GAATTC","GGCC","AGGCCT","TCCGGA"],
+    answer:"GAATTC"
+},
+{
+    question: "forest avasthaa among these kisa ecological avasthaa of dyoup to is?",
+    option:["charama avasthaa","onvateeya avasthaa","shaaofya avasthaa","none of these"],
+    answer:"charama avasthaa"
+},
+{
+    question: "dalahanee paudhon of jada pinda in which-saa bacterium is found?",
+    option:["raaiwhichbiyama","ewhichtobaiktara","stephaailokokkasa","laiktobaisilasa"],
+    answer:"raaiwhichbiyama"
+},
+{
+    question: "herothese kisa plant onivaara from is obtained?",
+    option:["liguminosee","paipaaveresee","liliyesee","solenesee"],
+    answer:"paipaaveresee"
+},
+{
+    question: "on-pollination from praapta sntati rateshaataa is",
+    option:["uchcha shrenee of variability and evolutionism in mahattavapoorna landof","napunsakataa","recessive character","samajaata and phenotypic samaroopataa"],
+    answer:"uchcha shrenee of variability and evolutionism in mahattavapoorna landof"
+},
+{
+    question: "if indala matara in eightven character on vifour karataa to among the following which-saa niyama asaphala ho jaataa?",
+    option:["Law of Segregation","Law of Purity of Gametes","Law of Independent Assortment","Law of Dominance"],
+    answer:"Law of Independent Assortment"
+},
+{
+    question: "chipako aantwolana whose surakshaa for shuroo kior gaor thaa?",
+    option:["forest","ghaasaland","namaland","pashufouraa"],
+    answer:"forest"
+},
+{
+    question: "gemaa (Gemma) by reproduction occurs:",
+    option:["uchcha shrenee of paudhon in","nimna shrenee of animals in","kuchha braayophaaitaa in","staniyon in"],
+    answer:"kuchha braayophaaitaa in"
+},
+{
+    question: "crops of growth niyntraka among the following which isn?",
+    option:["oksina","jibarelina","saaitooftheseina","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "uttama praofra of pyramid which sadaiva satya occurs",
+    option:["energy of pyramid","jaivabhaara of pyramid","number of pyramid","both (A) and (B)"],
+    answer:"energy of pyramid"
+},
+{
+    question: "aonda khaadya shrinkhalaa of shuruaata is",
+    option:["bacterium from","virus from","algae from","protozoa from"],
+    answer:"bacterium from"
+},
+{
+    question: "among the following from which animalon in gene kloninga hetu snvaahaka is?",
+    option:["retrovaayarasa","saatheseobacteria","ee. kolaaee","among these sabhee"],
+    answer:"retrovaayarasa"
+},
+{
+    question: "endometriyama of whom prabhaava from motaaee in growth does?",
+    option:["okseetosina","estarojena","LH","rileksina"],
+    answer:"estarojena"
+},
+{
+    question: "among these whose floweraasana khaaor jaataa is",
+    option:["shareephaa","apple","orange","leechee"],
+    answer:"apple"
+},
+{
+    question: "among the following which-see ghatanaa jaiva-development in daarvina of of the theory samarthana does?",
+    option:["traansajenika animalon of development","kloninga by ‘daolee’ nameka bheda of utpaadana","peedakanaashee pratirodhee insecton of prachurataa","stema cells from organ pratyarpana hetu organon of development"],
+    answer:"peedakanaashee pratirodhee insecton of prachurataa"
+},
+{
+    question: "DNA of shrrinkhalaa in F-bond kisa avayava between occurs?",
+    option:["shugara and kshaara","phaospheta and kshaara","complementary kshaara","phaospheta and shugara"],
+    answer:"complementary kshaara"
+},
+{
+    question: "Sporogenesis are called",
+    option:["seedaanu of development and formation ko","Mitospores of utpaadana ko","Meiospores of utpaadana ko","yugmaja and embryo of formation ko"],
+    answer:"seedaanu of development and formation ko"
+},
+{
+    question: "Bt cotton kisafrom pratirodhee is?",
+    option:["insect","kharapatavaaranaashee","lavana","sookhaa"],
+    answer:"insect"
+},
+{
+    question: "among the following from which birth rate control of surgical method is?",
+    option:["vaifromktaomee","tyoobektaomee","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "thesein which pondeeya ecosystem in one from more poshana level on ofrya does?",
+    option:["indhaka","phaaitoplainktana","fish","jooplainktana"],
+    answer:"fish"
+},
+{
+    question: "yeesta among the following whose major srota is?",
+    option:["vitamin C","raaibophlevina","sugar","protein"],
+    answer:"raaibophlevina"
+},
+{
+    question: "male in koar naheen occurs?",
+    option:["Bulbourethral gland","Bertholin’s gland","Prostate","Cowper’s gland"],
+    answer:"Bertholin’s gland"
+},
+{
+    question: "egg samuchchaya banaa occurs",
+    option:["egg cell","sahaayaka cell","both (A) and (B)","prativoarsaanta cells"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "aarthotropasa ovule in ovuledvaara and nibhaaga are",
+    option:["ovulevrinta from tirachhe","ovulevrinta from 90° on","ovulevrinta from seedhee rekhaa in","ovulevrinta of samaanaantara"],
+    answer:"ovulevrinta from seedhee rekhaa in"
+},
+{
+    question: "among the following which insectbhakshee plant is?",
+    option:["draofromraa","nepentheesa","(A) and (B) both","Hydrilla"],
+    answer:"(A) and (B) both"
+},
+{
+    question: "pollution of growth of ofrana is:",
+    option:["Research","population visphota","udyoga and ortaaorta","rainfall water"],
+    answer:"udyoga and ortaaorta"
+},
+{
+    question: "natural peedakanaashee AZD-Reaction is obtained।",
+    option:["tambaakoo from","neem from","fungus from","algae from"],
+    answer:"neem from"
+},
+{
+    question: "drava (tarala padaartha) ko 70-80 digree fromlsiyasa on garma kara oneaaone tejee from thndaa karane of process ko are called।",
+    option:["mitachuraaijeshana","paashcharaaijeshana","likviphiofshana","none of these"],
+    answer:"paashcharaaijeshana"
+},
+{
+    question: "among these sarvaadhika harmful which-see gaisa is?",
+    option:["ofrbana monooksaaida","salphara daaioksaaida","naaitrasa oksaaida","none of these"],
+    answer:"ofrbana monooksaaida"
+},
+{
+    question: "sabafrom badaaa owhichna chhidra of whom ooon is?",
+    option:["antaarkatiof","yooropa","aphreeof","India"],
+    answer:"antaarkatiof"
+},
+{
+    question: "goldena paddy in which-saa vitamin is found?",
+    option:["A","B","C","D"],
+    answer:"A"
+},
+{
+    question: "biodiversity ofnoona India in when paasa huaa thaa?",
+    option:["1992","1996","2000","2002"],
+    answer:"2002"
+},
+{
+    question: "endosoanma by kifrom poshana dior jaataa is",
+    option:["seed","phala","endosoanma","embryo"],
+    answer:"embryo"
+},
+{
+    question: "among these which-saa naaitrojinasa besa DNA in naheen occurs?",
+    option:["thaaimina","yuraasila","guaanina","saaitosina"],
+    answer:"yuraasila"
+},
+{
+    question: "tissue culture by badaee number in plants utpanna karane of method kahalaatee is।",
+    option:["sookshama reproduction","embryo pravarwaealth","sookshama pravarwaealth","endosperm pravarwaealth"],
+    answer:"sookshama pravarwaealth"
+},
+{
+    question: "mukulana by reproduction in which occurs?",
+    option:["yeesta","paaraamishiyama","penisiliyama","among these sabhee"],
+    answer:"yeesta"
+},
+{
+    question: "nimnalikhita samoohon in which snvedanaatmaka/svaapaka (Narcotic) padaartha are?",
+    option:["maorphina, koofna and chaaya","herothese, koofna and tnbaakoo","braathose shugara, hasheesha and kaophee","koofna, herothese and hasheesha"],
+    answer:"koofna, herothese and hasheesha"
+},
+{
+    question: "one normal staree jisaof father varnaandha are, of shaadee one normal male from is। thatof putra kitane pratishata varnaandha honge?",
+    option:["75%","50%","sabhee normal","sabhee varnaandha"],
+    answer:"50%"
+},
+{
+    question: "malaria parasitic of snkramana of main avasthaa what is?",
+    option:["draaofjvaaita","sporojvaaita","merojvaaita","kriptojvaaita"],
+    answer:"sporojvaaita"
+},
+{
+    question: "aifrom bacterium of name bataaie which snvaahaka as paudhon in gene of pravesha karaane for is used।",
+    option:["ewhichtobaiktara","egrobaiktiriyama tyoomepheseeyansa","baisilasa thooreenajiyensisa","ee. kolaaee"],
+    answer:"egrobaiktiriyama tyoomepheseeyansa"
+},
+{
+    question: "25 primary sperm cell and 25 primary egg cell from kitane sperm and egg bana sakate are?",
+    option:["100 sperm and 100 egg","100 sperm and 50 egg","100 sperm and 25 egg","50 sperm and 25 egg"],
+    answer:"100 sperm and 25 egg"
+},
+{
+    question: "diphtheria, titanesa, kukarakhaansee aadi for which-saa vaccine lagavaanaa chaahie?",
+    option:["BCG","DTP-Hib","hipetaaitisa-B","none of these"],
+    answer:"DTP-Hib"
+},
+{
+    question: "bindu in mutation edeenina gvaanina by pratisthaapita occurs",
+    option:["thesevarshana in","phrema shiphta in mutation","traansavarsana in","traanjishana in"],
+    answer:"traanjishana in"
+},
+{
+    question: "human stariyon in ande of formation occurs",
+    option:["uterus in","phailopiyana nalee in","overiyana phaolikala in","none of these"],
+    answer:"overiyana phaolikala in"
+},
+{
+    question: "laika prachaaleka in nimnalikhita gene of by beetaa-gailektosideja of synthesis occurs:",
+    option:["gene e","gene vaaee","gene jeda","none of the above"],
+    answer:"gene jeda"
+},
+{
+    question: "kisa paaritntra of sakala primary producertaa sarvaadhika is?",
+    option:["ghaasa sthala","maingrova","korala reepha","rainfall forest"],
+    answer:"korala reepha"
+},
+{
+    question: "among the following one ko chhodakara sabhee mesoderm formed are",
+    option:["maansapesheeya tntra","tntriof tntra","onithatna tntra","reproductionaanga"],
+    answer:"tntriof tntra"
+},
+{
+    question: "if ovule mudaaa huaa ho and embryokosha ghodae of naala of samaana ho to ifrom are called",
+    option:["Anatropous","Circinotropous","Amphitropous","Orthotropous"],
+    answer:"Amphitropous"
+},
+{
+    question: "aavrittaseedee in fertilization occurs",
+    option:["Nucellus in","embryokosha in","eggaashaya in","Ovule in"],
+    answer:"embryokosha in"
+},
+{
+    question: "akhabaara of ofgaja in which-saa toxinailaa padaartha occurs?",
+    option:["Cd","Pb","Mg","Hg"],
+    answer:"Pb"
+},
+{
+    question: "F1 haaibrida and recessive parent (Tt × tt) between of anupaata is",
+    option:["1 : 1","2 : 1","3 : 1","4 : 1"],
+    answer:"1 : 1"
+},
+{
+    question: "apheema va herothese kisafrom praapta are?",
+    option:["thiaa","pepaavara","kainaabisa","thiyobromaa"],
+    answer:"pepaavara"
+},
+{
+    question: "egg-prajaka among the following which is?",
+    option:["sarpa","magaramachchha","hen","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "ABO blood group of nirdhaarana occurs",
+    option:["3 recessive alleles by","3 codominant alleles by","2 codominant and 1 recessive allele by","2 recessive and 1 dominant allele by"],
+    answer:"2 codominant and 1 recessive allele by"
+},
+{
+    question: "lake ecosystem in, jaiva bhaara of pyramid occurs:",
+    option:["seedhaa","ulataa","kabhee ulataa, kabhee seedhaa","koee naheen"],
+    answer:"ulataa"
+},
+{
+    question: "paudhon in insectnaashee pratirodhaka gene occurs:",
+    option:["Bt","Ct","Mt","among these sabhee"],
+    answer:"Bt"
+},
+{
+    question: "one saphala parasitic that is which",
+    option:["tejee from growth does","tejee from reproduction does","lambe samaya up to aatithya from chipaof rahataa is","apane aatithya from minimum maanga does"],
+    answer:"apane aatithya from minimum maanga does"
+},
+{
+    question: "kisee onivaara in 5 putriorn are। chhathee offspring when putra of snbhaaforestaa banatee is",
+    option:["2 in 1","5 in 1","3 in 1","6 in 1"],
+    answer:"2 in 1"
+},
+{
+    question: "among the following which forest conservation ofrya of virodha in are?",
+    option:["lakadaee oftane in bachaava","light of praapti","aaga lagane on control","forestee animal from surakshaa"],
+    answer:"light of praapti"
+},
+{
+    question: "bacterium and fungus are:",
+    option:["saphaaeekartaa","primary consumer","secondary consumer","decomposer"],
+    answer:"decomposer"
+},
+{
+    question: "one species or thisof one samashti in kula genetic diversity ko koar are called?",
+    option:["beetaa diversity","geneaa","gaamaa diversity","genekosha"],
+    answer:"genekosha"
+},
+{
+    question: "among the following which RNA for uonyukta naheen is?",
+    option:["edineena","guaaneena","thaayameena","saaitosina"],
+    answer:"thaayameena"
+},
+{
+    question: "siraof (vinegar) of utpaadana molaafromja from kisa sookshamaorganismee by occurs?",
+    option:["raaiwhichpasa","stareptokokasa esitobaiktara","eseetobaiktara","maaikoraaija"],
+    answer:"eseetobaiktara"
+},
+{
+    question: "human in kisa taraha of plaafromntaa is found?",
+    option:["Chorionic","heemokoriyala","Metadiscoidal","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "vaifrom rainfall-water ko amla-water are called whose pH kisafrom less occurs?",
+    option:["7","6.5","6","5.6"],
+    answer:"5.6"
+},
+{
+    question: "offspring and recessive parent between kraosa ko are called",
+    option:["onela snkara","Back cross","Test cross","Reciprocal cross"],
+    answer:"Test cross"
+},
+{
+    question: "among the following which-saa nucleotide is?",
+    option:["yooridilika amla","thaayameena","saaitosina","glootaamika amla"],
+    answer:"yooridilika amla"
+},
+{
+    question: "jaiva development of which-see onibhaashaa uchita is?",
+    option:["kisee species of thosenatisheela itihaasa","species of variationon sahita itihaasa","species of embryoeeya itihaasa","species of varnana"],
+    answer:"kisee species of thosenatisheela itihaasa"
+},
+{
+    question: "which-saa nyooklika amla of bahulaka are?",
+    option:["protein","nyookliyosaaida","nucleotide","bhaaree dhaatuon of naabhika"],
+    answer:"nucleotide"
+},
+{
+    question: "kisee aahaara-ankhalaa in energy sthaanaantarana of 10 pratishata niyama ko kisane dior?",
+    option:["staanale","lindaramaina","vijamaina","traansale"],
+    answer:"lindaramaina"
+},
+{
+    question: "Fertilizin one glaaikoprotein is, which is found",
+    option:["egg membrane of sataha on","sperm on","uterus of deevaala on","shukraashaya of deevaala on"],
+    answer:"egg membrane of sataha on"
+},
+{
+    question: "‘philosophika joolojika’ book kisane likhee?",
+    option:["laamaarka","indala","daarvina","hyoogo dee vreeja"],
+    answer:"laamaarka"
+},
+{
+    question: "birth of baada mother from first dugdha secretionna ko Colostrum are called। thisin nihita is",
+    option:["IgA","IgD","IgE","IgG"],
+    answer:"IgA"
+},
+{
+    question: "among the following in which without fertilization by reproduction of kshamataa is?",
+    option:["makadaaa","cow","bee","earthworm"],
+    answer:"bee"
+},
+{
+    question: "uchcha death rate due to population in teevra hraasa is called:",
+    option:["population ghanatva","population aforestmana","population visphota","uonokta sabhee"],
+    answer:"population aforestmana"
+},
+{
+    question: "areaeeya diversity ko are called:",
+    option:["alphaa diversity","beetaa-diversity","gaamaa-diversity","jaivika diversity"],
+    answer:"gaamaa-diversity"
+},
+{
+    question: "gene kisafrom banaa occurs?",
+    option:["lipoprotein","nyookliyosaaidsa","paolinucleotidesa","histonsa"],
+    answer:"paolinucleotidesa"
+},
+{
+    question: "pratyeka plant cell from poorna plant bana sakataa is। this character ko are called:",
+    option:["kloninga","somaaklonala","toteepotensee","none of these"],
+    answer:"toteepotensee"
+},
+{
+    question: "artificial tareeof from thosenata nasla of veerya onetrita karanaa is called।",
+    option:["pratiropana","veerya-snchayana","fertilization","veerya-onirakshana"],
+    answer:"veerya-snchayana"
+},
+{
+    question: "kisee plants of species in pratimukha koshaa in 8 kromosoma hon to thatof eliyoorona level in kitane kromosoma honge?",
+    option:["16","24","32","8"],
+    answer:"24"
+},
+{
+    question: "humanon in XO praofra of chromosomeeeya anormaltaa due to which-saa sindroma is produced?",
+    option:["tarmaale sindroma","daathose sindroma","daarvinsa sindroma","klaathesepheltara sindroma"],
+    answer:"tarmaale sindroma"
+},
+{
+    question: "plefromntaa of by",
+    option:["embryo maan of naabhirajju from judaaa occurs","embryo ko maan of blood pradaana is done","embryo maan of blood from poshana praapta does","embryo jhilliyon by ghiraa occurs"],
+    answer:"embryo maan of blood from poshana praapta does"
+},
+{
+    question: "organisms of anukoolana occurs",
+    option:["nirvaachana","oforntarana","vnshaagata symptom","upaarjita symptom"],
+    answer:"vnshaagata symptom"
+},
+{
+    question: "among these poore organismna in one hee baara flowerita are",
+    option:["bamboo","mango","taada","none of these"],
+    answer:"bamboo"
+},
+{
+    question: "tnbaakoo of main avayava is:",
+    option:["koofna","maarphina","nikoteena","thaayameena"],
+    answer:"nikoteena"
+},
+{
+    question: "in which anther in ardadhasootree vibhaajana occurs",
+    option:["Endothecium cell in","pollen grain in","Tapetal cell in","spora maatri cell in"],
+    answer:"spora maatri cell in"
+},
+{
+    question: "kisee haaibrida and both in from kisee one Parent between of kraosa is called",
+    option:["testa kraosa","resiprokala kraosa","onela kraosa","baika kraosa"],
+    answer:"baika kraosa"
+},
+{
+    question: "vidaala oneekshana by whose pataa chalataa is?",
+    option:["AIDS","malaria","tapedika","taaiphaaida"],
+    answer:"taaiphaaida"
+},
+{
+    question: "F1 peedhaee of snkara plants ko when samayugmajee aprabhaavee janaka from kraosa karaaor jaataa is to ifrom koar are called?",
+    option:["baika kraosa","testa kraosa","onesnkara kraosa","dvisnkara kraosa"],
+    answer:"testa kraosa"
+},
+{
+    question: "normalth one mature nishechita ovule in n, 2n and 3n sthiti milatee is, kramashh",
+    option:["endosperm, ovuleofya and egg in","egg, enteepodala and endosperm in","adhoarvarana, simalejida and egg in","egg, ovuleofya and endosperm in"],
+    answer:"egg, ovuleofya and endosperm in"
+},
+{
+    question: "sahopaofritaa of udaaharana is:",
+    option:["rikseeor","seelegeneelaa","laaiofna","spaaidiseaseaairaa"],
+    answer:"laaiofna"
+},
+{
+    question: "haploid of the cell snyojana of process is",
+    option:["cell chakra","ardadhasootree vibhaajana","sootree vibhaajana","sinagaimee"],
+    answer:"sinagaimee"
+},
+{
+    question: "among the following which insectbhakshee plant is",
+    option:["drofromraa","nepentheesa","A and B both","Hydrilla"],
+    answer:"A and B both"
+},
+{
+    question: "thesein which-saa rasaayana aabaadee of organisms between snfour sthaapita karane in madada does?",
+    option:["taayalina","enzyme","pheromona","none of these"],
+    answer:"pheromona"
+},
+{
+    question: "acquired characterson of vnshaagati of theory dior thaa",
+    option:["hiofla","daarvina","dee vreeja","laamaarka"],
+    answer:"laamaarka"
+},
+{
+    question: "ovule of vrinta ko are called",
+    option:["phyoonikala","ofrankala","nyoofromlasa","pedeesila"],
+    answer:"phyoonikala"
+},
+{
+    question: "soorya of roshanee from onaabainganee radiation of process in utpaadita is:",
+    option:["CO","SO₂","O₃","phloraaida"],
+    answer:"O₃"
+},
+{
+    question: "if male aaofriof in female from bhinna ho, to ifrom are called:",
+    option:["hetediseaseaimee","homogaimee","laingika dviroopataa","haramaaphrodaaitijma"],
+    answer:"laingika dviroopataa"
+},
+{
+    question: "insecton by pollination ko are called",
+    option:["Ornithophily","Entomophily","Hydrophily","Chiropterophily"],
+    answer:"Entomophily"
+},
+{
+    question: "reda daataa buka in sammilita are:",
+    option:["vilupta ho rahe paudhon of soochee","durlabha paudhon of soochee","aapattigrasta praaniyon of soochee","all of these"],
+    answer:"all of these"
+},
+{
+    question: "trisomy (2n + 1) due to being having sindroma koar is called?",
+    option:["pheelaadelphior","daathose sindroma","elbinijma","none of these"],
+    answer:"daathose sindroma"
+},
+{
+    question: "vishva in kula kitane biodiversity haota-spaota are?",
+    option:["5","15","9","34"],
+    answer:"34"
+},
+{
+    question: "stanadhaariyon in fertilization where occurs?",
+    option:["eggaashaya","vaasiya bhaaga","uterus","phailopiyana nalee"],
+    answer:"phailopiyana nalee"
+},
+{
+    question: "offspringotpatti-control of koar upaaya are?",
+    option:["hormonela methodorn","natural methodorn","orntrika methodorn","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "edinaailika amla which-saa is?",
+    option:["edineena + raaiboja + phaospheta","diokseeraaiboja + phaospheta","edinoseena + sugar","edineena + sugar"],
+    answer:"edineena + raaiboja + phaospheta"
+},
+{
+    question: "pond paaritntra in number of pyramid occurs",
+    option:["ooon of ora","aniyamita","ultaa","tarkuroopa"],
+    answer:"ooon of ora"
+},
+{
+    question: "kisee genetic code of 64 codon in kitane codons by 20 praofra of amino acid of synthesis occurs?",
+    option:["61","64","20","59"],
+    answer:"61"
+},
+{
+    question: "one lnbe plants of svapollination karane on lnbe and baune both taraha of plants praapta are। first sntati for which-see snbhaaforestaa ho sakatee is?",
+    option:["lnbaa","baunaa","baraabara of snbhaaforestaaen","asakshama detaa"],
+    answer:"lnbaa"
+},
+{
+    question: "insulina utpaadana and shareera in thisof krior, daayabiteeja of level for uttaradaayee is। this yaugika among the following kisa varga from relationshipita is?",
+    option:["saha-enzyme","enteebaayotika","enzyme","hormone"],
+    answer:"hormone"
+},
+{
+    question: "aavrittaseedee in endosperm occurs",
+    option:["haploid","diploid","triploid","tetraploid"],
+    answer:"triploid"
+},
+{
+    question: "among the following indala ne kifrom proposed naheen kior?",
+    option:["prabhutaa","apoorna prabhutaa","visthaapana","svatntra apavyoohana"],
+    answer:"apoorna prabhutaa"
+},
+{
+    question: "'daolee' nameka bheda one klona thee। thisfor prayukta daihika cell whose thee?",
+    option:["urate of","tvachaa of","jeebha of","karna ubhaara of"],
+    answer:"urate of"
+},
+{
+    question: "koee bhee praanee one apavaada ko chhodakara amara naheen is। that apavaada is:",
+    option:["onekosheeya organism","harita plant","spora","saayanobaiktirior"],
+    answer:"onekosheeya organism"
+},
+{
+    question: "one nyooklika amla anu of aadhaarabhoota iofee ko are called:",
+    option:["nyookliyosaaida","nucleotide","nitrogenous base","pentoja sugar"],
+    answer:"nucleotide"
+},
+{
+    question: "human female in egge of fertilization where occurs?",
+    option:["eggaashaya in","uterus in","yonimaarga in","phailopiyana naliof in"],
+    answer:"phailopiyana naliof in"
+},
+{
+    question: "kisee Pure tall pea of plants ko Pure baune plants with kraosa karaaor gaor। F1 vnshaja of saare plants tall praapta hue। thisof ofrana is",
+    option:["Dominance","F2 vnshaja in baunaapana of character of cowba honaa","factoron of segregation","saamnjasya/samanvaya"],
+    answer:"Dominance"
+},
+{
+    question: "fungus ko kisa enzyme from snsaadhita is done?",
+    option:["ofitineja","laathisosaaima","fromluleja","gailekteja"],
+    answer:"ofitineja"
+},
+{
+    question: "kisee anaavrittaseedee in endosperm (endosperm) is:",
+    option:["haploid","diploid","triploid","tetraploid"],
+    answer:"haploid"
+},
+{
+    question: "anuvaadana or sthaanaantarana in becomes is:",
+    option:["RNA from protein","DNA from DNA","DNA on RNA","RNA from DNA"],
+    answer:"RNA from protein"
+},
+{
+    question: "antarajaateeya pratiyogitaa of chalate one hee species of organism one-doosare from doora are jaate are। this krior ko are called:",
+    option:["prithaofkarana","samooheekarana","samaroopa vitarana","onetreekarana"],
+    answer:"prithaofkarana"
+},
+{
+    question: "brahmaandavaada of anusaara prithvee on organism anya grahon from kisa roopa in aaor?",
+    option:["gamete","seedaanu","virus","seed"],
+    answer:"seedaanu"
+},
+{
+    question: "separation of theory ko and koar are called?",
+    option:["prabhaavitaa of niyama","svatntra apavyoohana of niyama","gametes of shuddhataa of niyama","none of these"],
+    answer:"gametes of shuddhataa of niyama"
+},
+{
+    question: "shabda homothallic and Monoecious of experiment kisafor is done?",
+    option:["dvilingee avasthaa for","onelingee avasthaa for","staamineta flower for","pisteeleta flower for"],
+    answer:"dvilingee avasthaa for"
+},
+{
+    question: "among the following which-saa kraosa pheenotaaipika roopa from samaana sntati utpanna does?",
+    option:["Dd × Dd","Dd × dd","DD × Dd","WW × Ww"],
+    answer:"WW × Ww"
+},
+{
+    question: "indala of onela kraosa anupaata is",
+    option:["1 : 2","3 : 1","9 : 3 : 3 : 1","9 : 7"],
+    answer:"3 : 1"
+},
+{
+    question: "among the following which-saa toxinmayugmajee is?",
+    option:["Rrtt","TTrr","TtRr","TTRR"],
+    answer:"TtRr"
+},
+{
+    question: "whose anupasthiti in fertilization naheen can be?",
+    option:["sodiyama","potaashiyama","kailsiyama","lauha"],
+    answer:"kailsiyama"
+},
+{
+    question: "pond of kinaare irda-girda chhichhale paanee of area ko are called:",
+    option:["litorala whichna","limanetika whichna","prophndala whichna","benathika whichna"],
+    answer:"litorala whichna"
+},
+{
+    question: "second producer is:",
+    option:["shaaofhaaree","producer","maansaahaaree","none of these"],
+    answer:"none of these"
+},
+{
+    question: "prakanda of one udaaharana is:",
+    option:["lahasuna","neenboo","arateka","poarja"],
+    answer:"arateka"
+},
+{
+    question: "first transgenic crop is:",
+    option:["rooee","matara","tambaakoo","phlaiksa"],
+    answer:"tambaakoo"
+},
+{
+    question: "among the following whose species number sarvaadhika is?",
+    option:["bird","aavritaseedee","fungus","insect"],
+    answer:"insect"
+},
+{
+    question: "two shuddha Individuals from utpanna huee sntati which one fromta characters in bhinna is, kahalaatee is",
+    option:["monohaaibrida","utoanivaruap to","paoleeplaaida","vibhinnaka"],
+    answer:"monohaaibrida"
+},
+{
+    question: "among the following koee one male in is found",
+    option:["uterus","bhaga","lebior mewhichraa","kaoon grnthi"],
+    answer:"kaoon grnthi"
+},
+{
+    question: "on-pollination sva-pollination from achchhaa occurs whyki thisin",
+    option:["behatara naveena vyashtiorn utpanna isn","naee speciesorn banatee are","this anishekareproduction prerita does","this aarthika drishti from laabhadaayaka is"],
+    answer:"behatara naveena vyashtiorn utpanna isn"
+},
+{
+    question: "veerya ko in which himeekrita is done?",
+    option:["water in","normal rephrijaretara in","tarala naaitrojana in","koee naheen"],
+    answer:"tarala naaitrojana in"
+},
+{
+    question: "female in nishechita egge of pratisthaapana uterus in when occurs?",
+    option:["fertilization of two maheene of baada","fertilization of one maheene of baada hee","fertilization of three saptaaha baada","fertilization of seven dina baada"],
+    answer:"fertilization of seven dina baada"
+},
+{
+    question: "bee paalana for bee of kisa variety ko highest paalatoo made jaataa is?",
+    option:["episa indiof","episa melipheraa","episa daorfaromtaa","episa phlorior"],
+    answer:"episa melipheraa"
+},
+{
+    question: "kora, baphara and menipuleshana area in which paae jaate are?",
+    option:["raashtareeya park","jaiva surakshita area","sharanasthalee","baagha conservation"],
+    answer:"jaiva surakshita area"
+},
+{
+    question: "female in mukheeya contraceptive kifrom rokatee is?",
+    option:["andotsarga","fertilization","ropana","yoni in sperm of pravesha"],
+    answer:"andotsarga"
+},
+{
+    question: "indala by adhyayana kie gae matara of kula characters of number is",
+    option:["5","7","6","4"],
+    answer:"7"
+},
+{
+    question: "traansaphara RNA in paae jaane having three kshaarakon of krama which sndeshavaahaka RNA kodona from bndhataa is, is called:",
+    option:["trika","naona-fromnsa kodona","enteekodona","samaapana kodona"],
+    answer:"enteekodona"
+},
+{
+    question: "Stamen of fertile bhaaga is",
+    option:["anther","pollenfilament","snyojeefilament","Ovule"],
+    answer:"anther"
+},
+{
+    question: "dahee and paneera (yogarta and cheeja) utpaada are",
+    option:["kinfaorest of","paashcharaaijeshana of","nirwaatereekarana of","none of these"],
+    answer:"kinfaorest of"
+},
+{
+    question: "among these which samaapana codeka (tarminetinga kodona) is।",
+    option:["UAA","UCC","AUG","GUG"],
+    answer:"UAA"
+},
+{
+    question: "pollination in Lever mechanism in which is found",
+    option:["Antirrhinum","phaaikasa","wheat","saalvior"],
+    answer:"saalvior"
+},
+{
+    question: "praaniyon in yauforestaavasthaa of baada aataa is:",
+    option:["ofyika avasthaa","reproduction avasthaa","praudhaaavasthaa","vriddhaavasthaa"],
+    answer:"reproduction avasthaa"
+},
+{
+    question: "DNA phingara printinga among the following what is?",
+    option:["DNA taaipinga","DNA prophaailinga","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "laaiofna soochaka is:",
+    option:["CO₂ pollution of","SO₂ pollution of","CO pollution of","water pollution of"],
+    answer:"SO₂ pollution of"
+},
+{
+    question: "thesein which sabafrom joardaa energy praapta does?",
+    option:["producer","primary consumer","secondary consumer","apaghatanakartaa"],
+    answer:"producer"
+},
+{
+    question: "ecosystem in control karane having ofraka occurs:",
+    option:["soil namee","bhojana","shiofra karanaa","taapa"],
+    answer:"shiofra karanaa"
+},
+{
+    question: "number of aadhaara on one phalahaving vriksha of pyramid kaisaa occurs?",
+    option:["seedhaa","tirachhaa","ultaa","none of these"],
+    answer:"ultaa"
+},
+{
+    question: "vaahitamala of secondary treatment in mainth whose jaroorata is?",
+    option:["yeesta","virus","fungus","bacterium"],
+    answer:"bacterium"
+},
+{
+    question: "nyookliyosoma in upasthita occurs:",
+    option:["histona anu","nucleotide","nyookliyoplaajamina","nyookliyara phora kaompaleksa"],
+    answer:"histona anu"
+},
+{
+    question: "lensa and retinaa kalionooof of kisafrom becomes is?",
+    option:["ectoderm from","endoderm from","ectoderm and endoderm both from","Mesoderm from"],
+    answer:"ectoderm from"
+},
+{
+    question: "haaibrida and Parent between of kraosa is called",
+    option:["monohaaibrida kraosa","Back cross","Test cross","Reciprocal cross"],
+    answer:"Back cross"
+},
+{
+    question: "aljaaimara disease human in among the following whose lessee from relationshipita is?",
+    option:["dopaamaathese","glootemika amla","eseetaailakolina","gaamaa emeeno byootarika amla"],
+    answer:"eseetaailakolina"
+},
+{
+    question: "if jaivamndala from CO₂ ko hataa lior jaae to which-from organism on sarvafirst buraa prabhaava padaegaa?",
+    option:["primary producer","primary consumer","secondary consumer","tertiary consumer"],
+    answer:"primary producer"
+},
+{
+    question: "21ven chromosome of trisomy from which-see genetic beemaaree is?",
+    option:["klaathesepheltara sindroma","tarmaale sindroma","daatra cell abloodtaa","daathose sindroma"],
+    answer:"daathose sindroma"
+},
+{
+    question: "pratyeka maasika chakra (Menstrual cycle) during andotsarjana occurs",
+    option:["two andaanu of","one andaanu of","two from more andaanuon of","andaanuon of emission naheen occurs"],
+    answer:"one andaanu of"
+},
+{
+    question: "vishva of sabafrom achchhee dudhaaroo cow of nasla is।",
+    option:["chittaagonga","deforestee","holsateena-phreesiyana","sindhee"],
+    answer:"holsateena-phreesiyana"
+},
+{
+    question: "human of nimnalikhita chromosome in gene of number sarvaadhika is:",
+    option:["chromosome 1","chromosome X","chromosome Y","chromosome 22"],
+    answer:"chromosome 1"
+},
+{
+    question: "ecosystem of aahaara shrrinkhalaa in energy of pravaaha occurs",
+    option:["onedisheeya","dvidisheeya","bahudisheeya","thesein koee naheen"],
+    answer:"onedisheeya"
+},
+{
+    question: "khuraanaa ko nobael purasoafra why milaa thaa?",
+    option:["DNA of khoja","RNA of khoja","gene of chemical synthesis hetu","DNA paoleemareja of khoja"],
+    answer:"gene of chemical synthesis hetu"
+},
+{
+    question: "paachanatntra, yakrita and shvaasanalee kisafrom becomes is?",
+    option:["aaroafteraona","blaastoseela","endoderm from","ectoderm from"],
+    answer:"endoderm from"
+},
+{
+    question: "of whom embryo in parasitic of taraha poshana occurs?",
+    option:["bird in","amphibians in","sarisripa in","mammals in"],
+    answer:"mammals in"
+},
+{
+    question: "kuchha flowers of pollenkosha and stylena between natural rodha are jinadue to pollination mushkila from occurs or hotaa hee naheen, thosehen koar are called",
+    option:["svaynbndhyataa","heterostaailee","harakogaimee","geigaimee"],
+    answer:"harakogaimee"
+},
+{
+    question: "entarama whose guhaa is?",
+    option:["andaashaya","grephiyana putiof","blaastulaa","gaistarulaa"],
+    answer:"grephiyana putiof"
+},
+{
+    question: "kisee tropical pradesha in biodiversity in giraavata of main ofrana is:",
+    option:["shahareekarana","pollution","forestonmoolana","soil-ksharana"],
+    answer:"forestonmoolana"
+},
+{
+    question: "Hydrilla in rndhra where paae jaate are",
+    option:["pattiyon on","tane on bhee","both (A) and (B)","none of these"],
+    answer:"none of these"
+},
+{
+    question: "one matara plants in 400 seed formation in kitane ardadhasootree vibhaajana aavashyaka are",
+    option:["400","500","600","800"],
+    answer:"500"
+},
+{
+    question: "if pollination one hee plants of two flowers between ho to ifrom are called",
+    option:["jinogemee","jeetonogemee","podiseaseemee","thesetomophilee"],
+    answer:"jeetonogemee"
+},
+{
+    question: "ristarikshana of enzyme use kisako oftane for is done?",
+    option:["onela-rajjuof RNA","dvirajjuof DNA","onela-rajjuof DNA","dvirajjuof RNA"],
+    answer:"dvirajjuof DNA"
+},
+{
+    question: "vaijnyaanika esa. ela. milara ne ofrbanika anuon of gathana for apane experiment in watervaashpa, mithena and amonior with nimnalikhita gaisa of use kior",
+    option:["okseejana","haaidrojana","naaitrojana","koee naheen"],
+    answer:"haaidrojana"
+},
+{
+    question: "among these which pahalaa artificial roopa from banaa jaivika padaartha is?",
+    option:["thesesulina","ofrmeenee","thaayaraoksina","none of these"],
+    answer:"thesesulina"
+},
+{
+    question: "among the following which aahaara shrrinkhalaa correct is?",
+    option:["ghaasa, wheat and mango","ghaasa, bakaree and lion","bakaree, cow and ghaasa","ghaasa, fish and bakaree"],
+    answer:"ghaasa, bakaree and lion"
+},
+{
+    question: "biodiversity of tapta sthala which-saa is?",
+    option:["araavalee","poorvee ghaata","pashchimee ghaata","Indian gngaa of maidaana"],
+    answer:"pashchimee ghaata"
+},
+{
+    question: "kuchha neele-hare algae jaiva fertilizer as prayukta are whyki ye kara sakate are:",
+    option:["naaitrojana sthireekarana","myooseeleja secretionna","light synthesis","pratyeka sthaana on growth"],
+    answer:"naaitrojana sthireekarana"
+},
+{
+    question: "among the following which-see one gaisa greenhouse gas naheen is?",
+    option:["CO₂","CH₄","N₂","CFCs"],
+    answer:"N₂"
+},
+{
+    question: "limphosaaita of ooon koar rahataa is?",
+    option:["IgG","IgM","IgD","IgE"],
+    answer:"IgD"
+},
+{
+    question: "human of primary sperm cellon (praaimaree soanmosaaitsa) in otosoma of number is",
+    option:["44","46","23","40"],
+    answer:"44"
+},
+{
+    question: "saaitoseena and guaanoseena between haaidrojana bnwealth of number is:",
+    option:["2","3","4","1"],
+    answer:"3"
+},
+{
+    question: "without fertilization of phala banaane of process ko are called",
+    option:["pauliofrpika","paarthenoofrpika","pomoofrpika","none of these"],
+    answer:"paarthenoofrpika"
+},
+{
+    question: "rodha code of number kitanee is:",
+    option:["one","two","three","four"],
+    answer:"three"
+},
+{
+    question: "mehasaanaa whose species is?",
+    option:["cow of","buffalo of","bheda of","bakaree of"],
+    answer:"buffalo of"
+},
+{
+    question: "AIDS of ofraka HIV vaayarasa sarvafirst kisa cell ko destroys?",
+    option:["heloan T-limphosaaita ko","B-limphosaaita ko","lyookosaaitsa","thrombosaaita"],
+    answer:"heloan T-limphosaaita ko"
+},
+{
+    question: "PCR of use do।",
+    option:["kisee khaasa DNA of pravarwaealth for","protein of pravarwaealth for","protein of number ghataane for","A and B both"],
+    answer:"kisee khaasa DNA of pravarwaealth for"
+},
+{
+    question: "onerosoma of formation kisafrom occurs?",
+    option:["centriole","gaoljeeofya","maaitokondarior","nucleus"],
+    answer:"gaoljeeofya"
+},
+{
+    question: "kisee pollen grain in (jaifrom Cyperus) Ploidy of number is",
+    option:["5n","3n","n","2n"],
+    answer:"n"
+},
+{
+    question: "insectbhakshee plants insecton ko khaate are:",
+    option:["maansa for","okseejana for","khaniwhichn for","naaitrojana for"],
+    answer:"naaitrojana for"
+},
+{
+    question: "kisee gaardena matara in Recessive trait is",
+    option:["lnbaa tanaa","rngeena flower","jhurreedaara seed","floweraa huaa Pod"],
+    answer:"jhurreedaara seed"
+},
+{
+    question: "heemopheelior disease is",
+    option:["alinga kromosoma-sahalagna aprabhaavee symptom","X-kromosoma-sahalagna aprabhaavee symptom","alinga kromosoma-sahalagna prabhaavee symptom","X-kromosoma-sahalagna prabhaavee symptom"],
+    answer:"X-kromosoma-sahalagna aprabhaavee symptom"
+},
+{
+    question: "atyadhika alkohala lene from shareera of which-saa organ highest prabhaavita occurs?",
+    option:["phephadaaa","yakrita","mangoaashaya","sleena"],
+    answer:"yakrita"
+},
+{
+    question: "eleephaintiorsisa of ofraka is:",
+    option:["esoafrisa","teenior","vuchererior","entaameebaa"],
+    answer:"vuchererior"
+},
+{
+    question: "among these which-see beemaaree pratyoorjaka by utpanna is?",
+    option:["tvachaa cancer","he jvara","interika jvara","galagnda"],
+    answer:"he jvara"
+},
+{
+    question: "among the following which-saa yauna snkramita disease is?",
+    option:["taayaphaaida","titanasa","leprosee","hipetaaitisa-B"],
+    answer:"hipetaaitisa-B"
+},
+{
+    question: "among the following which-saa nucleotide is?",
+    option:["edinaailika and guaanaailika amla","saaitidilika and yuridaayalika amla","yuridaayalika and thaayamidaayalika amla","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "one plant speesheeja in thatof sahaayaka-cells in 8 chromosome are। thatof ailyoorona onta of cells in chromosomes of number koar hogee",
+    option:["16","24","32","8"],
+    answer:"24"
+},
+{
+    question: "among these in which artificial veeryafromchana by conception naheen karaaor jaa sakataa is?",
+    option:["ghodae in","oonton in","machhaliyon in","bakaree in"],
+    answer:"machhaliyon in"
+},
+{
+    question: "kisee organism of kisee dvi-aprabhaavee from sngama karaaof toxinmayugmee or samayugmee abhisymptom of nirdhaarana karanaa is called",
+    option:["vyutkarama hybridization","oneekshaartha hybridization","dvisnkara","prateepa hybridization"],
+    answer:"oneekshaartha hybridization"
+},
+{
+    question: "female flower of among the following which-saa bhaaga is",
+    option:["jaaornga","pumnga","punofsara","pollen grain"],
+    answer:"jaaornga"
+},
+{
+    question: "population control for hormonela contraceptive pill prayukta is:",
+    option:["maalaa-D","maalaa-N","sahelee","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "vikhndana (cleavage) samasootree vibhaajana from alaga occurs kisa maayane in?",
+    option:["this shareera of sabhee cells in occurs","this zygote in occurs","thisfrom identical putree cell becomes is","this only aofsharooof in occurs"],
+    answer:"this zygote in occurs"
+},
+{
+    question: "human (male) in of chromosome number is",
+    option:["44 + XX","44 + XY","46 + XY","46 + XX"],
+    answer:"44 + XY"
+},
+{
+    question: "traansajenika animalon as sarvaadhika number in found jaane having organism is।",
+    option:["choohe","cow","sooara","fish"],
+    answer:"choohe"
+},
+{
+    question: "Australiaee infantpaddyee, tasmaanioree bhedaior and one aonaa stanee bhedaior rateshaate are",
+    option:["samaanaantara development","apasaaree development","convergent evolution","kramika development"],
+    answer:"convergent evolution"
+},
+{
+    question: "shaakha (scion) ko vrinta (stock) on lacowaa jaataa is। this praofra graft kiye vriksha of phala kisa on nirbhara karenge?",
+    option:["shaakha (scion)","vrinta (stock)","(A), (B) both","none of the above"],
+    answer:"shaakha (scion)"
+},
+{
+    question: "aigaaroja kisafrom is obtained?",
+    option:["samudree ghaasa","maize","saaikasa","Hydrilla"],
+    answer:"samudree ghaasa"
+},
+{
+    question: "aaloo and tamaatara of ofyika hybridization from formation having plants of koar name is?",
+    option:["tamaaloo","pomaito","tomaapoteto","prometo"],
+    answer:"pomaito"
+},
+{
+    question: "yauna snfourita disease among the following from which is?",
+    option:["AIDS","syphilis","gonorior","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "polimareja shrrinkhalaa abhikrior technique of use is done:",
+    option:["DNA of pahachaana for","DNA of Repair for","DNA amplification for","DNA of khndana for"],
+    answer:"DNA amplification for"
+},
+{
+    question: "pratilekhana is:",
+    option:["of DNA bananaa","sndeshavaahaka of RNA bananaa","protein of bananaa","amino acid of bananaa"],
+    answer:"sndeshavaahaka of RNA bananaa"
+},
+{
+    question: "one plaajamida",
+    option:["khuda from apane jaisaa banaa sakataa is","laaipeja from relationshipita is","kromosoma from relationshipita is","none of these"],
+    answer:"khuda from apane jaisaa banaa sakataa is"
+},
+{
+    question: "‘pheda-baicha’ kinfaorest in sugar of nirantara is used:",
+    option:["pratijaivika praapta karane for","enjaaima ko shuddha karane for","malavaaha of vighatana for","mithena utpanna karane for"],
+    answer:"enjaaima ko shuddha karane for"
+},
+{
+    question: "biotechnology of uddeshyon of poorti in whose yogadaana is?",
+    option:["pumaleyogaja DNA technique","genetics abhiorntriof","sookshamaorganismscience","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "cancer of treatment for among the following which-saa prachalita naheen is?",
+    option:["ofmotheraipee","rediyotheraipee","sarjaree","phijiyotheraipee"],
+    answer:"phijiyotheraipee"
+},
+{
+    question: "laika operaona in kitane snrachanaatmaka gene paae jaate are?",
+    option:["three","five","one","none of these"],
+    answer:"three"
+},
+{
+    question: "thesein which PCR from judaaa is?",
+    option:["nishkariyakarana","taapaanusheelana","vistaara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "which-saa oneekshana by paidaa being from pahale child in genetics va ofryiof twosha of adhyayana kior jaa sakataa is?",
+    option:["emneeofromntasisa","irithroblaastosisa","enjiyograama","klotinga oneekshana"],
+    answer:"emneeofromntasisa"
+},
+{
+    question: "bee in shramika makkhiorn isn।",
+    option:["reproductionyukta male","baandhya male","reproductionyukta female","baandhya female"],
+    answer:"baandhya female"
+},
+{
+    question: "sarvafirst kleenikala gene therapy of use kisafor kior gaor thaa?",
+    option:["edinosina deeemineja of lessee","chiofna paoksa","daayabiteeja melitasa","roometaoyada artharaaitisa"],
+    answer:"edinosina deeemineja of lessee"
+},
+{
+    question: "ecosystem of mahattava in which nihita is?",
+    option:["energy of pravaaha in","padaarthon of anuchakrana in","uonokta both in","none of the above"],
+    answer:"uonokta both in"
+},
+{
+    question: "haaibrida of geneotaaipa of normal testa which-saa is?",
+    option:["F1 sntati of laingika vyathataara","F1 sntati of aprabhaavee janaka from kraosa","one F2 janaka of malegamete from kraosa","one F2 janaka of female gamete from kraosa"],
+    answer:"F1 sntati of aprabhaavee janaka from kraosa"
+},
+{
+    question: "DNA of daforce heliksa maodala in pratyeka samaakshaara doosare from kitanee dooree on occurs?",
+    option:["34 nm","3.4 nm","2 nm","0.34 nm"],
+    answer:"0.34 nm"
+},
+{
+    question: "naaitrojana-sthireekarana of yogya bacterium is:",
+    option:["ewhichtobaiktara","klostaridiyama","esitobaiktara esiti","raaiwhichbiyama"],
+    answer:"klostaridiyama"
+},
+{
+    question: "more lavana saandarataa having kshaareeya soil in ugane having plants are:",
+    option:["marudbhidee","lavanodbhidee","shailodbhidee","waterodbhidee"],
+    answer:"lavanodbhidee"
+},
+{
+    question: "andotsarga va kaorpasa lyootiyama of development for uttaradaayee hormone is",
+    option:["FSH","LH","LTH","ICSH"],
+    answer:"LH"
+},
+{
+    question: "among the following antararaapita gene vyavasthaa upasthita naheen is:",
+    option:["bacterium","plants","animal","none of the above"],
+    answer:"bacterium"
+},
+{
+    question: "gene abhiyntrita human insulina kisafrom becomes is?",
+    option:["bacterium","phaphoonda","plant","yeesta"],
+    answer:"bacterium"
+},
+{
+    question: "traansajenika plants utpanna karane for tyoomara prerita plaajmida praapta kiye jaate are:",
+    option:["esharikiaa kolaaee by","baisilasa thoorienjiensisa by","stephaailokokasa oriyasa by","egrobaikteeriyama tyoomeepheshiensa by"],
+    answer:"egrobaikteeriyama tyoomeepheshiensa by"
+},
+{
+    question: "India in onivaara niyojana ofryakrama when aarnbha huaa?",
+    option:["1951 in","1960 in","1970 in","1980 in"],
+    answer:"1951 in"
+},
+{
+    question: "when kisee mutation from pyoorina of sthaana on pirimideena pratisthaapita ho jaae to ifrom are called",
+    option:["traanjishana","traansavarsana","traansaloofshana","thesevarsana"],
+    answer:"traansavarsana"
+},
+{
+    question: "mithena of major srota is:",
+    option:["eekha ropana","paddy kheta","phala of baagavaanee","wheat kheta"],
+    answer:"paddy kheta"
+},
+{
+    question: "aabaadee of prasarana kina on nirbhara does?",
+    option:["aagamana on","bahirgamana on","sthaanaantarana on","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "jnka DNA kisako is called?",
+    option:["kodinga krama","naonakodinga krama","promotara gene","histona protein"],
+    answer:"naonakodinga krama"
+},
+{
+    question: "klaatheseepheltarsa sindroma in linga chromosome snfactor are",
+    option:["22A + XXY","22A + XO","22A + XY","22A + XX"],
+    answer:"22A + XXY"
+},
+{
+    question: "egg prajanaka is",
+    option:["hen","snake","magaramachchha","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "AA Bb cc from kitane praofra of gametes (gametes) of formation hogaa?",
+    option:["two","four","six","nine"],
+    answer:"two"
+},
+{
+    question: "nyooklika amla in which-saa padaartha maujooda naheen occurs?",
+    option:["saaitoseena","edineena","thaaimeena","guaaneedina"],
+    answer:"guaaneedina"
+},
+{
+    question: "lake in second poshana-level occurs:",
+    option:["plantplavaka","praaniplavaka","plantplavaka and praaniplavaka both","none of these"],
+    answer:"praaniplavaka"
+},
+{
+    question: "Sertoli cell paayee jaatee is",
+    option:["eggaashaya in and projestarona of secretionna occurs","edreenala kaorteksa in and edreneleena of hormone secretionna occurs","spermnaliof in and germ cells ko poshana detaa is","agnaorshaya in and kolesistooftheseina of secretionna occurs"],
+    answer:"spermnaliof in and germ cells ko poshana detaa is"
+},
+{
+    question: "human in shukranaliof (vas deferens) kisafrom nikalataa is?",
+    option:["cauda epididymis","caput epididymis","corpora cavernosa","glomus majoritetet"],
+    answer:"cauda epididymis"
+},
+{
+    question: "kisee genetic disease ko kisa chikitsaa paddhati from durusta kior jaa sakataa is?",
+    option:["elopaithee","surgical paddhati","gene therapy","anya method"],
+    answer:"gene therapy"
+},
+{
+    question: "genetics abhiorntriof ko koar is called?",
+    option:["pumaleyogaja DNA technique","tissue culture","kloninga snvaahaka","anupravaaha snsaawealth"],
+    answer:"pumaleyogaja DNA technique"
+},
+{
+    question: "gaharee nidraa ko prerita karane having aushadhi is:",
+    option:["steemulenta","islusinojena","fromdetiva","opieta naarkotika"],
+    answer:"fromdetiva"
+},
+{
+    question: "jeta plena niofsa in main pradooshaka are:",
+    option:["phluroofrbana","SO₂","mithena","bengaene"],
+    answer:"phluroofrbana"
+},
+{
+    question: "one flowering plant in male reproduction organ iofee ko are called",
+    option:["punofsara","stareeofsara","pollenkosha","pollen grain"],
+    answer:"punofsara"
+},
+{
+    question: "mutation normalth karaaor jaataa is:",
+    option:["altaraa-vaayoleta kirana","gaamaa kirana","alphaa kirana","beetaa kirana"],
+    answer:"gaamaa kirana"
+},
+{
+    question: "soil of poshana charactervattaa which badhaaataa is?",
+    option:["chemical khaada","gobara khaada","biofertilizer","both (B) and (C)"],
+    answer:"both (B) and (C)"
+},
+{
+    question: "sookshama reproduction in karaaor jaataa is:",
+    option:["alaingika reproduction","samaana genetic characters having paudhon of utpaadana","laingika reproduction","both (A) and (B)"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "netra lensa becomes is",
+    option:["onetodarma from","misodarma from","endodarma from","onetodarma and misodarma from"],
+    answer:"onetodarma from"
+},
+{
+    question: "steraoyadsa formation in prayukta phaphoondee which-saa is?",
+    option:["esoanjilasa oraayajaa","toroolopsisa yutilisa","raaiwhichpasa stoloniphara","nyoorosporaa kraisaa"],
+    answer:"raaiwhichpasa stoloniphara"
+},
+{
+    question: "kisee ecosystem in jaivika avayava is",
+    option:["producer","consumer","vighatanakartaa","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "which-saa kshaara RNA in upasthita rahataa is, on DNA in naheen?",
+    option:["yooraasila","guaaneena","saaitoseena","thaaimeena"],
+    answer:"yooraasila"
+},
+{
+    question: "in which aantarika fertilization occurs?",
+    option:["fish","amphibians","algae","aavrittaseedee"],
+    answer:"aavrittaseedee"
+},
+{
+    question: "traansakripshana for enzyme jarooree is:",
+    option:["DNA paolimareja","RNA paolimareja","indonyookfaorja","among these sabhee"],
+    answer:"RNA paolimareja"
+},
+{
+    question: "human in sabafrom joardaa being having cancer is?",
+    option:["milenomaa","limphomaa","saarkomaa","ofrsinomaa"],
+    answer:"ofrsinomaa"
+},
+{
+    question: "DNA phingaraprintinga of koar ofrya is?",
+    option:["offspring of correct mother-father of pahachaana karanaa","phaorensika science by laboratory in aonaadhiyon of pahachaana karanaa","sndigdha mother-father of jaanaofree praapta karanaa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among the following which-see svachchhawatereeya bhojana yogya fish is?",
+    option:["haarpodaona","sirinaa mrigaalaa","enguilaa","hilsaa"],
+    answer:"sirinaa mrigaalaa"
+},
+{
+    question: "haaipenthediyama flowerkrama is found",
+    option:["peepal","tulasee","saagauna","madaara"],
+    answer:"peepal"
+},
+{
+    question: "retrovaayarasa normal jnta cells ko kina cells in roopaantarita kara detaa is?",
+    option:["leevara cell","mrita cell","cancer cell","none of these"],
+    answer:"cancer cell"
+},
+{
+    question: "asatat avariation (Discontinuous variation) of major ofrana is",
+    option:["kraosinga ovara","mutation","kromosoma of segregation","Independent assortment"],
+    answer:"mutation"
+},
+{
+    question: "among these which protozoa-janita disease is?",
+    option:["isjaa","kshayadisease","malaria","AIDS"],
+    answer:"malaria"
+},
+{
+    question: "podiseaseaimee in pollennaliof kisafrom hokara endosperm up to pahunchatee is",
+    option:["chailaajaa","integuinta","maaikropaaila","sabhee ko bhedatee huee"],
+    answer:"maaikropaaila"
+},
+{
+    question: "aavrittaseediyon in sabafrom normal praofra ovule is",
+    option:["empheetropaasa","etropaasa","enaatropasa","sarsinotropasa"],
+    answer:"enaatropasa"
+},
+{
+    question: "one praforce mutagen is",
+    option:["thnda","garmee","paanee","X-kiranen"],
+    answer:"X-kiranen"
+},
+{
+    question: "murraaha, soortee and mehasaanaa whose speciesorn are?",
+    option:["cow of","buffalo of","bakaree of","bheda of"],
+    answer:"buffalo of"
+},
+{
+    question: "if koee flower chamaofle rnga of ho and Nectar secretionita karataa ho to this snbhavath",
+    option:["air by pollenita occurs","insect by pollenita occurs","one insectbhakshee plant occurs","napunsaka flower hogaa"],
+    answer:"insect by pollenita occurs"
+},
+{
+    question: "moretara pravishishta (species) kisa area from vilopita huee is?",
+    option:["Islands","Mainland","samudra","svachchha watereeya niofya"],
+    answer:"Islands"
+},
+{
+    question: "kisadue to RNA bhinna occurs DNA from?",
+    option:["sugar and pyoorina","sugar and paayarimidina","pyoorina and phaospheta","sugar and phaospheta"],
+    answer:"sugar and paayarimidina"
+},
+{
+    question: "Indiain the year haota spaotsa paae jaate are:",
+    option:["only poorvee himaalaya in","only pashchimee ghaata in","poorvee himaalaya and pashchimee ghaata in","raajasthaana of registaana in"],
+    answer:"poorvee himaalaya and pashchimee ghaata in"
+},
+{
+    question: "badhae hue tvachaa cancer and uchcha mutation rate of ofrana is:",
+    option:["amla rainfall","owhichna ksharana","CO₂ pollution","CO pollution"],
+    answer:"owhichna ksharana"
+},
+{
+    question: "svath reproduction of theory, jisain origin of life kshayamaana padaarthon from maanee gaee thee, ko bacteriumon of snratebha in kisane khaarija kior?",
+    option:["phraansisko redee","fourlsa daarvina","luee paashchara","none of the above"],
+    answer:"luee paashchara"
+},
+{
+    question: "kisee prokairiyotsa in DNA and of RNA anupaata 1:2 is। yookairiyotsa in this anupaata koar occurs?",
+    option:["1:1","2:1","1:2","sthira naheen"],
+    answer:"1:1"
+},
+{
+    question: "chaaya of pattiyon on bacteriumon of krior from special sugndha ko utpanna kior jaanaa is called:",
+    option:["taininga","kyooringa","kinfaorest","raaipeninga"],
+    answer:"kyooringa"
+},
+{
+    question: "egge of cytoplasm in koar naheen occurs?",
+    option:["raaibosoma","maaitokondarior","gaoljeeofya","fromntrosoma"],
+    answer:"fromntrosoma"
+},
+{
+    question: "oofjaaof khnda of formation kisa dauraana occurs?",
+    option:["traansakripshana","traansaleshana","ripliofshana","traansadakshana"],
+    answer:"ripliofshana"
+},
+{
+    question: "insulina of aanvika rachanaa of khoja kisane of thee?",
+    option:["korenabarga","sveemaanaathana","rijaardasana","saingara"],
+    answer:"saingara"
+},
+{
+    question: "among the following which-saa homologous organs is?",
+    option:["bogenavilior of ofntaa and pattee","insect and bird of pnkha","daolphina of phlionsa and shaarka of pektorala phinsa","bee and bichchhoo of dnka"],
+    answer:"bogenavilior of ofntaa and pattee"
+},
+{
+    question: "BamHI pratibnwealth enzyme kisafrom is obtained?",
+    option:["heemophilasa thesephlooenjee","E. coli","baisilasa emaalolikviphesiensa","none of these"],
+    answer:"baisilasa emaalolikviphesiensa"
+},
+{
+    question: "among the following which-see hormone rileejinga IUCD is?",
+    option:["lipsa loop","malteeloda 375","CuT","LNG-20"],
+    answer:"LNG-20"
+},
+{
+    question: "one onivaara jisain five betiorn are, ko chhathee offspring being having is। betaa being of snbhaaforestaa kitanee is?",
+    option:["0%","25%","50%","100%"],
+    answer:"50%"
+},
+{
+    question: "indala ne kitane traits of adhyayana kior?",
+    option:["five","four","seven","three"],
+    answer:"seven"
+},
+{
+    question: "nimnalikhita RNA paoleemareja sunucleusee in doota of RNA anulekhana does:",
+    option:["paoleemareja-I","paoleemareja-II","paoleemareja-III","none of the above"],
+    answer:"paoleemareja-II"
+},
+{
+    question: "taika DNA paolimareja enzyme is obtained:",
+    option:["tharmasa onevetikasa from","E. coli from","egrobaikteeriyama tyoomeephesiensa from","thesein kisee from naheen"],
+    answer:"tharmasa onevetikasa from"
+},
+{
+    question: "food chain during maximum energy snchita is।",
+    option:["producer in","decomposer in","shaaofhaaree in","maansaahaaree in"],
+    answer:"producer in"
+},
+{
+    question: "PCR method aavashyaka is:",
+    option:["DNA synthesis in","protein synthesis in","emino amla of synthesis in","DNA culture in"],
+    answer:"DNA culture in"
+},
+{
+    question: "energy of pyramid sarvadaa occurs:",
+    option:["ulataa","seedhaa","ulataa and seedhaa both","forest-paaritntra in ulataa"],
+    answer:"seedhaa"
+},
+{
+    question: "India in projekta taaigara praarnbha kior gaor",
+    option:["1973","1981","1985","1986"],
+    answer:"1973"
+},
+{
+    question: "svasthaane conservation of udaaharana is:",
+    option:["vaanaspatika udoarna","animal udoarna","organism saphaaree","among these sabhee"],
+    answer:"organism saphaaree"
+},
+{
+    question: "maximum growth rate is found thisin:",
+    option:["fromnefromnta pheja","laiga pheja","onesaponenshiyala pheja","steshamaleee pheja"],
+    answer:"onesaponenshiyala pheja"
+},
+{
+    question: "vriksharahita organismoma ko are called",
+    option:["tundraa","desert","ghaasa of maidaana","all of the above"],
+    answer:"all of the above"
+},
+{
+    question: "‘reda daataa buka’ soochee banaane for uttaradaayee sngathana is।",
+    option:["IUCN","CITES","WWF","IBWL"],
+    answer:"IUCN"
+},
+{
+    question: "Dihybrid Test cross of anupaata which-saa is?",
+    option:["1 : 1 : 1 : 1","1 : 1","9 : 3 : 3 : 1","15 : 1"],
+    answer:"1 : 1 : 1 : 1"
+},
+{
+    question: "fungusmoola one udaaharana occurs:",
+    option:["simbaayotika bandhutva","baahya parasitic","anth parasitic","decomposer"],
+    answer:"simbaayotika bandhutva"
+},
+{
+    question: "egge of gaistulaa avasthaa in endoderm cell ko if hataa dior jaaya to naye organism in koar naheen banegaa?",
+    option:["aankha","hridaya","aankha and mastishka","aantarika organ"],
+    answer:"aantarika organ"
+},
+{
+    question: "totaa of highest umra what is?",
+    option:["90 year","25 year","500 year","140 year"],
+    answer:"140 year"
+},
+{
+    question: "among these which bacteria-janita disease is?",
+    option:["siphalisa","harpisa","paipilomaa","all of these"],
+    answer:"siphalisa"
+},
+{
+    question: "pyooreena of jagaha pirimideena athavaa pirimideena of jagaha pyooreena of pratisthaapana ko are called",
+    option:["traanjishana","traansavarsana","traansaloofshana","traansaphaorameshana"],
+    answer:"traansavarsana"
+},
+{
+    question: "contraceptive pill in nihita projestaraona from koar taatoanya is?",
+    option:["ovulation ko rokanaa","fertilization ko rokanaa","yugmaja of Implantation ko rokanaa","Cleavage ko rokanaa"],
+    answer:"ovulation ko rokanaa"
+},
+{
+    question: "developmentsheela pollen grain ko poshana kisafrom milataa is",
+    option:["tepeetama","Endothecium","madhya level","SMC"],
+    answer:"tepeetama"
+},
+{
+    question: "pratibnwealth endonyookliyeja DNA of one vishishta sequence ko pahachaanate are:",
+    option:["pailinadromika nucleotide anuon","B.N.T.R.","minee fromtelaaita","among these sabhee"],
+    answer:"pailinadromika nucleotide anuon"
+},
+{
+    question: "PCR of use occurs:",
+    option:["DNA of kisee khaasa bhaaga of pravarwaealth for","enzyme of pravarwaealth for","protein of pravarwaealth for","among these sabhee"],
+    answer:"DNA of kisee khaasa bhaaga of pravarwaealth for"
+},
+{
+    question: "baayogaisa in are:",
+    option:["CO₂","H₂S","CH₄","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "grassland of number of pyramid occurs।",
+    option:["aonaaita","thesevarteda","both (A) and (B)","none of these"],
+    answer:"aonaaita"
+},
+{
+    question: "ecosystem of relationship by whom rateshaaor jaa sakataa is?",
+    option:["number of pyramid","organismbhaara of pyramid","energy of pyramid","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "among the following which animal ubhayalingee naheen is?",
+    option:["pheetaakrimi","earthworm","ghareloo makkhee","whichnka"],
+    answer:"ghareloo makkhee"
+},
+{
+    question: "somaaklonee diversityen:",
+    option:["mutation ofrakon by utpanna isn","gaamaa kiranon by utpanna isn","tissue culture in formed isn","sexual reproduction at the time of utpanna isn"],
+    answer:"tissue culture in formed isn"
+},
+{
+    question: "leveleekarana (Stratification) is found",
+    option:["desert in","ushna katibndheeya forest in","onnapaatee forest in","tundaraa in"],
+    answer:"ushna katibndheeya forest in"
+},
+{
+    question: "5 joona ko manaaor jaataa is:",
+    option:["vishva environment divasa","vishva forest divasa","vishva redakraosa divasa","vishva baala divasa"],
+    answer:"vishva environment divasa"
+},
+{
+    question: "two sookshamaorganism which genetic abhiorntriof in atyadhika mahatvapoorna are:",
+    option:["ishcherichior kolaaee and egrobaikteeriyama tyoomeephesiensa","vibriyo koleree and puchchheeya bacteriumbhojee","diplokokasa species and syoodomonaasa species","kraathose gaola bacterium and seenorendeetisa eleegensa"],
+    answer:"ishcherichior kolaaee and egrobaikteeriyama tyoomeephesiensa"
+},
+{
+    question: "among the following kisa praanee in ovo-viviperitee occurs?",
+    option:["hen","pleteepasa","raitala sarpa","ikidanaa"],
+    answer:"raitala sarpa"
+},
+{
+    question: "samagameteee paayee jaatee is:",
+    option:["algae","aavrittaseedee","anaavrittaseedee","among these sabhee"],
+    answer:"algae"
+},
+{
+    question: "heredity of prabhaava ko linga on dekhane for which-see method pradaana of gaee?",
+    option:["testa kraosa","aauta kraosa","resiprokala kraosa","siba kraosa"],
+    answer:"resiprokala kraosa"
+},
+{
+    question: "kisee DNA in codon AAA is। thisof anticodon koar honge?",
+    option:["UUU","AAA","TTT","AUG"],
+    answer:"UUU"
+},
+{
+    question: "paudhon in asexual reproduction among the following kisa method by can be?",
+    option:["mukulana","vikhndana","vibhaajana","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "yauna snfourita disease is:",
+    option:["khasaraa","tee.bee.","gonorior","taayaphaaida"],
+    answer:"gonorior"
+},
+{
+    question: "sabafrom less porasa soil is:",
+    option:["kle soil","loma soil","reteelee soil","ailyuviyala soil"],
+    answer:"kle soil"
+},
+{
+    question: "blood group of jaancha in prayukta enteeseerama in is found",
+    option:["enteebaodee","enteejana","lyookosaaitsa","none of these"],
+    answer:"enteebaodee"
+},
+{
+    question: "mesowhichika yuga is",
+    option:["matsayon of","amphibianson of","reptileson of","traailobaaitsa of"],
+    answer:"reptileson of"
+},
+{
+    question: "among these which one svaimmunity of udaaharana is?",
+    option:["damaa","roometaoyada artharaaitisa","cancer","none of these"],
+    answer:"roometaoyada artharaaitisa"
+},
+{
+    question: "vaccinekarana one vyakti ko disease from protects is, whyki that:",
+    option:["paachana ko achchhaa karane in sahaayataa does","RBC number ko badhaaataa is","antibody padaartha utpanna does","shareera of ooshmaa-tntra ko correct rakhataa is"],
+    answer:"antibody padaartha utpanna does"
+},
+{
+    question: "plaajmida of snratebha in satya is:",
+    option:["viruses in paae jaate are","gene sthaanaantarana in bahuta experiment are","jaivika krioron for gene dhaarana do","ofndareeyaofya chromosomes of bhaaga are"],
+    answer:"gene sthaanaantarana in bahuta experiment are"
+},
+{
+    question: "in which tiryaka dvikhndana is found?",
+    option:["monosistisa","plaajmodiyama","plainerior","siraatiyama"],
+    answer:"siraatiyama"
+},
+{
+    question: "among the following which-see murgiyon of one virus disease is?",
+    option:["saalmonelosisa","koraaijaa","nyookaisala disease","paashchurelosisa"],
+    answer:"nyookaisala disease"
+},
+{
+    question: "kisee bhee food chain in haraa-plant first kadaee is whyki:",
+    option:["thoseof vitarana vistrita occurs","ve soil in dridhataa from lage are","only theseheen in vaataavarana of CO₂ ko soorya light of upasthiti in sthira karane of kshamataa is","uonokta sabhee in"],
+    answer:"only theseheen in vaataavarana of CO₂ ko soorya light of upasthiti in sthira karane of kshamataa is"
+},
+{
+    question: "vibhinna alkohalika peya of formation kisa krior from is done?",
+    option:["chhaanana from","nispndana from","kinfaorest from","plaforest from"],
+    answer:"kinfaorest from"
+},
+{
+    question: "in which endosperm kadaaa and cellulosic ho jaataa is",
+    option:["mango","coconut","Phytelephas (aaivaree paama)","rendee"],
+    answer:"Phytelephas (aaivaree paama)"
+},
+{
+    question: "DNA from sndeshavaahaka RNA formation of krior ko are called?",
+    option:["pratikarana/dvicharacterna","vaashpotsarjana","pratilekhana","roopaantarana"],
+    answer:"pratilekhana"
+},
+{
+    question: "among the following which fertilization for aavashyaka is",
+    option:["Corolla","Ovule","Calyx","phala"],
+    answer:"Ovule"
+},
+{
+    question: "among the following toxinma/bemela ko chunen",
+    option:["Archaesporium","Oogonium","Ovule","Antheridium"],
+    answer:"Ovule"
+},
+{
+    question: "daobasana iofee maapaka is:",
+    option:["dhfaoresti","havaa","paanee","owhichna level of motaaee"],
+    answer:"owhichna level of motaaee"
+},
+{
+    question: "sugarcane-anusnpaddy snsthaana where avasthita is?",
+    option:["munbaee in","koyambatoora in","gauhaatee in","patanaa in"],
+    answer:"koyambatoora in"
+},
+{
+    question: "one embryoputee in two praofra of snlayana, yugmanaja snlayana and trisnlayana sthaana lete are। this onighatanaa ko koar are called",
+    option:["trisnlayana","twoharaa fertilization","endosperm","none of these"],
+    answer:"twoharaa fertilization"
+},
+{
+    question: "aaofriof and genetics roopa from samaana organisms ko are called:",
+    option:["klona","somaaklona","kaosmidsa","saaibridsa"],
+    answer:"klona"
+},
+{
+    question: "India in first janagananaa when huee?",
+    option:["1851 in","1872 in","1921 in","1951 in"],
+    answer:"1872 in"
+},
+{
+    question: "nimnalikhita RNA anukoolaka anu of ofrya does:",
+    option:["doota RNA","antarana RNA","raaibosomala RNA","none of the above"],
+    answer:"antarana RNA"
+},
+{
+    question: "DNA RNA from alaga occurs:",
+    option:["naaitrojanee samaakshaara va sugaron by","naaitrojanee samaakshaara va phaospheta samoohon by","sugaron in C onmaanuon of number by","sugar va phaospheta samoohon by"],
+    answer:"naaitrojanee samaakshaara va sugaron by"
+},
+{
+    question: "that process jisaof antargata organism offspring utpanna karaof apanee species ko nirntara banaae rakhataa is, kahalaatee is:",
+    option:["reproduction","sexual reproduction","asexual reproduction","gametereproduction"],
+    answer:"reproduction"
+},
+{
+    question: "laghuseedaanupaddyee of sabafrom aantarika onta which-see is",
+    option:["epidarmisa","endothesiyama","tepeetama","madhya onta"],
+    answer:"tepeetama"
+},
+{
+    question: "tissue culture in ofyika cell from vikasita embryo are called।",
+    option:["embaraoyada","klona","kailasa","propegyoolsa"],
+    answer:"embaraoyada"
+},
+{
+    question: "kisee DNA in:",
+    option:["thaayamina whichdaaa banaataa is guaanina from","edineena whichdaaa banaataa is thaayamina from","edinoseena whichdaaa banaataa is thaayamidina from","guaanina whichdaaa banaataa is saaitosina from"],
+    answer:"edineena whichdaaa banaataa is thaayamina from"
+},
+{
+    question: "DNA ko vishishta sthalon on whichdane having enzyme ko koar are called?",
+    option:["laathisosaaima enzyme","pratibnwealth enzyme","DNA laaigeja","none of these"],
+    answer:"DNA laaigeja"
+},
+{
+    question: "tyoobarakulosisa for which-saa vaccine prayukta is done?",
+    option:["BCG","DPT","TT","uonokta sabhee"],
+    answer:"BCG"
+},
+{
+    question: "F1 haaibrida and prabhaavee Parent between of kraosa is called",
+    option:["testa kraosa","aauta kraosa","baika kraosa","rivarsa kraosa"],
+    answer:"aauta kraosa"
+},
+{
+    question: "laboratory in DNA ko dekhane for koar is used?",
+    option:["oframeena","eneeleena bloo","itheediyama bromaaida","among these sabhee"],
+    answer:"itheediyama bromaaida"
+},
+{
+    question: "among the following which-see beemaaree murgiyon in is?",
+    option:["smata","isjaa","both (A) and (B)","raaneekheta"],
+    answer:"raaneekheta"
+},
+{
+    question: "oneidanaa is",
+    option:["yojaka kadaee","vestigial organ","vilupta kadaee","none of these"],
+    answer:"yojaka kadaee"
+},
+{
+    question: "among these in which aantarika fertilization naheen occurs?",
+    option:["bird","medhaka","stanapaayee","none of these"],
+    answer:"medhaka"
+},
+{
+    question: "protoplaasta kalchara of phyoowhichjena what is?",
+    option:["tarala naaitrojana","PEG","laiktika amla","among these sabhee"],
+    answer:"PEG"
+},
+{
+    question: "maantriyala protokaola, jisain ozone layer ko human kriorkalaapon from surakshita bachaae rakhane for uchita ofryavaahee karane ko kahaa gaor is, kisa in the year paarita kior gaor thaa?",
+    option:["1986","1987","1988","1985"],
+    answer:"1987"
+},
+{
+    question: "paudhon in ardhasootree vibhaajana in which occurs?",
+    option:["moola chhora","pollen grain","tanaa of chhora","pollenkosha"],
+    answer:"pollenkosha"
+},
+{
+    question: "F2 vnshaja of Monohybrid genotypic anupaata 1 : 2 : 1 rateshaataa is",
+    option:["Segregation","Independent assortment","Dominance","Incomplete dominance"],
+    answer:"Segregation"
+},
+{
+    question: "India of raashtareeya bird is",
+    option:["paivo kristesasa","phlemingo","kolambaa leevior","sitaikulaa"],
+    answer:"paivo kristesasa"
+},
+{
+    question: "pliyotraopika gene in rahataa is",
+    option:["onela geneotaaipa","bahula geneotaaipa","bahula pheenotaaipa","onela pheenotaaipa"],
+    answer:"bahula pheenotaaipa"
+},
+{
+    question: "jemyoolsa banate are",
+    option:["haaidraa in","spnja in","yeesta in","among these sabhee in"],
+    answer:"spnja in"
+},
+{
+    question: "vrishana thailee kisafrom relationshipita is?",
+    option:["eggaashaya","yakrita","vrishana","vrikka"],
+    answer:"vrishana"
+},
+{
+    question: "DNA of second valayeekarana snrachanaa kisa ofrana from is?",
+    option:["ilektarostetika aakarshana","vaandara vaala force","haaidrojana bndha due to","none of these"],
+    answer:"haaidrojana bndha due to"
+},
+{
+    question: "onela hybridization vaisaa hybridization is, jisain",
+    option:["only one hee plants experiment for thistemaala ho","one whichdaaa contrasting characters ko rakhaa jaataa is","snkara ko samajaata with kraosa karaaor jaataa is","two whichdaaa contrasting characters lior jaataa is"],
+    answer:"one whichdaaa contrasting characters ko rakhaa jaataa is"
+},
+{
+    question: "decomposer are:",
+    option:["enimelior","protistaa and enimelior","fungus va plant","bacterium va fungus"],
+    answer:"bacterium va fungus"
+},
+{
+    question: "sholaa forest paae jaate are",
+    option:["udaeesaa of poorvee tata in","uttara-poorvee himaalaya in","pashchimee ghaata (ofrala) in","dakshina of pathaara in"],
+    answer:"pashchimee ghaata (ofrala) in"
+},
+{
+    question: "one normal drishti having female, jisaof father varnaandha are, of shaadee one normal drishti having male from is। thatof putra and putriyon in varnaandhataa of snbhaaforestaa koar hogee?",
+    option:["25% varnaandha putra and sabhee normal drishti having putriorn","50% varnaandha putra and 50% normal drishti having putriorn","50% varnaandha putra and 50% varnaandha putriorn","sabhee putra normal drishti having and varnaandha putriorn"],
+    answer:"50% varnaandha putra and 50% normal drishti having putriorn"
+},
+{
+    question: "melaanina rngadravya of anupasthiti in dashaa utpanna is",
+    option:["varnaandhataa","rnjakaheenataa","phinaailainsectonoorior","eloafptonoorior"],
+    answer:"rnjakaheenataa"
+},
+{
+    question: "rikaombeenenta DNA technique in plaajmida vaiktara of vikhandana by whom honaa aavashyaka is?",
+    option:["garma kshaareeya ghola by","roopaantarita DNA laaigeja by","four prithaka enzyme by","thatee enzyme jisaof by daataa gene ko khandita kior gaor is"],
+    answer:"thatee enzyme jisaof by daataa gene ko khandita kior gaor is"
+},
+{
+    question: "anunmeelya flower nishchita roopa from are",
+    option:["svapollenita","onpollenita","svapollenita and onpollenita both","none of these"],
+    answer:"svapollenita"
+},
+{
+    question: "kisee baanjha plant haaibrida ko by whom Fertile made jaa sakataa is?",
+    option:["kaolcheesina of experiment from","paoleeplaoidee","gainosana yukti by","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "flower organ whose roopaantarita bhaaga is",
+    option:["pattiyon of","shaakhaaon of","Sporangia","agra meristems"],
+    answer:"pattiyon of"
+},
+{
+    question: "Nucellus or Integument from atirikta embryo of formation ko are called",
+    option:["Polyspermy","anishekareproduction","paarthenoofrpa","poliimbaraayonee"],
+    answer:"poliimbaraayonee"
+},
+{
+    question: "tambaakoo of fromforest from shareera in which-saa upaapachayee onivartana sheeghra onilakshita occurs?",
+    option:["adhivrikka grnthi of uddeepana from kaitekolemeena of in blood secretion","vyakti of bloodchaapa and hridaya spandana of rate in oneaaone growth","among these both (A) and (B)","none of these"],
+    answer:"among these both (A) and (B)"
+},
+{
+    question: "thesein which-saa natural air pradooshaka is?",
+    option:["jhaavingmukhee from nikalee gaifromn","pollen grain","dhoolakana","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "one sndeshavaahaka RNA in kitane nucleotide of krama amino acid for one kodona becomes is?",
+    option:["one","two","three","four"],
+    answer:"three"
+},
+{
+    question: "human veerya (semen) of pH is",
+    option:["4.5 – 5.5","6.5 – 6.8","7.3 – 7.5","8.2 – 8.5"],
+    answer:"7.3 – 7.5"
+},
+{
+    question: "Indian aavrittaseed embryo science of janaka are",
+    option:["bee.ema. whichharee","bee.jee.ela. svaamee","aara.ena. apela","pee. maaheshvaree"],
+    answer:"pee. maaheshvaree"
+},
+{
+    question: "antariksha organismmndala of avadhaaranaa kisane vikasita of?",
+    option:["DST","UGC","CRIS","MAB"],
+    answer:"MAB"
+},
+{
+    question: "AIDS of ofraka is:",
+    option:["bacteria","protozoa","HIV vaayarasa","traaikomonaasa"],
+    answer:"HIV vaayarasa"
+},
+{
+    question: "histaamina relationshipita is:",
+    option:["udaaseena","B-limphosaaita","enteebaodee","elarjee"],
+    answer:"elarjee"
+},
+{
+    question: "Corpus Spongiosum peshee in which is found?",
+    option:["vrishana","shishna","eggaashaya","vrikka"],
+    answer:"shishna"
+},
+{
+    question: "indala ne prastaavita kior",
+    option:["inheritance of acquired characters","genetics of niyama","sahalagnataa of niyama","energy of niyama"],
+    answer:"genetics of niyama"
+},
+{
+    question: "ee. kolaaee kloninga snvaahaka pBR 322 in pratibnwealth sthala shrrinkhalaa maujooda is:",
+    option:["EcoRI","HindIII","BamHI","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "laika operaona in laiktosa koar ofrya does?",
+    option:["niyntraka","preraka","avarodhaka","thesein hara praofra"],
+    answer:"preraka"
+},
+{
+    question: "vaahita mala from water of pollution whose putiyon from prarateshita occurs?",
+    option:["eshoafrichior","entaameebaa","syoodomonaasa","leeshmaanior"],
+    answer:"entaameebaa"
+},
+{
+    question: "two nitrogenous base of haaidrojana bnwealth between of dooree (jaifrom A-T, G-C) is:",
+    option:["samaana","asamaana","onivartanasheela","none of these"],
+    answer:"samaana"
+},
+{
+    question: "that process jisaof by male gamete and female gamete banate are, kahalaatee is:",
+    option:["fertilization","embryoreproduction","gametereproduction","aaofrareproduction"],
+    answer:"gametereproduction"
+},
+{
+    question: "vishva in paae jaane having biodiversity haota spaota of number among these which-see is?",
+    option:["25","9","34","none of these"],
+    answer:"34"
+},
+{
+    question: "bahuembryotaa sabafrom joardaa in which is",
+    option:["jimnosoanma","teridophaaita","aavrittaseedee","braayophaaita"],
+    answer:"jimnosoanma"
+},
+{
+    question: "yugmana and vikarshana of theory ko kisane proposed kior?",
+    option:["maorgana","betesana and paneta","hyoogo di vreeja","indala"],
+    answer:"betesana and paneta"
+},
+{
+    question: "DNA from pratyaksha roopa in synthesis naheen kior jaa sakataa:",
+    option:["m-RNA","t-RNA","r-RNA","protein"],
+    answer:"protein"
+},
+{
+    question: "Filiform upakarana whose specialtaa is",
+    option:["Synergids","egg","anther wall","Antipodal cells"],
+    answer:"Synergids"
+},
+{
+    question: "if father of blood group O and mother of AB ho to child in kisa blood group of snbhaaforestaa ho sakatee is?",
+    option:["O","AB","O or AB","A or B"],
+    answer:"A or B"
+},
+{
+    question: "guddedaara (maansala) tane of honaa anukoolana is।",
+    option:["deserteeya paudhon of","watereeya paudhon of","uonyukta (A) and (B) both of","none of these"],
+    answer:"deserteeya paudhon of"
+},
+{
+    question: "among these pashchavirus (Retrovirus) which is?",
+    option:["hyoomana imyoono diphisiensee vaayarasa","hepetaaitisa vaayarasa","maaikovaayarasa influenza","none of these"],
+    answer:"hyoomana imyoono diphisiensee vaayarasa"
+},
+{
+    question: "poore bhaugolika area in diversity of vaasa-sthala is:",
+    option:["gaamaa diversity","beetaa diversity","omegaa diversity","deltaa diversity"],
+    answer:"gaamaa diversity"
+},
+{
+    question: "somaaklona praapta are।",
+    option:["tissue culture by","plant reproduction by","radiationna by","geneee abhiorntriof by"],
+    answer:"tissue culture by"
+},
+{
+    question: "nyookliyosaaida is:",
+    option:["nitrogenous baseka + sugar","naaitrojanee kshaaraka + sugar + phaospheta","sugar + phaospheta","naaitrojanee kshaaraka + phaospheta"],
+    answer:"nitrogenous baseka + sugar"
+},
+{
+    question: "ethaanaola of badae paimaane on utpaadana for whose is used?",
+    option:["yeesta","bacterium","fungus","virus"],
+    answer:"yeesta"
+},
+{
+    question: "kisee aavrittaseedee (onecotyledonee) of male gametophyte are",
+    option:["Microsporangium","Nucellus","Microspore","Stamen"],
+    answer:"Microspore"
+},
+{
+    question: "kisee shugara diseaseee vyakti in insulina ko seedhe taura on mukha by naheen dior jaataa is, whyki this one:",
+    option:["C-peptide","daayasalphaaida","paoleepeptaaida","none of these"],
+    answer:"paoleepeptaaida"
+},
+{
+    question: "vibhinna praofra of gamete which one plants of genotype AaBbCc from praapta are, thoseof number is",
+    option:["2","8","4","16"],
+    answer:"8"
+},
+{
+    question: "human of udgama sthala maanaa jaataa is",
+    option:["eshior","aphreeof","yooropa","ameriof"],
+    answer:"aphreeof"
+},
+{
+    question: "‘jaivika diversity’ shabda of sarvafirst experiment when kior gaor?",
+    option:["1980","1970","1985","1975"],
+    answer:"1985"
+},
+{
+    question: "nimna in which birth control in prayukta orntriofya avarodhaka is?",
+    option:["kaoon T","madhyachchhada","delakaona chaarate","loop"],
+    answer:"madhyachchhada"
+},
+{
+    question: "see.aara. kisa disease of pahachaana for thistemaala is done?",
+    option:["taaiphaayada","cancer","tee.bee.","among these sabhee"],
+    answer:"cancer"
+},
+{
+    question: "forest oftane of ofrana:",
+    option:["human population in growth","formation ofrya","agriculture yogya land of badhatee huee maanga","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "sheetoshna sadaabahaara forest where milate are?",
+    option:["himaalaya","pashchimee ghaata","araavalee","asama"],
+    answer:"pashchimee ghaata"
+},
+{
+    question: "of DNA formation kisafrom occurs?",
+    option:["rivarsa traansakripteja","klona DNA","vrittaaofra DNA","pumaleyogaja DNA"],
+    answer:"rivarsa traansakripteja"
+},
+{
+    question: "genetic code in kitane code are?",
+    option:["8","16","32","64"],
+    answer:"64"
+},
+{
+    question: "among these kisa disease hetu elisaa (ELISA) jaancha karanaa chaahie?",
+    option:["malaria","miordee bukhaara (taayaphaaida)","echa.aaee.vee./AIDS","none of these"],
+    answer:"echa.aaee.vee./AIDS"
+},
+{
+    question: "snkataapanna speciesyon of conservation for baahyasthaana conservation of one method is",
+    option:["national park","nimnataapa onirakshana","pashu bihaara","surakshita jaivamndala"],
+    answer:"nimnataapa onirakshana"
+},
+{
+    question: "jaiva gaisa utpaadana in prayukta bacterium of samooha is:",
+    option:["yoobacteria","aargenotraapha","methenotraapha","methenojena"],
+    answer:"methenojena"
+},
+{
+    question: "if DNA of kisee prithaka kie gae starena ko 82-92°C taapa on rakhaa jaae to:",
+    option:["this RNA in onivartita ho jaataa is","this two khndon in toota jaataa is","this aneka khandon in toota jaataa is","this khula jaataa is and both rajjuka prithak aho jaate are"],
+    answer:"this khula jaataa is and both rajjuka prithak aho jaate are"
+},
+{
+    question: "somaaklonala variationen are:",
+    option:["tissue culture by utpanna variationen","laingika reproduction by utpanna variationen","myootaajena by ofrita variationen","gaamaa kirana by ofrita variationen"],
+    answer:"tissue culture by utpanna variationen"
+},
+{
+    question: "paneera in special praofra of sugndha kisafrom aatee is?",
+    option:["yeesta from","fungus from","bacterium from","virus from"],
+    answer:"bacterium from"
+},
+{
+    question: "nyoometophorsa thisaan upasthita occurs:",
+    option:["jeerophaaita","haaigrophaaita","meewhichphaaita","islophaaita"],
+    answer:"islophaaita"
+},
+{
+    question: "sookshama reproduction in karaaor jaataa is:",
+    option:["alaingika reproduction","samaana genetic characters having plants","laingika reproduction","both (A) and (B)"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "seedaanuon by reproduction karane having plants jaifrom maosa, pharna normalth kisa samooha in rakhe jaate are?",
+    option:["sporophaaitsa","thailophaaitsa","kriptogemsa","baayophaaitsa"],
+    answer:"kriptogemsa"
+},
+{
+    question: "pregnancyaavasthaa of kisa maheene in pregnancystha infant gatisheela occurs and sira on baala uga aate are?",
+    option:["chauthaa maheenaa","fivevaan maheenaa","chhathaa maheenaa","teesaraa maheenaa"],
+    answer:"fivevaan maheenaa"
+},
+{
+    question: "forest hamaare for mahattavapoorna are whyki ve hain pradaana do:",
+    option:["bhojana","fouraa","filament","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "thesesineretara of experiment kisa praofra of avashishta nistaarana hetu karanaa chaahie?",
+    option:["taapeeya vidyuta ofndara","agriculture relationshipita","human mala and anya avashishta","aspataala"],
+    answer:"aspataala"
+},
+{
+    question: "reproduction svaasthaya for koar saavapaddyee of jaroorata is?",
+    option:["yauna snfourita disease from bachaava","pregnancypaata","pregnancyvatee of samuchita dekhabhaala","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "phlaavara-saavara whose traansajenika praofra is?",
+    option:["wheat","tamaatara","paddy","rooee"],
+    answer:"tamaatara"
+},
+{
+    question: "among these which birth rate control of shailya method is",
+    option:["tyubekataumee","vaifromkataumee","(A) and (B) both hee","none of these"],
+    answer:"(A) and (B) both hee"
+},
+{
+    question: "braathose shugara chemical roopa from what is?",
+    option:["daaiesitila maorpheena haaidrokloraaida","thiyophaaileena","loraajipama","metheedrina"],
+    answer:"daaiesitila maorpheena haaidrokloraaida"
+},
+{
+    question: "Indeterminate cleavage in which is found?",
+    option:["earthworm","kalionooof","nireeja","whichnka"],
+    answer:"kalionooof"
+},
+{
+    question: "one sfaorestishechita triploid plant banaataa is।",
+    option:["4 bhinna gamete and 16 bhinna yugmanaja","8 bhinna gamete and 16 bhinna yugmanaja","8 bhinna gamete and 32 bhinna yugmanaja","8 bhinna gamete and 64 bhinna yugmanaja"],
+    answer:"8 bhinna gamete and 64 bhinna yugmanaja"
+},
+{
+    question: "nyooklika amla of naaitrogenesa besa between which-saa bnwealth rahataa is?",
+    option:["peptaaida bnwealth","thistara bnwealth","both (A) and (B)","haaidrojana bnwealth"],
+    answer:"haaidrojana bnwealth"
+},
+{
+    question: "bhoo-mndala of sabafrom badaaa biodiversity having area is:",
+    option:["poorvee himaalaya","India of pashchimee ghaata","amejana of rainfallforest","pashchimee himaalaya"],
+    answer:"amejana of rainfallforest"
+},
+{
+    question: "khachchara of origin in kinabetween hybridization occurs?",
+    option:["male gadahaa and female horse","male horse and female gadahaa","saandha and gadahee","none of these"],
+    answer:"male horse and female gadahaa"
+},
+{
+    question: "milara-yoore by for gae gaiseeya mishrana of anupaata is",
+    option:["2:1:2","1:2:1","1:1:2","2:1:1"],
+    answer:"2:1:2"
+},
+{
+    question: "trisnchayana is",
+    option:["one male gamete of two dhruva nucleuson with embryo sac in snlayana","one male gamete of three nucleuson with embryo sac in snlayana","one male gamete of two synergids with snlayana","one embryo sac in three snlayana"],
+    answer:"one male gamete of two dhruva nucleuson with embryo sac in snlayana"
+},
+{
+    question: "ELISA of experiment kina beemaariyon of pataa lagaane for is done?",
+    option:["heepaitaaitisa","AIDS","thaayaraoida disaordara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "ozone layer dhaof rahatee is:",
+    option:["madhya mndala in","baahya mndala in","samataapa mndala in","among these sabhee"],
+    answer:"samataapa mndala in"
+},
+{
+    question: "vaahita malawater of shuddhikarana in kriorsheela are:",
+    option:["animal organismka","fish","bacterium","among these sabhee"],
+    answer:"bacterium"
+},
+{
+    question: "Scutellum whose bhaaga is",
+    option:["Grass cotyledon","Dicot cotyledon","Maize endosperm","Pericarp"],
+    answer:"Grass cotyledon"
+},
+{
+    question: "daarvina of whom ofrya from atyadhika prabhaavita hue?",
+    option:["maolthasa","vailesa","spensara","laamaarka"],
+    answer:"maolthasa"
+},
+{
+    question: "kaindeediyosisa of ofrana is:",
+    option:["Pubic Lice","yoni yeesta","pina vaorma","Giant amoeba"],
+    answer:"yoni yeesta"
+},
+{
+    question: "human in highest being having cancer is?",
+    option:["melaanomaa","limphomaa","saarkomaa","ofrsinomaa"],
+    answer:"ofrsinomaa"
+},
+{
+    question: "yoni dvaara praayh one patalee membrane from dhnof occurs which are called",
+    option:["klaaitorisa","mewhichraa","thisthamasa","haayamana"],
+    answer:"haayamana"
+},
+{
+    question: "among the following which-saa jaiva peedakanaashee is?",
+    option:["beetee cotton","beetee maize","beetee paddy","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "species of jaivika avadhaaranaa mainth aadhaarita is:",
+    option:["reproductionika vilagana on","only aaofriof traits on","only reproduction of method on","aaofriofya and reproduction of methodyon on"],
+    answer:"reproductionika vilagana on"
+},
+{
+    question: "haploid cell which samasootree vibhaajana by embryo sac banaatee is, kahalaatee is",
+    option:["Megaspore mother cell","Microspore mother cell","Functional megaspore","Non-functional megaspore"],
+    answer:"Functional megaspore"
+},
+{
+    question: "fourlsa daarvina by prayukta ship of name thaa",
+    option:["H.M.S. eegala","H.M.S. beegala","H.M.S. reegala","H.M.S. taaitenika"],
+    answer:"H.M.S. beegala"
+},
+{
+    question: "ofnhaa neshanala park prasiddha is",
+    option:["pakshiyon for","gaindon for","baagha for","magaramachchhon for"],
+    answer:"baagha for"
+},
+{
+    question: "mammals of embryo in, naabhi in blood pravaaha occurs",
+    option:["50% Maternal and 50% Foetal","100% Foetal","100% Maternal","75% Maternal and 25% Foetal"],
+    answer:"100% Foetal"
+},
+{
+    question: "histaamina relationshipita is:",
+    option:["udaaseenataa","B-limphosaaita from","enteebaodee from","elarjee from"],
+    answer:"elarjee from"
+},
+{
+    question: "if two gamete dekhane in samaana lagen, to are called:",
+    option:["aathisogaimitsa","istediseaseaimitsa","Anisogametes","Exogamy"],
+    answer:"aathisogaimitsa"
+},
+{
+    question: "influenza among these by whom occurs?",
+    option:["thesepho vaayarasa","mikso vaayarasa","harpisa vaayarasa","none of these"],
+    answer:"mikso vaayarasa"
+},
+{
+    question: "kisee chhote bhaaga/tukadae of snpoorna shareera of formation ko are called:",
+    option:["Morphallaxis","Epimorphosis","Morphogenesis","Metabolism"],
+    answer:"Morphallaxis"
+},
+{
+    question: "owhichna of vighatana in which-saa tatva utpareraka as ofrya does?",
+    option:["kloreena","phloreena","okseejana","potaishiyama"],
+    answer:"kloreena"
+},
+{
+    question: "kanaofya padaartha in upasthita occurs:",
+    option:["thosa kana","tarala kana","both (A) and (B)","only gaifromn"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "paudhon in cytoplasmee male-bndhyataa hetu gene sthita are",
+    option:["maaitokaondariyala geneoma in","saaitosaola in","haritalavaka geneoma in","nucleuseeya geneoma in"],
+    answer:"maaitokaondariyala geneoma in"
+},
+{
+    question: "shareera of kisa hisfarom in spermnaashaka by sperm ko maaraa jaataa is?",
+    option:["yoni","greevaa","phailopiyana tyooba","(A) and (B) both"],
+    answer:"(A) and (B) both"
+},
+{
+    question: "pollen grain of baahya chola in suspashta dvaaraka or rndhra ko are called",
+    option:["baahya cholaa","anth cholaa","reproduction chhidra","reproduction cell"],
+    answer:"reproduction chhidra"
+},
+{
+    question: "pratyeka plant cell from poorna plant bana sakataa is। this character ko are called।",
+    option:["kloninga","somaakloninga","toteepotensee","none of these"],
+    answer:"toteepotensee"
+},
+{
+    question: "aahaara shrrinkhalaa of onsoan samooha ko koar are called?",
+    option:["aahaara chakra","aahaara jatila","aahaara jaala","poshee level"],
+    answer:"aahaara jaala"
+},
+{
+    question: "protoplaasta kalchara of phyoowhichjena what is?",
+    option:["tarala naaitrojana","PEG","laiktika amla","among these sabhee"],
+    answer:"PEG"
+},
+{
+    question: "gaatheseendaromaarpha in",
+    option:["kuchha cells of genepraaroopa XX and kuchha cells of XY occurs","sabhee cells of genepraaroopa XX occurs","sabhee cells of genepraaroopa XY occurs","sabhee cells of genepraaroopa XXY occurs"],
+    answer:"kuchha cells of genepraaroopa XX and kuchha cells of XY occurs"
+},
+{
+    question: "jaiva sakriya anu saaiklosporina A ko made jaataa is:",
+    option:["fungus from","yeesta from","bacterium from","virus from"],
+    answer:"fungus from"
+},
+{
+    question: "dee०ena०e० in nihita paayarimidina is:",
+    option:["thaayameena and saaitosina","saaitosina and guaaneena","edineena and yuraasila","edineena and thaayameena"],
+    answer:"thaayameena and saaitosina"
+},
+{
+    question: "onposhee cells in vijaateeya DNA ko pravesha karaane for kinaof use is done?",
+    option:["sookshama anthkshepana","gene gun","aharmful pathogen","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "if father of blood varga AB and mother of B is to thoseof offspring of blood varga being of sambhaaforestaa is",
+    option:["0%","50%","25%","none of these"],
+    answer:"0%"
+},
+{
+    question: "vishva of beshaofmatee oona dene having ‘pashmeenaa’ nasla is।",
+    option:["bheda of","bakaree of","bheda-bakaree hybridization","kashmeera bheda-aphagaana bheda snkara from"],
+    answer:"bakaree of"
+},
+{
+    question: "pahalee traansajenika crop thee:",
+    option:["soota","alasee","matara","tambaakoo"],
+    answer:"tambaakoo"
+},
+{
+    question: "one ecosystem in energy pravaaha of correct krama is:",
+    option:["producer → maansaahaaree → shaaofhaaree → vighatanaofree","producer → shaaofhaaree → maansaahaaree → vighatanaofree","shaaofhaaree → maansaahaaree → producer → vighatanaofree","shaaofhaaree → producer → maansaahaaree → vighatanaofree"],
+    answer:"producer → shaaofhaaree → maansaahaaree → vighatanaofree"
+},
+{
+    question: "among the following anulekhana for mahattavapoorna is:",
+    option:["DNA mithaaileja","CAAT baoksa","pramotara","DNA paolimareja"],
+    answer:"pramotara"
+},
+{
+    question: "insecton ko bhagaane having neem of utpaada is:",
+    option:["retinona","ejaadaarektina","peraathiaana","endarina"],
+    answer:"ejaadaarektina"
+},
+{
+    question: "among the following which-saa ‘bekara yeesta’ is?",
+    option:["S. cerevisiae","S. ludwigii","S. octosporus","Schizosaccharomyces"],
+    answer:"S. cerevisiae"
+},
+{
+    question: "one nadee of water of B.O.D. about kitanaa occurs?",
+    option:["8","20","400","500"],
+    answer:"8"
+},
+{
+    question: "photochemical smogkoharaa among these kisafrom becomes is?",
+    option:["salphara daaioksaaida, PAN and dhuaan","owhichna, PAN and naaitrojana daaioksaaida","owhichna, salphara daaioksaaida and haaidroofrbana","salphara daaioksaaida, ofrbana daaioksaaida and haaidroofrbana"],
+    answer:"owhichna, PAN and naaitrojana daaioksaaida"
+},
+{
+    question: "‘ecosystem’ shabda of use of shreya dior jaataa is।",
+    option:["gaardamale","odama ko","taonasalee","vaarminga ko"],
+    answer:"taonasalee"
+},
+{
+    question: "three cropen which vishva khaadya utpaadana of highest bhaaga banaatee are।",
+    option:["wheat, rice and maize","wheat, rice and jau","wheat, maize and jvaara","rice, maize and jvaara"],
+    answer:"wheat, rice and maize"
+},
+{
+    question: "pahalaa human jisaof fossil aphreeof of alaavaa yooropa and eshior in mile",
+    option:["homo isbilisa","homo irektasa","homo niendarathala","homo saipiynsa"],
+    answer:"homo irektasa"
+},
+{
+    question: "which-saa mata vyaktigata speciesvritta of pumaleaavritti does?",
+    option:["mutation theory","vnshaagati theory","pumaleaavritti theory","natural chayanavaada"],
+    answer:"pumaleaavritti theory"
+},
+{
+    question: "biotechnology by formed aushadhi whose experiment cancer nidaana in is done:",
+    option:["intarapheraona","HGH","TSH","thesesulina"],
+    answer:"intarapheraona"
+},
+{
+    question: "among the following whose formation ecosystem from occurs?",
+    option:["food chain","khaadya-jaala","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "anther koar rateshaataa is",
+    option:["Sporogonium","male gaimetophaayata","male sporophila","Sporangium"],
+    answer:"Sporogonium"
+},
+{
+    question: "thesephandeebulama in organulaaofra pravardha are called",
+    option:["phimbaree","empulaa","thisthamasa","none of these"],
+    answer:"phimbaree"
+},
+{
+    question: "sahalagnataa of khoja kisane of?",
+    option:["indala ne","stenalee and milara ne","maorgana ne","none of these"],
+    answer:"maorgana ne"
+},
+{
+    question: "one praaroopee nyookliyosoma in histona ashtaka on lipate DNA kundalee in kshaara yugmon of number is।",
+    option:["100","200","300","400"],
+    answer:"200"
+},
+{
+    question: "praacheena ofla in yeesta of experiment of whom formation in kior jaataa thaa?",
+    option:["vaathese","biyara","rama","sabhee"],
+    answer:"sabhee"
+},
+{
+    question: "floweringya paudhon in onelingee male flower ko are called",
+    option:["Pistillate","Monoecious","Dioecious","Staminate"],
+    answer:"Staminate"
+},
+{
+    question: "thesein in which erila naheen is found",
+    option:["shareephaa","leechee","mango","miristiof"],
+    answer:"mango"
+},
+{
+    question: "haploid cells of snlayana of process ko are called।",
+    option:["cell chakra","ardadhasootree vibhaajana","samasootree vibhaajana","snyugmana (syngamy)"],
+    answer:"snyugmana (syngamy)"
+},
+{
+    question: "anther in pollen grain of formation and differentiation ko are called",
+    option:["Megasporogenesis","Microsporogenesis","Spermatogenesis","dvifertilization"],
+    answer:"Microsporogenesis"
+},
+{
+    question: "charama community formation up to one community of species of doosare from kramika onivartana is called",
+    option:["sequencena","paaritntra","population","none of these"],
+    answer:"sequencena"
+},
+{
+    question: "punofsara kitane bhaagon in bntaa occurs",
+    option:["1","2","3","4"],
+    answer:"2"
+},
+{
+    question: "onbhakshana and parasitism in this taraha paarasoanika krior is:",
+    option:["+,+","-,-","+,0","+,-"],
+    answer:"+,-"
+},
+{
+    question: "moreaansha pratijaivika taiorra are done",
+    option:["fungi from","yeesta from","algae from","bacterium from"],
+    answer:"bacterium from"
+},
+{
+    question: "rookshaansha (Roughage) of moretaa is।",
+    option:["egge in","khanija padaarthon in","anaaja in","ghaasa, bhoosaa, fouraa in"],
+    answer:"ghaasa, bhoosaa, fouraa in"
+},
+{
+    question: "natural genetic abhiyntaa is:",
+    option:["baiseelasa sabatilasa","syoodomonaasa species","eeshcherichior kolaaee","egrobaikteeriyama tyoomeephesiensa"],
+    answer:"egrobaikteeriyama tyoomeephesiensa"
+},
+{
+    question: "human geneoma in kshaara yugmon of number is:",
+    option:["3 × 10^6","3 × 10^9","3 × 10^12","none of these"],
+    answer:"3 × 10^9"
+},
+{
+    question: "one hee species of organisms of saamaajika-sthaanika sngathana ko koar are called?",
+    option:["speesheeja","aabaadee","community","vyashti"],
+    answer:"aabaadee"
+},
+{
+    question: "onivaara niyojana for shukravaahinee ko oftakara baanwealthe of method ko are called:",
+    option:["Tubectomy","Ovarectomy","Vasectomy","Castration"],
+    answer:"Vasectomy"
+},
+{
+    question: "traansajenika animals in:",
+    option:["videshee RNA theseof sabhee cells in occurs","videshee DNA theseof sabhee cells in occurs","videshee DNA theseof kuchha cells in occurs","(B) and (C) both"],
+    answer:"videshee DNA theseof sabhee cells in occurs"
+},
+{
+    question: "1000 pollen grain from kitane pollen maatri cell of formation hogaa",
+    option:["200","250","300","100"],
+    answer:"250"
+},
+{
+    question: "peraoksee eseetila naaitreta (PAN) kisa praofra of pradooshaka is?",
+    option:["primary pradooshaka","secondary pradooshaka","water pradooshaka","dhfaoresti pradooshaka"],
+    answer:"secondary pradooshaka"
+},
+{
+    question: "kaoon-tee prevents is:",
+    option:["fertilization ko","ovooleshana ko","yooterasa of deevaaron on imbariyon of formation ko","riprodaktiva dakta in ruofvata ko"],
+    answer:"fertilization ko"
+},
+{
+    question: "spermatogenesis by whom abhibhoota occurs?",
+    option:["FSH","MSH","ACTH","HCG"],
+    answer:"FSH"
+},
+{
+    question: "Indiain the year haota spaotsa paae jaate are",
+    option:["only poorvee himaalaya in","only pashchimee ghaata in","poorvee himaalaya and pashchimee ghaata in","raajasthaana of registaana in"],
+    answer:"poorvee himaalaya and pashchimee ghaata in"
+},
+{
+    question: "Spermatids of roopaantarana Spermatozoa in kisa method by occurs?",
+    option:["Spermiation","Spermatogenesis","Spermiogenesis","Spermatosis"],
+    answer:"Spermiogenesis"
+},
+{
+    question: "LSD is obtained:",
+    option:["fungus from","laaiofna from","algae from","bacterium from"],
+    answer:"fungus from"
+},
+{
+    question: "among these which sarvaadhika energy praapta does?",
+    option:["sheersha consumer","producer","sartahataaree","none of these"],
+    answer:"producer"
+},
+{
+    question: "voarvasaayika level on sookshamaorganisms ko utpanna karane in aavashyakataa is",
+    option:["kinfaorest of","baayogaisa snyntra of","peneesilina of","staitina of"],
+    answer:"kinfaorest of"
+},
+{
+    question: "ghaanaa bird vihaara sthita is –",
+    option:["uttara pradesha","raajasthaana","hariornaa","bihaara"],
+    answer:"raajasthaana"
+},
+{
+    question: "vrikka and reproduction organ of formation kisafrom occurs?",
+    option:["endoderm","Mesoderm","ectoderm","ecto-mesoderm"],
+    answer:"Mesoderm"
+},
+{
+    question: "naaramena baaralaoga kisafrom relationshipita are?",
+    option:["sapheda kraanti","harita kraanti","neelee kraanti","peelee kraanti"],
+    answer:"harita kraanti"
+},
+{
+    question: "maanasa fromnchuree sthita is।",
+    option:["raajasthaana","asama","bihaara","gujaraata"],
+    answer:"asama"
+},
+{
+    question: "among these which-saa nimetoda tambaakoo of paudhon of jadaon ko snkramita does?",
+    option:["baisilasa thurijiensisa","kraaee aai e see","melaoyadaojina thesekognitaa","(A) and (B) both"],
+    answer:"melaoyadaojina thesekognitaa"
+},
+{
+    question: "jenetika ingeneiyaringa in thistemaala pahale pratibnwealth of enzyme name is:",
+    option:["EcoRI","HindIII","BamHI","among these sabhee"],
+    answer:"EcoRI"
+},
+{
+    question: "Cri-du-chat sindroma kisa chromosomeeeya aberration due to occurs?",
+    option:["Inversion","Translocation","Deletion","Duplication"],
+    answer:"Deletion"
+},
+{
+    question: "kisee sperm in nucleusyukta genetic material in which is found?",
+    option:["onerosoma","sira","madhya peesa","poonchha"],
+    answer:"sira"
+},
+{
+    question: "vaahitamala of primary treatment in kina krioron of use occurs?",
+    option:["plaforest","chhaanana","nispndana","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "aabaadee of sthaana occurs:",
+    option:["speesheeja","speesheeja of adheenastha","community of","speesheeja of baraabara"],
+    answer:"speesheeja of adheenastha"
+},
+{
+    question: "spermatogenesis of control by whom occurs?",
+    option:["estarojana","LH","endrojana","none of these"],
+    answer:"endrojana"
+},
+{
+    question: "thesein which thahare hue paanee in ugakara okseejana kheencha letaa is?",
+    option:["water hyacinth","Hydrilla","lotus","paddy"],
+    answer:"water hyacinth"
+},
+{
+    question: "kisee nishchita bhoo-bhaaga in hee paae jaane having organisms ko kisa snjnyaa from jaanaa jaataa is?",
+    option:["endemika","vaishvika","mahaamaaree","none of these"],
+    answer:"endemika"
+},
+{
+    question: "O blood group having father and O samooha having child's geneotaaipa hogaa",
+    option:["IᴬIᴬ","Iᴬi","IᴬIᴮ","ii"],
+    answer:"ii"
+},
+{
+    question: "one species for anupaata niyama is:",
+    option:["T+C/G+A","A+C/T+G","G+C/A+T","A+C/C+T"],
+    answer:"A+C/T+G"
+},
+{
+    question: "gamete snlayana poorna when koar occurs",
+    option:["yugmanaja (zygote) of rachanaa is","triploid/trisnlayana occurs","twoharaa fertilization occurs","uonokta sabhee ofrya are"],
+    answer:"yugmanaja (zygote) of rachanaa is"
+},
+{
+    question: "ecological pyramid are:",
+    option:["two praofra of","three praofra of","four praofra of","five praofra of"],
+    answer:"three praofra of"
+},
+{
+    question: "samataapa mndala in UV radiation avashoshita does:",
+    option:["O₂","O₃","SO₂","Ar"],
+    answer:"O₃"
+},
+{
+    question: "among the following which-saa golaofra (globular) protein of udaaharana is?",
+    option:["maayosina","kolejana","ofraatina","hemoglobin"],
+    answer:"hemoglobin"
+},
+{
+    question: "kisee cell in highest found jaane having RNA is:",
+    option:["t-RNA","r-RNA","m-RNA","hn-t-RNA"],
+    answer:"r-RNA"
+},
+{
+    question: "genetic apavaahana whose gene aavritti in onivartana laataa is?",
+    option:["first peedhaee","agalee peedhaee","aprabhaavee gene","prabhaavee gene"],
+    answer:"agalee peedhaee"
+},
+{
+    question: "smallpox kisadue to occurs?",
+    option:["virus","bacterium","fungus","machchhada"],
+    answer:"virus"
+},
+{
+    question: "monoklonala enteebaodeeja praapta is donen:",
+    option:["one pratijana for one paitrika from","one pratijana for bhinna paitrikon from","aneka pratijanon for one paitrika from","aneka pratijanon for aneka paitrikon from"],
+    answer:"one pratijana for one paitrika from"
+},
+{
+    question: "gngaawater in shava ko pravaahita karane from koar occurs?",
+    option:["ghulita okseejana in lessee","BOD in growth","bacteriumon in growth","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "reservoiron in suposhana for sabafrom prabhaavashaalee is:",
+    option:["aofrbanika phaospheta","ofrbanika padaartha","algae","bacterium"],
+    answer:"aofrbanika phaospheta"
+},
+{
+    question: "shareera of baahara being having fertilization ko koar are called?",
+    option:["these vitro","these veevo","both (A) and (B)","none of these"],
+    answer:"these vitro"
+},
+{
+    question: "ozone layer of kshaya among these kisadue to occurs?",
+    option:["ofrbana daaioksaaida","klorophloroofrbana","paina (PAN)","none of these"],
+    answer:"klorophloroofrbana"
+},
+{
+    question: "chipako aantwolana chalaaor gaor",
+    option:["madhyapradesha in","uttaraakhnda in","hariornaa in","dillee in"],
+    answer:"uttaraakhnda in"
+},
+{
+    question: "nimnalikhita vaijnyaanikon in from kisane proteinyukta snrachanaaon ko koesaraveta name dior?",
+    option:["operina by","heldena by","daarvina by","these sabhee of by"],
+    answer:"operina by"
+},
+{
+    question: "kisee bhee gene of anabhivyakti among these by whom snpaadita is?",
+    option:["chhotaa vyatiofree RNA (RNAi)","enteefromnsa RNA","A and B both","none of these"],
+    answer:"A and B both"
+},
+{
+    question: "organismna of chemical origin of sidpaaddyta by whom bataaor gaor?",
+    option:["milara va phaoksa","operina va haaldena","milara va vaatasana","vaatasana va melvina"],
+    answer:"operina va haaldena"
+},
+{
+    question: "tambaakoo of taraha of paudhon in Polygenic heredity of adhyayana sarvafirst kisane kior thaa?",
+    option:["devenaporta","nilsana-ihale","kolariyootara","gailtana"],
+    answer:"kolariyootara"
+},
+{
+    question: "land-phalanee phala is",
+    option:["aaloo","moongaphalee","poarja","arateka"],
+    answer:"moongaphalee"
+},
+{
+    question: "niyo-daarvinijma by daarvinijma of theory in main onivartana kior gaor",
+    option:["variation of udgama in","natural chayana of voarkhoar in","speesheeja formation of voarkhoar in","aathisoleshana of voarkhoar in"],
+    answer:"variation of udgama in"
+},
+{
+    question: "DNA in which-saa nitrogenous base anupasthita occurs?",
+    option:["A","C","T","U"],
+    answer:"U"
+},
+{
+    question: "which-saa paddy of snkara variety is?",
+    option:["sonaaraa","sharabatee","jaor","gngaa"],
+    answer:"jaor"
+},
+{
+    question: "ofndareeya aushadhi anusnpaddy snsthaana by which-see contraceptive pill taiorra of gaee is?",
+    option:["maalaa-D","snyukta golee","sahelee","nirodha"],
+    answer:"sahelee"
+},
+{
+    question: "baayogaisa in mishrita gaison of name is:",
+    option:["CH₄, H₂S, CO₂, CO","CH₄, H₂S, CO₂","CH₄, CO₂","CO, CH₄, H₂S"],
+    answer:"CH₄, H₂S, CO₂"
+},
+{
+    question: "among the following which-saa vaahana of exhaust naheen is?",
+    option:["SO₂","CO₂","CO","Fly ash (raakha)"],
+    answer:"Fly ash (raakha)"
+},
+{
+    question: "nimna in parasitic animal which-saa is?",
+    option:["fish","kharagosha","sooara","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "when hama dhruva from bhoomadhyarekhaa of ora badhate are taba biodiversity",
+    option:["badhatee is","ghatatee is","sthira rahatee is","none of these"],
+    answer:"badhatee is"
+},
+{
+    question: "maasika dharma of aarnbha from secretionita being having haormona of krama are",
+    option:["FSH, projestaraona, thistrojena","thistrojena, FSH, projestaraona","FSH, thistrojena, projestaraona","thistrojena, projestaraona, FSH"],
+    answer:"FSH, thistrojena, projestaraona"
+},
+{
+    question: "bacteria ko kisane khojaa thaa?",
+    option:["kocha","lyoovenahuka","paashchara","none of these"],
+    answer:"lyoovenahuka"
+},
+{
+    question: "ushna katibndheeya foreston in kuchha species of vilupti of main ofrana is।",
+    option:["forestonmoolana","vrikshaaropana","pollution","soil aondana"],
+    answer:"forestonmoolana"
+},
+{
+    question: "nimnalikhita anu pahalaa genetic material banaa:",
+    option:["DNA","RNA","protein","none of the above"],
+    answer:"RNA"
+},
+{
+    question: "among these which male gamete from snyojana karaof endosperm becomes is",
+    option:["anishechita egg","sahaayaka cell","enteepodalsa","secondary nucleus"],
+    answer:"secondary nucleus"
+},
+{
+    question: "taipetama of ofrya is",
+    option:["surakshaa","poshana","shvasana","uonokta sabhee"],
+    answer:"poshana"
+},
+{
+    question: "ecosystem naheen is one",
+    option:["khulaa tntra","bnda tntra","asthira tntra","none of these"],
+    answer:"bnda tntra"
+},
+{
+    question: "onkhanalee infant of relationship in satya is:",
+    option:["female of reproductionaanga in fertilization and onkhanalee in growth","birthpoorva infant ko thesekyoobetara in rakhanaa","reproductionaangon from baahara fertilization and uterus in development","fertilization and development uterus of baahara"],
+    answer:"reproductionaangon from baahara fertilization and uterus in development"
+},
+{
+    question: "human plefromntaa occurs",
+    option:["heemokoriyala","sinadesmokoriyala","peeta kosha","heemoendotheeliyala"],
+    answer:"heemokoriyala"
+},
+{
+    question: "DNA as heliksa of one chakkara occurs:",
+    option:["20 Å","2 nm","20 nm","34 nm"],
+    answer:"34 nm"
+},
+{
+    question: "among the following which-see snyukta kadaee bird and reptiles between is?",
+    option:["seemairior","aarkiyopteriksa","peripetasa","dipnoee"],
+    answer:"aarkiyopteriksa"
+},
+{
+    question: "which meesodarmala origin of naheen is?",
+    option:["tantariof tntra","onisncharana tntra","peshee tntra","knofla tntra"],
+    answer:"tantariof tntra"
+},
+{
+    question: "RNA relationshipna of pashchaat awhich-saa enzyme onesaona khandon ko punh whichdataa is?",
+    option:["RNA paoleemareja","RNA praaimesa","RNA laaigeja","RNA protieja"],
+    answer:"RNA laaigeja"
+},
+{
+    question: "estarojana and projesterona secretionita occurs",
+    option:["eggaashaya","vrishana","aonaa","kidanee"],
+    answer:"aonaa"
+},
+{
+    question: "sperm formation of kriormethod ko are called:",
+    option:["spermatogenesis","femalereproduction","gametereproduction","organreproduction"],
+    answer:"spermatogenesis"
+},
+{
+    question: "AIDS for skareeninga oneekshana is:",
+    option:["vestarna blaota","elisaa","PCR","saratena blaota"],
+    answer:"elisaa"
+},
+{
+    question: "disease against pratirodhakataa kisa ofrana is?",
+    option:["imyoonoglobyoolina","HLA protein","pratijana","histaameena"],
+    answer:"imyoonoglobyoolina"
+},
+{
+    question: "human in kisa cord by vrishana scrotal sac from judaaa occurs?",
+    option:["Gubernaculum","Ligament","Spermatic cord","Spemann"],
+    answer:"Gubernaculum"
+},
+{
+    question: "tarmaale sindroma in maujooda baara-baodee of number is",
+    option:["0","1","2","8"],
+    answer:"0"
+},
+{
+    question: "kisee female in blastocyst for koar correct is?",
+    option:["this Implantation from pahale plaafromntaa becomes is।","ovulation of three dina baada Implanted occurs","Implantation of baada uterus of deevaara from poshaka padaartha letaa is","Implantation with trophoblast cell by Implanted occurs"],
+    answer:"Implantation with trophoblast cell by Implanted occurs"
+},
+{
+    question: "ozone layer kisa level on is found?",
+    option:["staraitosphiyara","leethosphiyara","troposphiyara","hemospheeyara"],
+    answer:"staraitosphiyara"
+},
+{
+    question: "airmndala in CO₂ of concentration in growth harmful is whyki this:",
+    option:["smog banaataa is","taapa avashoshita does","shvasana relationshipee disease utpanna does","tvachaa disease utpanna does"],
+    answer:"taapa avashoshita does"
+},
+{
+    question: "embryo of development of krior ko are called:",
+    option:["Vivipary","paarthenojenesisa","Embryogenesis","sporojenesisa"],
+    answer:"Embryogenesis"
+},
+{
+    question: "‘goldena raathis’ in which-saa vitamin prachura amount in rahataa is?",
+    option:["vitamin A","vitamin K","vitamin E","vitamin C"],
+    answer:"vitamin A"
+},
+{
+    question: "thesein which kraaee gene crop ko chhedaka from protects is?",
+    option:["cry I Ac","cry II Ab","cry I Ab","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "kisee fertilization at the time of sperm of poonchha",
+    option:["egg of anrate pravesha kara jaatee is","egg of baahara hee raha jaatee is","eggaa of plaajmaamembrane up to pahunchatee is","eggaa of cytoplasm up to pahunchatee is"],
+    answer:"egg of baahara hee raha jaatee is"
+},
+{
+    question: "tissue culture by badaee number in plaantaletsa praapta karane of technique kahalaatee is।",
+    option:["organa kalchara","sookshama pravarwaealth","maikropropegeshana","plaantaleta kalchara"],
+    answer:"sookshama pravarwaealth"
+},
+{
+    question: "sujaaka (gonorior) disease is:",
+    option:["water janita disease","havaa janita disease","yauna snfourita disease","disease naheen is"],
+    answer:"yauna snfourita disease"
+},
+{
+    question: "enaataopasa seedaanda occurs",
+    option:["seedhaa","ultaa","gola","vakra"],
+    answer:"ultaa"
+},
+{
+    question: "aburdeeya virus ofraka are:",
+    option:["poliyo","kshaya-disease","peelior","cancer"],
+    answer:"cancer"
+},
+{
+    question: "among these which air pradooshaka naheen is?",
+    option:["CO","CO₂","SO₂","koee bhee naheen"],
+    answer:"koee bhee naheen"
+},
+{
+    question: "kisee organism of developmenteeya itihaasa is called",
+    option:["ontojenee","phaailojenee","poorvajataa","fossiliof"],
+    answer:"phaailojenee"
+},
+{
+    question: "somaitika haaibridaaijeshana snpaadita kior jaa sakataa is।",
+    option:["protoplaasta snlayana by","haploid pollenkosha by","cell kalchara by","toteepotensee by"],
+    answer:"protoplaasta snlayana by"
+},
+{
+    question: "Implantation of baada Parturition occurs, thisof taatoanya is",
+    option:["embryo of alaga honaa","embryo of development","birth of krior","uterus of sikudana"],
+    answer:"birth of krior"
+},
+{
+    question: "Entomophily in pollination by whom occurs",
+    option:["water","insect","jaanavara","air"],
+    answer:"insect"
+},
+{
+    question: "humanon in tvachaa of rnga of vnshaagati whose one udaaharana is?",
+    option:["chromosome vipathana","bindu mutation","bahugeneee vnshaagati","sahaprabhaavitaa"],
+    answer:"bahugeneee vnshaagati"
+},
+{
+    question: "indala of niyama of one apavaada is",
+    option:["prabhaavitaa","yugma of shuddhataa","sahalagnataa","svatntra apavyoohana"],
+    answer:"sahalagnataa"
+},
+{
+    question: "dvikhandana one praofra of",
+    option:["ofyika pravardawealth is","asexual reproduction is","sexual reproduction is","none of these"],
+    answer:"asexual reproduction is"
+},
+{
+    question: "XYY on symptom rateshaataa is",
+    option:["avikasita reproductionaanga, forestdhya, avikasita chhaatee","lnbaaee in more, normal reproductionaanga development and vyathataara relationshipee samasoaren","normal oonchaaee and reproductionaanga of normal development","uonyukta in from koee naheen"],
+    answer:"lnbaaee in more, normal reproductionaanga development and vyathataara relationshipee samasoaren"
+},
+{
+    question: "khaadya utpaadana in growth hetu which-see snbhaaforestaa hama socha sakate are?",
+    option:["agriculture rasaayana aadhaarita agriculture","ofrbanika agriculture","genetic aadhaarita agriculture","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "cancer of ofraka is:",
+    option:["onkogenesa","aburdeeya virus","both (A) and (B)","none of these"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "among the following which-saa 7 pairs contrasting characters ko naheen rateshaataa is?",
+    option:["paudhon of oonchaaee","pattiyon of aaofra","Pod of aaofra","Pod of rnga"],
+    answer:"Pod of aaofra"
+},
+{
+    question: "DNA of jaancha of method is:",
+    option:["aayodeena testa","phyoolajena rioneshana","rolisha testa","milaonsa reeejenta"],
+    answer:"phyoolajena rioneshana"
+},
+{
+    question: "enteebaodee chemical roopa from occurs:",
+    option:["protein","lipoprotein","lipida","nyookliyoprotein"],
+    answer:"protein"
+},
+{
+    question: "'kraaee-gene' baolakrimi from kisa crop ko protects is?",
+    option:["cotton","mango","chaaya","wheat"],
+    answer:"cotton"
+},
+{
+    question: "praaimarsa (Primers) of use is done:",
+    option:["PCR","kloninga in","DNA snsaawealth in","none of these"],
+    answer:"PCR"
+},
+{
+    question: "one dvivaleeya DNA anu in two valayon of vinoarsa occurs:",
+    option:["one main aksha of fouron ora kundalee by","one-doosare of ooon kundalita by","vibhinna roopon in kundalita","protein aavarana of ooon kundalita"],
+    answer:"one main aksha of fouron ora kundalee by"
+},
+{
+    question: "poorna linofja dikhaaee padatee is",
+    option:["maize in","staree in","female drosophilaa in","male drosophilaa in"],
+    answer:"male drosophilaa in"
+},
+{
+    question: "among the following which pattee of agra bhaaga by reproduction does?",
+    option:["vaakinga pharna","sparaauta leepha plant","maaraofsior","maosa"],
+    answer:"vaakinga pharna"
+},
+{
+    question: "gene ko sistaraona, rikaona and myootaona as kisane onibhaashita kior thaa?",
+    option:["jaiwhen and monoda","britana and devidasana","vaatasana and krika","benjara"],
+    answer:"benjara"
+},
+{
+    question: "airmndaleeya naaitrojana ko which sthireekrita does?",
+    option:["saatheseobacteria","algae","virus","none of these"],
+    answer:"saatheseobacteria"
+},
+{
+    question: "human saadhaaranataor dhfaoresti teevrataa sahana kara sakataa is:",
+    option:["20–30 deseebael","80–90 deseebael","120–130 deseebael","140–150 deseebael"],
+    answer:"120–130 deseebael"
+},
+{
+    question: "airmndaleeya aardarataa ko kisafrom maapaa jaataa is?",
+    option:["okfaromnomeetara","haaigromeetara","photomeetara","potomeetara"],
+    answer:"haaigromeetara"
+},
+{
+    question: "Amphimixis from taatoanya is",
+    option:["Antifertilizin and Fertilizin protein between pratikrior","male and female pratinucleuson of snyojana","egg by sngrahee shnku of formation","sperm by egg of chhedana"],
+    answer:"male and female pratinucleuson of snyojana"
+},
+{
+    question: "embryoaavasthaa in sabhee tissue of formation kisafrom occurs?",
+    option:["Ectoderm","Mesoderm","Endoderm","Stem cells"],
+    answer:"Stem cells"
+},
+{
+    question: "kisa of RNA klovara leepha maodala occurs?",
+    option:["t-RNA","r-RNA","hn-RNA","m-RNA"],
+    answer:"t-RNA"
+},
+{
+    question: "birth from lekara natural mrityu between of avasthaa ko are called:",
+    option:["organismna-ofla","organismna chakra","ofyika avasthaa","sabhee"],
+    answer:"organismna-ofla"
+},
+{
+    question: "population more being from koar occurs?",
+    option:["aaya in lessee","jameena in lessee","khanija padaartha of lessee","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "paudhon of jadaon in tyoomara paidaa does:",
+    option:["E. coli","egrobaikteeriyama","tharmasa onevetikasa","none of these"],
+    answer:"egrobaikteeriyama"
+},
+{
+    question: "daatra cell abloodtaa in beetaa globina gene of GAG codon of kisa codon from pratisthaapana ho jaataa is?",
+    option:["GUG","GCG","GGG","none of the above"],
+    answer:"GUG"
+},
+{
+    question: "DNA ko dekhane for is used:",
+    option:["itheediyama bromaaida","eneeleena bloo","fromphreneena","phaasta greena"],
+    answer:"itheediyama bromaaida"
+},
+{
+    question: "three onton having snrachanaa jisaof anrate one nayee guhaa aadyntra (Archenteron) bana gayee is, kahalaatee is:",
+    option:["blaastoolaa","gaistarulaa","cleavage","none of these"],
+    answer:"gaistarulaa"
+},
+{
+    question: "among these which one jaiva khaada naheen is?",
+    option:["awhichtobaiktara","baisilasa thurinjiensisa","klaostaridiyama","awhichlaa"],
+    answer:"baisilasa thurinjiensisa"
+},
+{
+    question: "kolaa, chaaya va koko in found jaane having uttejaka is:",
+    option:["koofna","tenina","empheetaameena","kaipheena"],
+    answer:"kaipheena"
+},
+{
+    question: "svapollination for one flower ko honaa chaahie",
+    option:["alaingika","onelalingee","onelingee","dvilingee"],
+    answer:"dvilingee"
+},
+{
+    question: "mango of phala in khaane having bhaaga is –",
+    option:["baahya phala wall","madhya phala wall","anth phala wall","none of these"],
+    answer:"madhya phala wall"
+},
+{
+    question: "among the following from which vilupta praanee is?",
+    option:["lion","dodo","mora","among these sabhee"],
+    answer:"dodo"
+},
+{
+    question: "aavrittaseediyon in female gameteodbhid ais called",
+    option:["endosperm","embryokosha","embryo","yugmanaja"],
+    answer:"embryokosha"
+},
+{
+    question: "anupravaaha snsaawealth in koar occurs?",
+    option:["separation","showealth","separation and showealth","utpaadana"],
+    answer:"separation and showealth"
+},
+{
+    question: "cancer beemaaree of treatment is:",
+    option:["surgical-chikitsaa","ofmotheraipee","rediyotheraipee","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "breda banaane in thistemaala occurs:",
+    option:["bacterium","bekara yeesta","syoodomonaasa","none of these"],
+    answer:"bekara yeesta"
+},
+{
+    question: "if mother of blood group A and father of AB ho to infant of blood-samooha koar can be?",
+    option:["AB","A or B","A, B or AB","O only"],
+    answer:"A, B or AB"
+},
+{
+    question: "genetics of father kifrom are called?",
+    option:["indala","maorgana","lemaarka","di vreeja"],
+    answer:"indala"
+},
+{
+    question: "among the following biotechnology of anusnpaddy area which-saa is?",
+    option:["thosenata organisms of formation karanaa","sarvottama onisthitiyon of formation karanaa","protein/ofrbanika yaugika of shuddhikarana in use karanaa","uonokta sabhee"],
+    answer:"uonokta sabhee"
+},
+{
+    question: "yookairiotsa in paae jaane having naonakodinga krama ko koar are called?",
+    option:["promotara","onesona","introna","vikhndita gene"],
+    answer:"introna"
+},
+{
+    question: "RU-486 davaa experiment is done:",
+    option:["pregnancynirowealth in","emniyofromntesisa","pregnancypaata ofraka as","myootaajana as"],
+    answer:"pregnancypaata ofraka as"
+},
+{
+    question: "startolee cells paayee jaatee are",
+    option:["vrishana in","uterus in","eggaashaya in","yakrita in"],
+    answer:"vrishana in"
+},
+{
+    question: "bhopaala gaisa traasadee kisa gaisa of risaava from huee?",
+    option:["PAN","smaoga","mithaaila aathisosaatheseeta","SO₂"],
+    answer:"mithaaila aathisosaatheseeta"
+},
+{
+    question: "maaikrosporenjiyama of aantarika wall which poshaka is, ufrom koar are called",
+    option:["endotheesiyama","intaathese","taipeetama","madhya level"],
+    answer:"taipeetama"
+},
+{
+    question: "that sthaana jahaan ovule, ovulevrinta from judataa is",
+    option:["Chalaza","ovuledvaara","ovuleofya","naabhiof"],
+    answer:"naabhiof"
+},
+{
+    question: "tamaatara of traansajenika variety is:",
+    option:["beetee cotton","paamaphreta","phlevara fromvara","none of these"],
+    answer:"phlevara fromvara"
+},
+{
+    question: "DNA from mRNA banaane of krior ko koar are called?",
+    option:["traansakripshana","ripliofshana","traansaleshana","none of these"],
+    answer:"traansakripshana"
+},
+{
+    question: "when sntati of origin onela janaka by is taba this koar is called?",
+    option:["sexual reproduction (sexual reproduction)","asexual reproduction (asexual reproduction)","both (A) and (B)","aantarika fertilization (Internal fertilization)"],
+    answer:"asexual reproduction (asexual reproduction)"
+},
+{
+    question: "SO₂ pollution from prabhaavita occurs:",
+    option:["maaitokaondarior","kloroplaasta","gaoljee niofya","ER"],
+    answer:"kloroplaasta"
+},
+{
+    question: "Nodes ko ‘aankha’ are called, which among the following in which naor plant banaate are?",
+    option:["arateka","braayophaayalama","eloofsior","aaloo"],
+    answer:"aaloo"
+},
+{
+    question: "human in ABO blood group of nirdhaarana three alleles from occurs। thesefrom kitane genotypes snbhava are?",
+    option:["3","4","6","8"],
+    answer:"6"
+},
+{
+    question: "plant culture occurs।",
+    option:["putndu","punofsara","pollenkosha","punmnga"],
+    answer:"pollenkosha"
+},
+{
+    question: "jela vaidyuta of snchalana (ilektarophoresisa) of use occurs:",
+    option:["DNA ko prithaka karane for","RNA ko prithaka karane for","protein ko prithaka karane for","sabhee ko prithaka karane for"],
+    answer:"sabhee ko prithaka karane for"
+},
+{
+    question: "fertilization at the time of kisee praaroopika dvicotyledonee (Polygonum) of female gametophyte are",
+    option:["8-nucleuseeya 7-kosheeya","7-nucleuseeya 8-kosheeya","4-nucleuseeya 4-kosheeya","8-nucleuseeya 8-kosheeya"],
+    answer:"8-nucleuseeya 7-kosheeya"
+},
+{
+    question: "nimnalikhita gaison ko normalth greenhouse gas are called:",
+    option:["CFC, CH₄, N₂O and CO₂","CFC, CO₂, NH₃ and N₂","CO₂, CO, NH₃ and NO₂","CFC, N₂, CO₂ and NH₂"],
+    answer:"CFC, CH₄, N₂O and CO₂"
+},
+{
+    question: "Polynology in whose adhyayana do",
+    option:["pollen grain","bera","flower","phala"],
+    answer:"pollen grain"
+},
+{
+    question: "kolastarama in found jaane having enteebaodee of praofra is:",
+    option:["IgA","IgG","IgD","IgE"],
+    answer:"IgA"
+},
+{
+    question: "cheetiyon by pollination ko koar are called",
+    option:["oranithophilee","maarameekophilee","malekophilee","ofonoteerophilee"],
+    answer:"maarameekophilee"
+},
+{
+    question: "anulekhana at the time of if DNA valayaka of nucleotide krama ko ATACG by kodita is done, to mRNA in nucleotide of krama hogaa:",
+    option:["UATGC","TATGC","TCTGC","UAUGC"],
+    answer:"UAUGC"
+},
+{
+    question: "yauna-snfourita disease is:",
+    option:["klaimaaidior","AIDS","harpisa","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "DNA among these whose genetic material is?",
+    option:["tee०ema०vee०","baikteeriyopheja","among these both of","kisee of naheen"],
+    answer:"baikteeriyopheja"
+},
+{
+    question: "pratimaajaka (Anticoagulant) hirudina paayee jaatee is:",
+    option:["sarpa in","chhipakalee in","whichnka in","bichchhoo in"],
+    answer:"whichnka in"
+},
+{
+    question: "kukkuta paalana in koksidiyosisa of disease ofrana is।",
+    option:["protozoa parasitic","nimaitoda parasitic","virus","pheetaakrimi"],
+    answer:"protozoa parasitic"
+},
+{
+    question: "mutation prerita kie jaa sakate are",
+    option:["ethileena by","ithaaila alkohala by","gaamaa radiationon by","avablood radiationon by"],
+    answer:"gaamaa radiationon by"
+},
+{
+    question: "‘vinegaara’ of khattaa svaada kisadue to occurs?",
+    option:["laiktika amla","esitika amla","byootaairika amla","phyoomerika amla"],
+    answer:"esitika amla"
+},
+{
+    question: "rhinoceros abhoarranya kisa raajya in avasthita is?",
+    option:["asama","pashchima bngaala","uttara pradesha","bihaara"],
+    answer:"asama"
+},
+{
+    question: "dudhavaa national park sthita is",
+    option:["lakheemapura kheeree in","mathuraa in","naineetaala in","ofshee in"],
+    answer:"lakheemapura kheeree in"
+},
+{
+    question: "kuchha enzyme apanee kriorsheelataa ko badhaaane for which-saa naona-protein padaartha experiment do?",
+    option:["utpareraka","pratirodhaka","saha-enzyme","epimara"],
+    answer:"saha-enzyme"
+},
+{
+    question: "ethenaola of audyogika utpaadana in is used:",
+    option:["laiktobaisilasa","ewhichbaiktara","penisiliyama","saiofromaathiseeja"],
+    answer:"saiofromaathiseeja"
+},
+{
+    question: "pregnancy of first gati and thisof sira on baalon of upasthiti praayh pregnancyaavasthaa of kisa maaha during anubhava is?",
+    option:["chauthe maaha","fiveven maaha","chhathe maaha","teesare maaha"],
+    answer:"fiveven maaha"
+},
+{
+    question: "airmndaleeya naaitrojana ko among the following which sthireekrita kara sakataa is?",
+    option:["ainaabeenaa","naosataoka","osiletorior","all of the above"],
+    answer:"all of the above"
+},
+{
+    question: "among the following which-saa theory development ko gene aavritti of onivartana of ofrana maanataa is?",
+    option:["nava-laamaarkijma","nava-daarvinijma","synthesisaatmaka theory","daarvinijma"],
+    answer:"synthesisaatmaka theory"
+},
+{
+    question: "maasika chakra of avasthaa which 7-8 dinon on samaapta is, kahalaatee is",
+    option:["rawhichdharma","lutiyala praavasthaa","andotsarga praavasthaa","putiofya praavasthaa"],
+    answer:"putiofya praavasthaa"
+},
+{
+    question: "drosophilaa (Fruit fly) of Meiocyte in of chromosome number is:",
+    option:["2","4","6","8"],
+    answer:"8"
+},
+{
+    question: "transfer of process relationshipita is:",
+    option:["DNA synthesis","RNA synthesis","raaibosoma synthesis","protein synthesis"],
+    answer:"protein synthesis"
+},
+{
+    question: "food chain in sarvaadhika aabaadee whose is?",
+    option:["producer","primary consumer","secondary consumer","tertiary consumer"],
+    answer:"producer"
+},
+{
+    question: "India of pahalaa national park is",
+    option:["kaorbeta","baandeepura","ofnhaa","periorra"],
+    answer:"kaorbeta"
+},
+{
+    question: "badae paimaane on vaanchhita protein of formation for producer by kisa paatra of use is done?",
+    option:["baayorionetara","phlaaska","testa tyooba","petree pletsa"],
+    answer:"baayorionetara"
+},
+{
+    question: "one vayaska human of vrishana in sperm of formation karane having shukrareproductioneeya avasthaaon of correct krama is",
+    option:["soanmetosaaita-soanmetogonior-soanmetida-sperm","soanmetida-soanmetosaaita-soanmetogonior-sperm","soanmetosaaita-soanmetida-soanmetogonior-sperm","soanmetogonior-soanmetosaaita-soanmetida-sperm"],
+    answer:"soanmetogonior-soanmetosaaita-soanmetida-sperm"
+},
+{
+    question: "frommala in by whom pollination occurs",
+    option:["chamagaadada","bird","water","air"],
+    answer:"chamagaadada"
+},
+{
+    question: "one primary sperm cell is",
+    option:["diploid","haploid","triploid","bahucharacterita"],
+    answer:"diploid"
+},
+{
+    question: "India in pahalaa raashtareeya park vikasita kior gaor",
+    option:["gira","ofjeerngaa","jima ofrbeta","none of these"],
+    answer:"jima ofrbeta"
+},
+{
+    question: "dvifertilization of oninaama occurs:",
+    option:["cotyledon","ovuleofya","endosperm","embryo"],
+    answer:"endosperm"
+},
+{
+    question: "kisa gaira-phalee plants of jada pinda in jaivika khaada maujooda is?",
+    option:["ewhichtobaiktara","klaostaridiyama","phrainkior","none of these"],
+    answer:"phrainkior"
+},
+{
+    question: "pollen grain with pollennaliof pratirateshita does",
+    option:["male sporophaaita","male gaimetophaaita","female sporophaaita","female gaimetophaaita"],
+    answer:"male gaimetophaaita"
+},
+{
+    question: "offspring which about one-doosare of Identical ho, with hee thoseof Parent of bhee Identical ho, kahalaatee is:",
+    option:["Twins","copy banaataa is","dronsa","klona"],
+    answer:"klona"
+},
+{
+    question: "tela adhiplaava (chhalakana) of jaivopafour in saphalataapoorvaka use of heredity ingeneiyarita sookshamaorganism speesheeja whose is?",
+    option:["syoodomonaasa","traaikodarmaa","jaithomonaasa","besilasa"],
+    answer:"syoodomonaasa"
+},
+{
+    question: "RNA of paairimidina in is found:",
+    option:["saaitosina and thaayameena","edineena and guaaneena","saaitosina and yooraasila","thaayameena and yooraasila"],
+    answer:"saaitosina and yooraasila"
+},
+{
+    question: "daathose sindroma is",
+    option:["21ven kromosoma of trisootree","21ven kromosoma of dviadhisootree","21ven kromosoma of dvinyoonasootree","uonokta in koee naheen"],
+    answer:"21ven kromosoma of trisootree"
+},
+{
+    question: "maansaahaaree organism among the following koar prarateshita does",
+    option:["primary consumer","secondary va tertiary consumer","secondary consumer","primary producer"],
+    answer:"secondary va tertiary consumer"
+},
+{
+    question: "pondeeya ecosystem in badaee fish koar is?",
+    option:["producer","apaghatanakartaa","primary consumer","tertiary consumer"],
+    answer:"tertiary consumer"
+},
+{
+    question: "among the following which-saa pyramid kabhee ultaa naheen hotaa?",
+    option:["energy of pyramid","jaivabhaara of pyramid","number of pyramid","shushka bhaara of pyramid"],
+    answer:"energy of pyramid"
+},
+{
+    question: "aaloo of kanda in ‘aankhen’ isn:",
+    option:["flower kaliofen","praroha kaliofen","kakshastha kaliofen","moola kaliofen"],
+    answer:"kakshastha kaliofen"
+},
+{
+    question: "among the following which-saa blood group human and ape in is found on monkey in naheen?",
+    option:["A and O","A and B","AB and O","B and AB"],
+    answer:"A and B"
+},
+{
+    question: "anulekhana in bhaaga lene having enzyme is:",
+    option:["DNA paoleemareja I","DNA paoleemareja II","RNA paoleemareja","DNA paoleemareja III"],
+    answer:"RNA paoleemareja"
+},
+{
+    question: "kisee bhee ecosystem in energy of srota occurs",
+    option:["sugar of kinfaorest","praanee and paudhon of bacteriumon by apaghatana","paudhon by light synthesis","soorya-light"],
+    answer:"soorya-light"
+},
+{
+    question: "phaosphorasa among the following whose factor is?",
+    option:["nyooklika amla","jaivika jhilliorn","koshiofya energy transfer pranaalee","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "nikoteena is:",
+    option:["kshaareeya","amino acid","amino acid","vitamin"],
+    answer:"kshaareeya"
+},
+{
+    question: "amleeya rainfall due to are:",
+    option:["N₂ and NO₃","NO₂ and SO₂","CO and CO₂","CO₂ and NO₂"],
+    answer:"NO₂ and SO₂"
+},
+{
+    question: "among the following alpaoflika anthsecretionee grnthi of ofrya does",
+    option:["andaashaya","vrishana","graaphee putaka","kaorpasa lyootiyama"],
+    answer:"kaorpasa lyootiyama"
+},
+{
+    question: "onkolaojee whose adhyayana is?",
+    option:["cancer","onkogenesa","both (A) and (B)","virus"],
+    answer:"cancer"
+},
+{
+    question: "among the following which Anther wall of hissaa naheen is",
+    option:["Endothecium","Endothelium","Tapetum","Middle layers"],
+    answer:"Endothelium"
+},
+{
+    question: "prostaaglaindeena is",
+    option:["protein","ofrbohaaidreta","lipida","asntripta"],
+    answer:"asntripta"
+},
+{
+    question: "birth control of sarvaadhika upayukta method is:",
+    option:["pregnancypaata","mukheeya goliorn","veeryafromchana","bndhoarkarana"],
+    answer:"bndhoarkarana"
+},
+{
+    question: "thakoaf sphotana as use in laaor jaane having enjaaima is:",
+    option:["laaipeja","emaaileja","stareptooftheseeja","proteeejeja"],
+    answer:"stareptooftheseeja"
+},
+{
+    question: "onposhee cells in vijaateeya DNA ko pravesha karaane for kinaof use is done?",
+    option:["sookshama anthkshepana","gene gun","aharmful pathogen","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "which-saa utpaada aushadheeya mahattava of is?",
+    option:["pethaa","kaophee","gredee phloraa","raaulphior sarpentinaa"],
+    answer:"raaulphior sarpentinaa"
+},
+{
+    question: "among the following which correct aahaara shrrinkhalaa is?",
+    option:["tiddaa → ghaasa → sarpa → indhaka → baaja","ghaasa → tiddaa → indhaka → sarpa → baaja","baaja → sarpa → tiddaa → ghaasa → indhaka","indhaka → sarpa → baaja → tiddaa → baaja"],
+    answer:"ghaasa → tiddaa → indhaka → sarpa → baaja"
+},
+{
+    question: "floweringya paudhon of endosperm in kitane chromosome are",
+    option:["n","2n","3n","4n"],
+    answer:"3n"
+},
+{
+    question: "Ti-plaajmida is found:",
+    option:["egrobaiktiriyama tyoomeepheseeyansa in","ee. kolaaee in","bacterium bhojee in","among these sabhee in"],
+    answer:"egrobaiktiriyama tyoomeepheseeyansa in"
+},
+{
+    question: "virus aakramana from bachaava for bacterium by utpaadita occurs:",
+    option:["Exonuclease","Endonuclease","DNA ligeja","gaaireja"],
+    answer:"Endonuclease"
+},
+{
+    question: "among these pashchavirus (Retrovirus) which is?",
+    option:["hyoomana imyoono dephisiensee vaayarasa","hepetaaitisa vaayarasa","maaikro vaayarasa thesephlooenjee","among these sabhee"],
+    answer:"hyoomana imyoono dephisiensee vaayarasa"
+},
+{
+    question: "if kisee ecosystem from decomposeron ko nashta kara dior jaae to koar hogaa?",
+    option:["energy of pravaaha ruka jaaegaa","khaniwhichn of pravaaha ruka jaaegaa","apaghatana of rate badha jaaegee","lightsynthesis of krior ruka jaaegee"],
+    answer:"khaniwhichn of pravaaha ruka jaaegaa"
+},
+{
+    question: "dugdha grnthi whose roopaantarana is?",
+    option:["tela grnthi","sved agrnthi","ofuonsa grnthi","bartholinsa grnthi"],
+    answer:"sved agrnthi"
+},
+{
+    question: "‘smaoga’ kisafrom relationshipita is?",
+    option:["dhuaan and kuhaasaa","aaga and water","water and dhuaan","air and water"],
+    answer:"dhuaan and kuhaasaa"
+},
+{
+    question: "klorophloroofrbana uttaradaayee is:",
+    option:["amla rainfall","ozone layer ksharana for","gloforce vaarminga for","taapeeya pratilomana for"],
+    answer:"ozone layer ksharana for"
+},
+{
+    question: "Ovule of sabafrom badaee cell is",
+    option:["MMC","onivartanasheela cell of aaofra","madhya cell","Antipodal"],
+    answer:"madhya cell"
+},
+{
+    question: "that vaijnyaanika of name what is jisane vnshaagati of niyama die?",
+    option:["gregara indala","nyootana","puneta","none of these"],
+    answer:"gregara indala"
+},
+{
+    question: "India in jaivamandala rijarva when praarambha kior thaa?",
+    option:["1984","1985","1986","1987"],
+    answer:"1986"
+},
+{
+    question: "kisafor laingika reproduction jimmedaara is?",
+    option:["diploid avasthaa ko banaane hetu","Identical young ones of srijana hetu","evolutionism in koee landof naheen","haploid (Haploid) avasthaa ko banaane hetu"],
+    answer:"diploid avasthaa ko banaane hetu"
+},
+{
+    question: "onerosoma bhaaga is",
+    option:["dee.ena.e. (DNA)","aara.ena.e. (RNA)","sperm of","among these sabhee of"],
+    answer:"sperm of"
+},
+{
+    question: "kisee ovule of shareera, embryo sac, micropyle and funicle if one seedha in ho to ifrom are called",
+    option:["Orthotropous","Amphitropous","Anatropous","Campylotropous"],
+    answer:"Orthotropous"
+},
+{
+    question: "vnshaagati of kromosoma theory ko kisane proposed kior?",
+    option:["gregara indala ne","satana and boveree ne","thaomasa maorgana ne","vaatasana and krika ne"],
+    answer:"satana and boveree ne"
+},
+{
+    question: "leechee of khaane yogya bhaaga is",
+    option:["Endosperm","Mesocarp","Fleshy aril","Pericarp"],
+    answer:"Fleshy aril"
+},
+{
+    question: "first amphibians praanee as vikasita fish which aaja of indhaka and sailaamaindara of poorvaja bane",
+    option:["seelaakaintha","lngaphisha","staaraphisha","none of the above"],
+    answer:"lngaphisha"
+},
+{
+    question: "indala of Segregation Law of relationship mainth kisafrom is?",
+    option:["monohaaibrida kraosa","haaibrida kraosa","dvisnkara kraosa","chromosome between homologasa pairs"],
+    answer:"monohaaibrida kraosa"
+},
+{
+    question: "amleeya rainfall is:",
+    option:["fossil eenwealth of dahana from","see.epha.see. from","owhichna from","none of these"],
+    answer:"fossil eenwealth of dahana from"
+},
+{
+    question: "nndanaofnana chidaiorghara jaanaa jaataa is",
+    option:["neelagiri taaigara for","hippopotemasa for","sapheda taaigara for","hvela for"],
+    answer:"sapheda taaigara for"
+},
+{
+    question: "kisee on-pollination of vishishta udaaharana is",
+    option:["wheat","tamaatara","aaloo","maize"],
+    answer:"maize"
+},
+{
+    question: "kisee A blood-samooha having vyakti in occurs",
+    option:["enteejana A, enteebaodee B","enteejana B, enteebaodee A","enteejana A, enteebaodee B","enteejana A, enteebaodee anupasthita"],
+    answer:"enteejana A, enteebaodee B"
+},
+{
+    question: "ovule in ardhasootree vibhaajana occurs",
+    option:["ovuleofya in","guruseedaanu maatri cell in","guruseedaanu in","aaroafsporiyama in"],
+    answer:"guruseedaanu maatri cell in"
+},
+{
+    question: "population more being from:",
+    option:["prati vyakti aaya less ho jaaegee","prati vyakti aaya badha jaaegee","janasaadhaarana of svaasthaya achchhaa ho jaaegaa","among these sabhee"],
+    answer:"prati vyakti aaya less ho jaaegee"
+},
+{
+    question: "dapha (sanaa huaa aataa) among these kisadue to mulaayama (haloaf) occurs?",
+    option:["ofrbana daayaoksaaida","mithena","okseejana","none of these"],
+    answer:"ofrbana daayaoksaaida"
+},
+{
+    question: "indala of Independent Assortment kisa kraosa from relationshipita is?",
+    option:["onela haaibrida kraosa","dvisnkara haaibrida kraosa","apoorna varchasva","baika kraosa"],
+    answer:"dvisnkara haaibrida kraosa"
+},
+{
+    question: "human in sperm of sngrahana and poshana in which occurs?",
+    option:["vrishana","vasa efferentia","epididaaimisa","spermatic cord"],
+    answer:"epididaaimisa"
+},
+{
+    question: "kisee Pure tall pea of plants ko pure baune plants with kraosa karaaor gaor। F1 vnshaja of saare plants tall praapta hue। thisof ofrana is",
+    option:["Dominance","F1 vnshaja in baunaapana of character of cowba honaa","factoron of segregation","saamnjasya/samanvaya"],
+    answer:"Dominance"
+},
+{
+    question: "oofjaaof khanda is:",
+    option:["RNA praaimarsa","leedinga starenda on RNA of chhote khanda","lejinga starenda on DNA of chhote khanda","none of these"],
+    answer:"lejinga starenda on DNA of chhote khanda"
+},
+{
+    question: "eggaashaya of anrate of tissue bhaaga which ovules with judaaa occurs, is called",
+    option:["Funicle","Hilum","Placenta","Chalaza"],
+    answer:"Placenta"
+},
+{
+    question: "tee.bee. kisafrom occurs?",
+    option:["gonorior from","maaikobaikteeriyama from","traiponemaa from","baisilasa from"],
+    answer:"maaikobaikteeriyama from"
+},
+{
+    question: "sperm of aksheeya filament kisafrom becomes is?",
+    option:["sameepastha vartuliof","doorastha vartuliof","maaitokondrior","nucleus"],
+    answer:"doorastha vartuliof"
+},
+{
+    question: "among the following which insectbhakshee plant is?",
+    option:["draofromraa","nepentheesa","both (A) and (B)","Hydrilla"],
+    answer:"both (A) and (B)"
+},
+{
+    question: "traansajenika jaanavara of udaaharana is:",
+    option:["cow","choohaa","sooara","among these sabhee"],
+    answer:"among these sabhee"
+},
+{
+    question: "milara-yoore experiment in kisa gaisa of mishrana phlaaska in lior gaor thaa?",
+    option:["mithena, amonior and CO₂","mithena, amonior, haaidrojana and watervaashpa","mithena, amonior and naaitrojana","CO₂, naaitrojana and watervaashpa"],
+    answer:"mithena, amonior, haaidrojana and watervaashpa"
+},
+{
+    question: "T-limphosaaita where is produced?",
+    option:["thaaimasa in","mangoaashaya in","yakrita in","asthi-majjaa in"],
+    answer:"asthi-majjaa in"
+},
+{
+    question: "that which doosare due to bhojana praapta does:",
+    option:["parasitic","insectaahaaree","onbhakshee","symbiotic"],
+    answer:"parasitic"
+},
+{
+    question: "kisee organism in two samaana allele hon to are called",
+    option:["haaibrida","samajaata","toxinmajaata","varchasvataa"],
+    answer:"samajaata"
+},
+{
+    question: "raata in khilane having flower saadhaaranath ______।",
+    option:["haloaf are","chhote are","chamaofle rngon having are","gachchhon in khilate are"],
+    answer:"haloaf are"
+},
+{
+    question: "geneticsya abhiorntriof in prayukta aanvika kainchee is:",
+    option:["DNA laaigeja","DNA paoleemareja","heliofja","ristarikshana endonyookliaija"],
+    answer:"ristarikshana endonyookliaija"
+},
+{
+    question: "Gonorrhoea and Syphilis where highest is found?",
+    option:["aphreekana deshon in","yooropiyana deshon in","poore vishva in","eshiyana deshon in"],
+    answer:"poore vishva in"
+},
+{
+    question: "organisms in reproduction of krior is",
+    option:["organisms of number in growth for","prithvee on organismna of nirntarataa banaaye rakhane for","apanee species of organisms ko banaaye rakhanaa","(A), (B) and (C) threeon"],
+    answer:"(A), (B) and (C) threeon"
+},
+{
+    question: "endosperm in kitane chromosome are (floweringya paudhon in)",
+    option:["n","2n","3n","(A) and (C) both"],
+    answer:"3n"
+},
+{
+    question: "pollen grain Embryo sac from jisa praofra relationshipita is, thatee praofra",
+    option:["sperm egg from","male gametophyte female gametophyte from","male gametophyte egg from","sperm female gametophyte from"],
+    answer:"male gametophyte female gametophyte from"
+},
+{
+    question: "shalka knda (Bulb) of udaaharana is:",
+    option:["arateka","dooba ghaasa","poarja","aaloo"],
+    answer:"poarja"
+},
+{
+    question: "kisee anishechita eggja from seed of development ko are called:",
+    option:["viviperasa","paarthenokopee","epogemee","eposporee"],
+    answer:"paarthenokopee"
+},
+{
+    question: "spermatogenesis of control by whom occurs?",
+    option:["endrojana","estarojana","L.H.","none of these"],
+    answer:"endrojana"
+},
+{
+    question: "one badae areaeeya, bhaumika iofee ko vishaala forestspati praofra and relationshipita phaunaa by jaanaa jaataa is:",
+    option:["laindasoafpa","baayoma","paaritntra","community"],
+    answer:"baayoma"
+},
+{
+    question: "daayanaasora kisa yuga during upasthita the?",
+    option:["peliyowhichika","preekaimbariyana","seenowhichika","mesowhichika"],
+    answer:"mesowhichika"
+},
+{
+    question: "peneesilina pratijaivika is produced:",
+    option:["plants","virus","P. notatum","krimi"],
+    answer:"P. notatum"
+},
+{
+    question: "one praaroopika aavrittaseedee embryokosha praayh is",
+    option:["one-koshiofya","two-koshiofya","five-koshiofya","seven-koshiofya"],
+    answer:"seven-koshiofya"
+},
+{
+    question: "asamajaata chromosomes of khnda of aadaana-pradaana is called",
+    option:["kraosinga ovara","Inversion","Duplication","Translocation"],
+    answer:"Translocation"
+},
+{
+    question: "that animal which apane shareera of one tihaaee bhaara of baraabara water of lessee sahana kara sakataa is:",
+    option:["nektayoorasa","oonta","chhipakalee","ofitona"],
+    answer:"oonta"
+},
+{
+    question: "if DNA in 10 valaya hon, to DNA of lnbaaee hogee:",
+    option:["34 Å","340 Å","640 Å","64 Å"],
+    answer:"340 Å"
+},
+{
+    question: "among the following in which oestrus cycle naheen occurs?",
+    option:["cow","bheda","monkey","dog"],
+    answer:"monkey"
+},
+{
+    question: "birth rate 100 pratishata is and death rate 10 is। samashti community in 1000 vyakti special are। natural growth rate kitanaa pratishata hogaa?",
+    option:["0.09%","9.0%","0.9%","90%"],
+    answer:"9.0%"
+},
+{
+    question: "puneta varga vikasita kior",
+    option:["indala ne","vaatasana and satana ne","regeneelda puneta ne","boveree ne"],
+    answer:"regeneelda puneta ne"
+},
+{
+    question: "pollenkosha wall in among these which-saa naheen occurs",
+    option:["endothisiyama","madhya onten","taipeetama","integuinta"],
+    answer:"integuinta"
+},
+{
+    question: "egge of organismna-ofla is",
+    option:["48 ghnte","12 ghnte","24 ghnte","8 ghnte"],
+    answer:"24 ghnte"
+},
+{
+    question: "ecosystem in control karane having ofraka occurs",
+    option:["soil namee","bhojana","shiofra karanaa","taapa"],
+    answer:"shiofra karanaa"
+},
+{
+    question: "oniendosperm (Perisperm) whose bachaa huaa bhaaga is",
+    option:["seedaandaofya (nucellus)","endosperm (embryo)","endosperm (endosperm)","adhoarvarana (integument)"],
+    answer:"seedaandaofya (nucellus)"
+},
+{
+    question: "air by sthaanaantarita soil is:",
+    option:["ailuviyala","glaisiyala","koluviyala","iyolina"],
+    answer:"iyolina"
+},
+{
+    question: "Bt cotton pratirodhee is:",
+    option:["insect of","khara-patavaaranaashee of","lavana of","sookhaa of"],
+    answer:"insect of"
+},
+{
+    question: "EcoRI of enzyme srota is:",
+    option:["BamHI","E. coli","BamHI and E. coli both","HindIII"],
+    answer:"E. coli"
+},
  ];
 
 // --- Helper: Shuffle questions ---
