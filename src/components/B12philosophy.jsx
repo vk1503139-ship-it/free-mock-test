@@ -5486,10 +5486,5483 @@ const philosophyHindi = [
 
 // English Questions
 const philosophyEnglish = [
-  // Indian Philosophy - Introduction
-  { question: "When did Indian philosophy originate?", option: ["Vedic period", "Medieval period", "Modern period", "None"], answer: "Vedic period" },
-  { question: "How many major schools of Indian philosophy are there?", option: ["2", "3", "4", "5"], answer: "2" },
-  
+{
+    question: "hyuum of anubhvvaad of prmukh maanytaa what is?",
+    option: [
+        "function-cause anivaary is not",
+        "function-cause smbndh necessary is",
+        "anivaarytaa baahy item and ghttnaa in is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in who jgt to jaaduu to upmaa from smjhaane of pryaas done is?",
+    option: [
+        "shNkr",
+        "gaudd'paad",
+        "raamaanuj",
+        "None of these"
+    ],
+    answer: "shNkr"
+},
+
+{
+    question: "drshn means- [2015A]",
+    option: [
+        "prtyy of khoj",
+        "knowledge towards prem",
+        "amrtv of aakaaNkssaa",
+        "niymoN of aavisskaar"
+    ],
+    answer: "prtyy of khoj"
+},
+
+{
+    question: "yog is-",
+    option: [
+        "tyaag",
+        "smaadhi",
+        "iishvr of with saakssaatkaar",
+        "None of these"
+    ],
+    answer: "iishvr of with saakssaatkaar"
+},
+
+{
+    question: "kaanntt according to buddhi of how many aakaar are?",
+    option: [
+        "five",
+        "eight",
+        "ten",
+        "twelve"
+    ],
+    answer: "twelve"
+},
+
+{
+    question: "saaNkhy drshn of prvrtk are-",
+    option: [
+        "gautm",
+        "kpil",
+        "mhaaviir",
+        "knnaad"
+    ],
+    answer: "kpil"
+},
+
+{
+    question: "‘ddiskors oNn methdd’ grNth whose rgram is?",
+    option: [
+        "laaibnij",
+        "spinojaa",
+        "dekaart",
+        "loNk"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "Indian drshn in aatm-knowledge of relation is : [2022 A]",
+    option: [
+        "punrjnm from",
+        "bNdhn from",
+        "money sNgrh from",
+        "avidyaa of niraakrnn from"
+    ],
+    answer: "avidyaa of niraakrnn from"
+},
+
+{
+    question: "anumaan of duusraa name what is?",
+    option: [
+        "upmaan",
+        "shbd",
+        "abhaav",
+        "anviikssaa"
+    ],
+    answer: "anviikssaa"
+},
+
+{
+    question: "gaudd'paad kinke guru the?",
+    option: [
+        "shNkr of",
+        "guru goviNd of",
+        "vllbhaacaary of",
+        "None of these"
+    ],
+    answer: "guru goviNd of"
+},
+
+{
+    question: "whichaccording to substance knowledge saarvbhaum, anivaary and nviin should be?",
+    option: [
+        "dekaart",
+        "loNk",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "pdaarthshaastr which drshn of duusraa name is?",
+    option: [
+        "nyaay",
+        "saaNkhy",
+        "yog",
+        "vaishessik"
+    ],
+    answer: "vaishessik"
+},
+
+{
+    question: "yog drshn in cittvRtti virodh to called are-",
+    option: [
+        "praannaayaam",
+        "smaadhi",
+        "yog",
+        "None of these"
+    ],
+    answer: "yog"
+},
+
+{
+    question: "shNkr of advait vedaaNt of drshn which grNth on aadhaarit is?",
+    option: [
+        "raamaaynn",
+        "mhaabhaart",
+        "puraann",
+        "upnissd"
+    ],
+    answer: "upnissd"
+},
+
+{
+    question: "jain drshn of tttvmiimaaNsiiy vicaar to what called are?",
+    option: [
+        "anekaantvaad",
+        "shNkr",
+        "hetuvaad",
+        "advaitvaad"
+    ],
+    answer: "anekaantvaad"
+},
+
+{
+    question: "who said is ki honaa and direct both one are?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "brkle",
+        "laaibnij"
+    ],
+    answer: "brkle"
+},
+
+{
+    question: "iishvr of astitv sNbNdhii proof are",
+    option: [
+        "pryojnaatmk yukti",
+        "naitik yukti",
+        "sttaamuulk yukti",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "knowledge obtaining of upraant buddh of first updesh where was thaa?",
+    option: [
+        "bodh was in",
+        "saarnaath in",
+        "raajgRh in",
+        "kushiingr in"
+    ],
+    answer: "saarnaath in"
+},
+
+{
+    question: "whichaccording to- giitaa mother is?",
+    option: [
+        "child gNgaadhr tilk",
+        "vinobaa bhaave",
+        "shrii arvind",
+        "mhaatmaa gaaNdhii"
+    ],
+    answer: "mhaatmaa gaaNdhii"
+},
+
+{
+    question: "srvocc shubh what is?",
+    option: [
+        "maatr means is",
+        "maatr baahy is",
+        "crm lkssy is",
+        "None of these"
+    ],
+    answer: "crm lkssy is"
+},
+
+{
+    question: "Which of the following purussaarth under comes is ? [2022 A]",
+    option: [
+        "dhrm",
+        "mokss",
+        "A and B both",
+        "prem"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "bauddh drshn and jain drshn are-",
+    option: [
+        "arvaaciin",
+        "smkaaliin",
+        "vaidik kaal of",
+        "None of these"
+    ],
+    answer: "smkaaliin"
+},
+
+{
+    question: "saaNkhy drshn in knowledge to which sNdrbh in liyaa was is?",
+    option: [
+        "man of knowledge",
+        "prkRti of knowledge",
+        "man and prkRti between bhinntaa of knowledge",
+        "All of these"
+    ],
+    answer: "man and prkRti between bhinntaa of knowledge"
+},
+
+{
+    question: "mil according to cause is-",
+    option: [
+        "bhaavaatmk upaadhiyoN of yog",
+        "nissedhaatmk upaadhiyoN of yog",
+        "bhaavaatmk and nissedhaatmk upaadhiyoN of yog",
+        "None of these"
+    ],
+    answer: "bhaavaatmk and nissedhaatmk upaadhiyoN of yog"
+},
+
+{
+    question: "buddhivaad of smrthk is",
+    option: [
+        "dekaart",
+        "laaibnij",
+        "spinojaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "anumaan to proof as sviikaar done is-",
+    option: [
+        "nyaay drshn",
+        "saaNkhy drshn",
+        "bauddh drshn",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "human of social ektaa on vicaar doing which drshn what is called is?",
+    option: [
+        "aacaar drshn",
+        "society drshn",
+        "dhrm drshn",
+        "All of these"
+    ],
+    answer: "society drshn"
+},
+
+{
+    question: "following in from whose relation jain drshn from rhaa is?",
+    option: [
+        "mhaaviir",
+        "paarshvnaath",
+        "Rssbhdev",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "caarvaak, bauddh and jain following in from which daarshnik smprdaay in come are? [2009A, 2023A]",
+    option: [
+        "aastik",
+        "naastik",
+        "aastik and naastik",
+        "None of these"
+    ],
+    answer: "naastik"
+},
+
+{
+    question: "Which of the following cintk kaarnntaa of siddhaaNt related to are?",
+    option: [
+        "hyuum",
+        "mil",
+        "arstu",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following one buddhivaadii is?",
+    option: [
+        "loNk",
+        "brkle",
+        "dekaart",
+        "kaanntt"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "Indian drshn to avtaar of avdhaarnnaa of by smprdaay which grNth ne done is ? [2022 A]",
+    option: [
+        "brhm suutr",
+        "bhgvd giitaa",
+        "nyaay suutr",
+        "shNkr bhaassy"
+    ],
+    answer: "bhgvd giitaa"
+},
+
+{
+    question: "bhgvdgiitaa to krmshaastr who said?",
+    option: [
+        "bhgvaan daas",
+        "child gNgaadhr tilk",
+        "gaaNdhiijii",
+        "pN. nehruu"
+    ],
+    answer: "child gNgaadhr tilk"
+},
+
+{
+    question: "whose updesh knowledge is a source of?",
+    option: [
+        "common man",
+        "aapt man",
+        "aapt woman",
+        "(B) and (C) both"
+    ],
+    answer: "aapt man"
+},
+
+{
+    question: "saaNkhy drshn of prmukh characteristic what is?",
+    option: [
+        "pure ekvaad",
+        "anekvaad",
+        "dvaitvaad",
+        "None of these"
+    ],
+    answer: "dvaitvaad"
+},
+
+{
+    question: "nisskaam krm of muul siddhaaNt is",
+    option: [
+        "physical sukh",
+        "krtvy for krtvy",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "krtvy for krtvy"
+},
+
+{
+    question: "yog of anushaasn of aalok in ahiNsaa what is?",
+    option: [
+        "tp",
+        "niym",
+        "ym",
+        "sNtoss"
+    ],
+    answer: "ym"
+},
+
+{
+    question: "cturth aary sty to said goes is-",
+    option: [
+        "mdhym maarg",
+        "assttaaNgik maarg",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "assttaaNgik maarg"
+},
+
+{
+    question: "vstuvaad of what maanytaa is?",
+    option: [
+        "jnyey substance jnyaataa on depends is",
+        "jnyey substance jnyaataa from svtNtr is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "jnyey substance jnyaataa from svtNtr is"
+},
+
+{
+    question: "prkRti of quality are-",
+    option: [
+        "stv, rj, tm",
+        "stv, rj, meaning",
+        "stv, rj, dhrm",
+        "All of these"
+    ],
+    answer: "stv, rj, tm"
+},
+
+{
+    question: "nviin vstuvaad of relation which daarshnikoN from is ?",
+    option: [
+        "muur",
+        "rsel",
+        "perii",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "which aastik drshn in iishvr of astitv to sviikaar not done was is?",
+    option: [
+        "nyaay drshn",
+        "vaishessik drshn",
+        "saaNkhy drshn",
+        "yog drshn"
+    ],
+    answer: "saaNkhy drshn"
+},
+
+{
+    question: "shNkr advait to called are-",
+    option: [
+        "body",
+        "iishvr",
+        "brhm",
+        "All of these"
+    ],
+    answer: "brhm"
+},
+
+{
+    question: "syaadvaad to smjhaane for jain drshn in how many nyoN of prtipaadn done was?",
+    option: [
+        "four",
+        "three",
+        "five",
+        "seven"
+    ],
+    answer: "seven"
+},
+
+{
+    question: "mokss of two type are- [2015A]",
+    option: [
+        "bhaav and agent",
+        "agent and nirjraa",
+        "bhaav and jiiv",
+        "jiiv and ajiiv"
+    ],
+    answer: "jiiv and ajiiv"
+},
+
+{
+    question: "following in which knowledge of avrodh does is?",
+    option: [
+        "sttv",
+        "rjs",
+        "tms",
+        "None of these"
+    ],
+    answer: "tms"
+},
+
+{
+    question: "jain dhrm of prthm tiirthNkr which are?",
+    option: [
+        "Rssbhdev",
+        "mhaaviir",
+        "paarshvnaath",
+        "None of these"
+    ],
+    answer: "Rssbhdev"
+},
+
+{
+    question: "jain drshn in syaadvaad of what characteristic is?",
+    option: [
+        "syaadvaad nirpekss of vicaar is",
+        "syaadvaad saapekssvaad is",
+        "syaadvaad of relation pNcmhaabhuut from is",
+        "None of these"
+    ],
+    answer: "syaadvaad saapekssvaad is"
+},
+
+{
+    question: "nyaay drshn in anumaan proof of necessary organ what are?",
+    option: [
+        "for",
+        "saadhy",
+        "pkss",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "prmaataa kise called are? [2021A]",
+    option: [
+        "knowledge of means to",
+        "knowledge of item to",
+        "knowledge obtained doing which to",
+        "None of these"
+    ],
+    answer: "knowledge obtained doing which to"
+},
+
+{
+    question: "pryojnaatmk yukti of relation from whom is?",
+    option: [
+        "iishvr of astitv from",
+        "aatmaa of astitv from",
+        "jdd' of astitv from",
+        "None of these"
+    ],
+    answer: "jdd' of astitv from"
+},
+
+{
+    question: "prtitysmutpaad of siddhaaNt of what daarshnik meaning is?",
+    option: [
+        "vstueN apnii utptti for another for on depends are",
+        "vstueN nity are",
+        "vstuoN of full vinaash is",
+        "All of these"
+    ],
+    answer: "vstueN apnii utptti for another for on depends are"
+},
+
+{
+    question: "who said is- “mnussy all vstuoN of maapdnndd is”?",
+    option: [
+        "arstuu",
+        "pletto",
+        "sophistt",
+        "ben"
+    ],
+    answer: "sophistt"
+},
+
+{
+    question: "anupyukt niitishaastr of prnnetaa kisko maanaa goes is?",
+    option: [
+        "mil",
+        "kaanntt",
+        "piittr siNgr",
+        "muur"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "niiti shuuny krm what is?",
+    option: [
+        "good krm",
+        "anucit krm",
+        "vaisaa krm which on naitik nirnny not is given / ",
+        "None of these"
+    ],
+    answer: "vaisaa krm which on naitik nirnny not is given / "
+},
+
+{
+    question: "giitaa of updesh is-",
+    option: [
+        "skaam krm",
+        "nisskaam krm",
+        "krm from sNnyaas",
+        "All of these"
+    ],
+    answer: "nisskaam krm"
+},
+
+{
+    question: "following in from which yukti of maannaa is ki world one function is and iishvr uskaa cause is?",
+    option: [
+        "taatvik yukti",
+        "pryojnmuulk yukti",
+        "vishvmuulk yukti",
+        "None of these"
+    ],
+    answer: "vishvmuulk yukti"
+},
+
+{
+    question: "Indian drshn of which pkss of prtinidhitv yog drshn does is?",
+    option: [
+        "saaNsaarik pkss",
+        "vyaavhaarik pkss",
+        "social pkss",
+        "None of these"
+    ],
+    answer: "vyaavhaarik pkss"
+},
+
+{
+    question: "knowledge of means of dRssttikonn from which-sii daarshnik prmpraa ekaaNgii is?",
+    option: [
+        "buddhivaad",
+        "anubhvvaad",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "vaishessik of sRssttivaad to what said goes is?",
+    option: [
+        "annu sRssttivaad",
+        "prmaannu sRssttivaad",
+        "annu and prmaannu sRssttivaad",
+        "None of these"
+    ],
+    answer: "prmaannu sRssttivaad"
+},
+
+{
+    question: "buddhivaad of aadrsh what is?",
+    option: [
+        "gnnit",
+        "rekhaagnnit",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "gnnit"
+},
+
+{
+    question: "shNkraacaary ne which drshn to prtipaadit done is ?",
+    option: [
+        "dvaitvaad",
+        "vishissttaadvaitvaad",
+        "bhedaabhedvaad",
+        "advaitvaad"
+    ],
+    answer: "advaitvaad"
+},
+
+{
+    question: "‘environment’ shbd from whom bnaa is?",
+    option: [
+        "invaayrnr",
+        "invaayr",
+        "invaayrnr",
+        "All of these"
+    ],
+    answer: "invaayrnr"
+},
+
+{
+    question: "following in which-saa drshn bauddhik is?",
+    option: [
+        "Indian drshn",
+        "paashcaaty drshn",
+        "A and B both",
+        "None of these"
+    ],
+    answer: "paashcaaty drshn"
+},
+
+{
+    question: "prmaa because of to what called are?",
+    option: [
+        "aprmaa",
+        "aprmaann",
+        "proof",
+        "All of these"
+    ],
+    answer: "proof"
+},
+
+{
+    question: "niitishaastr and society drshn between relation is-",
+    option: [
+        "ghnisstth",
+        "virodhaatmk",
+        "ghnisstth and virodhaatmk",
+        "None of these"
+    ],
+    answer: "ghnisstth"
+},
+
+{
+    question: "which from proof from siimit knowledge obtained is ?",
+    option: [
+        "direct",
+        "anumaan",
+        "upmaan",
+        "shbd"
+    ],
+    answer: "direct"
+},
+
+{
+    question: "following in which-saa kthn anubhvvaad from smbddh is?",
+    option: [
+        "knowledge obtaining of ekmaatr means indriyaanubhuuti is",
+        "vivek only knowledge obtaining of ekmaatr means is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "knowledge obtaining of ekmaatr means indriyaanubhuuti is"
+},
+
+{
+    question: "anek kaarnnoN of mel from produced combined function to called are-",
+    option: [
+        "cause-sNyog",
+        "function smmishrnn",
+        "bhukaarnnvaad",
+        "None of these"
+    ],
+    answer: "function smmishrnn"
+},
+
+{
+    question: "nyaay drshn of shbd are-",
+    option: [
+        "nity",
+        "anity",
+        "nity and anity",
+        "None of these"
+    ],
+    answer: "anity"
+},
+
+{
+    question: "Indian drshn in prtyyvaad of udaahrnn is-",
+    option: [
+        "yogaacaar viknowledgevaad",
+        "saaNkhy",
+        "miimaaNsaa",
+        "jain"
+    ],
+    answer: "yogaacaar viknowledgevaad"
+},
+
+{
+    question: "hetvaabhaas what is?",
+    option: [
+        "anumaan related to defect",
+        "direct related to defect",
+        "shbd proof related to defect",
+        "None of these"
+    ],
+    answer: "anumaan related to defect"
+},
+
+{
+    question: "substance in vidymaan yogy power to which-saa cause called are?",
+    option: [
+        "agent cause",
+        "aakaarik cause",
+        "yogy nimitt cause",
+        "aNtim cause"
+    ],
+    answer: "yogy nimitt cause"
+},
+
+{
+    question: "jain drshn of praamrsh how many types of maane were are?",
+    option: [
+        "one",
+        "four",
+        "five",
+        "seven"
+    ],
+    answer: "seven"
+},
+
+{
+    question: "\"shNkr of drshn sNgiit puurnntaa and gNbhiirtaa in prthm place keeps hai / \" this kthn whose is?",
+    option: [
+        "ddoN0 raadhaakRssnnn",
+        "caarls iliytt",
+        "ddoN0 daas guptaa",
+        "None of these"
+    ],
+    answer: "caarls iliytt"
+},
+
+{
+    question: "giitaa according to yog is-",
+    option: [
+        "tyaag",
+        "smaadhi",
+        "iishvr from miln",
+        "None of these"
+    ],
+    answer: "iishvr from miln"
+},
+
+{
+    question: "bauddh drshn to naastik drshn why called are?",
+    option: [
+        "kyoNki this cetnaa to sviikaar does is",
+        "kyoNki this punrjnm to sviikaar does is",
+        "kyoNki this ved of praamaanniktaa to asviikaar does is",
+        "All of these"
+    ],
+    answer: "kyoNki this ved of praamaanniktaa to asviikaar does is"
+},
+
+{
+    question: "bhukaarnnvaad means-",
+    option: [
+        "kaarnnoN of sNyog",
+        "kaaryoN of smmishrnn",
+        "one ghttnaa of one cause honaa",
+        "one ghttnaa of bhinn time in bhinn cause honaa"
+    ],
+    answer: "one ghttnaa of bhinn time in bhinn cause honaa"
+},
+
+{
+    question: "loan of type what are?",
+    option: [
+        "Rssi",
+        "dev",
+        "pitR",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vaishessik drshn of duusraa name what is?",
+    option: [
+        "auluuky",
+        "uluuk",
+        "auluuk",
+        "All of these"
+    ],
+    answer: "auluuky"
+},
+
+{
+    question: "kaanntt of knowledge-vicaar to called are-",
+    option: [
+        "smiikssaavaad",
+        "anubhvvaad",
+        "buddhivaad",
+        "None of these"
+    ],
+    answer: "smiikssaavaad"
+},
+
+{
+    question: "saaNkhy according to gunnoN of sNkhyaa is-",
+    option: [
+        "annt",
+        "two",
+        "five",
+        "among these any not"
+    ],
+    answer: "among these any not"
+},
+
+{
+    question: "pNcaavyv of relation which proof from is?",
+    option: [
+        "shbd",
+        "direct",
+        "upmaan",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "kaanntt according to knowledge for what necessary is?",
+    option: [
+        "anubhv",
+        "buddhi",
+        "anubhv and buddhi both",
+        "among these any not"
+    ],
+    answer: "anubhv and buddhi both"
+},
+
+{
+    question: "duHkh because ofoN of nivaarnn is-",
+    option: [
+        "cturth aary sty",
+        "tRtiiy aary sty",
+        "dvitiiy aary sty",
+        "prthm aary sty"
+    ],
+    answer: "tRtiiy aary sty"
+},
+
+{
+    question: "ddoN0 raadhaakRssnnn according to maayaa of two function haiN /  ve are-",
+    option: [
+        "sty on prdaa ddaalnaa",
+        "asty to prsthaapit to do",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "jain drshn of caubiisveN tiirthNkr which are?",
+    option: [
+        "Rssbhdev",
+        "paarshvnaath",
+        "gautm",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "vishvsniiy person to called are-",
+    option: [
+        "aapt man",
+        "prm man",
+        "normal",
+        "None of these"
+    ],
+    answer: "aapt man"
+},
+
+{
+    question: "buddh of tRtiiy aarysty in what said was is?",
+    option: [
+        "duHkh is",
+        "duHkh of cause is",
+        "duHkh because of of nivaarnn sNbhv is",
+        "duHkh nivaarnn of maarg is"
+    ],
+    answer: "duHkh because of of nivaarnn sNbhv is"
+},
+
+{
+    question: "vaishessik drshn according to substance how many are?",
+    option: [
+        "seven",
+        "four",
+        "two",
+        "one"
+    ],
+    answer: "seven"
+},
+
+{
+    question: "following in which naastik drshn is? [2010A]",
+    option: [
+        "nyaay drshn",
+        "saaNkhy drshn",
+        "yog drshn",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "following in arstu because of of type which from are?",
+    option: [
+        "agent cause",
+        "aakaarik cause",
+        "aNtim cause",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "srl prtyy and jttil prtyy of vicaar which anubhvvaadii drshn in is?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "among these any not"
+    ],
+    answer: "loNk"
+},
+
+{
+    question: "naitik drshn which pd from go goes is?",
+    option: [
+        "iythaas",
+        "ithiks",
+        "ithiks",
+        "None of these"
+    ],
+    answer: "ithiks"
+},
+
+{
+    question: "environment of relation from whom is?",
+    option: [
+        "only pshu from",
+        "only mnussy from",
+        "devtaa from",
+        "prkRti of sNtuln from"
+    ],
+    answer: "prkRti of sNtuln from"
+},
+
+{
+    question: "shubh of type are-",
+    option: [
+        "saapekss shubh",
+        "nirpekss shubh",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "following in from which yukti to kaarnntaamuulk yukti said jaa can is?",
+    option: [
+        "vishvmuulk",
+        "taatvik",
+        "pryojnmuulk",
+        "naitik"
+    ],
+    answer: "pryojnmuulk"
+},
+
+{
+    question: "\"knowledge of obtaining congenital prtyy from occurs\" such maannaa is-",
+    option: [
+        "anubhvvaad of",
+        "buddhivaad of",
+        "smiikssaavaad of",
+        "None of these"
+    ],
+    answer: "buddhivaad of"
+},
+
+{
+    question: "prkRti of quality tms of kaal color which baat of suuck maanaa goes is? [2021A]",
+    option: [
+        "jdd'taa or bhaariipn of",
+        "skriytaa of",
+        "prmaanNd of",
+        "All of these"
+    ],
+    answer: "jdd'taa or bhaariipn of"
+},
+
+{
+    question: "anekaantvaad of aadhaarshilaa is-",
+    option: [
+        "nyvaad",
+        "svaadvaad",
+        "mokssvaad",
+        "pudglvaad"
+    ],
+    answer: "svaadvaad"
+},
+
+{
+    question: "yog of assttaaNg means in prthm organ which is?",
+    option: [
+        "niym",
+        "ym",
+        "aasn",
+        "praannaayaam"
+    ],
+    answer: "ym"
+},
+
+{
+    question: "philoNsoNphii means- [2010A, 2013A, 2018A]",
+    option: [
+        "niymoN of aavisskaar",
+        "knowledge towards prem",
+        "amrtv of aakaaNkssaa",
+        "prtyy of khoj"
+    ],
+    answer: "knowledge towards prem"
+},
+
+{
+    question: "Indian drshn is- [2011A, 15A, 16A, 18A, 23A]",
+    option: [
+        "vyaavhaarik",
+        "avyaavhaarik",
+        "priklpnaatmk",
+        "None of these"
+    ],
+    answer: "vyaavhaarik"
+},
+
+{
+    question: "vaishessik drshn in normal substance of sNdrbh in Which of the following viklp correct is?",
+    option: [
+        "abhaav",
+        "bhaav",
+        "bhaavaabhaav",
+        "All of these"
+    ],
+    answer: "bhaav"
+},
+
+{
+    question: "‘dhrm ckrprvrtn’ of relation which drshn from is?",
+    option: [
+        "jain drshn",
+        "bauddh drshn",
+        "saaNkhy drshn",
+        "yog drshn"
+    ],
+    answer: "bauddh drshn"
+},
+
+{
+    question: "kinke mtaanusaar giitaa mhaabhaart of organ is?",
+    option: [
+        "arvind ghoss",
+        "mhaatmaa gaaNdhii",
+        "ddoN. raadhaakRssnnn",
+        "child gNgaadhr tilk"
+    ],
+    answer: "ddoN. raadhaakRssnnn"
+},
+
+{
+    question: "cause is-",
+    option: [
+        "puurvvrtii",
+        "anaupaadhik",
+        "niyt",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "yog drshn of prvrtk are-",
+    option: [
+        "kpil",
+        "gautm",
+        "ptNjli",
+        "knnaad"
+    ],
+    answer: "ptNjli"
+},
+
+{
+    question: "buddhivaad and anubhvvaad of ttkraav whose drshn in smaapt is?",
+    option: [
+        "laaibnij",
+        "hyuum",
+        "brkle",
+        "kaanntt"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "nyaay drshn of prnnetaa are-",
+    option: [
+        "gautm buddh",
+        "mhrssi gautm",
+        "knnaad",
+        "jaimini"
+    ],
+    answer: "mhrssi gautm"
+},
+
+{
+    question: "aatmaa ythaarthtH-",
+    option: [
+        "bhoktaa is",
+        "krtaa is",
+        "bhoktaa and krtaa is",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "vaishessik drshn of prnnetaa are-",
+    option: [
+        "gautm",
+        "knnaad",
+        "kpil",
+        "jaimini"
+    ],
+    answer: "knnaad"
+},
+
+{
+    question: "dekaart ne sviikaaraa is",
+    option: [
+        "smaanaantrvaad to",
+        "antkriyaavaad to",
+        "puurvsthaapit saamNjsyvaad to",
+        "None of these"
+    ],
+    answer: "antkriyaavaad to"
+},
+
+{
+    question: "tttvtrkm anumaanm whose mt is?",
+    option: [
+        "saaNkhy of",
+        "nyaay of",
+        "bauddh of",
+        "jain of"
+    ],
+    answer: "nyaay of"
+},
+
+{
+    question: "nyaay of by how many prmaannoN to sviikaar done was is?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "four"
+},
+
+{
+    question: "Which of the following daarshnik knowledge to ‘sNshlessnnaatmk praagnubhvik nirnnyoN of ektNtr’ as pribhaassit do are?",
+    option: [
+        "loNk",
+        "brkle",
+        "kaanntt",
+        "sukraat"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "Which of the following one kthn correct is?",
+    option: [
+        "right and krtvy one-another from svtNtr are",
+        "right and krtvy saapekss are",
+        "right krtvy of virodhii is",
+        "None of these"
+    ],
+    answer: "right and krtvy saapekss are"
+},
+
+{
+    question: "anekaantvaad and syaadvaad which drshn of bhultaavaadii ythaarth saapekssvaad of only two form are?",
+    option: [
+        "jain drshn",
+        "bauddh drshn",
+        "vedaaNt drshn",
+        "caarvaak drshn"
+    ],
+    answer: "jain drshn"
+},
+
+{
+    question: "vstueN jnyaataa from svtNtr occursN, this vicaar is-",
+    option: [
+        "buddhivaad",
+        "prtyyvaad",
+        "vstuvaad",
+        "smiikssaavaad"
+    ],
+    answer: "smiikssaavaad"
+},
+
+{
+    question: "miimaaNsaa drshn is-",
+    option: [
+        "krmprdhaan",
+        "aatmprdhaan",
+        "dhrmprdhaan",
+        "None of these"
+    ],
+    answer: "aatmprdhaan"
+},
+
+{
+    question: "shNkr according to maayaa what is?",
+    option: [
+        "brhm",
+        "brhm of power",
+        "klpnaatmk sttaa",
+        "None of these"
+    ],
+    answer: "brhm of power"
+},
+
+{
+    question: "vaakyaarth of how many shrteN to nyaay drshn in maanaa goes is?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "four"
+},
+
+{
+    question: "trigunn are-",
+    option: [
+        "tm",
+        "rj",
+        "quality",
+        "None of these"
+    ],
+    answer: "rj"
+},
+
+{
+    question: "vaishessik according to nimnaaNkit in which agent is not?",
+    option: [
+        "krm",
+        "pRthvii",
+        "kaal",
+        "aatmaa"
+    ],
+    answer: "krm"
+},
+
+{
+    question: "Indian drshn of which smprdaay in substance and agent of vistRt vivegram is received is ? [2022 A]",
+    option: [
+        "yog drshn",
+        "vaishessik drshn",
+        "advait vedaaNt",
+        "miimaaNsaa drshn"
+    ],
+    answer: "vaishessik drshn"
+},
+
+{
+    question: "Indian drshn under Which of the following drshn come are? [2021A]",
+    option: [
+        "advaitvaad",
+        "dvaitvaad",
+        "vishissttaadvaitvaad",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vaishessik drshn of smaan system which drshn is?",
+    option: [
+        "yog drshn",
+        "bauddh drshn",
+        "jain drshn",
+        "nyaay drshn"
+    ],
+    answer: "nyaay drshn"
+},
+
+{
+    question: "which anubhvvaadii ne jdd' substance of puurnntH nissedh done and adhyaatmvaad establishment of?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "brkle"
+},
+
+{
+    question: "laaibnits of cibindu whose udaahrnn is ?",
+    option: [
+        "syaadvaad",
+        "aadhyaatmik bhuttvvaad",
+        "anekaantvaad",
+        "None of these"
+    ],
+    answer: "aadhyaatmik bhuttvvaad"
+},
+
+{
+    question: "jiske near smbuddhi occurs, use called are-",
+    option: [
+        "muni",
+        "sthitprjny",
+        "yogii",
+        "None of these"
+    ],
+    answer: "sthitprjny"
+},
+
+{
+    question: "yog drshn according to yog means-",
+    option: [
+        "miln",
+        "cittvRtti nirodh",
+        "ym",
+        "niym"
+    ],
+    answer: "cittvRtti nirodh"
+},
+
+{
+    question: "svpn or bhrm which sttaa of vissy are?",
+    option: [
+        "prtibhaassit sttaa",
+        "vyaavhaarik sttaa",
+        "paarmaarthik sttaa",
+        "None of these"
+    ],
+    answer: "prtibhaassit sttaa"
+},
+
+{
+    question: "following in which dnndd of siddhaaNt are?",
+    option: [
+        "nirodhk siddhaaNt",
+        "sudhaark siddhaaNt",
+        "prtikaaraatmk siddhaaNt",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "which buddhivaadii daarshnik ne said is ki cid-bindu shaashvt are?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "laaibnij",
+        "None of these"
+    ],
+    answer: "laaibnij"
+},
+
+{
+    question: "jain drshn in srvknowledgeii sNt to what said goes is?",
+    option: [
+        "arht",
+        "yogii",
+        "tiirthNkr",
+        "None of these"
+    ],
+    answer: "tiirthNkr"
+},
+
+{
+    question: "caarvaak drshn is- [2014A]",
+    option: [
+        "physicalvaadii",
+        "aadhyaatmvaadii",
+        "A and B both",
+        "None of these"
+    ],
+    answer: "physicalvaadii"
+},
+
+{
+    question: "drshnshaastr of vissyvstu of svruup what kind is? [2021A]",
+    option: [
+        "vyaapk",
+        "sNkiirnn",
+        "aaNshik",
+        "None of these"
+    ],
+    answer: "vyaapk"
+},
+
+{
+    question: "Indian drshn in ythaarth knowledge is called is-",
+    option: [
+        "aprmaa",
+        "prmaa",
+        "khyaatii",
+        "None of these"
+    ],
+    answer: "prmaa"
+},
+
+{
+    question: "nyaay drshn of keNdriiy vicaar is",
+    option: [
+        "naitik",
+        "sauNdry",
+        "raajniitik",
+        "knowledge miimaaNsiiy"
+    ],
+    answer: "knowledge miimaaNsiiy"
+},
+
+{
+    question: "environment of relation is-",
+    option: [
+        "pshu from",
+        "mnussy from",
+        "devtaa from",
+        "vnspti from"
+    ],
+    answer: "vnspti from"
+},
+
+{
+    question: "buddhivaadii daarshnik according to knowledge of type are",
+    option: [
+        "saadhaarnn knowledge",
+        "daarshnik knowledge",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "jain mtaavlNbiyoN according to vedaaNt and bauddh drshn whose nutrient is?",
+    option: [
+        "anekaantvaad",
+        "ekaantvaad",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "ekaantvaad"
+},
+
+{
+    question: "bauddh drshn in duHkh of how many cause are?",
+    option: [
+        "four",
+        "eight",
+        "twelve",
+        "caubiis"
+    ],
+    answer: "twelve"
+},
+
+{
+    question: "Which of the following Indian daarshnik is notN? [2021A]",
+    option: [
+        "arstuu",
+        "kpil",
+        "ptNjli",
+        "jaiminii"
+    ],
+    answer: "arstuu"
+},
+
+{
+    question: "whose aNtim part to upnissd called are?",
+    option: [
+        "puraann",
+        "knowledge",
+        "ved",
+        "None of these"
+    ],
+    answer: "ved"
+},
+
+{
+    question: "anubhvvaad of smrthk are",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "giitaa in prmaatmaa of which svruup btaae were are?",
+    option: [
+        "vykt",
+        "avykt",
+        "vykt and avykt",
+        "None of these"
+    ],
+    answer: "vykt and avykt"
+},
+
+{
+    question: "krm shbd of utptti was is- [2014A, 2023A]",
+    option: [
+        "lR dhaatu from",
+        "krm dhaatu from",
+        "kR dhaatu from",
+        "None of these"
+    ],
+    answer: "kR dhaatu from"
+},
+
+{
+    question: "jain drshn following in from kise sviikaar does is?",
+    option: [
+        "syaadvaad",
+        "aarNbhvaad",
+        "anaatmvaad",
+        "vivrtvaad"
+    ],
+    answer: "syaadvaad"
+},
+
+{
+    question: "vyaapaar niitishaastr which dishaa in kendrit is?",
+    option: [
+        "naitik shbdoN of vishlessnn from",
+        "RnndaataaoN to force provide doing in",
+        "vyaapaar of field in naitik values to sthaapit doing in",
+        "None of these"
+    ],
+    answer: "vyaapaar of field in naitik values to sthaapit doing in"
+},
+
+{
+    question: "saaNkhy vishvaas does is-",
+    option: [
+        "prkRti prinnaamvaad in",
+        "brhm prinnaamvaad in",
+        "vivrtvaad in",
+        "None of these"
+    ],
+    answer: "prkRti prinnaamvaad in"
+},
+
+{
+    question: "shNkr of drshn in vyaavhaarik sttaa what is ?",
+    option: [
+        "nirgunn iishvr",
+        "brhm",
+        "jgt",
+        "None of these"
+    ],
+    answer: "jgt"
+},
+
+{
+    question: "vaishessik drshn according to quality apne astitv for which on depends does is?",
+    option: [
+        "agent",
+        "special",
+        "smvaay",
+        "None of these"
+    ],
+    answer: "agent"
+},
+
+{
+    question: "cause to bhaavaatmk and nissedhaatmk upaadhiyoN of yog who maanaa is ?",
+    option: [
+        "arstu",
+        "mil",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "mil"
+},
+
+{
+    question: "cturth aary sty to said goes is?",
+    option: [
+        "mdhym maarg",
+        "assttaaNgik maarg",
+        "smyk maarg",
+        "among these any not"
+    ],
+    answer: "assttaaNgik maarg"
+},
+
+{
+    question: "following in which purussaarth is not? [2010A, 14A, 16A, 18A]",
+    option: [
+        "meaning",
+        "dhrm",
+        "iishvr",
+        "work"
+    ],
+    answer: "iishvr"
+},
+
+{
+    question: "upnissd to said goes is-",
+    option: [
+        "yog vidyaa",
+        "brhm vidyaa",
+        "knowledge vidyaa",
+        "None of these"
+    ],
+    answer: "brhm vidyaa"
+},
+
+{
+    question: "anumaan of duusraa name what is?",
+    option: [
+        "anviikssaa",
+        "prokssikaa",
+        "anumiti",
+        "anupaalk"
+    ],
+    answer: "anviikssaa"
+},
+
+{
+    question: "advait of meaning is-",
+    option: [
+        "two not",
+        "one not",
+        "four not",
+        "three not"
+    ],
+    answer: "two not"
+},
+
+{
+    question: "Which of the following anubhvvaadii is not?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "jain drshn of prnnetaa are-",
+    option: [
+        "buddh",
+        "gautm",
+        "kpil",
+        "mhaaviir"
+    ],
+    answer: "mhaaviir"
+},
+
+{
+    question: "function-cause niym is-",
+    option: [
+        "vaiknowledgeik",
+        "social",
+        "daarshnik",
+        "normal"
+    ],
+    answer: "vaiknowledgeik"
+},
+
+{
+    question: "shNkr ne svpn in astitv of svruup to what said is?",
+    option: [
+        "prtibhaassik sttaa",
+        "vyaavhaarik sttaa",
+        "paarmaarthik sttaa",
+        "None of these"
+    ],
+    answer: "prtibhaassik sttaa"
+},
+
+{
+    question: "aastik drshn following in from kise cetnaa of adhisstthaan as sviikaar does is ? [2022 A]",
+    option: [
+        "aatmaa",
+        "jgt",
+        "body",
+        "prkRti"
+    ],
+    answer: "aatmaa"
+},
+
+{
+    question: "prtyyvaad related is-",
+    option: [
+        "jdd' from",
+        "cetnaa from",
+        "knowledge from",
+        "anubhv from"
+    ],
+    answer: "cetnaa from"
+},
+
+{
+    question: "Indian drshn in anubhuutiyoN how many types of maanii gyii are?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "two"
+},
+
+{
+    question: "“niitishaastr human-aacrnn of one aadrsh nirdhaark viknowledge is” this ukti kinkii is?",
+    option: [
+        "muur",
+        "maikenjii",
+        "lilii",
+        "None of these"
+    ],
+    answer: "lilii"
+},
+
+{
+    question: "following in who aatmaa and body to one-another of pryaay maanaa is?",
+    option: [
+        "caarvaak",
+        "shNkr",
+        "buddh",
+        "jain"
+    ],
+    answer: "caarvaak"
+},
+
+{
+    question: "stogunn, rjogunn and tmogunn are-",
+    option: [
+        "man of",
+        "prkRti of",
+        "iishvr of",
+        "None of these"
+    ],
+    answer: "prkRti of"
+},
+
+{
+    question: "which drshn in smyk smaadhi of vrnnn is?",
+    option: [
+        "yog drshn",
+        "bauddh drshn",
+        "jain drshn",
+        "among these any not"
+    ],
+    answer: "bauddh drshn"
+},
+
+{
+    question: "education drshn one shaakhaa is-",
+    option: [
+        "physicalviknowledge of",
+        "mnoviknowledge of",
+        "drshnshaastr of",
+        "trkshaastr of"
+    ],
+    answer: "drshnshaastr of"
+},
+
+{
+    question: "saaNkhy drshn following in kise sviikaar does is?",
+    option: [
+        "aarNbhvaad",
+        "prinnaamvaad",
+        "vivrtvaad",
+        "None of these"
+    ],
+    answer: "prinnaamvaad"
+},
+
+{
+    question: "two vstuoN between of special and anivaary relation what is called is? [2021A]",
+    option: [
+        "abhaav",
+        "snnikrss",
+        "vyaapti",
+        "None of these"
+    ],
+    answer: "vyaapti"
+},
+
+{
+    question: "nyaay according to proof are-",
+    option: [
+        "two",
+        "six",
+        "four",
+        "None of these"
+    ],
+    answer: "four"
+},
+
+{
+    question: "who said is ki knowledge sNshlessnnaatmk praagnubhvik nirnny is?",
+    option: [
+        "kaanntt",
+        "hegl",
+        "laaibnij",
+        "spinojaa"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "direct nyaayshaastr in proof of which saa bhed is?",
+    option: [
+        "prthm",
+        "dvitiiy",
+        "tRtiiy",
+        "cturth"
+    ],
+    answer: "prthm"
+},
+
+{
+    question: "Which of the following aastik drshn is?",
+    option: [
+        "krm principle",
+        "yog principle",
+        "purussaarth principle",
+        "None of these"
+    ],
+    answer: "krm principle"
+},
+
+{
+    question: "kaanntt according to knowledge is",
+    option: [
+        "praagnubhvik nirnny",
+        "anubhv saapekss nirnny",
+        "sNshlessnnaatmk praagnubhvik nirnny",
+        "None of these"
+    ],
+    answer: "sNshlessnnaatmk praagnubhvik nirnny"
+},
+
+{
+    question: "drshnshaastr in knowledge to which meaning in pryukt is done ? [2022 A]",
+    option: [
+        "vistRt meaning in",
+        "sNkucit meaning in",
+        "both arthoN in",
+        "None of these"
+    ],
+    answer: "both arthoN in"
+},
+
+{
+    question: "who said is ki sNvedn binaa knowledge of andhaa is and pure bodh binaa sNvednoN of khokhlaa is?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "loNk",
+        "kaanntt"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "following in which-saa quality knowledge symbolizes?",
+    option: [
+        "sttv",
+        "rjs",
+        "tms",
+        "None of these"
+    ],
+    answer: "sttv"
+},
+
+{
+    question: "buddh of assttaaNgik maarg of aatthveN and aNtim organ of what name is?",
+    option: [
+        "prtyaahaar",
+        "dhaarnnaa",
+        "dhyaan",
+        "smaadhi"
+    ],
+    answer: "smaadhi"
+},
+
+{
+    question: "cause function of is-",
+    option: [
+        "puurvvrtii",
+        "anuvrtii",
+        "shprinnaam",
+        "also puurvvrtii is then kbhii anuvrtii"
+    ],
+    answer: "puurvvrtii"
+},
+
+{
+    question: "cause of gunnaatmk lkssnn what is ?",
+    option: [
+        "this puurvvrtii ghttnaa is",
+        "this anaupcaarik ghttnaa is",
+        "this taatkaalik, niyt, anaupaadhik, puurvvrtii ghttnaa is",
+        "None of these"
+    ],
+    answer: "this taatkaalik, niyt, anaupaadhik, puurvvrtii ghttnaa is"
+},
+
+{
+    question: "buddh according to prthm aary-sty Which of the following is?",
+    option: [
+        "sNsaar dukhoN from pripuurnn is",
+        "dukhoN of cause also is",
+        "dukhoN of ant sNbhv is",
+        "dukhoN of ant of maarg is"
+    ],
+    answer: "sNsaar dukhoN from pripuurnn is"
+},
+
+{
+    question: "jain drshn in videh mukti to said goes is-",
+    option: [
+        "bodhisttv",
+        "kaivly",
+        "nirvaann",
+        "prinirvaann"
+    ],
+    answer: "nirvaann"
+},
+
+{
+    question: "purussaarth under Which of the following comes is? [2021A]",
+    option: [
+        "st",
+        "shubh",
+        "proper",
+        "upbhog"
+    ],
+    answer: "upbhog"
+},
+
+{
+    question: "which drshn in smyk smaadhi of vrnnn is?",
+    option: [
+        "jain drshn",
+        "bauddh drshn",
+        "yog",
+        "miimaaNsaa"
+    ],
+    answer: "yog"
+},
+
+{
+    question: "knowledge of means of smbndh in buddhivaadiyoN of prmukh maanytaa what is?",
+    option: [
+        "ttebulaa raasaa",
+        "sNskaar and prtyy",
+        "congenital prtyy",
+        "sNshyvaad"
+    ],
+    answer: "congenital prtyy"
+},
+
+{
+    question: "st quality of st quality in only ruupaaNtrit honaa what is ? [2022 A]",
+    option: [
+        "viruup change",
+        "svruup change",
+        "vivrt change",
+        "None of these"
+    ],
+    answer: "svruup change"
+},
+
+{
+    question: "Which of the following naastik drshn is?",
+    option: [
+        "yog drshn",
+        "nyaay drshn",
+        "jain drshn",
+        "saaNkhy drshn"
+    ],
+    answer: "jain drshn"
+},
+
+{
+    question: "vyaapti knowledge of bhuumikaa which proof for is?",
+    option: [
+        "direct",
+        "alaukik direct",
+        "anumaan",
+        "None of these"
+    ],
+    answer: "anumaan"
+},
+
+{
+    question: "nyaay drshn in yogj direct what is?",
+    option: [
+        "saamaanyoN of direct",
+        "laukik direct",
+        "alaukik of direct",
+        "All of these"
+    ],
+    answer: "alaukik of direct"
+},
+
+{
+    question: "dhrm, meaning, work and mokss whose type are?",
+    option: [
+        "krm",
+        "purussaarth",
+        "aashrm",
+        "vrnn"
+    ],
+    answer: "purussaarth"
+},
+
+{
+    question: "svdhrm of real relation is-",
+    option: [
+        "normal dhrm from",
+        "vrnnaashrm dhrm from",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "saaNkhy drshn in stkaaryvaad which principle from smbndhit is?",
+    option: [
+        "function siddhaaNt",
+        "cause siddhaaNt",
+        "function-cause siddhaaNt",
+        "None of these"
+    ],
+    answer: "function-cause siddhaaNt"
+},
+
+{
+    question: "vaishessik drshn in that agent to what called are jiskaa special quality cetnaa is?",
+    option: [
+        "aakaash",
+        "dik",
+        "kaal",
+        "aatmaa"
+    ],
+    answer: "aatmaa"
+},
+
+{
+    question: "aashrm how many sopaan of occurs? [2021A]",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "four"
+},
+
+{
+    question: "following in from which one in buddh of updesh sNgrhit are?",
+    option: [
+        "buddh of updesh in",
+        "knowledge of book in",
+        "tripittk in",
+        "None of these"
+    ],
+    answer: "tripittk in"
+},
+
+{
+    question: "human aacrnn on naitik nirnny for what anivaary is?",
+    option: [
+        "person of desh",
+        "person of color",
+        "person of language",
+        "person of icchaa svaatNtry"
+    ],
+    answer: "person of icchaa svaatNtry"
+},
+
+{
+    question: "pNcaavyv of relation from whom is?",
+    option: [
+        "nyaay of direct from",
+        "nyaay of upmaan from",
+        "nyaay of anumaan from",
+        "nyaay of shbd proof from"
+    ],
+    answer: "nyaay of anumaan from"
+},
+
+{
+    question: "cause of correct pribhaassaa what is?",
+    option: [
+        "cause one puurvvrtii ghttnaa is",
+        "cause one anuvrtii ghttnaa is",
+        "cause anaupcaarik puurvvrtii ghttnaa is",
+        "cause one niyt, anaupcaarik and taatkaalik puurvvrtii ghttnaa is"
+    ],
+    answer: "cause one niyt, anaupcaarik and taatkaalik puurvvrtii ghttnaa is"
+},
+
+{
+    question: "puurv sthaapit saamNjsy principle related is",
+    option: [
+        "dekaart from",
+        "kaanntt from",
+        "laaibnij from",
+        "None of these"
+    ],
+    answer: "laaibnij from"
+},
+
+{
+    question: "aNtkriyaavaad siddhaaNt of prvrtk are-",
+    option: [
+        "spiinojaa",
+        "laaibniij",
+        "dekaart",
+        "hyuum"
+    ],
+    answer: "spiinojaa"
+},
+
+{
+    question: "maayaa of that power of what name is jo brhm of sttaa to chipaa letii is?",
+    option: [
+        "prjnyaa",
+        "smaadhi",
+        "aavrnn",
+        "All of these"
+    ],
+    answer: "aavrnn"
+},
+
+{
+    question: "arstu according cause is-",
+    option: [
+        "aakaarik",
+        "aNtim",
+        "upaadaan",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which buddhivaadii daarshnik according to agent svtNtr, nirpekss, vilkssnn and saarvbhaum is?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "laaibnij",
+        "loNk"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "Which of the following medical treatment niitishaastr of vissy is?",
+    option: [
+        "srogett mother",
+        "embryo htyaa",
+        "cikitsk mriij relation",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "Indian drshn in ythaarth knowledge to said goes is- [2014A, 2016A, 2023A]",
+    option: [
+        "prmaa",
+        "aprmaa",
+        "sNbhaav",
+        "adhyaap"
+    ],
+    answer: "prmaa"
+},
+
+{
+    question: "bauddh drshn and jain drshnoN to which-saa drshn said goes is?",
+    option: [
+        "aastik drshn",
+        "naastik drshn",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "naastik drshn"
+},
+
+{
+    question: "knowledgeshaastriiy principle as ‘smiikssaavaad’ den is",
+    option: [
+        "dekaart of",
+        "spinojaa of",
+        "brkle of",
+        "kaanntt of"
+    ],
+    answer: "kaanntt of"
+},
+
+{
+    question: "who said is ki drshnshaastr of knowledge also gnnit of knowledge of trh spsstt and suspsstt should be?",
+    option: [
+        "dekaart",
+        "laaibnij",
+        "spinojaa",
+        "loNk"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "function-cause niym aagmn of what type of basis is?",
+    option: [
+        "real",
+        "aakaarik",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "aakaarik"
+},
+
+{
+    question: "Rt related is- [2009A, 14A, 16A, 23A]",
+    option: [
+        "naitik niym from",
+        "dhaarmik niym from",
+        "physical niym from",
+        "All of these"
+    ],
+    answer: "naitik niym from"
+},
+
+{
+    question: "who said is ki ‘maiN soctaa huuN islie maiN huuN’?",
+    option: [
+        "spinojaa",
+        "brkle",
+        "loNk",
+        "dekaart"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "prkRti of which element quality mn of ashaaNti and vstuoN to claaymaan keeping for jimmedaar are?",
+    option: [
+        "sttvgunn",
+        "rjogunn",
+        "tmogunn",
+        "All of these"
+    ],
+    answer: "rjogunn"
+},
+
+{
+    question: "jain dhrm of aNtim tiirthNkr which are?",
+    option: [
+        "mhaaviir",
+        "Rssbhdev",
+        "paarshvnaath",
+        "shaaky muni"
+    ],
+    answer: "mhaaviir"
+},
+
+{
+    question: "smiikssaavaad is produced",
+    option: [
+        "anubhvvaad of bhaavaatmk aNshoN to milaakr",
+        "buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of nkaaraatmk aNshoN to milaakr"
+    ],
+    answer: "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr"
+},
+
+{
+    question: "correct kthn what is?",
+    option: [
+        "cause upaadhik of one organ is",
+        "kbhii puurvvrtii is then kbhii anuvrtii",
+        "cause and upaadhik braabr is",
+        "upaadhi cause of aNsh is not"
+    ],
+    answer: "kbhii puurvvrtii is then kbhii anuvrtii"
+},
+
+{
+    question: "mn-body relation of vyaakhyaa does is  / ",
+    option: [
+        "smaanaantrvaad",
+        "aNtkriyaavaad",
+        "puurvsthaapit saamNjsyvaad",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "prkRti of which quality because of vstueN uurdhvgmn does are ?",
+    option: [
+        "stvgunn",
+        "rjogunn",
+        "tmogunn",
+        "None of these"
+    ],
+    answer: "stvgunn"
+},
+
+{
+    question: "bauddh drshn of which aary sty to naitik kaarnntaavaad said was is?",
+    option: [
+        "prthm aary sty",
+        "dvitiiy aary sty",
+        "tRtiiy aary sty",
+        "cturth aary sty"
+    ],
+    answer: "dvitiiy aary sty"
+},
+
+{
+    question: "niitishuuny krm of what meaning is?",
+    option: [
+        "vh krm jo naitik dRssttikonn from anucit is",
+        "vh krm jise mnussyoN to not to do should",
+        "(A) and (B) both",
+        "vh krm which on naitik nirnny not is given"
+    ],
+    answer: "vh krm which on naitik nirnny not is given"
+},
+
+{
+    question: "Which of the following knowledge of avrodh does is ? [2022 A]",
+    option: [
+        "stv",
+        "rjs",
+        "tms",
+        "None of these"
+    ],
+    answer: "tms"
+},
+
+{
+    question: "niitishaastr which vidyaa to called are?",
+    option: [
+        "jo prm sttaa of khoj does is",
+        "jo naitik maapdnnddoN of khoj does is",
+        "jo knowledge of means of khoj does is",
+        "None of these"
+    ],
+    answer: "jo naitik maapdnnddoN of khoj does is"
+},
+
+{
+    question: "vaishessik drshn in all physical drvyoN of astitv is / ",
+    option: [
+        "dik",
+        "kaal",
+        "dik and kaal",
+        "None of these"
+    ],
+    answer: "dik and kaal"
+},
+
+{
+    question: "naitik niym of anukuul rhne which krmoN to what kheNge? [2021A]",
+    option: [
+        "proper",
+        "anucit",
+        "proper and anucit",
+        "None of these"
+    ],
+    answer: "proper"
+},
+
+{
+    question: "environment niitishaastr of vissy-item what is?",
+    option: [
+        "medical treatment from judd'ii naitik smsyaaeN",
+        "vyfaty from judd'ii naitik smsyaaeN",
+        "environment from judd'ii naitik smsyaaeN",
+        "miiddiyaa from judd'ii naitik smsyaaeN"
+    ],
+    answer: "environment from judd'ii naitik smsyaaeN"
+},
+
+{
+    question: "jain drshn in ‘ny’ shbd what drshaataa is?",
+    option: [
+        "any item of all pkssoN of full knowledge to drshaataa is",
+        "any item of kuch pkssoN of aaNshik knowledge to drshaataa is",
+        "(A) and (B) both to drshaataa is",
+        "None of these"
+    ],
+    answer: "any item of kuch pkssoN of aaNshik knowledge to drshaataa is"
+},
+
+{
+    question: "jo knowledge obtained does is, is called is-",
+    option: [
+        "proof",
+        "prmaataa",
+        "prmaa",
+        "aprmaa"
+    ],
+    answer: "prmaataa"
+},
+
+{
+    question: "aastik and naastik drshn of bhed Indian smprdaay in which basis on done was is? [2010A]",
+    option: [
+        "iishvr in vishvaas",
+        "ved in vishvaas",
+        "aatmaa in vishvaas",
+        "None of these"
+    ],
+    answer: "ved in vishvaas"
+},
+
+{
+    question: "knowledge of means as shj knowledge and nigmn to who sviikaar done is?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "dekaart"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "sNskaar and prtyyoN of vicaar which anubhvvaadii of drshn in is found?",
+    option: [
+        "hyuum",
+        "loNk",
+        "brkle",
+        "None of these"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "aagmn of aakaarik basis is-",
+    option: [
+        "prkRti-smruuptaa",
+        "niriikssnn",
+        "use",
+        "cause function niym"
+    ],
+    answer: "cause function niym"
+},
+
+{
+    question: "jdd' in gti provide doing which power to what called are?",
+    option: [
+        "upaadaan cause",
+        "nimitt cause",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "nimitt cause"
+},
+
+{
+    question: "yog drshn in citt of how many avsthaaoN of jikr is?",
+    option: [
+        "one",
+        "four",
+        "five",
+        "eight"
+    ],
+    answer: "five"
+},
+
+{
+    question: "direct knowledge for what anivaary is?",
+    option: [
+        "indriyoN and vissyoN of snnikrss",
+        "vyaapti knowledge",
+        "shbd",
+        "udaahrnn"
+    ],
+    answer: "indriyoN and vissyoN of snnikrss"
+},
+
+{
+    question: "“dnndd giving of back ekmaatr uddeshy is ki person bhvissy in that apraadh of punraavRtti n kre” this vicaar dnndd of which siddhaaNt related to is?",
+    option: [
+        "prtishodhaatmk siddhaaNt",
+        "nivaartnvaadii siddhaaNt",
+        "sudhaarvaadii siddhaaNt",
+        "All of these"
+    ],
+    answer: "nivaartnvaadii siddhaaNt"
+},
+
+{
+    question: "following in pudgl of which-from bhed are?",
+    option: [
+        "annu",
+        "skNdh",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "aadhunik paashcaaty drshn of pitaa is called is:",
+    option: [
+        "spinojaa",
+        "laaibnij",
+        "dekaart",
+        "None of these"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "bauddh drshn according to aary sty are-",
+    option: [
+        "two",
+        "three",
+        "four",
+        "None of these"
+    ],
+    answer: "four"
+},
+
+{
+    question: "syaadvaad siddhaaNt is-",
+    option: [
+        "knowledgeshaastriiy",
+        "tttvshaastriiy",
+        "niiti miimaaNsiiy",
+        "None of these"
+    ],
+    answer: "knowledgeshaastriiy"
+},
+
+{
+    question: "jain drshn of prvrtk are-",
+    option: [
+        "gautm",
+        "kpil",
+        "mhaaviir",
+        "None of these"
+    ],
+    answer: "mhaaviir"
+},
+
+{
+    question: "mn and body of smbndh spinojaa according to is –",
+    option: [
+        "kriyaavaad",
+        "smaanaantrvaad",
+        "above-mentioned both",
+        "None of these"
+    ],
+    answer: "smaanaantrvaad"
+},
+
+{
+    question: "mhaaviir to nirvaann where obtained was?",
+    option: [
+        "paavaapurii",
+        "bodhgyaa",
+        "kushiingr",
+        "raajgiir"
+    ],
+    answer: "paavaapurii"
+},
+
+{
+    question: "sukh and duHkh krmshH shubh and ashubh krmoN of anivaary fruit maane go are, this which siddhaaNt from judd'aa was is?",
+    option: [
+        "krm siddhaaNt",
+        "yog siddhaaNt",
+        "purussaarth siddhaaNt",
+        "None of these"
+    ],
+    answer: "krm siddhaaNt"
+},
+
+{
+    question: "physicalvaad according to prm sttaa is-",
+    option: [
+        "prtyy",
+        "tttsth",
+        "jdd'",
+        "iishvr"
+    ],
+    answer: "jdd'"
+},
+
+{
+    question: "mn and body between dekaart what type of smbndh to sviikaar do are?",
+    option: [
+        "smaanaantrvaad",
+        "antHkriyaavaad",
+        "nityvaad",
+        "nishcyvaad"
+    ],
+    answer: "antHkriyaavaad"
+},
+
+{
+    question: "kaanntt of smiikssaavaad on effect is:",
+    option: [
+        "buddhivaad of",
+        "anubhvvaad of",
+        "(A) and (B) both of",
+        "None of these"
+    ],
+    answer: "(A) and (B) both of"
+},
+
+{
+    question: "yogdrshn in 'aNtrNg means' of how many avyv are?",
+    option: [
+        "three",
+        "five",
+        "four",
+        "two"
+    ],
+    answer: "three"
+},
+
+{
+    question: "Indian drshn of muul dRsstti is- [2014A, 2023A]",
+    option: [
+        "vishlessnnaatmk",
+        "bauddhik",
+        "aadhyaatmik",
+        "None of these"
+    ],
+    answer: "aadhyaatmik"
+},
+
+{
+    question: "which knowledge principle according to knowledge of obtaining aagmnaatmk method from occurs?",
+    option: [
+        "buddhivaad",
+        "anubhvvaad",
+        "vaad",
+        "vstuvaad"
+    ],
+    answer: "anubhvvaad"
+},
+
+{
+    question: "bauddh drshn according to prthm aary sty is-",
+    option: [
+        "sukh",
+        "aannd",
+        "duHkh of cause",
+        "duHkh"
+    ],
+    answer: "duHkh"
+},
+
+{
+    question: "abhaav of ullekh which drshn in is received is?",
+    option: [
+        "saaNkhy drshn",
+        "yog drshn",
+        "vaishessik drshn",
+        "All of these"
+    ],
+    answer: "vaishessik drshn"
+},
+
+{
+    question: "niym of anukuul rhne on what kheNge?",
+    option: [
+        "proper",
+        "anucit",
+        "proper and anucit",
+        "None of these"
+    ],
+    answer: "proper"
+},
+
+{
+    question: "indriy direct to knowledge of means who maanaa is?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "aadhyaatmik anubhuuti which drshnshaastr in bauddhik knowledge from high maanaa was is?",
+    option: [
+        "Indian drshnshaastr",
+        "paashcaaty drshnshaastr",
+        "A and B both",
+        "None of these"
+    ],
+    answer: "Indian drshnshaastr"
+},
+
+{
+    question: "giitaa in mokss of which-which from maarg btaae were are?",
+    option: [
+        "knowledge",
+        "krm",
+        "bhkti",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "vyaapaar niitishaastr adhyyn is-",
+    option: [
+        "vyaapaar of vistaar of",
+        "vyaapaar of svaamitv of",
+        "vyaapaar of rkhrkhaav of",
+        "vyaapaar from judd'ii naitiktaa of"
+    ],
+    answer: "vyaapaar from judd'ii naitiktaa of"
+},
+
+{
+    question: "environment of type are-",
+    option: [
+        "physical",
+        "mental",
+        "aadhyaatmik",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "tripittk related are-",
+    option: [
+        "bauddh drshn from",
+        "saaNkhy drshn from",
+        "jain drshn from",
+        "None of these"
+    ],
+    answer: "bauddh drshn from"
+},
+
+{
+    question: "shNkr of time maanaa goes is-",
+    option: [
+        "788-820 AD",
+        "800-900 AD",
+        "100-1100 AD",
+        "700-820 AD"
+    ],
+    answer: "788-820 AD"
+},
+
+{
+    question: "jain drshn in aatmaa to said goes is-",
+    option: [
+        "man",
+        "jiiv",
+        "iishvr",
+        "ajiiv"
+    ],
+    answer: "jiiv"
+},
+
+{
+    question: "knowledgemiimaaNsiiy vstuvaad according to",
+    option: [
+        "jnyey jnyaataa from svtNtr is not",
+        "jnyaataa and jnyey both one-another from svtNtr are",
+        "jnyaataa and jnyey both one-another from svtNtr is notN",
+        "[a] and [b] both"
+    ],
+    answer: "[a] and [b] both"
+},
+
+{
+    question: "Which of the following saa viklp saaNkhy drshn of prkRti of sNdrbh in correct is?",
+    option: [
+        "prkRti of sNkhyaa one is and skriy is",
+        "prkRti of sNkhyaa two is and skriy is",
+        "prkRti of sNkhyaa anek is and nisskriy is",
+        "None of these"
+    ],
+    answer: "prkRti of sNkhyaa one is and skriy is"
+},
+
+{
+    question: "bauddh drshn of prmukh siddhaaNt what is?",
+    option: [
+        "mdhym maarg",
+        "advaitvaad",
+        "iishvrvaad",
+        "All of these"
+    ],
+    answer: "mdhym maarg"
+},
+
+{
+    question: "buddh of which aary sty in nirvaann of maarg vrnnit is?",
+    option: [
+        "prthm",
+        "dvitiiy",
+        "tRtiiy",
+        "cturth"
+    ],
+    answer: "cturth"
+},
+
+{
+    question: "tttvtrkm anumaanm anumaan of pribhaassaa dii was is-",
+    option: [
+        "nyaay by",
+        "vaishessik by",
+        "saaNkhy by",
+        "None of these"
+    ],
+    answer: "vaishessik by"
+},
+
+{
+    question: "aatmaa of special quality are-",
+    option: [
+        "sukh",
+        "duHkh",
+        "sukh and duHkh",
+        "None of these"
+    ],
+    answer: "sukh and duHkh"
+},
+
+{
+    question: "‘anaaskti yog’ naamk grNth of rgram who of?",
+    option: [
+        "child gNgaadhr tilk",
+        "mhaatmaa gaaNdhii",
+        "arvind ghoss",
+        "ddoN. raadhaakRssnnn"
+    ],
+    answer: "mhaatmaa gaaNdhii"
+},
+
+{
+    question: "nisskaam krm what is?",
+    option: [
+        "krm of tyaag is",
+        "krmphl of tyaag is",
+        "skaam krm is",
+        "None of these"
+    ],
+    answer: "krmphl of tyaag is"
+},
+
+{
+    question: "smiikssaatmk vstuvaad to called are",
+    option: [
+        "knowledge miimaaNsiiy ekvaad",
+        "knowledge miimaaNsiiy dvaitvaad",
+        "element miimaaNsiiy dvaitvaad",
+        "None of these"
+    ],
+    answer: "knowledge miimaaNsiiy ekvaad"
+},
+
+{
+    question: "vicaar and vistaar to iishvr of quality who maanaa is?",
+    option: [
+        "spinojaa",
+        "dekaart",
+        "laaibnij",
+        "kaanntt"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "bhrtRhri ne prsiddh book likhaa is-",
+    option: [
+        "sphottvaad",
+        "vaakypdiiym",
+        "shbdbodh",
+        "among these any not"
+    ],
+    answer: "vaakypdiiym"
+},
+
+{
+    question: "vaishessik by how many types of krm maanaa was is?",
+    option: [
+        "five",
+        "eight",
+        "solh",
+        "caubiis"
+    ],
+    answer: "five"
+},
+
+{
+    question: "antHkriyaavaad principle is:",
+    option: [
+        "dekaart of",
+        "spinojaa of",
+        "laaibnij of",
+        "loNk of"
+    ],
+    answer: "dekaart of"
+},
+
+{
+    question: "body and mn upaadhiyoN from siimit prmaatmaa what is?",
+    option: [
+        "maayaa",
+        "jiivaatmaa",
+        "brhm",
+        "None of these"
+    ],
+    answer: "jiivaatmaa"
+},
+
+{
+    question: "medical treatment niitishaastr of important problem what is?",
+    option: [
+        "aatm htyaa",
+        "embryo htyaa",
+        "hiNsaa",
+        "dhaarmik hiNsaa"
+    ],
+    answer: "embryo htyaa"
+},
+
+{
+    question: "buddh to nirvaann where mixed thaa?",
+    option: [
+        "kushiingr",
+        "saarnaath",
+        "bodh was",
+        "kpilvstu"
+    ],
+    answer: "kushiingr"
+},
+
+{
+    question: "respiratory prkriyaa to controlled by doing one krm in laanaa what is called is?",
+    option: [
+        "dhyaan",
+        "dhaarnnaa",
+        "smaadhi",
+        "praannaayaam"
+    ],
+    answer: "praannaayaam"
+},
+
+{
+    question: "Which of the following anupyukt niitishaastr of shaakhaa is?",
+    option: [
+        "pryaavrnniiy niitishaastr",
+        "jaiv-cikitsiiy niitishaastr",
+        "vyfaty niitishaastr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following anupyukt niitishaastr of shaakhaa is?",
+    option: [
+        "pryaavrnniiy niitishaastr",
+        "jaiv-cikitsiiy niitishaastr",
+        "vyfaty niitishaastr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "shNkr according to st-aanNd which is?",
+    option: [
+        "iishvr",
+        "maayaa",
+        "brhm",
+        "None of these"
+    ],
+    answer: "brhm"
+},
+
+{
+    question: "“niitishaastr shubh and proper aacrnn of adhyyn is”- this pribhaassaa who dii?",
+    option: [
+        "muur",
+        "maikenjii",
+        "joNn de",
+        "None of these"
+    ],
+    answer: "maikenjii"
+},
+
+{
+    question: "shNkr according to body from mukt aatmaa what is?",
+    option: [
+        "jiiv",
+        "maayaa",
+        "brhm",
+        "None of these"
+    ],
+    answer: "brhm"
+},
+
+{
+    question: "vaishessik by how many types of quality maanaa was is?",
+    option: [
+        "twelve",
+        "caubiis",
+        "eight",
+        "solh"
+    ],
+    answer: "caubiis"
+},
+
+{
+    question: "saaNkhy, yog and nyaay drshn of normal vicaar hai / ",
+    option: [
+        "aastiktaa",
+        "naastiktaa",
+        "ekvaaditaa",
+        "None of these"
+    ],
+    answer: "aastiktaa"
+},
+
+{
+    question: "nyaay suutr who likhaa is?",
+    option: [
+        "vaacspti",
+        "vaatsyaayn",
+        "gautm",
+        "udyn bhtttt"
+    ],
+    answer: "gautm"
+},
+
+{
+    question: "prinnaam of dRsstti from cause function from what is?",
+    option: [
+        "bdd'aa",
+        "chottaa",
+        "bhukaarnnvaad",
+        "None of these"
+    ],
+    answer: "bhukaarnnvaad"
+},
+
+{
+    question: "person bno’ this vktvy is",
+    option: [
+        "breddle of",
+        "sorokiin of",
+        "higel of",
+        "kaanntt of"
+    ],
+    answer: "breddle of"
+},
+
+{
+    question: "shNkr of drshn according to paarmaarthik sttaa what is ?",
+    option: [
+        "st",
+        "cit",
+        "aannd",
+        "All of these"
+    ],
+    answer: "st"
+},
+
+{
+    question: "India of daarshnik smprdaayoN to baaNttaa was is- [2009A,16A,23A]",
+    option: [
+        "aastik",
+        "naastik",
+        "aastik and naastik",
+        "None of these"
+    ],
+    answer: "aastik and naastik"
+},
+
+{
+    question: "ptNjli according to niym of sNkhyaa how many is?",
+    option: [
+        "two",
+        "five",
+        "three",
+        "six"
+    ],
+    answer: "five"
+},
+
+{
+    question: "buddh of assttaaNgik maarg following in from which aary-sty from smbddh is?",
+    option: [
+        "prthm aary-sty",
+        "dvitiiy aary-sty",
+        "tRtiiy aary-sty",
+        "cturth aary-sty"
+    ],
+    answer: "cturth aary-sty"
+},
+
+{
+    question: "Which of the following one vedaant of shaakhaa is not?",
+    option: [
+        "dvait",
+        "vishissttaadvait",
+        "advait",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "education drshn of basis-",
+    option: [
+        "prkRtivaad is",
+        "aadhyaatmvaad is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "knowledgeshaastriiy prtyyvaad sviikaar does is",
+    option: [
+        "item jnyaataa from svtNtr is",
+        "item jnyaataa on depends is",
+        "item jnyaataa from tttsth is",
+        "None of these"
+    ],
+    answer: "item jnyaataa on depends is"
+},
+
+{
+    question: "prm element according to prm sttaa is",
+    option: [
+        "prtyy",
+        "jdd'",
+        "tttsth",
+        "None of these"
+    ],
+    answer: "tttsth"
+},
+
+{
+    question: "jain drshn in knowledge of saapeksstaa of principle what is?",
+    option: [
+        "syaadvaad",
+        "anekaantvaad",
+        "akhyaativaad",
+        "None of these"
+    ],
+    answer: "syaadvaad"
+},
+
+{
+    question: "bauddh drshn in mokss to nirvaann said was hai /  isse person of-",
+    option: [
+        "smst duHkhoN of aNt be goes is",
+        "punrjnm of shrRNkhlaa smaapt be goes is",
+        "A and B both",
+        "None of these"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "“knowledge of obtaining nigmnaatmk method from occurs” this which knowledge principle according to?",
+    option: [
+        "buddhivaad",
+        "anubhvvaad",
+        "smiikssaavaad",
+        "None of these"
+    ],
+    answer: "buddhivaad"
+},
+
+{
+    question: "srvocc shubh what is?",
+    option: [
+        "maatr means is",
+        "maatr baahy is",
+        "crm lkssy is",
+        "None of these"
+    ],
+    answer: "crm lkssy is"
+},
+
+{
+    question: "following in from who said is ki cause bhaavaatmk and nissedhaatmk upaadhiyoN of yogphl is?",
+    option: [
+        "mil",
+        "arstuu",
+        "hyuum",
+        "None of these"
+    ],
+    answer: "mil"
+},
+
+{
+    question: "smiikssaatmk vstuvaad to called are",
+    option: [
+        "knowledge miimaaNsiiy ekvaad",
+        "knowledge miimaaNsiiy dvaitvaad",
+        "element miimaaNsiiy dvaitvaad",
+        "None of these"
+    ],
+    answer: "knowledge miimaaNsiiy dvaitvaad"
+},
+
+{
+    question: "en iNttroddkshn ttuu ethiks of lekhk which are?",
+    option: [
+        "arstuu",
+        "mil",
+        "maikeNjii",
+        "viliym lilii"
+    ],
+    answer: "viliym lilii"
+},
+
+{
+    question: "vaishessik drshn according to quality of basis what is?",
+    option: [
+        "agent",
+        "normal",
+        "special",
+        "None of these"
+    ],
+    answer: "agent"
+},
+
+{
+    question: "shNkr according to brhm is-",
+    option: [
+        "brhm",
+        "jgt",
+        "iishvr",
+        "among these any not"
+    ],
+    answer: "among these any not"
+},
+
+{
+    question: "bauddh drshn and jain drshn which daarshnik smprdaay in comes is?",
+    option: [
+        "aastik",
+        "naastik",
+        "aastik and naastik both",
+        "All of these"
+    ],
+    answer: "naastik"
+},
+
+{
+    question: "giitaa in kinke vicaar from iishvr of vaannii maanii gyii is",
+    option: [
+        "kRssnn",
+        "arjun",
+        "vyaas",
+        "None of these"
+    ],
+    answer: "kRssnn"
+},
+
+{
+    question: "which daarshnik ne said ki srl prtyyoN of construction in hmaarii buddhi nisskriy rhtii is?",
+    option: [
+        "spinojaa",
+        "loNk",
+        "laaibnij",
+        "brkle"
+    ],
+    answer: "loNk"
+},
+
+{
+    question: "jiiv of form what is?",
+    option: [
+        "nity",
+        "body in nivaasit",
+        "prkaashvaan",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in from anviikssaa kise called are?",
+    option: [
+        "direct",
+        "shbd",
+        "upmaan",
+        "anumaan"
+    ],
+    answer: "anumaan"
+},
+
+{
+    question: "‘maiN soctaa huuN, islie maiN huuN / ’ this kthn is",
+    option: [
+        "dekaart of",
+        "loNk of",
+        "hyuum of",
+        "pletto of"
+    ],
+    answer: "dekaart of"
+},
+
+{
+    question: "education drshn one shaakhaa is-",
+    option: [
+        "mnoviknowledge of",
+        "economics of",
+        "trkshaastr of",
+        "among these any not"
+    ],
+    answer: "among these any not"
+},
+
+{
+    question: "knowledgemiimaaNsiiy vstuvaad according to",
+    option: [
+        "jnyey jnyaataa from svtNtr is not",
+        "jnyaataa and jnyey both one-another from svtNtr is",
+        "item jnyaataa on depends is",
+        "None of these"
+    ],
+    answer: "jnyaataa and jnyey both one-another from svtNtr is"
+},
+
+{
+    question: "following in from which yukti of khnaa is ki iishvr of astitv iishvr of vicaar from anivaarytH phlit is?",
+    option: [
+        "vishvmuulk yukti",
+        "kaarnntaamuulk yukti",
+        "taatvik yukti",
+        "pryojnmuulk yukti"
+    ],
+    answer: "taatvik yukti"
+},
+
+{
+    question: "bhgvd giitaa of relation in Which of the following viklp correct is?",
+    option: [
+        "bhgvd giitaa kRssnn-arjun sNvaad of prtiphl is",
+        "bhgvd giitaa mhaabhaart mhaakaavy of part is",
+        "bhgvd giitaa bhgvaan of giit is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "upmaan to whose shrennii in rkhaa goes is?",
+    option: [
+        "shbd of shrennii in",
+        "direct of shrennii in",
+        "anumaan of shrennii in",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "gautm of book of name is-",
+    option: [
+        "raamaaynn",
+        "yogaasn",
+        "nyaay suutr",
+        "None of these"
+    ],
+    answer: "nyaay suutr"
+},
+
+{
+    question: "anekaantvaad which drshn from judd'aa is?",
+    option: [
+        "bauddh drshn",
+        "jain drshn",
+        "saaNkhy drshn",
+        "nyaay drshn"
+    ],
+    answer: "jain drshn"
+},
+
+{
+    question: "praagnubhvik knowledge related is-",
+    option: [
+        "anubhv from",
+        "buddhi from",
+        "both from",
+        "None of these"
+    ],
+    answer: "buddhi from"
+},
+
+{
+    question: "nyaay drshn of one vrgiikrnn according to Which of the following saa viklp anumaan of type of sNdrbh in correct is?",
+    option: [
+        "puurvvt",
+        "shessvt",
+        "saamaanytodRsstt",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "ved how many are?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "four"
+},
+
+{
+    question: "ptNjli of yogik prvidhi of aNtim paaydaan what is?",
+    option: [
+        "prtyaahaar",
+        "dhaarnnaa",
+        "dhyaan",
+        "smaadhi"
+    ],
+    answer: "smaadhi"
+},
+
+{
+    question: "cittvRtti nirodh to called are-",
+    option: [
+        "praannaayaam",
+        "yog",
+        "smaadhi",
+        "None of these"
+    ],
+    answer: "yog"
+},
+
+{
+    question: "shNkr according to nirpekss cetn which sttaa is?",
+    option: [
+        "jgt",
+        "jiivaatmaa",
+        "body",
+        "brhm"
+    ],
+    answer: "brhm"
+},
+
+{
+    question: "Which of the following one buddhivaadii and anubhvvaadii is not?",
+    option: [
+        "kaanntt",
+        "spinojaa",
+        "hyuum",
+        "None of these"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "Indian drshn in bNdh knowledge obtained doing of means to what called are ? [2022A, 2023A]",
+    option: [
+        "proof",
+        "prmaa",
+        "prmey",
+        "prmaataa"
+    ],
+    answer: "proof"
+},
+
+{
+    question: "‘bhgvdgiitaa’ of shaabdik meaning what is?",
+    option: [
+        "iishvr of giit",
+        "iishvr of astitv",
+        "iishvr of svruup",
+        "iishvr of sNkhyaa"
+    ],
+    answer: "iishvr of giit"
+},
+
+{
+    question: "following in from which yukti to kaarnntaamuulk yukti said jaa can is?",
+    option: [
+        "sttaamuulk",
+        "vishvmuulk",
+        "pryojnmuulk",
+        "naitik"
+    ],
+    answer: "vishvmuulk"
+},
+
+{
+    question: "Indian drshn of praann or aatmaa kise maanaa jaa can is ? [2022 A]",
+    option: [
+        "healthy body to",
+        "healthy mn to",
+        "pure aatmaa to",
+        "pure adhyaatm to"
+    ],
+    answer: "pure aatmaa to"
+},
+
+{
+    question: "saaNkhy drshn in cetn sttaa to what said goes is?",
+    option: [
+        "prkRti",
+        "sttv",
+        "man",
+        "None of these"
+    ],
+    answer: "man"
+},
+
+{
+    question: "cause what is?",
+    option: [
+        "only bhaavaatmk sthitiyoN of yog",
+        "only nissedhaatmk sthitiyoN of yog",
+        "bhaavaatmk and nissedhaatmk sthitiyoN of yog",
+        "None of these"
+    ],
+    answer: "bhaavaatmk and nissedhaatmk sthitiyoN of yog"
+},
+
+{
+    question: "aastik drshnoN of sNkhyaa is- [2010A, 18A]",
+    option: [
+        "eight",
+        "six",
+        "three",
+        "five"
+    ],
+    answer: "six"
+},
+
+{
+    question: "vaishessik drshn in substance of vibhaajn was is-",
+    option: [
+        "bhaav substance",
+        "abhaav substance",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "‘duHkh is’ iskii crcaa buddh apne which aary sty in do are?",
+    option: [
+        "prthm aary sty",
+        "dvitiiy aary sty",
+        "tRtiiy aary sty",
+        "cturth aary sty"
+    ],
+    answer: "prthm aary sty"
+},
+
+{
+    question: "pure sttaa jo n then baadhit occurs and n jiske baadhit being of klpnaa of jaa sktii is, use said goes is",
+    option: [
+        "vyaavhaarik sttaa",
+        "paarmaarthik sttaa",
+        "prtibhaassit sttaa",
+        "None of these"
+    ],
+    answer: "paarmaarthik sttaa"
+},
+
+{
+    question: "Which of the following purussaarth is not- [2011A, 2015A, 2023A]",
+    option: [
+        "iishvr",
+        "aatmaa",
+        "meaning",
+        "None of these"
+    ],
+    answer: "aatmaa"
+},
+
+{
+    question: "prkRti of which-saa quality jdd'taa and nisskriytaa of cause is ? [2022 A]",
+    option: [
+        "stvgunn",
+        "rjogunn",
+        "tmogunn",
+        "All of these"
+    ],
+    answer: "tmogunn"
+},
+
+{
+    question: "advait vedaaNt of prvrtk are-",
+    option: [
+        "raamaanuj",
+        "shNkr",
+        "mdhv",
+        "nimbaark"
+    ],
+    answer: "shNkr"
+},
+
+{
+    question: "giitaa in yog shbd of behavior was is-",
+    option: [
+        "aatmaa from miln of",
+        "aatmaa of prmaatmaa from miln of",
+        "prmaatmaa from miln of",
+        "None of these"
+    ],
+    answer: "aatmaa of prmaatmaa from miln of"
+},
+
+{
+    question: "gautm ne real knowledge to what said is?",
+    option: [
+        "prmaa",
+        "aprmaa",
+        "prmaa and aprmaa",
+        "None of these"
+    ],
+    answer: "prmaa"
+},
+
+{
+    question: "giitaa in kul how many adhyaay are?",
+    option: [
+        "twelve",
+        "pNdrh",
+        "atthaarh",
+        "twenty-five"
+    ],
+    answer: "atthaarh"
+},
+
+{
+    question: "dekaart aatmaa, iishvr jaisii sttaa of knowledge of praarmbh where from maante are?",
+    option: [
+        "indriyoN from",
+        "klpnaa from",
+        "priklpnaa from",
+        "svtH siddh congenital prtyy from"
+    ],
+    answer: "svtH siddh congenital prtyy from"
+},
+
+{
+    question: "aalockoN of mt in dekaart of taatvik yukti nkl is –",
+    option: [
+        "ekviins",
+        "bekn",
+        "agsttiin",
+        "enselttm"
+    ],
+    answer: "enselttm"
+},
+
+{
+    question: "caarvaak to chodd'kr India of all daarshnik kisko bndhn of muul cause maante are?",
+    option: [
+        "knowledge to",
+        "aknowledge to",
+        "knowledge and aknowledge to",
+        "None of these"
+    ],
+    answer: "aknowledge to"
+},
+
+{
+    question: "iishvr of sttaa for naitik yukti of who smrthn done is?",
+    option: [
+        "kaanntt",
+        "dekaart",
+        "spinojaa",
+        "hyuum"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "arstu because of of how many type btaae are?",
+    option: [
+        "two",
+        "three",
+        "four",
+        "five"
+    ],
+    answer: "four"
+},
+
+{
+    question: "jain drshn of ‘anekaantvaad’ of siddhaaNt of direct relation from whom is?",
+    option: [
+        "agent of anektaa from",
+        "knowledge of saapeksstaa from",
+        "jain dhrm of grNth from",
+        "jain dhrm of puujaa sthloN from"
+    ],
+    answer: "agent of anektaa from"
+},
+
+{
+    question: "trirtn are-",
+    option: [
+        "smyk drshn",
+        "smyk knowledge",
+        "smyk critr",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "buddh of assttaaNgik maarg of prthm two (smyk dRsstti and smyk sNklp) to said goes is?",
+    option: [
+        "prjnyaa",
+        "shiil",
+        "smaadhi",
+        "among these any not"
+    ],
+    answer: "prjnyaa"
+},
+
+{
+    question: "who sNskaaroN to primary and prtyyoN to gaunn maanaa is?",
+    option: [
+        "hyuum",
+        "loNk",
+        "brkle",
+        "kaanntt"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "bhgvd giitaa according to vh krm what is jo binaa fruit of icchaa of is done?",
+    option: [
+        "skaam krm",
+        "nisskaam krm",
+        "vikrm",
+        "akrm"
+    ],
+    answer: "nisskaam krm"
+},
+
+{
+    question: "saaNkhy and yog-drshn according to duHkh of which-from type are?",
+    option: [
+        "aadhyaatmik duHkh",
+        "aadhiphysical duHkh",
+        "aadhidaivik duHkh",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "whichaccording to giitaa krm of viknowledge is?",
+    option: [
+        "child gNgaadhr tilk",
+        "vinobaa bhaave",
+        "arvind ghoss",
+        "mhaatmaa gaaNdhii"
+    ],
+    answer: "child gNgaadhr tilk"
+},
+
+{
+    question: "Which of the following ekvaadii is?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "saaNkhy",
+        "laaibniij"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "vstuvaad of what maanytaa is?",
+    option: [
+        "jnyey substance jnyaataa on depends is",
+        "jnyey substance jnyaataa from svtNtr is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "jnyey substance jnyaataa from svtNtr is"
+},
+
+{
+    question: "following in which-saa kthn anubhvvaad from smbddh is?",
+    option: [
+        "knowledge obtaining of ekmaatr means indriyaanubhuuti is",
+        "vivek only knowledge obtaining of ekmaatr means is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "knowledge obtaining of ekmaatr means indriyaanubhuuti is"
+},
+
+{
+    question: "Which of the following one dRssttikonn vaishessik according to correct is not?",
+    option: [
+        "prmaannu nity are",
+        "prmaannu from made smaan nity are",
+        "prmaannu upmaan of by not going go are",
+        "All of these"
+    ],
+    answer: "prmaannu upmaan of by not going go are"
+},
+
+{
+    question: "yog drshn of assttaaNgik maarg in aNtrNg means kise called are?",
+    option: [
+        "dhaarnnaa",
+        "dhyaan",
+        "smaadhi",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vyaapaar niitishaastr adhyyn is-",
+    option: [
+        "aadrshoN of",
+        "values of",
+        "profit of",
+        "naitiktaa of"
+    ],
+    answer: "profit of"
+},
+
+{
+    question: "following in which naastik drshn are? [2018A]",
+    option: [
+        "bauddh drshn",
+        "jain drshn",
+        "caarvaak drshn",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "any function of utptti in which anivaary is?",
+    option: [
+        "nissedhaatmk upaadhiyoN of upsthiti",
+        "bhaavaatmk upaadhiyoN of upsthiti",
+        "nissedhaatmk upaadhiyoN of anupsthiti",
+        "None of these"
+    ],
+    answer: "bhaavaatmk upaadhiyoN of upsthiti"
+},
+
+{
+    question: "Which of the following punrjnm in vishvaas does is but aatmaa to shaashvt not maantaa is?",
+    option: [
+        "jain drshn",
+        "saaNkhy drshn",
+        "bauddh drshn",
+        "All of these"
+    ],
+    answer: "bauddh drshn"
+},
+
+{
+    question: "vaishessik of abhaav substance given is-",
+    option: [
+        "prshstpaad by",
+        "gautm by",
+        "knnaad by",
+        "bhrtRhri by"
+    ],
+    answer: "prshstpaad by"
+},
+
+{
+    question: "krm siddhaaNt kaarnntaavaad is-",
+    option: [
+        "taarkik",
+        "nyaayik",
+        "naitik",
+        "None of these"
+    ],
+    answer: "naitik"
+},
+
+{
+    question: "advait vedaaNt of muul in what is ?",
+    option: [
+        "yog vidyaa",
+        "brhm vidyaa",
+        "jgt vidyaa",
+        "maayaa vidyaa"
+    ],
+    answer: "brhm vidyaa"
+},
+
+{
+    question: "prkRti of gunnoN in being which change to called are-",
+    option: [
+        "viruup change",
+        "shaashvt change",
+        "aakaarik change",
+        "aNtim change"
+    ],
+    answer: "viruup change"
+},
+
+{
+    question: "which naastik shirodhrm is called is?",
+    option: [
+        "bauddh",
+        "jain",
+        "caarvaak",
+        "nyaay"
+    ],
+    answer: "caarvaak"
+},
+
+{
+    question: "Which of the following ciNtk sNdehvaad related to is?",
+    option: [
+        "loNk",
+        "spinojaa",
+        "hyuum",
+        "pletto"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "‘pNcskNdhvaad’ of vkaalt which Indian drshn does is?",
+    option: [
+        "bauddh drshn",
+        "jain drshn",
+        "nyaay drshn",
+        "saaNkhy drshn"
+    ],
+    answer: "bauddh drshn"
+},
+
+{
+    question: "shNkr according to jgt to which sttaa of under rkhaa jaa can is?",
+    option: [
+        "prtibhaassit sttaa",
+        "vyaavhaarik sttaa",
+        "paarmaarthik sttaa",
+        "All of these"
+    ],
+    answer: "vyaavhaarik sttaa"
+},
+
+{
+    question: "antkriyaavaad principle of prvrtk haiN / ",
+    option: [
+        "spiinojaa",
+        "laaibniij",
+        "dekaart",
+        "hyuum"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "when aatmaa body, indriy mn etc upaadhiyoN from siimit be goes is, then vh is-",
+    option: [
+        "brhm",
+        "jiiv",
+        "maayaa",
+        "None of these"
+    ],
+    answer: "jiiv"
+},
+
+{
+    question: "raamaanujaacaary ne which drshn to prtipaadit done is?",
+    option: [
+        "advaitvaad",
+        "vishissttaadvaitvaad",
+        "dvaitvaad",
+        "bhedaabhedvaad"
+    ],
+    answer: "vishissttaadvaitvaad"
+},
+
+{
+    question: "Indian drshn in bNdhn of avdhaarnnaa of what meaning is? [2022A]",
+    option: [
+        "aatmaa of body from bNdhe rhnaa",
+        "body of jgt from bNdhe rhnaa",
+        "jiivaatmaa of prmaatmaa from bNdhe rhnaa",
+        "sgunn iishvr of nirgunn iishvr from bNdhe rhnaa"
+    ],
+    answer: "aatmaa of body from bNdhe rhnaa"
+},
+
+{
+    question: "saaNkhy drshn in aatmaa for which pd use of was is vh is-",
+    option: [
+        "jiiv",
+        "aatmaa",
+        "man",
+        "None of these"
+    ],
+    answer: "man"
+},
+
+{
+    question: "miimaaNsaa drshn of prnnetaa are-",
+    option: [
+        "kpil",
+        "gautm",
+        "jaimini",
+        "ptNjli"
+    ],
+    answer: "jaimini"
+},
+
+{
+    question: "aythaarth knowledge is called is",
+    option: [
+        "aprmaa",
+        "prmaa",
+        "proof",
+        "None of these"
+    ],
+    answer: "aprmaa"
+},
+
+{
+    question: "srvocc shubh kise said goes is?",
+    option: [
+        "saapekss shubh to",
+        "nirpekss shubh to",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "nirpekss shubh to"
+},
+
+{
+    question: "following in which-saa kthn anubhvvaad from smbddh is?",
+    option: [
+        "knowledge-obtaining of ekmaatr means indriyaanubhuuti is",
+        "vivek only knowledge-obtaining of ekmaatr means is",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "knowledge-obtaining of ekmaatr means indriyaanubhuuti is"
+},
+
+{
+    question: "physicalvaad according to prm sttaa is-",
+    option: [
+        "prtyy",
+        "tttsth",
+        "jdd'",
+        "iishvr"
+    ],
+    answer: "jdd'"
+},
+
+{
+    question: "dnndd of avdhaarnnaa is-",
+    option: [
+        "social",
+        "daarshnik",
+        "naitik",
+        "All of these"
+    ],
+    answer: "naitik"
+},
+
+{
+    question: "advait vedaaNt in jgt is-",
+    option: [
+        "puurnntH sty",
+        "puurnntH asty",
+        "mithyaa",
+        "All of these"
+    ],
+    answer: "mithyaa"
+},
+
+{
+    question: "saaNkhy drshn in sttvgunn of svruup of sNdrbh in what sviikaar is done?",
+    option: [
+        "sty sukh of svbhaav and source is",
+        "sttv small is",
+        "sttv cmkiilaa is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "saaNkhy drshn of aadhyaatmik sttaa what is?",
+    option: [
+        "prkRti",
+        "pRthvii",
+        "iishvr",
+        "man"
+    ],
+    answer: "man"
+},
+
+{
+    question: "jain drshn of anekaantvaad of what maanytaa is?",
+    option: [
+        "world of vibhinn vstueN one another related to does not occur are",
+        "world of vibhinn vstuoN of anek form not are",
+        "world of astitv is not",
+        "world of vibhinn vstuoN of anek form are"
+    ],
+    answer: "world of vibhinn vstuoN of anek form are"
+},
+
+{
+    question: "Which of the following aastik drshn is not?",
+    option: [
+        "nyaay drshn",
+        "yog drshn",
+        "miimaaNsaa drshn",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "cause is-",
+    option: [
+        "anaupaadhik",
+        "puurvvrtii",
+        "niyt",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "saaNkhy means smyk knowledge smyk knowledge means-",
+    option: [
+        "man of knowledge",
+        "prkRti of knowledge",
+        "man and prkRti between bhinntaa of knowledge",
+        "these all"
+    ],
+    answer: "man and prkRti between bhinntaa of knowledge"
+},
+
+{
+    question: "following in from which one in buddh of updesh sNgrhit are?",
+    option: [
+        "nyaay suutr in",
+        "tripittk in",
+        "knowledge of book in",
+        "nyaay drshn"
+    ],
+    answer: "tripittk in"
+},
+
+{
+    question: "bauddh drshn according to arht kise called are?",
+    option: [
+        "vh jisne apnii all icchaaoN on control paa liyaa is",
+        "vh jo apnii icchaaoN of vsh in is",
+        "vh jo apnii icchaaoN to tRpt caahtaa is",
+        "All of these"
+    ],
+    answer: "vh jisne apnii all icchaaoN on control paa liyaa is"
+},
+
+{
+    question: "cause function relation btlaane which siddhaaNt in of what characteristic is?",
+    option: [
+        "these vaiknowledgeik siddhaaNt are",
+        "these avaiknowledgeik siddhaaNt are",
+        "these dhaarmik siddhaaNt are",
+        "these naitik siddhaaNt are"
+    ],
+    answer: "these vaiknowledgeik siddhaaNt are"
+},
+
+{
+    question: "following in which-saa one praarthaanumaan of ghttk is not?",
+    option: [
+        "praamrsh",
+        "udaahrnn",
+        "for",
+        "upny"
+    ],
+    answer: "praamrsh"
+},
+
+{
+    question: "nyaay knowledgemiimaaNsaa in shessvt what is?",
+    option: [
+        "taatkaalik anumaan",
+        "direct",
+        "upmaan",
+        "shaabdik proof"
+    ],
+    answer: "taatkaalik anumaan"
+},
+
+{
+    question: "prtyyvaad according to prm sttaa is-",
+    option: [
+        "prtyy",
+        "jdd'",
+        "tttsth",
+        "None of these"
+    ],
+    answer: "prtyy"
+},
+
+{
+    question: "sndeh of dekaart of drshn in what place is?",
+    option: [
+        "daarshnik vicaar of praarmbh biNdu",
+        "sty of means",
+        "prthm asNdigdh sty of khoj of means",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "purussaarth are- [2009A, 11A, 14A]",
+    option: [
+        "two",
+        "three",
+        "four",
+        "None of these"
+    ],
+    answer: "four"
+},
+
+{
+    question: "syaadvaad siddhaaNt related is-",
+    option: [
+        "nyaay drshn",
+        "bauddh drshn",
+        "jain drshn",
+        "None of these"
+    ],
+    answer: "jain drshn"
+},
+
+{
+    question: "buddh according to duHkh of muul cause is-",
+    option: [
+        "tRssnnaa",
+        "jaati",
+        "naamruup",
+        "avidyaa"
+    ],
+    answer: "tRssnnaa"
+},
+
+{
+    question: "Which of the following one smaanaantrvaad of smrthk is ?",
+    option: [
+        "laaibnis",
+        "loNk",
+        "dekaart",
+        "spinojaa"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "following in from anubhvvaadii trkshaastrii which is?",
+    option: [
+        "joNn loNk",
+        "brkle",
+        "hyuum",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "“puurv-sthaapit saamNjsyvaad’ given was is-",
+    option: [
+        "dekaart by",
+        "spinojaa by",
+        "laaibniij by",
+        "hyuum by"
+    ],
+    answer: "laaibniij by"
+},
+
+{
+    question: "giitaa rhsy of rgram who of is?",
+    option: [
+        "child gNgaadhr tilk",
+        "mhaatmaa gaaNdhii",
+        "arvind ghoss",
+        "None of these"
+    ],
+    answer: "child gNgaadhr tilk"
+},
+
+{
+    question: "which buddhivaadii daarshnik ne puurv sthaapit saamNjsy of principle prtipaadit done is?",
+    option: [
+        "spinojaa",
+        "dekaart",
+        "laaibnij",
+        "kaanntt"
+    ],
+    answer: "laaibnij"
+},
+
+{
+    question: "yog drshn is-",
+    option: [
+        "dvaitvaadii",
+        "advaitvaadii",
+        "dvaitvaadii and advaitvaadii",
+        "None of these"
+    ],
+    answer: "dvaitvaadii"
+},
+
+{
+    question: "kaanntt of knowledge smbndhii vicaar to called are-",
+    option: [
+        "anubhvvaad",
+        "smiikssaavaad",
+        "buddhivaad",
+        "None of these"
+    ],
+    answer: "smiikssaavaad"
+},
+
+{
+    question: "‘svyN soctaa huuN islie maiN huuN’ this kthn whose is?",
+    option: [
+        "spinojaa",
+        "brkle",
+        "loNk",
+        "dekaart"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "jain drshn according to anstikaay agent what is?",
+    option: [
+        "ajiiv",
+        "jiiv",
+        "kaal",
+        "None of these"
+    ],
+    answer: "kaal"
+},
+
+{
+    question: "Indian drshn of normal lkssnn is- [2014A]",
+    option: [
+        "avidyaa",
+        "mokss (mukti)",
+        "punrjnm",
+        "All of these"
+    ],
+    answer: "mokss (mukti)"
+},
+
+{
+    question: "giitaa in which yog of crcaa was is?",
+    option: [
+        "knowledge yog",
+        "bhktiyog",
+        "krmyog",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "kssnnbhNgur of avdhaarnnaa which drshn of is?",
+    option: [
+        "bauddh drshn",
+        "jain drshn",
+        "nyaay drshn",
+        "None of these"
+    ],
+    answer: "bauddh drshn"
+},
+
+{
+    question: "advait vedaaNt according to jgt is-",
+    option: [
+        "prtibhaasik sttaa",
+        "vyaavhaarik sttaa",
+        "paarmaarthik sttaa",
+        "None of these"
+    ],
+    answer: "vyaavhaarik sttaa"
+},
+
+{
+    question: "Which of the following bhgvd giitaa according to iishvr of avtaar are?",
+    option: [
+        "arjun",
+        "krnn",
+        "kRssnn",
+        "bhiim"
+    ],
+    answer: "kRssnn"
+},
+
+{
+    question: "congenital prtyyoN of vicaar of khnnddn who done?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "loNk"
+},
+
+{
+    question: "substance siddhaaNt related is-",
+    option: [
+        "nyaay drshn",
+        "vaishessik drshn",
+        "saaNkhy drshn",
+        "None of these"
+    ],
+    answer: "nyaay drshn"
+},
+
+{
+    question: "Indian drshn of utptti was- [2009A, 2023A]",
+    option: [
+        "niraashaavaadii dRssttikonn from",
+        "aadhyaatmik asNtoss from",
+        "plaaynvaadii prvRtti from",
+        "physical sukh obtaining of kaamnaa from"
+    ],
+    answer: "aadhyaatmik asNtoss from"
+},
+
+{
+    question: "aatmaa and jgt related to lokpriy prshnoN towards mhaatmaa buddh maun rhaa do the? such main prshnoN of sNkhyaa how many is?",
+    option: [
+        "four",
+        "two",
+        "eight",
+        "ten"
+    ],
+    answer: "ten"
+},
+
+{
+    question: "drshn of utptti which dhaatu from was is? [2009A, 12, 14A]",
+    option: [
+        "kR dhaatu from",
+        "dRsh dhaatu from",
+        "lR dhaatu from",
+        "None of these"
+    ],
+    answer: "dRsh dhaatu from"
+},
+
+{
+    question: "alaukik direct of udaahrnn what is?",
+    option: [
+        "normal lkssnn direct",
+        "knowledge lkssnn direct",
+        "yogj direct",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "giitaa in svdhrm of what abhipraay is?",
+    option: [
+        "which vrnn of jo svaabhaavik krm is vhii uskaa svdhrm is",
+        "vrnnoN of vrnnaantr krm only unkaa svdhrm is",
+        "above-mentioned both",
+        "None of these"
+    ],
+    answer: "which vrnn of jo svaabhaavik krm is vhii uskaa svdhrm is"
+},
+
+{
+    question: "naitik nirnny what is?",
+    option: [
+        "vaastviktaa suuck nirnny",
+        "vrnnnaatmk nirnny",
+        "taarkik nirnny",
+        "value vissyk nirnny"
+    ],
+    answer: "value vissyk nirnny"
+},
+
+{
+    question: "Which of the following aastik drshn is?",
+    option: [
+        "jain drshn",
+        "bauddh drshn",
+        "saaNkhy drshn",
+        "None of these"
+    ],
+    answer: "saaNkhy drshn"
+},
+
+{
+    question: "bhgvdgiitaa in which from vicaar paaye go are?",
+    option: [
+        "nisskaam krm",
+        "yog of avdhaarnnaa",
+        "lok sNgrh",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which vstuvaadii is ?",
+    option: [
+        "nyaay",
+        "dekaart",
+        "spinojaa",
+        "laaibnij"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "stkaaryvaad of form are-",
+    option: [
+        "vivrtvaad and aarmbhvaad",
+        "vivrtvaad",
+        "vivrtvaad and prinnaamvaad",
+        "prinnaamvaad"
+    ],
+    answer: "vivrtvaad and prinnaamvaad"
+},
+
+{
+    question: "saaNkhy drshn according to quality of type are-",
+    option: [
+        "sttv",
+        "rjs",
+        "tms",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "mhaayaan dhaarmik smprdaay of relation which drshn from is?",
+    option: [
+        "jain drshn from",
+        "bauddh drshn from",
+        "nyaay drshn from",
+        "saaNkhy drshn from"
+    ],
+    answer: "bauddh drshn from"
+},
+
+{
+    question: "nyaay, vaishessik, saaNkhy and yog following in from which daarshnik smprdaay in come are?",
+    option: [
+        "aastik",
+        "naastik",
+        "aastik and naastik",
+        "None of these"
+    ],
+    answer: "aastik"
+},
+
+{
+    question: "tttv of Which of the following lkssnn is?",
+    option: [
+        "utptti",
+        "decay",
+        "nitytaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "dekaart after which aadhunik buddhivaadii ne mn and body to one only maanaa is?",
+    option: [
+        "laaibnij",
+        "spinojaa",
+        "loNk",
+        "brkle"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "shvetaambr dhaarmik smprdaay of relation which drshn from is?",
+    option: [
+        "jain drshn",
+        "bauddh drshn",
+        "saaNkhy drshn",
+        "yog drshn"
+    ],
+    answer: "jain drshn"
+},
+
+{
+    question: "syaadvaad to smjhaane for jain drshn in how many nyoN of prtipaadn done was?",
+    option: [
+        "four",
+        "five",
+        "seven",
+        "nv"
+    ],
+    answer: "seven"
+},
+
+{
+    question: "anumaan of taarkik basis is-",
+    option: [
+        "for",
+        "vyaapti",
+        "pkss",
+        "None of these"
+    ],
+    answer: "for"
+},
+
+{
+    question: "bauddh drshn of maulik and praamaannik basis Which of the following is?",
+    option: [
+        "suttpittk",
+        "abhidhmmpittk",
+        "vinypittk",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "puurvsthaapit saamNjsy siddhaaNt related is –",
+    option: [
+        "dekaart from",
+        "kaanntt from",
+        "laaibnits from",
+        "None of these"
+    ],
+    answer: "laaibnits from"
+},
+
+{
+    question: "bhgvdgiitaa in yog shbd use of which meaning in was is?",
+    option: [
+        "smaadhivaack",
+        "sNbNdhvaack",
+        "(A) and (B) both",
+        "both in from any not"
+    ],
+    answer: "both in from any not"
+},
+
+{
+    question: "vyaapaar vyfaty is-",
+    option: [
+        "aniitik",
+        "kruur",
+        "laabhonmukhii",
+        "None of these"
+    ],
+    answer: "laabhonmukhii"
+},
+
+{
+    question: "giitaa of rgram by whom of gyii is?",
+    option: [
+        "vyaas of by",
+        "kRssnn of by",
+        "arjun of by",
+        "None of these"
+    ],
+    answer: "vyaas of by"
+},
+
+{
+    question: "‘knowledge of obtaining congenital prtyy from occurs / ’ such maannaa is",
+    option: [
+        "buddhivaad of",
+        "anubhvvaad of",
+        "smiikssaavaad of",
+        "None of these"
+    ],
+    answer: "buddhivaad of"
+},
+
+{
+    question: "pryaavrnniiy niitishaastr is-",
+    option: [
+        "mnussy kendrit",
+        "life kendrit",
+        "pshu kendrit",
+        "All of these"
+    ],
+    answer: "mnussy kendrit"
+},
+
+{
+    question: "brhm is-",
+    option: [
+        "anek",
+        "acetn",
+        "anirvcniiy",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "jdd' in gti provide doing which power to what called are?",
+    option: [
+        "nimitt cause",
+        "upaadaan cause",
+        "aakaarik cause",
+        "aNtim cause"
+    ],
+    answer: "nimitt cause"
+},
+
+{
+    question: "smiikssaavaad is produced",
+    option: [
+        "anubhvvaad of bhaavaatmk aNshoN to milaakr",
+        "buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of nkaaraatmk aNshoN to milaakr"
+    ],
+    answer: "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr"
+},
+
+{
+    question: "which daarshnik ne said is- ‘knowledge sNshlessnnaatmk praagnubhvik nirnny is’?",
+    option: [
+        "kaanntt",
+        "hegl",
+        "laaibnij",
+        "spinojaa"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "Indian drshn to niraashaavaadii why said was is ?",
+    option: [
+        "aatmaa to shaashvt maanne because of",
+        "jgt to duHkhpuurnn maanne because of",
+        "mukti of avdhaarnnaa because of",
+        "krm siddhaaNt because of"
+    ],
+    answer: "jgt to duHkhpuurnn maanne because of"
+},
+
+{
+    question: "anubhvvaad and buddhivaad of principle is",
+    option: [
+        "one-another of virodhii",
+        "one-another of complementary",
+        "n then virodhii and n complementary",
+        "None of these"
+    ],
+    answer: "one-another of virodhii"
+},
+
+{
+    question: "nyaay knowledgemiimaaNsaa in knowledge lkssnn direct what is?",
+    option: [
+        "alaukik direct",
+        "laukik direct",
+        "sviklpk direct",
+        "nirviklpk direct"
+    ],
+    answer: "alaukik direct"
+},
+
+{
+    question: "Indian drshn apnii which characteristic because of paashcaaty drshn from bhinntaa sthaapit does is ? [2022 A]",
+    option: [
+        "only knowledge of basis on",
+        "only iishvr vicaar of basis on",
+        "only jgt vicaar of basis on",
+        "dRsstti containing knowledge of basis on"
+    ],
+    answer: "dRsstti containing knowledge of basis on"
+},
+
+{
+    question: "advait vedaaNt according to cetn aatmaa of is",
+    option: [
+        "quality",
+        "svruup",
+        "prjnyaa",
+        "None of these"
+    ],
+    answer: "svruup"
+},
+
+{
+    question: "advaitvaad according to world of sRsstti which does is ?",
+    option: [
+        "apr brhm",
+        "iishvr",
+        "sgunn brhm",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "anubhvvaad of smrthk are",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following Indian daarshnik is notN? [2023A]",
+    option: [
+        "kpil",
+        "gautm",
+        "kaiNtt",
+        "knnaad"
+    ],
+    answer: "kaiNtt"
+},
+
+{
+    question: "‘maiN soctaa huuN islie maiN huuN’ this kthn is-",
+    option: [
+        "dekaart of",
+        "loNk of",
+        "hyuum of",
+        "pletto of"
+    ],
+    answer: "dekaart of"
+},
+
+{
+    question: "who said is ki function-cause relation aadt and prthaa because of become are?",
+    option: [
+        "dekaart",
+        "spinojaa",
+        "hyuum",
+        "laaibniij"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "following in which drshn according to life of muul uddeshy mokssaanubhuuti obtained to do is?",
+    option: [
+        "yog-drshn",
+        "saaNkhy-drshn",
+        "nyaay-drshn",
+        "yog-drshn and saaNkhy-drshn"
+    ],
+    answer: "yog-drshn and saaNkhy-drshn"
+},
+
+{
+    question: "Indian-drshn according to life of which-saa pryojn physical is ? [2022 A]",
+    option: [
+        "work",
+        "meaning",
+        "dhrm",
+        "A and B both"
+    ],
+    answer: "A and B both"
+},
+
+{
+    question: "spinojaa ne sviikaaraa is",
+    option: [
+        "aNt:kriyaavaad",
+        "smaanaantrvaad",
+        "puurvsthaapit saamNjsyvaad",
+        "None of these"
+    ],
+    answer: "smaanaantrvaad"
+},
+
+{
+    question: "aatmaa of stytaa which-sii is?",
+    option: [
+        "vyaavhaarik",
+        "paarmaarthik",
+        "prtibhaassit",
+        "None of these"
+    ],
+    answer: "paarmaarthik"
+},
+
+{
+    question: "Indian drshn of which-sii avdhaarnnaa mnussy of saaNsaarik life of krmik development of uddeshy determined does is ? [2022 A]",
+    option: [
+        "agent of avdhaarnnaa",
+        "purussaarth of avdhaarnnaa",
+        "iishvr of avdhaarnnaa",
+        "Any of these also not"
+    ],
+    answer: "purussaarth of avdhaarnnaa"
+},
+
+{
+    question: "loan of avdhaarnnaa related is?",
+    option: [
+        "brhmcryaashrm from",
+        "gRhsthaashrm from",
+        "vaanprsthaashrm from",
+        "sNnyaasaashrm from"
+    ],
+    answer: "gRhsthaashrm from"
+},
+
+{
+    question: "which daarshnik ne said is- “knowledge sNshlessnnaatmk praagnubhvik nirnny is”?",
+    option: [
+        "kaanntt",
+        "hegl",
+        "laaibnij",
+        "spinojaa"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "loksNgrh of siddhaaNt what is?",
+    option: [
+        "substance sukhvaad",
+        "srvklyaannvaad",
+        "puurnntaavaad",
+        "All of these"
+    ],
+    answer: "srvklyaannvaad"
+},
+
+{
+    question: "vstuvaad is-",
+    option: [
+        "ttvmiimaaNsiiy principle",
+        "knowledgemiimaaNsiiy principle",
+        "ttvmiimaaNsiiy and knowledgemiimaaNsiiy both",
+        "None of these"
+    ],
+    answer: "ttvmiimaaNsiiy principle"
+},
+
+{
+    question: "prtitysmutpaad principle of relation following in from kinke with is?",
+    option: [
+        "mhaatmaa buddh",
+        "mhaatmaa mhaaviir",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "mhaatmaa buddh"
+},
+
+{
+    question: "prtyaahaar of stage of yog-prvidhi in what yogdaan is?",
+    option: [
+        "indriyoN to baahy vissyoN from vaaps khiiNgram",
+        "indriyoN to indoor vissyoN from vaaps khiiNgram",
+        "indriyoN to vaaps mn of full vsh in to do",
+        "All of these"
+    ],
+    answer: "indriyoN to baahy vissyoN from vaaps khiiNgram"
+},
+
+{
+    question: "vaishessik drshn according to agent of sNkhyaa how many is?",
+    option: [
+        "five",
+        "six",
+        "nine",
+        "four"
+    ],
+    answer: "nine"
+},
+
+{
+    question: "sviklpk direct of before of stage what is?",
+    option: [
+        "upmaan",
+        "shbd",
+        "normal lkssnn direct",
+        "nirviklpk direct"
+    ],
+    answer: "nirviklpk direct"
+},
+
+{
+    question: "buddh of assttaaNgik maarg to which organs in baaNttaa jaa can is?",
+    option: [
+        "prjnyaa",
+        "shiil",
+        "smaadhi",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "cause of gunnaatmk lkssnn is-",
+    option: [
+        "puurvvrtii ghttnaa is",
+        "anaupaadhik ghttnaa is",
+        "taatkaalik, niyt, anaupaadhik, puurvvrtii ghttnaa is",
+        "All of these"
+    ],
+    answer: "taatkaalik, niyt, anaupaadhik, puurvvrtii ghttnaa is"
+},
+
+{
+    question: "iishvr of sttaa for sttaamuulk yukti of who smrthn done is?",
+    option: [
+        "loNk",
+        "hyuum",
+        "kaanntt",
+        "dekaart"
+    ],
+    answer: "dekaart"
+},
+
+{
+    question: "jain drshn according to agent of what lkssnn is?",
+    option: [
+        "utptti",
+        "vinaash",
+        "sthirtaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "griik drshn of jnk are-",
+    option: [
+        "sukraat",
+        "thels",
+        "arstu",
+        "hyuum"
+    ],
+    answer: "thels"
+},
+
+{
+    question: "dekaart mn and body of relation of vyaakhyaa done is",
+    option: [
+        "puurv sthaapit saamNjsy by",
+        "activity-prtikriyaavaad by",
+        "both siddhaaNtoN by",
+        "None of these"
+    ],
+    answer: "activity-prtikriyaavaad by"
+},
+
+{
+    question: "dekaart, spinojaa and laaibnij knowledge of which principle to maanne which are?",
+    option: [
+        "anubhvvaadii principle",
+        "buddhivaadii principle",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "buddhivaadii principle"
+},
+
+{
+    question: "which trk ne jgt of astitv of basis on iishvr of astitv prmaannit done is?",
+    option: [
+        "jgt-smbndhii trk",
+        "pryojnmuulk trk",
+        "kaarnntaa-smbndhii trk",
+        "sttaavaadii trk"
+    ],
+    answer: "sttaavaadii trk"
+},
+
+{
+    question: "which aadhunik paashcaaty anubhvvaadii ne apne puurv because of-function principle of puurv maanytaaoN to dhraashaayii by given?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "spinojaa"
+    ],
+    answer: "hyuum"
+},
+
+{
+    question: "who said is ki buddhivaad of ant aNdhvishvaas in and anubhvvaad of ant sNshyvaad in is?",
+    option: [
+        "loNk",
+        "brkle",
+        "hyuum",
+        "kaanntt"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "smiikssaavaad is produced",
+    option: [
+        "anubhvvaad of bhaavaatmk aNshoN to milaakr",
+        "buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr",
+        "anubhvvaad and buddhivaad of nkaaraatmk aNshoN to milaakr"
+    ],
+    answer: "anubhvvaad and buddhivaad of bhaavaatmk aNshoN to milaakr"
+},
+
+{
+    question: "‘prtitysmutpaad’ of crcaa bauddh drshn of which aary sty in was is?",
+    option: [
+        "prthm aary sty",
+        "dvitiiy aary sty",
+        "tRtiiy aary sty",
+        "cturth aary sty"
+    ],
+    answer: "dvitiiy aary sty"
+},
+
+{
+    question: "nyaay knowledgemiimaaNsaa according to prmey what is?",
+    option: [
+        "prmaataa",
+        "proof",
+        "prmaa",
+        "prmaa of vissy"
+    ],
+    answer: "prmaa of vissy"
+},
+
+{
+    question: "nyaay drshn of prvrtk which the?",
+    option: [
+        "aksspaad",
+        "naagaarjun",
+        "kpil",
+        "knnaad"
+    ],
+    answer: "aksspaad"
+},
+
+{
+    question: "whichaccording to ‘ythaarth knowledge saarvbhaum, anivaary and nviin should be’?",
+    option: [
+        "kaanntt",
+        "spinojaa",
+        "loNk",
+        "hyuum"
+    ],
+    answer: "kaanntt"
+},
+
+{
+    question: "element cintaamnni book of lekhk which are",
+    option: [
+        "udyn",
+        "gNgesh",
+        "gautm",
+        "prshstpaad"
+    ],
+    answer: "gNgesh"
+},
+
+{
+    question: "muul tttv of sndrbh in advait vedaant which tttv miimaaNsaa to apnaataa is ?",
+    option: [
+        "pure ekvaad",
+        "dvaitvaad",
+        "special dvaitvaad",
+        "All of these"
+    ],
+    answer: "pure ekvaad"
+},
+
+{
+    question: "following in which krm of one type are?",
+    option: [
+        "sNcit krm",
+        "praarbdh krm",
+        "sNciiymaan krm",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "Indian drshn in krm siddhaaNt according to krm of fruit what may cause?",
+    option: [
+        "bNdhn",
+        "life in duHkh",
+        "punrjnm",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "srveshvrvaad of smrthk which are?",
+    option: [
+        "hyuum",
+        "loNk",
+        "spinojaa",
+        "kaanntt"
+    ],
+    answer: "spinojaa"
+},
+
+{
+    question: "buddh according to dvitiiy aary sty Which of the following is?",
+    option: [
+        "sNsaar dukhoN from pripuurnn is",
+        "dukhoN of cause also is",
+        "dukhoN of ant sNbhv is",
+        "dukhoN of ant of maarg is"
+    ],
+    answer: "dukhoN of cause also is"
+},
+
+{
+    question: "anumaan proof of jdd' what is? [2021A]",
+    option: [
+        "upmaan",
+        "direct",
+        "shbd",
+        "None of these"
+    ],
+    answer: "direct"
+},
+
+{
+    question: "mhaatmaa gaaNdhii ne giitaa to said is-",
+    option: [
+        "mother",
+        "pitaa",
+        "baaibil",
+        "kuraan"
+    ],
+    answer: "mother"
+},
+
+{
+    question: "brhmsuutr of rcyitaa are",
+    option: [
+        "gaudd'paad",
+        "brkle",
+        "shNkr",
+        "nimbaark"
+    ],
+    answer: "shNkr"
+},
+
+{
+    question: "eniiselm at the time of in which principle of vrcsv thaa ?",
+    option: [
+        "force principle",
+        "gti principle",
+        "gurutvaakrssnn principle",
+        "None of these"
+    ],
+    answer: "gurutvaakrssnn principle"
+},
+
+{
+    question: "bauddh-drshn of sNsthaapk which the?",
+    option: [
+        "naagaarjun",
+        "mhaatmaa buddh",
+        "gautm Rssi",
+        "raahul"
+    ],
+    answer: "mhaatmaa buddh"
+},
+
+{
+    question: "aythaarth knowledge is called is",
+    option: [
+        "aprmaa",
+        "prmaa",
+        "proof",
+        "None of these"
+    ],
+    answer: "aprmaa"
+},
+
+{
+    question: "jain drshn according to life of crm lkssy is-",
+    option: [
+        "meaning",
+        "dhrm",
+        "work",
+        "mokss"
+    ],
+    answer: "mokss"
+},
+
+{
+    question: "saaNkhy drshn in aatmaa to said goes is-",
+    option: [
+        "brhm",
+        "man",
+        "iishvr",
+        "All of these"
+    ],
+    answer: "man"
+},
+
+{
+    question: "which daarshnik ne tttvmiimaaNsiiy prshnoN on maun dhaarnn kiye rhne to primarytaa given is?",
+    option: [
+        "mhaaviir",
+        "syaadvaad",
+        "kpil",
+        "advaitvaad"
+    ],
+    answer: "advaitvaad"
+},
 ];
 
 // --- Helper: Shuffle questions ---
