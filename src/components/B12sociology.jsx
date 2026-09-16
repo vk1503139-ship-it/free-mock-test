@@ -3339,10 +3339,3336 @@ const sociologyHindi = [
 
 // English Questions
 const sociologyEnglish = [
-  // Introducing Indian Society
-  { question: "What is sociology?", option: ["Study of society", "Study of individual", "Study of politics", "Study of economy"], answer: "Study of society" },
-  { question: "What is characteristic of Indian society?", option: ["Diversity", "Uniformity", "Equality", "None"], answer: "Diversity" },
-  
+{
+    question: "following in from who ‘soshiyoloNjii’ shbdaavlii of sRjn done ?",
+    option: ["speNsr", "agst koNmtt", "dukhiim", "kaarl maarks"],
+    answer: "agst koNmtt"
+},
+{
+    question: "smaajshaastr to ‘social sthaitik’ and social gtik’ in who vibhaajit done ?",
+    option: ["mekaaiivr and pej", "joNnsn", "agst koNmtt", "dukhiim"],
+    answer: "dukhiim"
+},
+{
+    question: "mnusmRti of rgramkaar which are ?",
+    option: ["tulsiidaas", "vedvyaas", "caannky", "mnu"],
+    answer: "mnu"
+},
+{
+    question: "smaajshaastr of birth In which year was ?",
+    option: ["1838", "1836", "1898", "1810"],
+    answer: "1838"
+},
+{
+    question: "which smaajshaastrii of smudaay of – pribhaassaa in’hm bhaavnaa’ of spsstt ullekh done was is ?",
+    option: ["bogaardds of", "giNsbrg of", "maikaaivr", "kiNgsle ddevis of"],
+    answer: "bogaardds of"
+},
+{
+    question: "following in which smudaay of udaahrnn is ?",
+    option: ["krikett ttiim", "raajy", "college of chaatraavaas", "sNgh lok sevaa aayog"],
+    answer: "raajy"
+},
+{
+    question: "“India in bhinntaa in ektaa nihit is, prntu maulik ektaa utnii spsstt is not, jitnii baahy bhinntaa / ” such who said is ?",
+    option: ["phikttr ne", "Smith ne", "griin ne", "ttoNylr"],
+    answer: "Smith ne"
+},
+{
+    question: "national ekiikrnn for most more necessary what is ?",
+    option: ["economic unnti", "dhaarmik svtNtrtaa", "dhaarmik shissnnutaa", "education of prsaar"],
+    answer: "dhaarmik shissnnutaa"
+},
+{
+    question: "raassttriiytaa of taatpry what is ?",
+    option: ["normal social pRsstthbhuumi", "normal jaatigt pRsstthbhuumi", "normal bhaugolik pRsstthbhuumi", "above-mentioned any correct not"],
+    answer: "normal bhaugolik pRsstthbhuumi"
+},
+{
+    question: "India chodd'o aaNdoln of aarNbh when from was ?",
+    option: ["9 agst, 1917 from", "9 agst, 1939 from", "9 agst, 1942 from", "9 agst 1947 from"],
+    answer: "9 agst, 1942 from"
+},
+{
+    question: "‘punrjnm’ of avdhaarnnaa which dhrm related to is ?",
+    option: ["hinduu", "islaam", "iisaaii", "All of these"],
+    answer: "hinduu"
+},
+{
+    question: "national smnvy of maarg in which-saa element baadhk is not ?",
+    option: ["jaatiiy bhaavnaa", "dhaarmik bhaavnaa", "alpsNkhyk of security", "economic vissmtaa"],
+    answer: "alpsNkhyk of security"
+},
+{
+    question: "“reproduction capacity in lack being of before naitiktaa of level in hraas honaa jruurii hai / ” this vicaakisne vykt of is ?",
+    option: ["ddblyuu0 nottestten", "maalths", "thaamsn", "ke0 ddevis"],
+    answer: "ddblyuu0 nottestten"
+},
+{
+    question: "ugr raassttrvaadiyoN of kaal when said goes is ?",
+    option: ["1905 from 1918", "1885 from 1905", "1919 from 1947", "among these any not"],
+    answer: "1905 from 1918"
+},
+{
+    question: "following in which vidvaan ne Indian village to one life method maanaa is ?",
+    option: ["mjuumdaar", "shriinivaas", "maikim mairiytt", "belii"],
+    answer: "mjuumdaar"
+},
+{
+    question: "institution shbd use of srvprthm which vidvaan ne done thaa ?",
+    option: ["durthiim", "spensr", "kaamtt", "em0 en0 shriinivaas"],
+    answer: "spensr"
+},
+{
+    question: "spensr of book ‘First Principles’ in srvprthm which shbd use of done was ?",
+    option: ["institution", "smiti", "primary group", "jaati"],
+    answer: "institution"
+},
+{
+    question: "which vidvaan ne smudaay of pribhaassaa in hm of bhaavnaa’ of spsstt ullekh done is ?",
+    option: ["bogaardds ne", "giNsbrg ne", "maikaaivr ne", "kiNgsle ddevis ne"],
+    answer: "bogaardds ne"
+},
+{
+    question: "following in from which society in mhilaaoN of prsthiti apekssaakRt behtr is ?",
+    option: ["industrial society", "aadivaasii society", "agricultural society", "All of the above in"],
+    answer: "industrial society"
+},
+{
+    question: "when death dr bddh'tii is and birth dr in giraavtt aatii is then uske phlsvruup –",
+    option: ["population in growth occurs", "population in giraavtt aatii is", "population sthir rhtii is", "population in gtishiiltaa aatii is"],
+    answer: "population in giraavtt aatii is"
+},
+{
+    question: "vh aaNdoln jisko maalths of anuyaayiyoN ne sNtti nigrh and other upaayoN by population less doing for claayaa, is called is—",
+    option: ["nv-maalthsvaad", "maalthsvaad", "maarksvaad", "nv-maarksvaad"],
+    answer: "nv-maalthsvaad"
+},
+{
+    question: "following in who vicln to society for prkaaryaatmk maanaa is ?",
+    option: ["e0 kohn", "AD durkhaaim", "aar0 ke0 mrttn", "el0 ke0 vvaaitt"],
+    answer: "AD durkhaaim"
+},
+{
+    question: "among these which smudaay of udaahrnn is ?",
+    option: ["school", "village", "dhrm", "jaati"],
+    answer: "jaati"
+},
+{
+    question: "smudaay in hm of bhaavnaa viksit occurs –",
+    option: ["economic smaantaa from", "raajniitik aadhaaroN from", "members of sNkhyaa from", "among these from any from not"],
+    answer: "among these from any from not"
+},
+{
+    question: "” village one small gnnraajy are”  /  who said ?",
+    option: ["mettkoNph", "e0 aar0 desaaii", "kaarl maarks", "mhaatmaa gaaNdhii"],
+    answer: "mettkoNph"
+},
+{
+    question: "India in iistt India company of shaasn when brittish shaasn as privrtit was ?",
+    option: ["sn 1839", "sn 1858", "sn 1862", "sn 1885"],
+    answer: "sn 1858"
+},
+{
+    question: "India in national population aayog of adhykss which are ?",
+    option: ["raassttrpti", "prdhaanmNtrii", "health mNtrii", "gRhmNtrii"],
+    answer: "prdhaanmNtrii"
+},
+{
+    question: "India of log main form from aashrit are—",
+    option: ["job on", "agricultural on", "vyfaty on", "industry on"],
+    answer: "agricultural on"
+},
+{
+    question: "following in from rural smudaay of prmukh characteristic which are ?",
+    option: ["social gtishiiltaa", "bdd'aa aakaar", "women of high prsthiti", "agricultural on aadhaarit"],
+    answer: "agricultural on aadhaarit"
+},
+{
+    question: "India in jnaadhiky of muul cause what is ?",
+    option: ["environment", "reproduction power", "social-saaNskRtik kaark", "None of these"],
+    answer: "social-saaNskRtik kaark"
+},
+{
+    question: "Indian rural smudaay characteristic ofeN is –",
+    option: ["normal fixed field", "saamudaayik ektaa", "primary sNbNdhoN of prdhaantaa", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "paarsns by how many types of prtimaanit viklpoN of vrnnn done was is ?",
+    option: ["three", "four", "five", "six"],
+    answer: "three"
+},
+{
+    question: "naisrgik prtibndh whose avdhaarnnaa is ?",
+    option: ["maalths", "saiddlr", "kainn", "ddaalttn"],
+    answer: "maalths"
+},
+{
+    question: "when national kaaNgres of adhiveshn in muul right of ghossnnaa of was ?",
+    option: ["1930", "1931", "1932", "1933"],
+    answer: "1931"
+},
+{
+    question: "naisrgik prtibNdh whose avdhaarnnaa is ?",
+    option: ["maalths", "saiddlr", "kainn", "ddaalttn"],
+    answer: "maalths"
+},
+{
+    question: "2001 AD of jngnnnaa according to India in srvaadhik liNgaanupaat which raajy which-saa thaa ?",
+    option: ["sikkim", "mdhyprdesh", "kerl", "bihaar"],
+    answer: "kerl"
+},
+{
+    question: "2001 AD of jngnnnaa according to India of nyuuntm liNgaanupaat which raajy which-saa thaa ?",
+    option: ["hriyaannaa", "mdhyprdesh", "kerl", "bihaar"],
+    answer: "hriyaannaa"
+},
+{
+    question: "infant death dr in how many year of children of gnnnaa is done ?",
+    option: ["two year", "one year", "four year", "five year"],
+    answer: "one year"
+},
+{
+    question: "national population niiti-2000 under following in from which baatoN to shaamil done was is ?",
+    option: ["ttkaalik uddeshy", "mdhykaaliin uddeshy", "diirghkaalik uddeshy", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "maalths according to bddh'tii was population to controlled doing of Which of the following-from upaay appropriate are ?",
+    option: ["naisrgik prtibNdh", "nirodhk prtibNdh", "both", "above-mentioned in any not"],
+    answer: "nirodhk prtibNdh"
+},
+{
+    question: "India of which vishvvidyaaly from smaajshaastr of pddh'aaii start huyii thii ?",
+    option: ["bmbii vishvvidyaaly", "klkttaa vishvvidyaaly", "pttnaa vishvvidyaaly", "dillii vishvvidyaaly"],
+    answer: "bmbii vishvvidyaaly"
+},
+{
+    question: "smaajshaastr of utptti which bhaassaaoN from was is ?",
+    option: ["laittin and French", "laittin and griik", "laittin and aNgrejii", "griik and aNgrejii"],
+    answer: "laittin and griik"
+},
+{
+    question: "following in from kisko ngriikrnn promotion detii is ?",
+    option: ["gumnaamitaa", "bhiidd'", "pollution", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "Which of the following India of most more ngriiliver raajy is ?",
+    option: ["pshcim bNgaal", "mhaaraassttr", "aadhr prdesh", "kerl"],
+    answer: "mhaaraassttr"
+},
+{
+    question: "shhriikrnn of lkssnn is –",
+    option: ["vyaapaar in development", "one shhr of caaroN or keNdroN of development", "rural from urban prvsn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "dhrm nirpeksstaa of meaning what is ?",
+    option: ["vibhinn dhrmoN of sh astitv", "other dhrmo towards shrddhaa", "raajy of apnaa any dhrm n honaa is", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "2001 of jngnnnaa according to India in prti 1000 man on women of sNkhyaa is –",
+    option: ["967", "933", "947", "955"],
+    answer: "933"
+},
+{
+    question: "1931 in Indian national kaaNgres of adhiveshn which place on was thaa ?",
+    option: ["kraacii", "laahaur", "dillii", "klkttaa"],
+    answer: "kraacii"
+},
+{
+    question: "saamudaayik phcaan what occurs ?",
+    option: ["arjit", "prdtt", "arjit v prdtt both", "None of these"],
+    answer: "prdtt"
+},
+{
+    question: "following in from who ‘rural-ngriiy saatvy’ of avdhaarnnaa of development in yogdaan given ?",
+    option: ["es0 sii0 duube0", "sorokin", "reddphiildd", "koNmtt"],
+    answer: "reddphiildd"
+},
+{
+    question: "India in family niyojn kaarykrm when implemented done was ?",
+    option: ["1948", "1950", "1952", "1954"],
+    answer: "1952"
+},
+{
+    question: "women of most more percent which raajy in is ?",
+    option: ["bihaar", "pshcim bNgaal", "uttr prdesh", "kerl"],
+    answer: "kerl"
+},
+{
+    question: "human society and sNskRti of history where from start is ?",
+    option: ["village from", "shhr from", "ngr from", "None of these"],
+    answer: "village from"
+},
+{
+    question: "Indian society of history how many years of period of is ?",
+    option: ["2000 year", "3000 year", "4000 year", "5000 year"],
+    answer: "4000 year"
+},
+{
+    question: "Which of these-sii characteristic village of is not ?",
+    option: ["agricultural vyfaty", "ekaakii family", "sjaatiiytaa", "ruuddh'ivaaditaa"],
+    answer: "ruuddh'ivaaditaa"
+},
+{
+    question: "among these from population growth of prinnaam which is not ?",
+    option: ["food problem", "aavaas of problem", "employment of problem", "tthNdde weather in srdii spread"],
+    answer: "tthNdde weather in srdii spread"
+},
+{
+    question: "upniveshvaad which soc of prtiphl is ?",
+    option: ["saamraajyvaad", "smaajvaad", "maanvtaavaad", "aNtrraassttriiytaavaad"],
+    answer: "saamraajyvaad"
+},
+{
+    question: "India in brittish upniveshvaad establishment and iske vistaar in which shaayk thaa ?",
+    option: ["loNrdd kaarnvaalis", "loNrdd klaaiv", "vaaren hesttigj", "above-mentioned sii"],
+    answer: "above-mentioned sii"
+},
+{
+    question: "ddemograaphii (jnaaNkikii) shbd use of sbbefore which vidvaan by was thaa ?",
+    option: ["guiilaardd", "sorokin", "levis", "vaarkle"],
+    answer: "guiilaardd"
+},
+{
+    question: "‘rural areas of ngriiy kssetroN in privrtit being of prkriyaa to ngriikrnn called are’, this whose kthn is ?",
+    option: ["pheyr caaildd", "em0 es0 e0 raav", "em0 en0 shriinivaas", "i0 eph0 brges"],
+    answer: "i0 eph0 brges"
+},
+{
+    question: "nii national population niiti when ghossit of gyii ?",
+    option: ["1999", "2000", "2001", "2002"],
+    answer: "2000"
+},
+{
+    question: "smudaay of srvmhttvpuurnn lkssnn following in what is ?",
+    option: ["hm bhaavnaa", "smaan bhuu-part", "saamudaayik bhaavnaa", "smaan niym"],
+    answer: "saamudaayik bhaavnaa"
+},
+{
+    question: "population suucii stNbh from whom judd'aa is ?",
+    option: ["age and marriage sNrgram", "age and liNg sNrgram", "age and shrm force sNrgram", "age and saakssrtaa sNrgram"],
+    answer: "age and liNg sNrgram"
+},
+{
+    question: "population related to suugram obtained doing of primary method what is ?",
+    option: ["senss", "srve method", "sempl method", "among these any not"],
+    answer: "senss"
+},
+{
+    question: "India in population in growth and ghntv direct form from determined is—",
+    option: ["field of mhilaaoN of sNkhyaa by", "reproduction dr and death dr by", "desh of vibhinn bhaagoN in prvrjnvaiminy of by", "purussoN on Indian mhilaaoN of bauddhik shresstthtaa by"],
+    answer: "reproduction dr and death dr by"
+},
+{
+    question: "jnaaNkikii viknowledge is –",
+    option: ["environment adhyyn of", "population adhyyn of", "forest adhyyn of", "water adhyyn of"],
+    answer: "population adhyyn of"
+},
+{
+    question: "among these which ngriiy smudaay characteristic of is ?",
+    option: ["more population", "social variety", "sthaaniiy pRthkkrnn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "jnaaNkikii shbd use of sbbefore when was ?",
+    option: ["sn 1855", "sn 1856", "sn 1857", "sn 1860"],
+    answer: "sn 1855"
+},
+{
+    question: "udaariikrnn, bhuumNddliikrnn of what type of tttv is ?",
+    option: ["social", "economic", "raajnaitik", "saaNskRtik"],
+    answer: "economic"
+},
+{
+    question: "India in aniyNtrit population growth for uttrdaayii kaark is –",
+    option: ["child-marriage", "raajniitik cetnaa", "economic development", "None of these"],
+    answer: "child-marriage"
+},
+{
+    question: "Indian population of history in which-saa year ‘grett ddivaaidd’ maanaa goes is ?",
+    option: ["1901", "1921", "1951", "1961"],
+    answer: "1921"
+},
+{
+    question: "following in which this vishvaas does is ki population growth occurs ?",
+    option: ["e0 ddyumo", "phreNk phettr", "eph0 es0 niitto", "yuu0 sttrenbrg"],
+    answer: "eph0 es0 niitto"
+},
+{
+    question: "vivekpuurnn population niiti of necessary tttv what is ?",
+    option: ["family niyojn kaarykrm of prcaar and prsaar", "social vaataavrnn in change", "prvaasii-prvRti to protsaahn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "raassttrvaad means",
+    option: ["normal social pRsstthbhuumi", "normal jaati pRsstthbhuumi", "normal bhaugolik pRsstthbhuumi", "None of these"],
+    answer: "normal bhaugolik pRsstthbhuumi"
+},
+{
+    question: "Which of the following Indian society characteristic of is ?",
+    option: ["anektaa in ektaa", "sNskaaroN by smaajiikrnn", "purussaarth", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "‘sosaaittii’ naamk book of rcyitaa which is ?",
+    option: ["mekaaivr enndd pej", "pii0 jiisvrtt", "ec0 em0 joNnsn", "None of these"],
+    answer: "mekaaivr enndd pej"
+},
+{
+    question: "udaariikrnn from what meaning nikltaa is ?",
+    option: ["smaajvaad", "mnussy of udaar honaa", "kaaphii unnti honaa", "mukt baajaar arrangement"],
+    answer: "mukt baajaar arrangement"
+},
+{
+    question: "sn 2001 of jngnnnaa according to India of rural population is approximately –",
+    option: ["56 percent", "65 percent", "72 percent", "80 percent"],
+    answer: "72 percent"
+},
+{
+    question: "Indian national kaaNgres when was established was ?",
+    option: ["dismbr, 1885 in", "dismbr, 1857 in", "dismbr, 1947 in", "dismbr, 1917 in"],
+    answer: "dismbr, 1885 in"
+},
+{
+    question: "”The Population of India & Pakistan” naamk book of lekhk which are ?",
+    option: ["ddevis", "mrttn", "mirddl", "maalths"],
+    answer: "ddevis"
+},
+{
+    question: "cmpaarnn in niil aaNdoln’ when aarmbh was ?",
+    option: ["1917 AD", "1918 AD", "1919 AD", "None of these"],
+    answer: "1917 AD"
+},
+{
+    question: "woman-man anupaat which raajy in most less is ?",
+    option: ["bihaar", "pshcim bNgaal", "udd'iisaa", "tmilnaaddu"],
+    answer: "bihaar"
+},
+{
+    question: "Which of the following national ekiikrnn in baadhk is ?",
+    option: ["dhrmnirpeksstaa", "saaNprdaayiktaa", "both", "above-mentioned in from any not"],
+    answer: "saaNprdaayiktaa"
+},
+{
+    question: "bihaar in smaajshaastr of pddh'aaii srvprthm which vishvvidyaaly in start was thii ?",
+    option: ["pttnaa vishvvidyaaly", "muNger vishvvidyaaly", "paattliputr vishvvidyaaly", "bhaaglpur vishvvidyaaly"],
+    answer: "pttnaa vishvvidyaaly"
+},
+{
+    question: "agst koNmtt of guruu which the ?",
+    option: ["mekaaiivr", "arstuu", "seNtt saaimn", "maarks"],
+    answer: "seNtt saaimn"
+},
+{
+    question: "who said, “smaajshaastr society of viknowledge is” ?",
+    option: ["vaardd", "mekaaiivr", "giddigs", "speNsr"],
+    answer: "vaardd"
+},
+{
+    question: "“poNjittiv philaasphii” naamk book of rcyitaa which the ?",
+    option: ["koNmtt", "sorokin", "maarks", "hiigle"],
+    answer: "koNmtt"
+},
+{
+    question: "bmbii vishvvidyaaly in smaajshaastr department establishment kinkii adhyksstaa in was ?",
+    option: ["jii0es0ghurye", "paittrik gidds", "aar0ke0mukhrjii", "ddii0en0mukhrjii"],
+    answer: "paittrik gidds"
+},
+{
+    question: "Which of these Indian sNskRti of muul element is ?",
+    option: ["aadhyaatmvaad", "krm sNbNdhii vishvaas", "saamuuhiktaa", "these all"],
+    answer: "these all"
+},
+{
+    question: "Which of the following society characteristic of is not ?",
+    option: ["society muurt is", "privrtnshiiltaa", "paarsprik dependence", "paarsprik awareness"],
+    answer: "society muurt is"
+},
+{
+    question: "who said, “society sNghrss mishrit cooperation is” ?",
+    option: ["bogaardds", "maikaaiivr", "agst koNmtt", "joNrj simel"],
+    answer: "maikaaiivr"
+},
+{
+    question: "who said, “each person this jaantaa is ki ngr what is, kintu any ne also sNtossjnk pribhaassaa not dii is” ?",
+    option: ["brgel", "ennddrsn", "bil koNks", "mekaaiivr"],
+    answer: "brgel"
+},
+{
+    question: "which prmukh aitihaasik ghttnaa from India in raassttrvaad of bhaavnaa of udy was ?",
+    option: ["1857 of sipaahii vidroh", "India chodd'o aandoln", "ashyog aandoln", "sviny avjnyaa aandoln"],
+    answer: "1857 of sipaahii vidroh"
+},
+{
+    question: "‘vaanprsth aashrm’ aashrm arrangement of which saa level is ?",
+    option: ["prthm", "dvitiiy", "tRtiiy", "cturth"],
+    answer: "tRtiiy"
+},
+{
+    question: "bNgaal in svdeshii aandoln who aarmbh done ?",
+    option: ["raajnaaraaynn bsu", "raamsiNh kuukaa", "vaasudev joshii", "mhaatmaa gaaNdhii"],
+    answer: "raajnaaraaynn bsu"
+},
+{
+    question: "India of vrtmaan aabaadii how many is ?",
+    option: ["one arb of above", "one arb from below", "100 lakh", "None of these"],
+    answer: "one arb of above"
+},
+{
+    question: "following in from India of which raajy in saakssrtaa dr most less is ?",
+    option: ["uttr prdesh", "jhaarkhnndd", "mdhy prdesh", "bihaar"],
+    answer: "bihaar"
+},
+{
+    question: "India in jnaadhiky of muul cause what is ?",
+    option: ["environment", "social – saaNskRtik kaark", "reproduction power", "None of these"],
+    answer: "reproduction power"
+},
+{
+    question: "nii national population niiti when ghossit of gyii ?",
+    option: ["1999 ii. in", "2000 ii. in", "2001 ii. in", "2002 ii. in"],
+    answer: "2000 ii. in"
+},
+{
+    question: "India in prthm times jngnnnaa when was thaa ?",
+    option: ["1873", "1872", "1856", "1874"],
+    answer: "1872"
+},
+{
+    question: "alpsNkhyk one",
+    option: ["saamjshaastriiy sNklpnaa is", "gnnitiiy sNklpnaa is", "raajnaitik sNklpnaa is", "mnovaiknowledgeik sNklpnaa is"],
+    answer: "raajnaitik sNklpnaa is"
+},
+{
+    question: "sexual vissmtaa of smbndh is",
+    option: ["social values from", "economicii from", "raajnaitik values from", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "who sexual asmaantaa of seven type of ullekh done is ?",
+    option: ["paannikr", "mjuumdaar", "duube", "aamrtysen"],
+    answer: "aamrtysen"
+},
+{
+    question: "rural and ngriiy society between following in which aNtr of basis is ?",
+    option: ["jnsNkhyaatmk basis", "smudaay of aakaar", "social gtishiiltaa of prkRti", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "ttii.of. ummn ne sNprdaayvaad of how many aayaamoN to rekhaaNkit done is ?",
+    option: ["two aayaamoN to", "four aayaamoN to", "six aayaamoN to", "eight aayaamoN to"],
+    answer: "two aayaamoN to"
+},
+{
+    question: "reddikl naariivaad according to sexual asmaantaa of muul cause what is ?",
+    option: ["pitRsttaa is", "maatRsttaa is  / ", "both in any also not", "not kh can"],
+    answer: "pitRsttaa is"
+},
+{
+    question: "social class one smudaay of any part is jo social condition of basis on shess part from pRthk done jaa ske  /  this kthn whose is ?",
+    option: ["oNgbrn and nimkoNph", "maikaaivr and pej", "bogaardds", "goNn ec ttainnddl"],
+    answer: "maikaaivr and pej"
+},
+{
+    question: "raassttr from abhipraay one jaati athvaa vNshgt vishesstaaoN which human sNgtthn is  /  this kthn whose is ?",
+    option: ["brges", "maikaaivr and pej", "liikoNk", "bogaardds"],
+    answer: "brges"
+},
+{
+    question: "Indian society of vibhaajn of aadhaaroN on was is, this vibhaajn only is called",
+    option: ["smudaay", "upniveshvaad", "raassttrvaad", "class"],
+    answer: "smudaay"
+},
+{
+    question: "economic basis on society how many vrgoN in vibhkt is ?",
+    option: ["four", "five", "three", "two"],
+    answer: "three"
+},
+{
+    question: "2011 of jngnnnaa according to which raajy of population ghttii is ?",
+    option: ["bihaar", "mhaaraassttr", "naagaalainndd", "sikkim"],
+    answer: "naagaalainndd"
+},
+{
+    question: "India in most more population pnl which raajy is",
+    option: ["pshcim bNgaal", "jhaarkhNdd", "bihaar", "chttiisgddh'"],
+    answer: "pshcim bNgaal"
+},
+{
+    question: "India in most more shikssit mhilaaoN which raajy is",
+    option: ["mdhy prdesh", "kerl", "bihaar", "uttr prdesh"],
+    answer: "kerl"
+},
+{
+    question: "India in most less saakssrtaa which raajy is  / ",
+    option: ["raajsthaan", "gujraat", "mdhy prdesh", "bihaar"],
+    answer: "bihaar"
+},
+{
+    question: "India of population world of population of kul what percentage is  / ",
+    option: ["20 percent", "16 percent", "10 percent", "40 percent"],
+    answer: "16 percent"
+},
+{
+    question: "‘jnsaaNkhyikii’ shbd which language from liyaa was is ?",
+    option: ["urduu", "sNskRt", "griik", "French"],
+    answer: "griik"
+},
+{
+    question: "population adhyyn to what called",
+    option: ["nyuumesmettiks", "ddemegraaphii", "ipiigraaphii", "None of these"],
+    answer: "ddemegraaphii"
+},
+{
+    question: "jnaaNkikii (jnsaaNkhikii) of jnk said goes",
+    option: ["maalths", "gurddlaaii", "joNn graantt", "Adam Smith"],
+    answer: "joNn graantt"
+},
+{
+    question: "population of dRsstti from India of world in which – saa place is ?",
+    option: ["duusraa", "tiisraa", "paaNcvaaN", "aatthvaaN"],
+    answer: "duusraa"
+},
+{
+    question: "year 2011 of jngnnnaa according to India in saakssrtaa of dr (approximately) is",
+    option: ["65 %", "68 %", "74 %", "76 %"],
+    answer: "74 %"
+},
+{
+    question: "India in phlii times In which year national population niiti ghossit of gyii ?",
+    option: ["sn 1974 in", "sn 1976 in", "sn 1956 in", "sn 1982 in"],
+    answer: "sn 1976 in"
+},
+{
+    question: "following in from whose smbndh ‘population of svyN smaayojn cycle’ from is ?",
+    option: ["Adam Smith", "caaildd", "maalths", "None of these"],
+    answer: "Adam Smith"
+},
+{
+    question: "India in family niyojn kaarykrm of shuruuaat of gyii",
+    option: ["sn 1944 in", "sn 1952 in", "sn 1956 in", "sn 1960 in"],
+    answer: "sn 1952 in"
+},
+{
+    question: "following in from population of which priprekssy to ‘jnaaNkikiiy paargmn tri – striiy moNddl’ of name from go goes is ?",
+    option: ["jnaakikii priprekssy", "smaajshaastriiy priprekssy", "economic priprekssy", "aitihaasik priprekssy"],
+    answer: "aitihaasik priprekssy"
+},
+{
+    question: "jnsaaNkhyikii of adhyyn in nin in from kise smmilit done was is ?",
+    option: ["population of aakaar in change", "population of construction", "population of vitrnn", "None of these"],
+    answer: "population of aakaar in change"
+},
+{
+    question: "India in population growth of prmukh cause is",
+    option: ["dhaarmik and bhaagyvaadii maanytaaoN of effect", "ignorance and aeducation", "above-mentioned both", "None of these"],
+    answer: "above-mentioned both"
+},
+{
+    question: "India in national population niiti (1976) in Which of the following – saa praavdhaan done was ?",
+    option: ["marriage for nyuuntm age krmshH ldd'ke of 21 year and girl of 18 year determined of gyii", "kendriiy assistance of 8 % part family klyaann kaarykrm on expenditure doing of praavdhaan", "aupcaarik vidyaalyii education in population education of anivaarytaa", "All of the above"],
+    answer: "kendriiy assistance of 8 % part family klyaann kaarykrm on expenditure doing of praavdhaan"
+},
+{
+    question: "following in from maalths of population principle of maanytaa is",
+    option: ["mnussy to jiivit keeping for dining necessary is", "agricultural in utptti hraas niym implemented is", "population necessary form from jiivikaa of saadhnoN by determined is", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "who said “mnussy to this smjh lenaa should ki vh apnii griibii of svyN only cause is ?”",
+    option: ["sorokin", "ricrdd ddevii", "brgel", "maalths"],
+    answer: "maalths"
+},
+{
+    question: "2001 of jngnnnaa according to India in prti 1000 man on women of sNkhyaa is",
+    option: ["967", "933", "947", "955"],
+    answer: "933"
+},
+{
+    question: "which – sii pristhiti population growth for uttrdaayii is ?",
+    option: ["social value", "life pddhti", "shaikssnnik level", "economic development"],
+    answer: "shaikssnnik level"
+},
+{
+    question: "Indian society of history how many years of period of is ?",
+    option: ["2000 year", "3000 year", "4000 year", "5000 year"],
+    answer: "3000 year"
+},
+{
+    question: "among these from population growth of prinnaam which is not ?",
+    option: ["food problem", "aavaas of problem", "employment of problem", "tthNdde weather in srdii spread"],
+    answer: "tthNdde weather in srdii spread"
+},
+{
+    question: "bihaar in berojgaarii bhttaa Which age group is given ?",
+    option: ["21 from 31", "18 from 25", "18 from 27", "16 from 27"],
+    answer: "21 from 31"
+},
+{
+    question: "“combined family one such family is jismeN log smaan aavaas in remain are, one stove of bnaa khaate are, smaan smptti of hkdaar are and smaan puujaa–paatth in part lete haiN / ” combined family of such pribhaassaa who dii is?",
+    option: ["iraavtiikaarve", "aaii 0 pii 0 desaaii", "e 0 aar 0 desaaii", "em 0 en 0 shriinivaas"],
+    answer: "em 0 en 0 shriinivaas"
+},
+{
+    question: "following in which jnjaatiiy dhrm of svruup is?",
+    option: ["brhmvaad", "ttottmvaad", "ojhaagirii", "inmeNsbhii"],
+    answer: "ttottmvaad"
+},
+{
+    question: "priikssaa marriage which jnjaati in occurs?",
+    option: ["muNddaa", "sNthaal", "naagaa", "bhiil"],
+    answer: "bhiil"
+},
+{
+    question: "India in anusuucit jaatiyoN for aarkssnn of praavdhaan which dhaaraa of under of gyii is?",
+    option: ["dhaaraa-355", "dhaaraa-379", "dhaaraa-302", "dhaaraa-330"],
+    answer: "dhaaraa-355"
+},
+{
+    question: "following in which one jaati is?",
+    option: ["vaishy", "raajpuut", "shuudr", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "Indian social arrangement of important phn what is?",
+    option: ["combined family", "jaati–arrangement", "dhrm", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "following in which one institution is?",
+    option: ["village", "raassttr", "marriage", "farmer sNgh"],
+    answer: "marriage"
+},
+{
+    question: "following in from India of which raajy in aadivaasii aabaadii srvaadhik is?",
+    option: ["pshcim bNgaal", "chttiisgddh'", "uttr prdesh", "gujraat"],
+    answer: "gujraat"
+},
+{
+    question: "jaati–arrangement of utptti from smbndhit prjaatiiy principle towardspaadk Which of the following–saa vidvaan is",
+    option: ["httttn", "rijle", "nesphiildd", "shriinivaas"],
+    answer: "rijle"
+},
+{
+    question: "Which of the following one institution is?",
+    option: ["raassttr", "village", "family", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "Which of the following jaati–arrangement of one maulik characteristic is not?",
+    option: ["sNstrnn", "society of khnnddaatmk vibhaajn", "social gtishiiltaa", "antrvivaah"],
+    answer: "social gtishiiltaa"
+},
+{
+    question: "India of most bdd'aa jnjaatiiy group which is?",
+    option: ["sNthaal", "muNddaa", "gaaro", "goNdd"],
+    answer: "gaaro"
+},
+{
+    question: "Indian sNvidhaan of which anucched of by loksbhaa anusuucit jaati and jnjaati of members for place aarkssit done was is?",
+    option: ["anucched-334", "anucched-332", "anucched-330", "anucched-338"],
+    answer: "anucched-330"
+},
+{
+    question: "khs or khaasii bhupti marriage which jnjaati in is found?",
+    option: ["sNthl", "ttoddaa", "muNddaa", "khs"],
+    answer: "khs"
+},
+{
+    question: "who said, ‘jaati one closed class is’",
+    option: ["maiks vebr", "mjuumdaar and mdn", "rijle", "maikaaivr and pej"],
+    answer: "mjuumdaar and mdn"
+},
+{
+    question: "which saa aadivaasii society maatR prdhaan is?",
+    option: ["sNthaal", "muNddaa", "bhiil", "inmeNse any not"],
+    answer: "inmeNse any not"
+},
+{
+    question: "which Indian society of most prmukh characteristic is?",
+    option: ["vrnn arrangement", "anektaameN ektaa", "yjmaaniivyvsthaa", "inmeNsbhii"],
+    answer: "inmeNsbhii"
+},
+{
+    question: "Which of the following jnjaatiiy society of problem is not?",
+    option: ["bhuumivilgaav", "chuaachuut", "( a ) and ( b ) both", "inmeNse any not"],
+    answer: "( a ) and ( b ) both"
+},
+{
+    question: "Which of the following family characteristic of is",
+    option: ["saarvbhaumiktaa", "siimit aakaar", "bhaavaatmk basis", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "Which of the following jnjaati characteristic of is?",
+    option: ["normal bhuu–part", "normal language", "normal sNskRti", "inmeNsbhii"],
+    answer: "inmeNsbhii"
+},
+{
+    question: "following in from bnd striikrnn of udaahrnn which–saa is",
+    option: ["class", "sttaa", "jaati", "All of the above"],
+    answer: "jaati"
+},
+{
+    question: "Which of the following from kaark Indian jaati arrangement in change of uttrdaayii is?",
+    option: ["audyogikrnn", "pNcaaytiiraaj", "jjmaaniivyvsthaa", "prbhujaati"],
+    answer: "pNcaaytiiraaj"
+},
+{
+    question: "bhiil naamk jnjaati which raajy in nivaas does is?",
+    option: ["asm", "prdesh", "pshcim bNgaal", "bihaar"],
+    answer: "prdesh"
+},
+{
+    question: "Which of the following jaati characteristic of is not?",
+    option: ["sNstrnn", "antHvivaah", "purity", "khulaapn"],
+    answer: "khulaapn"
+},
+{
+    question: "‘caacaa’ naatedaarii of which shrennii of under comes is?",
+    option: ["primary", "secondary", "tertiary", "inmeNse any not"],
+    answer: "secondary"
+},
+{
+    question: "Which of the following–saa naatedaarii from spsstt form from not comes is?",
+    option: ["vNsh prmpraa", "marriage other relation", "prsthiti", "smkkss group"],
+    answer: "marriage other relation"
+},
+{
+    question: "jaati arrangement of utptti–sNbNdhii devtv of siddhaaNt which ved in vrnnit is?",
+    option: ["athrvved", "saamved", "Rgved", "yjurved"],
+    answer: "saamved"
+},
+{
+    question: "Which of the following Indian ne jaajaatiyoN for ‘algaav of niiti’ of vkaalt of?",
+    option: ["belii", "ghuriye", "elvin", "ddoN. mjuumdaar"],
+    answer: "ddoN. mjuumdaar"
+},
+{
+    question: "jnjaati smaajoN in following in from what not is found?",
+    option: ["shrm–vibhaajn", "yuvaagRh", "mhilaakii aajaadii", "srl economy"],
+    answer: "mhilaakii aajaadii"
+},
+{
+    question: "ghumkuriyaa which jnjaati in is found?",
+    option: ["muNddaa", "sNthaal", "uraaNv", "be"],
+    answer: "uraaNv"
+},
+{
+    question: "jaati arrangement of vyaafatyaartyk siddhaaNt towardspaadk which is?",
+    option: ["rijle", "ghuriye", "nesphiildd", "maarks"],
+    answer: "rijle"
+},
+{
+    question: "jaati of basis what is?",
+    option: ["bhaagy", "krm", "punrjnm", "birth"],
+    answer: "birth"
+},
+{
+    question: "Which of the following dvij not khlaate are?",
+    option: ["braahmnn", "ksstriy", "vaishy", "shuudr"],
+    answer: "shuudr"
+},
+{
+    question: "which society in hutu marriage of prcln is?",
+    option: ["hinduusmaaj in", "jnjaatiiy society in", "muslim society in", "inmeNse any not"],
+    answer: "jnjaatiiy society in"
+},
+{
+    question: "muslim vibaah is one",
+    option: ["sNskaar", "smjhautaa", "mitrtaa", "inmeNse any not"],
+    answer: "smjhautaa"
+},
+{
+    question: "Which of the following hinduu marriage of uddeshy is",
+    option: ["dhaarmik krttvy", "putr obtaining", "rti", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "class arrangement is one",
+    option: ["khuliivyvsthaa", "bnd arrangement", "n only khulii n only bnd", "inmeNse any not"],
+    answer: "khuliivyvsthaa"
+},
+{
+    question: "social change of taatpry is",
+    option: ["social sNbNdhoN meNprivrtn", "social smuuhoN in change", "social antH kriyaaoN meNprivrtn", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "shplaayn marriage, marriage of one type is–",
+    option: ["jnjaatiiy society in", "hinduusmaaj in", "muslim society in", "iisaaii society in"],
+    answer: "jnjaatiiy society in"
+},
+{
+    question: "who said dhrm any aadhyaatmik power in vishvaas is?",
+    option: ["ttaaylr", "phrejr", "dukhiim", "moNlinoskii"],
+    answer: "ttaaylr"
+},
+{
+    question: "Which of the following one class is not?",
+    option: ["doctor", "shikssk", "braahmnn", "vkiil"],
+    answer: "braahmnn"
+},
+{
+    question: "priviikssaa marriage, marriage of one type is",
+    option: ["jnjaatiiy society in", "hinduusmaaj in", "muslim society in", "iisaaii society in"],
+    answer: "jnjaatiiy society in"
+},
+{
+    question: "hinduuoN in marriage of how many svruup maane go h",
+    option: ["ten", "five", "eight", "four"],
+    answer: "eight"
+},
+{
+    question: "”India in marriage and family” who likhii?",
+    option: ["e.em. shaah", "jii.es. ghurye", "of.em. kpaaddiyaa", "ddblyuu. aaii. vaarnr"],
+    answer: "of.em. kpaaddiyaa"
+},
+{
+    question: "ddenjrs ddrgs ektt In which year in paarit done was?",
+    option: ["1930", "1931", "1938", "1933"],
+    answer: "1938"
+},
+{
+    question: "family social control of what type of saadhnoN of under comes is",
+    option: ["aupcaarik control", "anaupcaarik control of means", "above-mentioned both", "None of these"],
+    answer: "anaupcaarik control of means"
+},
+{
+    question: "“family fixed yaun smbndhoN by pribhaassit one such group is, jo children of jnn and paaln–nutrition of arrangement does hai / ” above-mentioned pribhaassaa dii is",
+    option: ["lsuumeyr ne", "bogaardds ne", "maikaaivr and pej ne", "brges and loNk ne"],
+    answer: "maikaaivr and pej ne"
+},
+{
+    question: "which vidvaan ne family to ‘human svbhaav of podhikaa’ said is?",
+    option: ["mrddoNk", "caarls kuule", "maikaaivr", "inmeNse any not"],
+    answer: "caarls kuule"
+},
+{
+    question: "Which of these jaati arrangement of den is?",
+    option: ["shossnn", "asmaantaa", "jaativaad", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "what type of family to ‘two–piiddh'ii family’ said goes is?",
+    option: ["bRhtsNyukt family", "combined family", "ekaakiiprivaar", "inmeNse any not"],
+    answer: "ekaakiiprivaar"
+},
+{
+    question: "following in from family of prkaary is",
+    option: ["sntaanotptti", "yaun icchaaoN kiipuurti", "prjaatikii nirntrtaa", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "”naatedaarii social uddeshyoN for sviikRt vNsh smbndh is, jo ki social smbndhoN of prmpraagt smbndhoN of basis hai / ” above-mentioned kthn of smbndh is",
+    option: ["rivrs", "jii.ddii. maaikel", "raiddkliph braaun", "mrddoNk"],
+    answer: "raiddkliph braaun"
+},
+{
+    question: "‘maanvshaastriiy shbdkoss’ naamk book of lekhk are",
+    option: ["caarls vinik", "iraavtiikrve", "maikaaivr and pej", "aar. of. braaun"],
+    answer: "caarls vinik"
+},
+{
+    question: "moNrgn ne naatedaarii sNjnyaaoN of how many prkaaroN of ullekh done is?",
+    option: ["one", "two", "three", "four"],
+    answer: "two"
+},
+{
+    question: "this whose kthn is ki “prihaas smbndhoN of by naatedaaroN between shjtaapuurnn v ghnisstth maitriipuurnn smbndhoN of development is / ”",
+    option: ["aar.of. braaun", "je. phrejr", "vesttrmaark", "ttoNylr"],
+    answer: "vesttrmaark"
+},
+{
+    question: "combined family arrangement paayii goes is",
+    option: ["industrial society in", "ngriiy society in", "rural society in", "inmeNse any not"],
+    answer: "rural society in"
+},
+{
+    question: "combined family of which–sii characteristic is?",
+    option: ["bdd'aaaakaar", "normal smptti", "normal nivaas", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "praayH combined family krtaa which is?",
+    option: ["sbsebujurg man", "sbsebujurg woman", "pddh'aa–likhaa person", "jyesstth putr"],
+    answer: "sbsebujurg man"
+},
+{
+    question: "following in what combined family of prkaary is not?",
+    option: ["social security", "economic security", "vyktivaaditaa", "mental security"],
+    answer: "vyktivaaditaa"
+},
+{
+    question: "jnmmuulk family and reproduction muulk family of vyaakhyaa which vidvaan ne of is?",
+    option: ["linnttn", "ddevis", "maikaaivr", "bogaardds"],
+    answer: "ddevis"
+},
+{
+    question: "”one jnjaati as field, language, saaNskRtik smruuptaa and one suutr in baaNdhne which social sNgtthn to lete are, jismeN gotr or village smmilit are / ” jnjaati of said pribhaassaa dii is",
+    option: ["hrbrtt spensn", "caarls vinik", "ddii.en. mjuumdaar", "maikaaivr and pej"],
+    answer: "caarls vinik"
+},
+{
+    question: "following in from normal nissedh ‘(ttev) of smbndh is",
+    option: ["khaan–paan from", "marriage from", "vyfaty from", "these in all from"],
+    answer: "these in all from"
+},
+{
+    question: "pro. es.sii. dube ne bhaugolik dRsstti from Indian jnjaatiyoN to following in from how many bhaagoN in vibhkt done is?",
+    option: ["two", "three", "four", "five"],
+    answer: "four"
+},
+{
+    question: "following in from shikaar and food sNgrhnn jnjaati group hai / ",
+    option: ["kukaa", "munnddaa", "bhiil", "goNdd"],
+    answer: "kukaa"
+},
+{
+    question: "which maanvshaastrii ne on–sNskRtigrhnn to jnjaati sNskRti of vighttn for uttrdaayii maanaa is?",
+    option: ["em.en. shriinivaas", "raiddkliph braaun", "kiNgsle ddevis", "mjuumdaar and mdaan"],
+    answer: "mjuumdaar and mdaan"
+},
+{
+    question: "which sNvidhaan sNshodhn of tht anusuucit jaati, jnjaati atyaacaar nirodhk Act paarit done was?",
+    option: ["32 veN", "65 veN", "44 veN", "66 veN"],
+    answer: "65 veN"
+},
+{
+    question: "sNvidhaan of which anucched of under this praavdhaan done was ki smbndhit raajy of raajypaal, raassttrpti of anumti from any also jnjaati to anusuucit jnjaati in smmilit by can is?",
+    option: ["anucched-342", "anucched-338", "anucched-339", "All of the above"],
+    answer: "anucched-342"
+},
+{
+    question: "jnjaatiyoN to ‘pichdd'e hinduu’ khkr which smaajshaastrii ne smbodhit done is?",
+    option: ["aar.of. mukhrjii", "jii.es. ghurye", "aar.of. braaun", "es.sii. dube"],
+    answer: "jii.es. ghurye"
+},
+{
+    question: "bii.es. guhaa ne uttrii–puurvii field of under which siimaavrtii raajy to smmilit done is?",
+    option: ["mdhy prdesh", "jhaarkhnndd", "puurviipNjaab", "aandhr prdesh"],
+    answer: "puurviipNjaab"
+},
+{
+    question: "following in from jnjaati characteristic of is",
+    option: ["normal sNskRti", "one special name", "bhirvivaahiismuuh", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from drvidd' bhaassaayii family from smbndhit jnjaati is",
+    option: ["goNdd", "uraaNv", "( a ) and ( b ) both", "inmeNse any not"],
+    answer: "( a ) and ( b ) both"
+},
+{
+    question: "Indian society in social striikrnn of buniyaadii basis what is",
+    option: ["money and smptti", "jaati", "family", "dhrm"],
+    answer: "dhrm"
+},
+{
+    question: "prbhujaati of avdhaarnnaa den is",
+    option: ["pii.en. prbhu of", "mjuumdaar of", "rijlekii", "shriinivaas of"],
+    answer: "shriinivaas of"
+},
+{
+    question: "following in from who jaati prthaa of utptti on prjaatiiy dRssttikonn prstut done is?",
+    option: ["moNrgn", "rijle", "nesphiildd", "e.aar. desaaii"],
+    answer: "rijle"
+},
+{
+    question: "Which of the following jnjaati characteristic of is?",
+    option: ["normal bhuubhaag", "normal language", "normal sNskRti", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "following in from who social–dhaarmik sudhaar aandolnoN in agrnnii bhuumikaa nibhaayii?",
+    option: ["raajaaraammohn raay", "dyaannd srsvtii", "above-mentioned both", "above-mentioned in from any not"],
+    answer: "above-mentioned both"
+},
+{
+    question: "following in from who Indian jnjaatiyoN for ‘algaav of niiti’ of vkaalt of?",
+    option: ["belii", "ghuriye", "elvin", "mjuumdaar"],
+    answer: "elvin"
+},
+{
+    question: "jnjaati smaajoN in following in from what not is found?",
+    option: ["shrm vibhaajn", "yuvaagRh", "mhilaakii aajaadii", "srl economy"],
+    answer: "shrm vibhaajn"
+},
+{
+    question: "Government of India by ‘dhej nirodhk Act’ In which year paarit done was?",
+    option: ["sn1961 in", "sn1965 in", "sn1968 in", "sn1971 in"],
+    answer: "sn1961 in"
+},
+{
+    question: "uraaNv nivaasii are raajy ke / ",
+    option: ["bihaar", "jhaarkhnndd", "oddishaa", "mdhy prdesh"],
+    answer: "jhaarkhnndd"
+},
+{
+    question: "yuvaa sNgtthn paayaajaataa is",
+    option: ["rural society in", "ngriiy society in", "jnjaatiiy society in", "industrial society in"],
+    answer: "jnjaatiiy society in"
+},
+{
+    question: "which problem jnjaatiiy life from smbndhit is not?",
+    option: ["chuuaachuut", "yuvaaaavaasshaalaa", "jaatisNstrnn kaavikaas", "bhuuminisskaasn"],
+    answer: "chuuaachuut"
+},
+{
+    question: "one vicaardhaaraa as ‘jaati–arrangement’ of adhyyn following in from which smaajshaastrii ne done is?",
+    option: ["luii ddyuumaaN", "em.es. shriinivaas", "maikm mairiytt", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "jaati arrangement in change for Which of the following–saa cause uttrdaayii is?",
+    option: ["educationof prsaar", "dhrm of effect meNkmii", "pshcimiisbhytaa of effect", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "which smaajshaastrii ne ‘jaati’ of avdhaarnnaa use of ‘prjaati’ of sndrbh in done is?",
+    option: ["maiks vebr", "abbedduvoNys", "ketkr", "rijle"],
+    answer: "abbedduvoNys"
+},
+{
+    question: "this kthn whose is ki “when one class approximately full form from vNshaanukrmnn on aadhaarit is, then use hm jaati called are”?",
+    option: ["caarls kuule", "luii ddyuumaa", "em.en. shriinivaas", "aandrebetaaii"],
+    answer: "caarls kuule"
+},
+{
+    question: "‘dvidhr prtikuultaa of principle’ given is",
+    option: ["es.sii. dube", "em.en. shriinivaas", "aandre betaaii", "luii ddyuumaa"],
+    answer: "luii ddyuumaa"
+},
+{
+    question: "sr hrbrtt rijle of leadership in In which year jaati aadhaarit jngnnnaa aayojit of gyii?",
+    option: ["sn1971 in", "sn1981 in", "sn1901 in", "sn1921 in"],
+    answer: "sn1901 in"
+},
+{
+    question: "following in from jaati arrangement characteristic of is",
+    option: ["khaan–paan and social shvaas on prtibndh", "khuliivyvsthaa", "one antrvivaahii group", "inmeNse all"],
+    answer: "khaan–paan and social shvaas on prtibndh"
+},
+{
+    question: "naatedaarii of how many shrenniyaaN occursN?",
+    option: ["two", "three", "four", "five"],
+    answer: "three"
+},
+{
+    question: "dhrm of utptti of ‘aatmvaad’ of principle who given?",
+    option: ["ttaaylr", "durthiim", "maiks muulr", "phrejr"],
+    answer: "ttaaylr"
+},
+{
+    question: "Which of the following jaativaad of dussprinnaam is?",
+    option: ["audyaugik prtisprdhaa", "social smsyaaoN meNvRddhi", "jjmaaniivyvsthaa", "naariieducation"],
+    answer: "social smsyaaoN meNvRddhi"
+},
+{
+    question: "Which of the following bihaar in anusuucit jaati is not?",
+    option: ["paasvaan", "maaNjhii", "rvidaas", "kurmii"],
+    answer: "kurmii"
+},
+{
+    question: "Indian society how many aashrmoN in vibhaajit thaa?",
+    option: ["four", "five", "three", "seven"],
+    answer: "four"
+},
+{
+    question: "‘daadii’ naatedaarii of which shrennii of under aatii is?",
+    option: ["primary", "secondary", "tertiary", "inmeNse any not"],
+    answer: "secondary"
+},
+{
+    question: "Which of the following–saa one vrnn is?",
+    option: ["braahmnn", "yaadv", "tyaagii", "agrvaal"],
+    answer: "braahmnn"
+},
+{
+    question: "which society in ‘paishaac marriage’ of prcln thaa?",
+    option: ["hinduusmaaj in", "muslim society in", "sikh society in", "aadivaasii society in"],
+    answer: "hinduusmaaj in"
+},
+{
+    question: "mrddoNk according to marriage of what uddeshy is?",
+    option: ["yaun icchaa of puurti", "bccoNkaa paaln nutrition", "economic cooperation", "inmeNse all"],
+    answer: "yaun icchaa of puurti"
+},
+{
+    question: "‘ahiNsaa prmo dhrmH’ which dhrm of education is?",
+    option: ["hinduu", "bauddh", "sikh", "jain"],
+    answer: "hinduu"
+},
+{
+    question: "Which of the following jaati is not?",
+    option: ["braahmnn", "shuudr", "kushvaahaa", "rvidaas"],
+    answer: "shuudr"
+},
+{
+    question: "domestic hiNsaa of what taatpry is?",
+    option: ["rural hiNsaa", "saamudaayik hiNsaa", "dhaarmik hiNsaa", "family hiNsaa"],
+    answer: "family hiNsaa"
+},
+{
+    question: "Which of the following jnjaati is not?",
+    option: ["bhiil", "sNthaal", "khaasii", "caupaal"],
+    answer: "caupaal"
+},
+{
+    question: "jaati of prjaatiiy principle who prtipaadit done?",
+    option: ["nesphiildd", "es 0 sii 0 duube", "hokaartt", "hrbrtt rijle"],
+    answer: "nesphiildd"
+},
+{
+    question: "Which of the following one class is not?",
+    option: ["prdhaanaacaary", "cikitsk", "nyaayaadhiish", "raajpuut"],
+    answer: "raajpuut"
+},
+{
+    question: "hinduu marriage of which svruup in one jodd'e bail and gaay of demand is done?",
+    option: ["daiv marriage", "brhm marriage", "aarss marriage", "prjaapty marriage"],
+    answer: "aarss marriage"
+},
+{
+    question: "hinduu marriage of Which of the following–saa type amaany is?",
+    option: ["brhm marriage", "daiv marriage", "prjaapty marriage", "asur marriage"],
+    answer: "asur marriage"
+},
+{
+    question: "jnjaatiyoN in life saathii obtained doing of how many pddhtiyaaN are?",
+    option: ["eight", "seven", "five", "eleven"],
+    answer: "seven"
+},
+{
+    question: "society production of following in from from whom is?",
+    option: ["vyktiyoNse", "sNsthaaoNse", "social sNbNdhoN from", "inmeNse all"],
+    answer: "inmeNse all"
+},
+{
+    question: "praaciin Indian society how many years in vibhaajit thaa?",
+    option: ["three", "four", "five", "two"],
+    answer: "four"
+},
+{
+    question: "hinduu marriage of which–saa type prspr prem on aadhaarit is?",
+    option: ["gNdhrv", "prjaapty", "asur", "raaksss"],
+    answer: "gNdhrv"
+},
+{
+    question: "Which of the following naatedaarii of riitiyaaN is not?",
+    option: ["prihaar", "vrgiikRt sNjnyaaeN", "prihaas smbndh", "maadhymik sNbodhn"],
+    answer: "vrgiikRt sNjnyaaeN"
+},
+{
+    question: "following in from who jaati arrangement of utptti of dhaarmik principle of vkaalt of?",
+    option: ["hokaartt and senaartt", "hbrtt rijle", "mjuumdaar and mdaan", "jii0 es0 ghurye"],
+    answer: "hokaartt and senaartt"
+},
+{
+    question: "which society in sevaa marriage of prcln is?",
+    option: ["hinduusmaaj in", "muslim society in", "jnjaatiiy society in", "sikh society in"],
+    answer: "jnjaatiiy society in"
+},
+{
+    question: "baajaar what is ?",
+    option: ["one institution", "one social group", "one smudaay", "None of these"],
+    answer: "None of these"
+},
+{
+    question: "baajaar which ciij of center is ?",
+    option: ["vinimy", "khpt", "vitrnn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "two pkssoN of of mdhy being which aicchik, vaidhaanik and paarsprik money of hstaaNtrnn to vinimy called haiN /  this whose kthn is ?",
+    option: ["Marshall", "thoNms", "Smith", "ddoN. mjuumdaar"],
+    answer: "Marshall"
+},
+{
+    question: "one item from duusrii item of direct vinimy to only item vinimy are khte /  this kthn whose is ?",
+    option: ["Marshall", "thoNms", "Adam Smith", "bleyr"],
+    answer: "thoNms"
+},
+{
+    question: "ghoraaii which raajy in is ?",
+    option: ["bihaar", "jhaarkhNdd", "mdhy prdesh", "chttiisgddh'"],
+    answer: "chttiisgddh'"
+},
+{
+    question: "‘d velth of neshns’ of rcyitaa are",
+    option: ["maiks vebr", "Adam Smith", "kaarl maarks", "koNlins"],
+    answer: "Adam Smith"
+},
+{
+    question: "baajaar condition from meaning vinimy of any also vissy for use drv in bdlne of those tmaam avsroN from is, jinke baare in baajaar condition in shbhaagii to address is ki ve unheN obtained are and ve daamoN and prtisprddhaa of dRsstti from unkii mnovRttiyoN for sndrbhpuurnn haiN /  baajaar of said pribhaassaa dii is",
+    option: ["maiks vebr", "sijvik", "Adam Smith", "maikaaivr and pej"],
+    answer: "sijvik"
+},
+{
+    question: "‘adRsh hand’ of avdhaarnnaa of smbndh which society vaiknowledgeik from is ?",
+    option: ["aar. of. braaun", "Marshall", "spensr", "Smith"],
+    answer: "Smith"
+},
+{
+    question: "praaciin kaal in India in ‘vinimy bil’ or hunnddii of prcln what type of arrangement from smbndhit thaa ?",
+    option: ["baiNkiNg arrangement from", "jaati arrangement from", "class arrangement from", "among these from any from not"],
+    answer: "baiNkiNg arrangement from"
+},
+{
+    question: "rural India in ‘item vinimy’ which name from go goes is ? on aadhaarit economy to",
+    option: ["stii prthaa", "jjmaanii prthaa", "jauhr prthaa", "these all"],
+    answer: "jjmaanii prthaa"
+},
+{
+    question: "vh baajaar jo any also type of national athvaa other prevention from puurnntH mukt is, is called is",
+    option: ["mukt or khulaa baajaar", "bnd baajaar", "above-mentioned both", "None of these"],
+    answer: "mukt or khulaa baajaar"
+},
+{
+    question: "this whose kthn is ki all economic arrangements social arrangements also haiN /  each production method special production smbndhoN from made occurs, jo anttH one special class sNrgram production of does hai / ",
+    option: ["joNrj simail", "maiks vebr", "kaarl maarks", "luiis vrth"],
+    answer: "kaarl maarks"
+},
+{
+    question: "India in bhuumnnddliikrnn of aarmbh which dshk from maanaa goes is ?",
+    option: ["1960 ii. in", "1990 ii. in", "1980 ii. in", "None of these"],
+    answer: "1990 ii. in"
+},
+{
+    question: "vh prkriyaa jismeN any also item jo puurv in baajaar of hissaa not thii, vh ab baajaar in bikne which item bn gyii is arthaat vh ab baajaar of one hissaa bn gyii is, khlaatii is",
+    option: ["pnnyiikrnn", "puuNjiivaad", "upbhog", "udaarvaad"],
+    answer: "pnnyiikrnn"
+},
+{
+    question: "following in from baajaar of prmukh characteristic is",
+    option: ["baajaar in vstuoN of value uskii demand and puurti by determined is done / ", "baajaar in all sevaaeN also other vstuoN of bhaaNti khriidii v becii goes hai / ", "baajaar in shrm vibhaajn and vishissttiikrnn is foundN / ", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from baajaar of svruup is",
+    option: ["saaptaahik baajaar (haatt)", "industrial baajaar", "full and apuurnn baajaar", "these all"],
+    answer: "these all"
+},
+{
+    question: "In which year child shrm on one national niiti bnaaii was ?",
+    option: ["1986", "1991", "1948", "1952"],
+    answer: "1986"
+},
+{
+    question: "Which of the following vaishviikrnn of prmukh prerk are ?",
+    option: ["baajaar of khoj", "praudyogikii, ilekttroNnik and kmpyuuttr nettvrk", "bhuraassttriiy investment", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "India in In which year smekit child development sevaa kaarykrm praarNbh done was ?",
+    option: ["1975", "1974", "2011", "1985"],
+    answer: "1975"
+},
+{
+    question: "child right preservation for kinheN nobel peace purskaar from smmaanit done was ?",
+    option: ["mlaalaa yusuphjaaii", "kailaash styaarthii", "mdr tteresaa", "amrty sen"],
+    answer: "kailaash styaarthii"
+},
+{
+    question: "‘bcpn bcaao aandoln’ of sNsthaapk which are ?",
+    option: ["kailaash styaarthii", "medhaa paattekr", "niiraa desaaii", "mdr tteresaa"],
+    answer: "kailaash styaarthii"
+},
+{
+    question: "jnjaatiyoN of pichdd'epn of following in which one kaark is ?",
+    option: ["aeducation", "dhrm", "jNgl", "nshaakhorii"],
+    answer: "aeducation"
+},
+{
+    question: "muslim mhilaaoN to smptti of right of vivaad from whose name judd'aa was is ?",
+    option: ["shaahbaano", "nuur phaatimaa", "shaabaanaa aajmii", "caaNd biibii"],
+    answer: "shaahbaano"
+},
+{
+    question: "The Government of India srvprthm alpsNkhyk aayog establishment In which year of ?",
+    option: ["1978 ii. in", "1992 ii. in", "1999 ii. in", "1988 ii. in"],
+    answer: "1978 ii. in"
+},
+{
+    question: "chuaachuut to sNvidhaan of which anucched under prtibndhit done was is ?",
+    option: ["anucched -23", "anucched -14", "anucched -17", "anucched -25"],
+    answer: "anucched -17"
+},
+{
+    question: "India of which praaNt in hinduu alpsNkhyk are ?",
+    option: ["hriyaannaa", "pNjaab", "jmmuu – kshmiir", "kerl"],
+    answer: "jmmuu – kshmiir"
+},
+{
+    question: "following in from India of which raajy in iisaaiyoN of sNkhyaa srvaadhik is ?",
+    option: ["bihaar", "mdhy prdesh", "tmilnaaddu", "kerl"],
+    answer: "kerl"
+},
+{
+    question: "following smuuhoN in from from whom aap India of most chottii dhaarmik alpsNkhyk smprdaay maante are ?",
+    option: ["muslim", "iisaaii", "sikkh", "paarsii"],
+    answer: "paarsii"
+},
+{
+    question: "jaatiiy puurvaagrh of what meaning is ?",
+    option: ["jaati vrgiikrnn", "jaati sNghrss", "any jaati in prvesh obtaining for done was pryaas", "any jaati from smbndhit avaiknowledgeik and wrong avdhaarnnaa"],
+    answer: "any jaati from smbndhit avaiknowledgeik and wrong avdhaarnnaa"
+},
+{
+    question: "bihaar in jtiiy tnaav of main cause is",
+    option: ["jmiin", "phaishn", "education", "None of these"],
+    answer: "jmiin"
+},
+{
+    question: "hinduu marriage Act paarit was",
+    option: ["1950 ii. in", "1954 ii. in", "1955 ii. in", "1976 ii. in"],
+    answer: "1955 ii. in"
+},
+{
+    question: "Government of India by anusuucit jaatiyoN of adhikRt anusuucii when ghossit of was ?",
+    option: ["sn 1955", "sn 1950", "sn 1935", "sn 1952"],
+    answer: "sn 1950"
+},
+{
+    question: "other pichdd'aa class for government ne how much aarkssnn provide done is ?",
+    option: ["33 percent", "27 percent", "11 percent", "44 percent"],
+    answer: "27 percent"
+},
+{
+    question: "Which of the following one social problem is ?",
+    option: ["prem marriage", "ngriikrnn", "bhikssaavRti", "aadhunikiikrnn"],
+    answer: "bhikssaavRti"
+},
+{
+    question: "paarsns ne children of smaajiikrnn in",
+    option: ["three avsthaaoN of ullekh done is", "three avsthaaoN of ullekh done is", "five avsthaaoN of ullekh done is", "six avsthaaoN of ullekh done is"],
+    answer: "five avsthaaoN of ullekh done is"
+},
+{
+    question: "Indian society in social striikrnn of buniyaad what is ?",
+    option: ["money and smptti", "jaati", "family", "dhrm"],
+    answer: "jaati"
+},
+{
+    question: "Indian history of ks kaal to Indian woman jaati of ‘black yug’ said goes is ?",
+    option: ["Rgvaidik kaal", "uttr vaidik kaal", "brittish kaal", "mdhy kaal"],
+    answer: "mdhy kaal"
+},
+{
+    question: "when vRddhoN for national niiti of ghossnnaa of was ?",
+    option: ["1999 ii. in", "1998 ii. in", "1997 ii. in", "2000 ii. in"],
+    answer: "1999 ii. in"
+},
+{
+    question: "following in which Act of by vaivaahik sNbNdhoN establishment in dhrm and jaati of mddoN to vaidhaanik taur on smaapt done was is ?",
+    option: ["stii prthaa nissedh Act, 1829", "hinduu vidhvaa punrvivaah Act, 1856", "hinduu women of sNpti on right Act, 1937", "special marriage Act, 1954"],
+    answer: "special marriage Act, 1954"
+},
+{
+    question: "‘mehr’ shbd which dhrm related to is ?",
+    option: ["hinduu", "muslim", "sikkh", "None of these"],
+    answer: "muslim"
+},
+{
+    question: "‘punrjnm’ of avdhaarnnaa which dhrm related to is ?",
+    option: ["hinduu", "islaam", "iisaaii", "All of these"],
+    answer: "hinduu"
+},
+{
+    question: "pichdd'aa class finance v development Corporation when was established of was ?",
+    option: ["1992 ii. in", "2004 ii. in", "1995 ii. in", "2007 ii. in"],
+    answer: "1992 ii. in"
+},
+{
+    question: "national level on India in kul how many smudaayoN to alpsNkhykoN as maanytaa dii was is ?",
+    option: ["ten", "eight", "five", "four"],
+    answer: "five"
+},
+{
+    question: "India of kul population of what percentage hinduu are ?",
+    option: ["82.42 %", "88.42 %", "77.92 %", "66.42 %"],
+    answer: "82.42 %"
+},
+{
+    question: "sNvidhaan of which anucched in jnjaatiyoN for naukriyoN in aarkssnn of praavdhaan is ?",
+    option: ["335", "244", "341", "15"],
+    answer: "335"
+},
+{
+    question: "Indian society in social striikrnn of buniyaadii adhaar what is ?",
+    option: ["money and smptti", "jaati", "vNsh", "dhrm"],
+    answer: "jaati"
+},
+{
+    question: "India in which praaNt in muslmaanoN of sNkhyaa srvaadhik is ?",
+    option: ["aaNdhr prdesh", "kerl", "asm", "kshmiir"],
+    answer: "kshmiir"
+},
+{
+    question: "following in from kisko any one jaati to anusuucit jaati ghossit doing of right is ?",
+    option: ["India of raassttrpti", "raajy of raajypaal", "anusuucit jaati aayukt", "kendriiy mNtriimNddl"],
+    answer: "India of raassttrpti"
+},
+{
+    question: "sNvidhaan of which anucched by loksbhaa in anusuucit jaati and anusuucit jnjaati of members for siitt of aarkssnn done was is ?",
+    option: ["anucched -330", "anucched -332", "anucched -320", "anucched -338"],
+    answer: "anucched -330"
+},
+{
+    question: "sNvidhaan of which anucched in aspRshytaa nivaarnn of praavdhaan done was is ?",
+    option: ["anucched -23", "anucched -17", "anucched–29", "anucched–25"],
+    answer: "anucched -17"
+},
+{
+    question: "anusuucit jnjaati to before following in which name from pukaaraa goes thaa ?",
+    option: ["aadivaasii", "jNglii jaati", "vnjaati", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "India in anusuucit jaatiyoN jnjaatiyoN for aarkssnn of praavdhaan sNvidhaan of which dhaaraa in done was is ?",
+    option: ["dhaaraa 335", "dhaaraa 379", "dhaaraa 369", "dhaaraa 330"],
+    answer: "dhaaraa 335"
+},
+{
+    question: "2001 of jngnnnaa according to India in anusuucit jaati of sNkhyaa what percentage is ?",
+    option: ["10 percent", "13 percent", "15 percent", "18 percent"],
+    answer: "15 percent"
+},
+{
+    question: "hinduu marriage of uddeshy dhrm, reproduction, riiti and kuch other daayitvoN of nirvhn is",
+    option: ["puurnnt: correct is", "aaNshik form from correct is", "wrong is", "not kh can"],
+    answer: "aaNshik form from correct is"
+},
+{
+    question: "anusuucit jaatiyoN to aarkssnn is given, unkii",
+    option: ["griibii of sNdrbh in", "economic aavshyktaaoN of sNdrbh in", "sNkhyaa of sNdrbh in", "following anusstthaanik condition of sNdrbh in"],
+    answer: "following anusstthaanik condition of sNdrbh in"
+},
+{
+    question: "which dhrm in marriage to one sNvidaa maanaa goes is ?",
+    option: ["hinduu", "islaam", "sikh", "paarsii"],
+    answer: "islaam"
+},
+{
+    question: "Which of the following maadk agent vysn and mdypaan of cause is ?",
+    option: ["sukh of icchaa", "niraashaa", "bad sNgt", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "Which of the following pichdd'aa class aayog of adhykss the ?",
+    option: ["kaakaa klelkr", "krpuurii tthaakur", "dhniklaal mNddl", "raam mnohr lohiyaa"],
+    answer: "kaakaa klelkr"
+},
+{
+    question: "public life in bhrssttaacaar following in from which dshaa related to is ?",
+    option: ["naitik ptn from", "griibii from", "mdypaan from", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "Which of the followingmaajik problem is not ?",
+    option: ["child shrm", "bhrssttaacaar", "tskrii", "aadhunikiikrnn"],
+    answer: "aadhunikiikrnn"
+},
+{
+    question: "following in from In which year work of bdle cereals scheme start of was?",
+    option: ["1975", "1976", "1977", "1948"],
+    answer: "1977"
+},
+{
+    question: "Which of the following one anusuucit jaati is not ?",
+    option: ["mushr", "dusaadh", "rjk", "dhnuk"],
+    answer: "rjk"
+},
+{
+    question: "In which year sNsd in ”three tlaak” near was ?",
+    option: ["2016", "2017", "2018", "2019"],
+    answer: "2019"
+},
+{
+    question: "In which year domestic hiNsaa law near was ?",
+    option: ["2005", "2007", "1998", "2009"],
+    answer: "2005"
+},
+{
+    question: "combined raassttr sNgh by antrraassttriiy woman dshk when was ?",
+    option: ["1975-85", "1980-90", "1985-95", "1990-2000"],
+    answer: "1975-85"
+},
+{
+    question: "who yaaNtrik ektaa and saavyvii ektaa of avdhaarnnaaoN of niruupnn done is ?",
+    option: ["maiks vebr", "pairetto", "mrttn", "durkhiim"],
+    answer: "durkhiim"
+},
+{
+    question: "kssetrvaad of problem of muul cause is",
+    option: ["economic bhinntaa", "saaNskRtik bhinntaa", "jaivikiiy bhinntaa", "naitik bhinntaa"],
+    answer: "economic bhinntaa"
+},
+{
+    question: "India in how many bhaassaaeN are  / ",
+    option: ["179", "185", "220", "100"],
+    answer: "179"
+},
+{
+    question: "India in how many boliyaaN are ?",
+    option: ["200", "444", "344", "544"],
+    answer: "200"
+},
+{
+    question: "hindii to raajbhaassaa of drjaa obtained was",
+    option: ["14 September, 1950", "14 September 1949", "14 September, 1951", "14 September 1947"],
+    answer: "14 September 1949"
+},
+{
+    question: "pNjaab and hriyaannaa different – different raajy bnaa",
+    option: ["1966 ii. in", "1953 ii. in", "1965 ii. in", "1980 ii. in"],
+    answer: "1966 ii. in"
+},
+{
+    question: "language of basis on aaNdhr prdesh when was established was ?",
+    option: ["1955 ii. in", "1953 ii. in", "1952 ii. in", "195 ii. in"],
+    answer: "1953 ii. in"
+},
+{
+    question: "Indian society in ‘anektaa in ektaa’ of srvaadhik important basis is",
+    option: ["praaciintaa", "dhaarmik shissnnutaa", "mauliktaa", "above-mentioned any not"],
+    answer: "mauliktaa"
+},
+{
+    question: "dillii in sikhoN of viruddh dNgaa In which year was thaa ?",
+    option: ["1990", "1992", "1994", "1984"],
+    answer: "1984"
+},
+{
+    question: "kssetrvaad, jaativaad and sNprdaayvaad national ekiikrnn of maarg in baadhk is  / ",
+    option: ["haaN", "not", "kh not can", "None of these"],
+    answer: "haaN"
+},
+{
+    question: "sNskRtikrnn by what type of change of vyaakhyaa is done ?",
+    option: ["jaatiiy change", "raajniitik change", "dhaarmik change", "vyaafatyik change"],
+    answer: "jaatiiy change"
+},
+{
+    question: "India in raajniitik dloN to which maanytaa gives is ?",
+    option: ["raassttrpti", "ucctm nyaayaaly", "sNsd", "cunaav aayog"],
+    answer: "cunaav aayog"
+},
+{
+    question: "dhrm nirpeksstaa of meaning what is ?",
+    option: ["vibhinn dhrmoN of sh astitv", "other dhrmoN towards shrddhaa", "raajy of apnaa any dhrm n honaa is", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "sNskRtikrnn of avdhaarnnaa who viksit of ?",
+    option: ["es.sii. dube", "em.en. shriinivaas", "sccidaanNd", "yogendr siNh"],
+    answer: "em.en. shriinivaas"
+},
+{
+    question: "saaNprdaayiktaa of dussprinnaam India – paak vibhaajn as In which year dekhaa was ?",
+    option: ["sn 1945 in", "sn 1947 in", "sn 1950 in", "sn 1952 in"],
+    answer: "sn 1947 in"
+},
+{
+    question: "2006 of maalegaaNv bm visphott kaanndd udaahrnn",
+    option: ["kssetriiytaa of", "jaativaad of", "saamprdaayiktaa of", "None of these"],
+    answer: "saamprdaayiktaa of"
+},
+{
+    question: "India in saamprdaayiktaavaad of main cause which is ?",
+    option: ["apraadhii mnovRttiyaaN", "poverty and berojgaarii", "raajniitik svaarth", "Any of these"],
+    answer: "raajniitik svaarth"
+},
+{
+    question: "saamprdaayiktaa human for khtraa is not",
+    option: ["shmt", "ashmt", "vivaadaaspd", "None of these"],
+    answer: "vivaadaaspd"
+},
+{
+    question: "‘kriyeshn of paittriyaarkii’ naamk book who likhii is ?",
+    option: ["em.en. shriinivaas", "vaaii. siNh", "bogaardds", "jii. lrnr"],
+    answer: "jii. lrnr"
+},
+{
+    question: "kssetrvaad of problem of main cause which is ?",
+    option: ["bhaassaayii bhinntaaeN", "saaNskRtik bhinntaaeN", "jaivik bhinntaaeN", "economic bhinntaaeN"],
+    answer: "saaNskRtik bhinntaaeN"
+},
+{
+    question: "who said is ki kssetriiytaa, raassttriiytaa of adhiin is ?",
+    option: ["ddoN. ghuriye", "ddoN. raadhaakml mukhrjii", "pro. baagaardds", "pro. jiittrvrg"],
+    answer: "ddoN. raadhaakml mukhrjii"
+},
+{
+    question: "”jaativaad one jaati of vyktiyoN of vh bhaavnaa is jo desh or society of normal hitoN of khyaal n keep were only apnii jaati of members of utthaan, jaatiiy ektaa and jaati of social prsthiti to sudRddh' doing for prerit does be  / ” this kthn is",
+    option: ["ddoN. kailaashnaath shrmaa", "of.em. pnnikr", "em.es. svaamiinaathn", "blvnt raay Mehta"],
+    answer: "ddoN. kailaashnaath shrmaa"
+},
+{
+    question: "jaativaad of development of prmukh kaark is",
+    option: ["ngriikrnn", "audyogiikrnn", "raajniiti", "these all"],
+    answer: "these all"
+},
+{
+    question: "pitRsttaatmk family in sttaa or right whose hand in remain are ?",
+    option: ["man", "woman", "above-mentioned both", "None of these"],
+    answer: "man"
+},
+{
+    question: "udd'iisaa of phaadd'ii prdesh in rhne which jnjaati in pitRsttaatmk combined privaaroN of special vistaar is  / ",
+    option: ["bhiil", "gaaro", "khsiyaa", "sNthaal"],
+    answer: "khsiyaa"
+},
+{
+    question: "Which of the followingmprdaayiktaa of prinnaam is not ?",
+    option: ["prspr vishvaas", "national ektaa in baadhk", "national security in baadhk", "paarsprik tnaav"],
+    answer: "prspr vishvaas"
+},
+{
+    question: "India of national language which is ?",
+    option: ["telguu", "aNgrejii", "mraatthii", "hindii"],
+    answer: "hindii"
+},
+{
+    question: "Which of the following human tskrii of cause is ?",
+    option: ["organs of nisskrssnn", "veshyaavRtti", "blaat marriage", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "Which of the following Indian society characteristic of is ?",
+    option: ["dhaarmik kttttrtaa", "social gtishiiltaa", "personal smptti", "anektaa in ektaa"],
+    answer: "anektaa in ektaa"
+},
+{
+    question: "India in Which of the following kaark national ektaa in baadhk is ?",
+    option: ["jaativaad", "kssetrvaad", "dhrmaandhtaa", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from kise secondary field in rkhaa goes is ?",
+    option: ["agricultural", "vyaapaar", "sevaa", "industry"],
+    answer: "industry"
+},
+{
+    question: "rel yaataayaaNt which shrennii of under rkhaa was is ?",
+    option: ["dvitiiy", "tRtiiy", "cturth", "prthm"],
+    answer: "prthm"
+},
+{
+    question: "chemical khaad which shrennii in rkhaa was is ?",
+    option: ["prthm", "dvitiiy", "tRtiiy", "cturth"],
+    answer: "dvitiiy"
+},
+{
+    question: "small industry in maximum investment how much crore is  / ",
+    option: ["two", "four", "five", "one"],
+    answer: "one"
+},
+{
+    question: "industrial niiti according to Indian udyogoN to how many shrennii in baaNttaa was is ?",
+    option: ["four", "five", "three", "seven"],
+    answer: "three"
+},
+{
+    question: "jiske svaamitv and management and establishment and development of daayitv puurnnruup from kendriiy government to sauNpaa was is, use which shrennii in rkhaa was is ?",
+    option: ["prthm", "dvitiiy", "tRtiiy", "cturth"],
+    answer: "prthm"
+},
+{
+    question: "which dshk in national and antrraassttriiy level on udyogoN of development on force given was ?",
+    option: ["1950 of dshk in", "1960 of dshk in", "1970 of dshk in", "None of these"],
+    answer: "1960 of dshk in"
+},
+{
+    question: "India of audyogiikrnn of development for function – scheme in which baat on force given was ?",
+    option: ["mhaangroN in aabaadii from httkr industrial ikaaiyoN production of", "industrial waste nistaarnn for sNyNtroN to applying of anivaarytaa", "pollution control for proper praavdhaan", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "India in spsstt form from udaariikrnn of prkriyaa of aarmbh whose shaasnkaal in was ?",
+    option: ["cndrshekhr", "vii.pii. siNh", "nrsimhaa raav", "attl bihaarii vaajpeyii"],
+    answer: "nrsimhaa raav"
+},
+{
+    question: "udaariikrnn of prkriyaa of prbhaavsvruup economic field in which – saa sudhaar was ?",
+    option: ["industrial production in tiivr growth", "utpaadoN of quality in sudhaar", "direct videshii investment to promotion", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "India in udaariikrnn of prkriyaa apnaaye going on which – sii cunautii saamne aayii ?",
+    option: ["prmpraagt small udyogoN of hraas", "bekaarii ( bejojgaarii ) in growth", "Rnngsttaa in growth", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "Indian economy of moNddl what type of is ?",
+    option: ["puuNjiivaadii", "mishrit", "smaajvaadii", "saamyvaadii"],
+    answer: "mishrit"
+},
+{
+    question: "India in udaariikrnn of prkriyaa of praarmbh when from maanaa goes is ?",
+    option: ["1961", "1971", "1981", "1991"],
+    answer: "1991"
+},
+{
+    question: "Which of these udaariikrnn of den is ?",
+    option: ["baajaarvaad", "vaishviikrnn", "nijiikrnn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "Which of the following audyogiikrnn of social prinnaam is ?",
+    option: ["combined family of vighttn", "mhilaaoN to employment", "jaati prthaa of nirbl honaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "On which day aNtrraassttriiy aussdhi durupyog and anaitik vyaapaar nirodhk day mnaayaa goes is ?",
+    option: ["26 June", "27 June", "05 June", "11 June"],
+    answer: "26 June"
+},
+{
+    question: "In which year bihaar in full nshaabNdii law implemented was ?",
+    option: ["2015", "2016", "2017", "2018"],
+    answer: "2016"
+},
+{
+    question: "which prdhaanmNtrii functions ofkaal in “ennttii naarkottik ektt” near was ?",
+    option: ["raajiiv gaaNdhii", "vii0pii0 siNh", "indiraa gaaNdhii", "attl bihaarii vaajpeii"],
+    answer: "raajiiv gaaNdhii"
+},
+{
+    question: "following in from kisko ngriikrnn promotion detii is ?",
+    option: ["gumnaamtaa", "pollution", "‘maiN’ of bhaavnaa", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "sNskRtikrnn of avdhaarnnaa who viksit of ?",
+    option: ["es0 sii0 duube", "em0 en0 shriinivaas", "sccidaanNd sinhaa", "yogendr siNh"],
+    answer: "em0 en0 shriinivaas"
+},
+{
+    question: "dhrm nirpeksstaa of what meaning is ?",
+    option: ["vibhinn dhrmoN of sh-astitv", "other dhrmoN towards shrddhaa", "raajy of apnaa any dhrm n honaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "following in from kise secondary field in rkhaa goes is ?",
+    option: ["agricultural", "vyaapaar", "sevaa", "industry"],
+    answer: "industry"
+},
+{
+    question: "smekit rural development kaarykrm when praarNbh was ?",
+    option: ["1960-61", "1965-66", "1977-78", "1991-92"],
+    answer: "1960-61"
+},
+{
+    question: "who said “ngriiytaa one life pddhti",
+    option: ["raus", "brgl", "virth", "kaarpenttr"],
+    answer: "virth"
+},
+{
+    question: "when stii prthaa nissedh Act paarit was ?",
+    option: ["sn 1825 AD", "sn 1859 AD", "sn 1832 AD", "sn 1835 AD"],
+    answer: "sn 1832 AD"
+},
+{
+    question: "aary society when was established was ?",
+    option: ["1875", "1879", "1882", "1884"],
+    answer: "1875"
+},
+{
+    question: "women v knyaaoN of anaitik vyaapaar Act when paarit was ?",
+    option: ["sn 1952", "sn 1954", "sn 1956", "sn 1960"],
+    answer: "sn 1956"
+},
+{
+    question: "village from people of shhr of or aanaa and urban values to apnaane to what called are ?",
+    option: ["audyogikiikrnn", "ngriikrnn", "sNskRtiikrnn", "pshcimiikrnn"],
+    answer: "ngriikrnn"
+},
+{
+    question: "who said ki, “only production in being which growth and prti person income in growth honaa aadhunikiikrnn is not ?",
+    option: ["em0 en0 shriinivaas", "es0 sii0 dube", "ddoN0 yogendr siNh", "ddoN0 pii0 siNhaa"],
+    answer: "es0 sii0 dube"
+},
+{
+    question: "‘soshl ceNj these moNddrn India’ naamk of lekhk which are ?",
+    option: ["shriinivaas", "ghuriye", "koNmtt", "yogendr siNh"],
+    answer: "shriinivaas"
+},
+{
+    question: "braahmnniikrnn of avdhaarnnaa kinke by dii was is ?",
+    option: ["shriinivaas", "hetukr jhaa", "sccidaanNd", "None of these"],
+    answer: "shriinivaas"
+},
+{
+    question: "dhrm-nirpekssiikrnn of prkriyaa which vicaar to more prbhaavit does is ?",
+    option: ["purity", "apvitrtaa", "purity v apvitrtaa", "None of these"],
+    answer: "None of these"
+},
+{
+    question: "suugram of right Act when from implemented was ?",
+    option: ["15 June, 2005 AD from", "15 June, 2006 AD from", "15 October, 2005 AD from", "15 October, 2006 AD from"],
+    answer: "15 October, 2006 AD from"
+},
+{
+    question: "rural from ngriiy field in ruupaaNtrit being which first desh which is ?",
+    option: ["britten", "amerikaa", "phraaNs", "knaaddaa"],
+    answer: "britten"
+},
+{
+    question: "“moNddnaaijeshn of iNddiyn ttreddishn” naamk book who likhii is ?",
+    option: ["em0 es0 raav", "rviindrnaath mukhrjii", "yogendr siNh", "em0 en0 shriinivaas"],
+    answer: "yogendr siNh"
+},
+{
+    question: "“arbnaaijeshn aindd soshl cenj” naamk book who likhii is ?",
+    option: ["brgel", "em0 es0 raav", "enddsn", "sorokn"],
+    answer: "em0 es0 raav"
+},
+{
+    question: "audyogikiikrnn of phlsvruup ngroN in which trh of pollution produced was is ?",
+    option: ["Water pollution", "Air pollution", "Noise pollution", "these all"],
+    answer: "these all"
+},
+{
+    question: "dhej nirodhk Act when paarit done was ?",
+    option: ["1960", "1961", "1970", "1962"],
+    answer: "1961"
+},
+{
+    question: "aary society of sNsthaapk which the ?",
+    option: ["raajaaraam mohn raay", "govind raannaadde", "dyaannd srsvtii", "naaraaynn joshii"],
+    answer: "dyaannd srsvtii"
+},
+{
+    question: "India in who srvprthm stiiprthaa of viruddh aavaaj utthaaii thii ?",
+    option: ["iishvrcndr vidyaasaagr", "mhaatmaa gaaNdhii", "raajaaraam mohn raay", "ainii besentt"],
+    answer: "raajaaraam mohn raay"
+},
+{
+    question: "child marriage nirodhk Act which year implemented was ?",
+    option: ["1929", "1939", "1910", "1925"],
+    answer: "1929"
+},
+{
+    question: "who said “rural areas of ngriiy kssetroN in bdlne of prkriyaa to hm ngriikrnn kheNge” ?",
+    option: ["shriinivaas", "brgl", "pheyrcaaildd", "thoNmsn"],
+    answer: "brgl"
+},
+{
+    question: "sNskRtikrnn of prkriyaa according tofollowing jaatiyaaN which jaati of vyvhaaroN of anusrnn does are?",
+    option: ["braahmnn jaati", "dvij jaati", "prbhu jaati", "high jaati"],
+    answer: "dvij jaati"
+},
+{
+    question: "“ngriiytaa life of one triikaa is jbki ngriikrnn one prkriyaa hai / ” who said is ?",
+    option: ["gaalpin", "vrth", "vrges", "homr hiyott"],
+    answer: "vrth"
+},
+{
+    question: "India in laukikiikrnn whose den is ?",
+    option: ["amerikii", "phraaNsiisii", "aNgrej", "purtgaalii"],
+    answer: "amerikii"
+},
+{
+    question: "aadhunikiikrnn to society of sNrgram in change laane which one mhttvpuurnn prkriyaa as who spsstt done is ?",
+    option: ["jaarj saaimn", "em0 en0 shriinivaas", "ddeniyl lrnr", "ddaa0 yogendr siNh"],
+    answer: "ddeniyl lrnr"
+},
+{
+    question: "industrial society in family what type of unit is?",
+    option: ["economic", "use", "production", "profit"],
+    answer: "use"
+},
+{
+    question: "vaastv in sNskRtiikrnn which avdhaarnnaaoN to spsstt does is ?",
+    option: ["braahmnniikrnn", "on sNskRtiikrnn", "agrim smaajiikrnn and anukrnn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "pshcimiikrnn because of society in which class of udy was ?",
+    option: ["high class", "following class", "mdhy and vyaapaarii class", "None of these"],
+    answer: "high class"
+},
+{
+    question: "grikiikrnn most more where was ?",
+    option: ["jhaarkhNdd", "chttiisgddh'", "uttraakhNdd", "mhaaraassttr"],
+    answer: "mhaaraassttr"
+},
+{
+    question: "which industry of aarNbh being to industrial kraaNti of utptti maanii goes is ?",
+    option: ["sttiil industry", "bunaaii industry", "cmdd'aa industry", "oil industry"],
+    answer: "cmdd'aa industry"
+},
+{
+    question: "when industrial kraanti of suutrpaat was ?",
+    option: ["1765", "1766", "1767", "1769"],
+    answer: "1767"
+},
+{
+    question: "India in audyogikiikrnn of history which shtaabdii from aarNbh is ?",
+    option: ["atthaarhviiN shtaabdii", "unniisviiN shtaabdii", "biisviiN shtaabdii", "ikkiisviiN shtaabdii"],
+    answer: "biisviiN shtaabdii"
+},
+{
+    question: "which sNpdaa of basis on India bdd'aa industrial desh bn can is ?",
+    option: ["jn sNpdaa", "natural sNpdaa", "jn v natural sNpdaa", "among these any not"],
+    answer: "jn sNpdaa"
+},
+{
+    question: "vidvaanoN ne aadhunikiikrnn to which shbd of pryaayvaacii maanaa is ?",
+    option: ["audyogikiikrnn", "ngriikrnn", "pshcimiikrnn", "Any of these nhii"],
+    answer: "Any of these nhii"
+},
+{
+    question: "among these from aadhunikiikrnn characteristic of is",
+    option: ["gtishiiltaa", "hitoN of ektriikrnn", "more shbhaagitaa", "among these any not"],
+    answer: "more shbhaagitaa"
+},
+{
+    question: "aadhunikiikrnn of prernnaa from prerit being on society in how many types of avsthaaeN produced occurs ?",
+    option: ["three", "two", "four", "one"],
+    answer: "one"
+},
+{
+    question: "ngriikrnn of kaark are",
+    option: ["industrial development", "vyaafatyik gtishiiltaa", "physicalvaadii sNskRti", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "elder ngriiy field of nikaay to said goes",
+    option: ["ngr pNcaayt", "ngr prissd", "ngr Corporation", "None of these"],
+    answer: "ngr Corporation"
+},
+{
+    question: "vidvaan ne whose gtishiiltaa vykt doing for sNskRtikrnn use of done ?",
+    option: ["class of gtishiiltaa", "jaati of gtishiiltaa", "jaati v class both of gtishiiltaa", "None of these"],
+    answer: "jaati v class both of gtishiiltaa"
+},
+{
+    question: "Which of the following-sii- one dshaa industrial society characteristic of is not ?",
+    option: ["hstshilp of development", "bdd'ii quantity in production", "personal profit of prvRtti", "nyii praudyogikii use of"],
+    answer: "hstshilp of development"
+},
+{
+    question: "following in from which one lekhk ne India in social change of prkriyaaoN of vistRt vrnnn prstut done ?",
+    option: ["pii0 ec0 prbhu", "ke0 em0 kaapdd'iyaa", "iraavtii krve", "em0 en0 shriinivaas"],
+    answer: "em0 en0 shriinivaas"
+},
+{
+    question: "India in which-sii one dshaa upniveshvaad of prinnaam is ?",
+    option: ["society sudhaar aaNdoln of praarNbh", "transport of saadhnoN of aarNbh", "vaiknowledgeik education of aarNbh", "dhrmaaNtrnn of aarNbh"],
+    answer: "vaiknowledgeik education of aarNbh"
+},
+{
+    question: "Which of the following-sii one dshaa India in ngriikrnn of prinnaam is not ?",
+    option: ["ekaaNkii privaaroN in growth", "anaupcaarik sNbNdhoN in growth", "women of dshaa in sudhaar", "jaatigt vibhedoN in lack"],
+    answer: "anaupcaarik sNbNdhoN in growth"
+},
+{
+    question: "upniveshvaad which dshaa of prinnaam is ?",
+    option: ["saamyvaad", "smaajvaad", "saamraajyvaad", "prjaativaad"],
+    answer: "saamraajyvaad"
+},
+{
+    question: "audyogiikrnn of phlsvruup ngroN in which trh of pollution produced was ?",
+    option: ["Water pollution", "Air pollution", "Noise pollution", "these all"],
+    answer: "these all"
+},
+{
+    question: "India of following in from which raajy in ngriikrnn of quantity srvaadhik is ?",
+    option: ["bihaar", "pshcim bNgaal", "jhaarkhNdd", "mdhyprdesh –"],
+    answer: "pshcim bNgaal"
+},
+{
+    question: "class arrangement prinnaam is",
+    option: ["social sNghrss of", "berojgaarii of", "vrnn-arrangement of", "audyogiikrnn of"],
+    answer: "audyogiikrnn of"
+},
+{
+    question: "dhrm nirpeksstaa of meaning what is ?",
+    option: ["vibhinn dhrmoN of sh-astitv", "other dhrmoN towards shrddhaa", "raajy of apnaa any dhrm n honaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "India in pNcvrssiiy scheme when aarNbh of was ?",
+    option: ["1950", "1951", "1952", "1954"],
+    answer: "1952"
+},
+{
+    question: "em0 en0 shriinivaas ne apnii book ‘Social change in Modern India’ in Which of the following mt prstut done is ?",
+    option: ["jaati puurnntH closed arrangement is", "jaati puurnntH khulii arrangement is", "jaati arrangement in gtishiiltaa of opportunity nihit is", "jaati veg of trh occurs"],
+    answer: "jaati arrangement in gtishiiltaa of opportunity nihit is"
+},
+{
+    question: "dhrm nirpekssiikrnn India in kise prbhaavit does is ?",
+    option: ["hinduu to", "muslim to", "aadivaasii to", "all naagrikoN to"],
+    answer: "aadivaasii to"
+},
+{
+    question: "dhej unmuuln sNshodhn Act when paarit was ?",
+    option: ["1975", "1984", "1990", "1961"],
+    answer: "1961"
+},
+{
+    question: "shaardaa ektt In which year paarit done was ?",
+    option: ["1928", "1929", "1930", "1931"],
+    answer: "1929"
+},
+{
+    question: "following in which-saa cause Indian naariyoN of condition in sudhaar for uttrdaayii is ?",
+    option: ["sNvaidhaanik suvidhaaeN", "education of prsaar", "antrjaatiiy marriage", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "aspRshytaa (apraadh) Act when paarit was ?",
+    option: ["1953", "1954", "1955", "1956"],
+    answer: "1955"
+},
+{
+    question: "Indian society in women of dyniiy condition on who srvprmukh function done are ?",
+    option: ["raajaa raammohn raay", "svaamii dyaannd srsvtii", "iishvrcndr vidyaasaagr", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "In which year women to apne husband from bhrnn-nutrition of amount obtained doing of right given was ?",
+    option: ["1936 AD", "1946 AD", "1856 AD", "1966 AD"],
+    answer: "1946 AD"
+},
+{
+    question: "economic shossnn of viruddh women of dshaa sudhaarne for smaan salary Act’ when paarit was ?",
+    option: ["sn 1974", "sn 1976", "sn 1978", "sn 1980"],
+    answer: "sn 1976"
+},
+{
+    question: "brhm society establishment who of ?",
+    option: ["child gNgaadhr tilk", "raajaa raammohn raay", "mhaatmaa gaaNdhii", "iishvrcNdr vidyaasaagr"],
+    answer: "raajaa raammohn raay"
+},
+{
+    question: "India for khtrnaak is-",
+    option: ["saaNprdaayiktaa", "kssetriiytaa", "jaatiiytaa", "all"],
+    answer: "all"
+},
+{
+    question: "social change of taatpry is –",
+    option: ["social sNbNdhoN in change", "social smuuhoN in change", "social antH kriyaaoN in change", "uprokt all"],
+    answer: "social sNbNdhoN in change"
+},
+{
+    question: "ddenjrs ddrgs ektt In which year in paarit done was ?",
+    option: ["1930", "1931", "1938", "1933"],
+    answer: "1930"
+},
+{
+    question: "mdhyaahn dining where implemented was ?",
+    option: ["school", "college", "oNphis", "All of the above"],
+    answer: "school"
+},
+{
+    question: "India in In which year prdhaanmNtrii employment scheme start of gyii ?",
+    option: ["1993", "1994", "2011", "2009"],
+    answer: "1993"
+},
+{
+    question: "In which year baalikaa smRddhi scheme of shuruuaat of was ?",
+    option: ["1997", "1998", "1999", "1986"],
+    answer: "1997"
+},
+{
+    question: "In which year child shrm on one national niiti bnaaii was  / ",
+    option: ["1987", "1991", "1948", "1952"],
+    answer: "1987"
+},
+{
+    question: "India in In which year smekit child development sevaa kaarykrm praarNbh done was ?",
+    option: ["1975", "1974", "2011", "1985"],
+    answer: "1975"
+},
+{
+    question: "“aadhunik India in social change’ naamk book of lekhk which are ?",
+    option: ["em0 en0 shriinivaas", "aar0 ke0 mukhrjii", "ddii0 pii0 mukhrjii", "es0 sii0 duube nr"],
+    answer: "em0 en0 shriinivaas"
+},
+{
+    question: "’ddii0e0 kes’ which apraadh related to is ?",
+    option: ["htyaa", "blaatkaar", "aap from more smptti", "corii"],
+    answer: "aap from more smptti"
+},
+{
+    question: "‘special marriage Act’ which year paarit was ?",
+    option: ["1954", "1956", "1961", "1972"],
+    answer: "1954"
+},
+{
+    question: "ngriiy environment of social life on Which of the following effect is not ?",
+    option: ["apraadh", "vyktivaaditaa in growth", "pollution in lack", "aavaas of problem in growth"],
+    answer: "pollution in lack"
+},
+{
+    question: "shriinivaas ne pshcimiikrnn of prkriyaa of moNddl as from following in from kise basis maanaa ?",
+    option: ["nyii praudyogikii", "aadhunikiikrnn", "shikssnn sNsthaayeN", "150 year of brittish shaasn"],
+    answer: "150 year of brittish shaasn"
+},
+{
+    question: "India in sNskRttikrnn to protsaahit doing which dshaayeN which sii is ?",
+    option: ["sNskRti of education", "woman aandoln", "audyogiikrnn v ngriikrnn", "jnjaatiiy aandoln"],
+    answer: "audyogiikrnn v ngriikrnn"
+},
+{
+    question: "Which of the following India in aupniveshik shaasn for uttrdaayii is ?",
+    option: ["iistt India kmpnii", "vaaren hsttiNgs", "laardd klaaiv", "All of these"],
+    answer: "iistt India kmpnii"
+},
+{
+    question: "hinduu uttraadhikaar Act to In which year sNshodhit by putriyoN to putr of smaan paitRk smptti in smaan right given was ?",
+    option: ["1956", "2005", "1985", "2010"],
+    answer: "2005"
+},
+{
+    question: "pshcimiikrnn to which trh of avdhaarnnaa maanaa goes is ?",
+    option: ["tttsth avdhaarnnaa", "yuuropiiy avdhaarnnaa", "physical avdhaarnnaa", "kssetriiy avdhaarnnaa"],
+    answer: "tttsth avdhaarnnaa"
+},
+{
+    question: "who said ki ngriikrnn only aadhunikiikrnn of prthm crnn is ?",
+    option: ["maikaaiivr", "lrnr", "shriinivaas", "brgl"],
+    answer: "shriinivaas"
+},
+{
+    question: "Which of the following dhrm of prkaary is not ?",
+    option: ["social sNgtthn in baadhk", "social control of means", "social sNgtthn in shaayk", "srv klyaann in shaayk"],
+    answer: "social sNgtthn in baadhk"
+},
+{
+    question: "when any following jaati or jnjaati any high jaati of dishaa in apnii life pddhti to bdltii is, then use what called",
+    option: ["sNskRtikrnn", "aadhunikiikrnn", "pshcimiikrnn", "dhrm nirpekssiikrnn"],
+    answer: "sNskRtikrnn"
+},
+{
+    question: "India in following in from which raajy in ngriikrnn of quantity srvaadhik",
+    option: ["bihaar", "pshcim bNgaal", "jhaarkhNdd", "mdhy prdesh"],
+    answer: "mdhy prdesh"
+},
+{
+    question: "who said– “ngriiytaa one life pddhti is” ?",
+    option: ["roNs", "brgl", "virth", "kaarpeNttr"],
+    answer: "brgl"
+},
+{
+    question: "1995 ii. in India in mlin bstiyoN in rhne which people of sNkhyaa how many thii ?",
+    option: ["250 lakh", "450 lakh", "300 lakh", "500 lakh"],
+    answer: "450 lakh"
+},
+{
+    question: "vrtmaan condition in any also type of and any also level of bdlaav to called are",
+    option: ["change", "mausmii prvsn", "ngriikrnn", "mlin bstiyaaN"],
+    answer: "change"
+},
+{
+    question: "yuurop and amerikaa of sbhytaaoN from being which change to called are",
+    option: ["upniveshvaad", "mausmii prvsn", "pshcimiikrnn", "audyogikiikrnn"],
+    answer: "pshcimiikrnn"
+},
+{
+    question: "“social change from taatpry social ddhaaNce of change from is” this kthn whose thaa ?",
+    option: ["joNnsn", "gilin and gilin", "ddoN. mjuumdaar", "maikaaivr and pej"],
+    answer: "joNnsn"
+},
+{
+    question: "India in audyogikiikrnn approximately how much year old is ?",
+    option: ["200 year", "300 year", "400 year", "100 year"],
+    answer: "100 year"
+},
+{
+    question: "“knowledge upyogii and vyaavhaarik should be / ” this kthn whose is ?",
+    option: ["Adam Smith", "aaii.bii. shrmaa", "sttiibensn", "belaardd"],
+    answer: "aaii.bii. shrmaa"
+},
+{
+    question: "projektt real life on one part is whichuse of school in is done /  this kthn is",
+    option: ["belaaii", "kilpaittrik", "sttiibensn", "roNbrtt biirsttiik"],
+    answer: "belaaii"
+},
+{
+    question: "Indian sNvidhaan of which anucched under anusuucit jaatiyoN to apnii sNskRti and language bnaaye keeping for preservation provide done was is ?",
+    option: ["dhaaraa 16", "dhaaraa 29", "dhaaraa 42", "dhaaraa 46"],
+    answer: "dhaaraa 29"
+},
+{
+    question: "projektt one smsyaamuulk function is jo apnii svaabhaavik pristhitiyoN in puurnntaa to obtained does is",
+    option: ["aaii.bii. vrmaa", "sttiibensn", "kil paittrik", "bevaardd"],
+    answer: "kil paittrik"
+},
+{
+    question: "this kthn whose is ki “projektt vh uddeshypuurnn function is jo full sNlgntaa in social vaataavrnn in is done / ”",
+    option: ["kil paittrik", "sii.ec. kuule", "es.bii. ketkr", "mjuumdaar and maan"],
+    answer: "kil paittrik"
+},
+{
+    question: "shhriikrnn of lkssnn is",
+    option: ["vyaapaar in development", "one shhr of caaroN or kendroN of development", "rural from urban prvsn", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in from kisko ngriikrnn promotion detii is ?",
+    option: ["gumnaamitaa", "bhiidd'", "pollution", "uprokt all"],
+    answer: "uprokt all"
+},
+{
+    question: "Which of the following sii jnjaati uttrii–puurvii India of is not ?",
+    option: ["naagaa", "kuukii", "boddaa", "khs"],
+    answer: "khs"
+},
+{
+    question: "‘soshl ceNj these moNddrn innddiyaa’ name book of lekhk are ?",
+    option: ["mjuumdaar and mdaan", "aar.of. mukhrjii", "em.en. shriinivaas", "maikaaivr and pej"],
+    answer: "em.en. shriinivaas"
+},
+{
+    question: "“aadhunikiikrnn one prkriyaa is, jo prmpraagt society from praudyogikii on aadhaarit society of or agrsr occurs / ” said pribhaassaa dii is",
+    option: ["rittjr", "es.sii. dube", "em.es. gore", "None of these"],
+    answer: "es.sii. dube"
+},
+{
+    question: "following in from aadhunikiikrnn of lkssnn is",
+    option: ["audyogikiikrnn to protsaahn", "nviin tkniikii use of", "sNcaar v traffic of saadhnoN in growth", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "sNvidhaan of which anucched according to raajy of naagrikoN of with jaati, dhrm, vNsh athvaa jnmsthaan aadi of basis on vibhed not done jaayegaa ?",
+    option: ["anucched 14", "anucched 38", "anucched 9", "anucched 15"],
+    answer: "anucched 15"
+},
+{
+    question: "“aadhuniktaa one such belgaam ghodd'aa hai /  jise any also trh control in keep ktthin is” such who said ?",
+    option: ["rittjr", "gore", "shyaam crnn duube", "bii.pii. shaah"],
+    answer: "rittjr"
+},
+{
+    question: "vh which–sii prkriyaa is jiske under any also jaati, jnjaati or group apne from high jaati (praayH dvij jaati) of riiti–rivaajoN, krmkaanndd, vicaardhaaraa and values to apnaakr society in apnii jaatiiy condition to above utthaane of pryaas does is ?",
+    option: ["aadhunikiikrnn", "sNskRtiikrnn", "dhrmnirpekssiikrnn", "pshcimiikrnn"],
+    answer: "sNskRtiikrnn"
+},
+{
+    question: "following in from dhrmnirpekssiikrnn of prkriyaa of prmukh element is",
+    option: ["vibhediikrnn in growth", "dhaarmiktaa of haas", "taarkiktaa in growth", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "“change of this prkriyaa jo Indian jnjiivn, society v sNskRti of vibhinn pkssoN in that pshcimii sNskRti of smprk in coming because of produced was, jise brittish shaask apne with laaye the / ” this prkriyaa khlaatii is–",
+    option: ["pshcimiikrnn", "audyogiikrnn", "ngriikrnn", "aadhunikiikrnn"],
+    answer: "pshcimiikrnn"
+},
+{
+    question: "aadhunik India in praudyogik vibhaajn is jaa rhaa is, such which said ?",
+    option: ["shriinivaas", "ddoN. shyaamcrnn duube", "yogendr", "None of these"],
+    answer: "shriinivaas"
+},
+{
+    question: "d tteknoloNjiikl sosaayttii naamk book who likhaa thaa ?",
+    option: ["shriinivaasn", "yogendr siNh", "jekyuul iilll", "None of these"],
+    answer: "jekyuul iilll"
+},
+{
+    question: "aadhunikiikrnn smbndhit is",
+    option: ["prmpraagt value from", "bnd social arrangement from", "arjit prsthiti from", "prthaa from"],
+    answer: "arjit prsthiti from"
+},
+{
+    question: "pshcimiikrnn of avdhaarnnaa by whom dii was is ?",
+    option: ["aagbrn", "em.en. shriinivaas", "maikaaivr", "aar.of. mukhrjii"],
+    answer: "em.en. shriinivaas"
+},
+{
+    question: "braahmnniikrnn of avdhaarnnaa who viksit of ?",
+    option: ["em.en. shriinivaas", "e.aar. desaaii", "es.sii. dube", "jii.es. ghuriye"],
+    answer: "em.en. shriinivaas"
+},
+{
+    question: "sNskRtiikrnn of prkriyaa according to following jaatiyaaN which jaati of vyvhaaroN of anusrnn does is ?",
+    option: ["braahmnn", "dvij jaati", "prbhu jaati", "high jaati"],
+    answer: "high jaati"
+},
+{
+    question: "prsNskRti of smbndh is",
+    option: ["health from", "economy from", "sNskRti from", "agricultural from"],
+    answer: "sNskRti from"
+},
+{
+    question: "Which of the following India in social change of kaark is not ?",
+    option: ["sNskRtikrnn", "pshcimiikrnn", "prmpraa", "audyogiikrnn and ngriikrnn"],
+    answer: "prmpraa"
+},
+{
+    question: "‘sNskRtikrnn’ of avdhaarnnaa who prtipaadit done?",
+    option: ["es.sii. duube", "em. en. shriinivaas", "yogendr siNh", "of.el. shrmaa"],
+    answer: "em. en. shriinivaas"
+},
+{
+    question: "styprkaash book of rgram who done?",
+    option: ["vivekaannd", "raajaaraam mohn raay", "shjaannd srsvtii", "dyaannd srsvtii"],
+    answer: "dyaannd srsvtii"
+},
+{
+    question: "following in which pshcimiikrnn of kaark is?",
+    option: ["reddiyo", "tteliivijn", "smaacaar – letter", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "aary society of sNsthaapk which are?",
+    option: ["dyaanNd srsvtii", "shjaannd srsvtii", "vivekaannd", "raajaa raammohn raay"],
+    answer: "dyaanNd srsvtii"
+},
+{
+    question: "brhm society establishment who of thii?",
+    option: ["mhaatmaa gaaNdhii", "dyaannd srsvtii", "raajaa raammohn raay", "smaajiikrnn who of thii"],
+    answer: "raajaa raammohn raay"
+},
+{
+    question: "prNpraaoN to tyaagkr ne vicaaroN to intake to do is called is?",
+    option: ["aadhunikiikrnn", "function nirpekssiikrnn", "dyaannd srsvtii", "sNskRtikrnn"],
+    answer: "aadhunikiikrnn"
+},
+{
+    question: "vidhvaa marriage sNgh establishment who of thii",
+    option: ["svaamii dyaannd", "mhaadev goviNd raanaadde", "raajaa raammohn raay", "keshv cndr sen"],
+    answer: "mhaadev goviNd raanaadde"
+},
+{
+    question: "brhm society when was established of was thii?",
+    option: ["1832 ii. in", "1840 ii. in", "1825 ii. in", "1828 ii. in"],
+    answer: "1828 ii. in"
+},
+{
+    question: "muul shNkr whose bcpn of name thaa?",
+    option: ["gaaNdhiijii of", "raajaa raammohn raay of", "svaamii dyaannd of", "keshvcndr of"],
+    answer: "svaamii dyaannd of"
+},
+{
+    question: "‘srvody’ shbd whose den is?",
+    option: ["svaamii vivekaannd of", "raajaa raammohn raay of", "svaamii dyaannd of", "gaaNdhii jii of"],
+    answer: "gaaNdhii jii of"
+},
+{
+    question: "brhm society of establishment of what uddeshy thaa?",
+    option: ["hinduu dhrm of smaapn to do", "pshcimii sbhytaa implemented to do", "hinduu dhrm to punH vyaakhyaa to do", "All of these"],
+    answer: "hinduu dhrm to punH vyaakhyaa to do"
+},
+{
+    question: "aadhunikiikrnn of avdhaarnnaa who dii?",
+    option: ["ddeniyl lrnr", "ddeniyl bel", "ddeniyl thoNrnr", "ddeniyl guuc"],
+    answer: "ddeniyl lrnr"
+},
+{
+    question: "hrijn aandoln who claayaa thaa?",
+    option: ["raajaa raammohn raay", "gaaNdhii", "nehruu jii", "dyaannd srsvtii"],
+    answer: "gaaNdhii"
+},
+{
+    question: "India in brittish upniveshvaad shaayk thaa?",
+    option: ["loNrdd kaarnvaalis", "mausmii", "vaaren hesttiNgj", "audyogiikrnn"],
+    answer: "audyogiikrnn"
+},
+{
+    question: "sn 1995 in India in mlin bstiyoN in rhnevaale people of sNkhyaa how many thii?",
+    option: ["250 lakh", "450 lakh", "300 lakh", "500 lakh"],
+    answer: "450 lakh"
+},
+{
+    question: "vrtmaan condition in any also type of and any also level of bdlaav to called is",
+    option: ["change", "loNrdd klaaiv", "ngriikrnn", "All of the above"],
+    answer: "change"
+},
+{
+    question: "yuurop and amerikaa of sbhytaaoN of sNskRti from prbhaavit hokr being which change to called are",
+    option: ["upniveshvaad", "mausmii change", "pshcimiikrnn", "mlin bstiyaaN"],
+    answer: "pshcimiikrnn"
+},
+{
+    question: "“social change from taatpry social ddhaaNce of change from is” this kthn whose thaa?",
+    option: ["joNnsn", "gilin and gilin", "ddoN. mjuumdaar", "maikaaivr and pej"],
+    answer: "joNnsn"
+},
+{
+    question: "when srkaarii udym person or vyktiyoN of group to bec given go are athvaa claane for given go are then this prkriyaa khlaatii is",
+    option: ["udaariikrnn", "nijiikrnn", "woman sshktiikrnn", "lok field"],
+    answer: "nijiikrnn"
+},
+{
+    question: "jaatiiy sNgtthn raajniiti in kaisii bhuumikaa nibhaa rhii is",
+    option: ["dbaav group", "svaarth group", "skriy group", "klyaannkaarii group"],
+    answer: "dbaav group"
+},
+{
+    question: "raajy of pribhaassaa of basis what is?",
+    option: ["population and fixed bhuu – part on aadhaarit is", "population fixed bhuu – part and government on aadhaarit hai / ", "population fixed bhuu – part, government and sNprbhutaa on aadhaarit is", "All of the above ttvoN on aadhaarit is"],
+    answer: "population fixed bhuu – part, government and sNprbhutaa on aadhaarit is"
+},
+{
+    question: "following in correct uttr on mark lgaaveN",
+    option: ["sNvidhaan dhaarmik niymoN and praavdhaanoN of one vyvsthit prlekh is", "sNvidhaan prshaasnik niymoN and praavdhaanoN of one vyvsthit prlekh is", "sNvidhaan prshaasnik niymoN and praavdhaanoN of one vyvsthit prlekh is", "sNvidhaan shaikssnnik niymoN and praavdhaanoN of one vyvsthit prlekh hai / "],
+    answer: "sNvidhaan prshaasnik niymoN and praavdhaanoN of one vyvsthit prlekh is"
+},
+{
+    question: "following in jo correct is that on mark lgaayeN",
+    option: ["pNcaayt function ofkaal three years for determined is", "pNcaayt function ofkaal four years for determined is", "pNcaayt function ofkaal five years for determined is", "pNcaayt function ofkaal six years for determined is"],
+    answer: "pNcaayt function ofkaal five years for determined is"
+},
+{
+    question: "In which year from blvNt raay Mehta kmittii of siphaarishoN of basis on vibhinn raajyoN in nyaa pNcaaytiiraaj law implemented honaa start was?",
+    option: ["1947", "1950", "1959", "1965"],
+    answer: "1959"
+},
+{
+    question: "nimnaaNkit in which aadhunik raajy functions of are?",
+    option: ["external aakrmnn from protection to do", "indoor peace sthaapit to do", "people for nyaay of arrangement to do", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "Indian sNskRti of Which of the following – sii characteristic is?",
+    option: ["dhrm of prdhaantaa", "punrjnm in vishvaas", "krmphl in vishvaas", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "following in from whose pryaas from sttii prthaa unmuuln smbhv was?",
+    option: ["raammohn raay", "rmaa baaii", "binovaa bhaave", "raam mnohr lohiyaa"],
+    answer: "raammohn raay"
+},
+{
+    question: "pNcaaytoN to force provide doing which vidheyk sNvidhaan of which sNshodhn by laayaa was ?",
+    option: ["71 vaaN", "73 vaaN", "75 vaaN", "69 vaaN"],
+    answer: "73 vaaN"
+},
+{
+    question: "one Gram Panchayat in which nyaayaadhiish of bhuumikaa adaa does is ?",
+    option: ["mukhiyaa", "srpNc", "pNc", "grams sevk"],
+    answer: "srpNc"
+},
+{
+    question: "raajy of what meaning is ?",
+    option: ["jaan – goods of protection", "klyaann", "nyaay", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "siittuu ‘ of smbndh which raajniitik dl from is ?",
+    option: ["kaaNgres ( aaii )", "maarksvaadii kmyunistt paarttii", "Indian jntaa paarttii", "Indian kmyunistt paarttii"],
+    answer: "maarksvaadii kmyunistt paarttii"
+},
+{
+    question: "Indian economy of moNddl what type of is ?",
+    option: ["puuNjiivaadii", "mishrit", "smaajvaadii", "saamyvaadii"],
+    answer: "mishrit"
+},
+{
+    question: "which vidvaan ne srvprthm ‘ dbaav group ‘ shbd use of done is ?",
+    option: ["maiks vebr", "piittr oNddiigaardd", "smnr", "ttii.of. ummn"],
+    answer: "maiks vebr"
+},
+{
+    question: "pNcaaytii raaj in most prmukh unit which is ?",
+    option: ["mukhiyaa", "srpNc", "grams sbhaa", "grams sevk"],
+    answer: "grams sbhaa"
+},
+{
+    question: "following in from who rural ngriiy saatty avdhaarnnaa of development in yogdaan given ?",
+    option: ["es.sii. duube", "saarokin", "reddphiildd", "koNmtt"],
+    answer: "reddphiildd"
+},
+{
+    question: "India in raajniitik dl to which maanytaa gives is ?",
+    option: ["raassttrpti", "ucctm nyaayaaly", "sNsd", "cunaav aayog"],
+    answer: "cunaav aayog"
+},
+{
+    question: "pNcaaytii raaj arrangement how many level of is",
+    option: ["two striiy", "three striiy", "four striiy", "five striiy"],
+    answer: "three striiy"
+},
+{
+    question: "pNcaayt smiti of adhykss which is ?",
+    option: ["sii.o.", "prmukh", "mukhiyaa", "bii.ddii.o"],
+    answer: "prmukh"
+},
+{
+    question: "prjaatNtr characteristic of is",
+    option: ["saarvbhaumik mtaadhikaar", "law of dRsstti in smaantaa", "pres of svtNtrtaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "73 veN sNvidhaan sNshodhn when was ?",
+    option: ["1980 ii. in", "1990 ii. in", "1985 ii. in", "1992 ii. in"],
+    answer: "1992 ii. in"
+},
+{
+    question: "which smaajshaastrii ne prjaatNtr of virodh done and phaasiivaad of smrthn done ?",
+    option: ["pairetto", "koNmtte", "maarks", "vebr"],
+    answer: "pairetto"
+},
+{
+    question: "sNvidhaan of which – from sNshodhn of by sthaaniiy svshaasn nikaayoN in mhilaaoN towardsnidhitv to increasing of koshish of was is ?",
+    option: ["51 vaaN and 52 vaaN", "73 vaaN and 74 vaaN", "81 vaaN and 82 vaaN", "None of these"],
+    answer: "73 vaaN and 74 vaaN"
+},
+{
+    question: "pNcaaytii raajy of village of development for how many sNsthaaeN function does are ?",
+    option: ["two", "four", "three", "five"],
+    answer: "three"
+},
+{
+    question: "blvNt raay Mehta smiti of siphaarishoN to implemented doing which first raajy thaa ?",
+    option: ["bihaar", "mdhy prdesh", "raajsthaan", "gujraat"],
+    answer: "raajsthaan"
+},
+{
+    question: "how many year under of children to any khtrnaak function in planting dNddniiy apraadh maanaa was is ?",
+    option: ["14 year", "18 year", "10 year", "20 year"],
+    answer: "14 year"
+},
+{
+    question: "pNcaaytii raaj sNsthaaoN in following in which nimntm unit is ?",
+    option: ["Gram Panchayatii", "pNcaayt smiti", "jilaa prissd", "pNcaayt sevk"],
+    answer: "Gram Panchayatii"
+},
+{
+    question: "raanaadde v bhnnddaarkr ne sn 1867 in which institution establishment of",
+    option: ["praarthnaa society", "aary society", "brhm society", "paarsii society"],
+    answer: "praarthnaa society"
+},
+{
+    question: "sisttr niveditaa whose shissy thiiN ?",
+    option: ["mhrssi dyaannd srsvtii", "svaamii vivekaannd", "gokul cnd naarNg", "ddoN. maanik cndr"],
+    answer: "svaamii vivekaannd"
+},
+{
+    question: "aary society ne gujraaNvaalaa in gurukul establishment In which year of thii ?",
+    option: ["1900 in", "1901 in", "1903 in", "1904 in"],
+    answer: "1900 in"
+},
+{
+    question: "‘ Indian Miror ‘ book of lekhk which are ?",
+    option: ["keshvcndr sen", "devendr naath tthaakur", "raajaa raammohn raay", "svaamii vivekaannd"],
+    answer: "devendr naath tthaakur"
+},
+{
+    question: "“ prjaatNtr jntaa for, jntaa of by, jntaa of government is ” prjaatNtr of this pribhaassaa who dii is ?",
+    option: ["baaraak obaamaa", "mhaatmaa gaaNdhii", "abraahm liNkn", "jvaahrlaal nehruu"],
+    answer: "abraahm liNkn"
+},
+{
+    question: "svtNtr India in srvprthm which pNcvrssiiy scheme in industry on jor given was ?",
+    option: ["prthm pNcvrssiiy scheme", "dvitiiy pNcvrssiiy scheme", "tRtiiy pNcvrssiiy scheme", "cturth pNcvrssiiy scheme"],
+    answer: "dvitiiy pNcvrssiiy scheme"
+},
+{
+    question: "gyaarhviiN pNcvrssiiy scheme of kaal what is ?",
+    option: ["2002-2007", "2007-2009", "2007-2012", "2008-2013"],
+    answer: "2007-2012"
+},
+{
+    question: "‘ sty shodhk society ‘ of sNsthaapk which the ?",
+    option: ["aacaary raamaanuj", "svaamii vivekaannd", "svaamii dyaannd", "jyotibaa phule"],
+    answer: "jyotibaa phule"
+},
+{
+    question: "” village one small gnnraajy is ” who said ?",
+    option: ["mettkoNph", "e.aar. desaaii", "kaarl maarks", "mhaatmaa gaaNdhii"],
+    answer: "mettkoNph"
+},
+{
+    question: "child marriage nirodhk Act which year implemented was ?",
+    option: ["1929", "1939", "1910", "1925"],
+    answer: "1929"
+},
+{
+    question: "raajy by paarit done gye ve law jo social kuriitiyoN to far doing, social vighttn to rokne and society sudhaar of anukuul pristhitiyaaN produced doing of uddeshy from bnaaye go are, unheN called are",
+    option: ["social vidhaan", "praarthnaa society", "aary society", "India sevk society"],
+    answer: "social vidhaan"
+},
+{
+    question: "following in which raajy in srvprthm pNcaayt cunaav in mhilaaoN to 50 % aarkssnn given was ?",
+    option: ["mdhy prdesh", "raajsthaan", "pshcim bNgaal", "bihaar"],
+    answer: "bihaar"
+},
+{
+    question: "‘ aspRshytaa Act ‘ when paarit was ?",
+    option: ["1950", "1955", "1957", "1959"],
+    answer: "1955"
+},
+{
+    question: "‘ naagrik right preservation law ‘ which sn in bnaa ?",
+    option: ["1971", "1972", "1975", "1976"],
+    answer: "1976"
+},
+{
+    question: "‘ hinduu god lenaa bhrnn – nutrition Act according to god lene which person in Which of the following – sii vishesstaaeN honii should ?",
+    option: ["unkaa mn healthy be", "unkii age at least 18 year of be", "if uskii wife jiivit is then god lene for uskii shmti also necessary is", "All of the above"],
+    answer: "if uskii wife jiivit is then god lene for uskii shmti also necessary is"
+},
+{
+    question: "following in from raajniitik dl of type is",
+    option: ["one dliiy arrangement", "dvidliiy arrangement", "bhudliiy arrangement", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "‘ peNlittikl saaiNs ‘ naamk book of rcyitaa are",
+    option: ["liikoNk", "gaittil", "maikaaivr", "gilkraaistt"],
+    answer: "gaittil"
+},
+{
+    question: "” raajniitik dl one such smudaay is, jo any such principle athvaa such niiti of smrthn for sNgtthit were be, jisse vh vaidhaanik saadhnoN from government of basis making caahtaa be  /  ” this pribhaassaa dii is",
+    option: ["maikaaivr", "ruuso", "speNsr", "gaittil"],
+    answer: "maikaaivr"
+},
+{
+    question: "following in from raajniitik dl function of is",
+    option: ["jntaa and government between smnvy sthaapit to do", "jnmt taiyaar to do", "jntaa in raajnaitik awareness paidaa to do", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "“ dbaav group vyktiyoN of vh group is, jo shaaskiiy vissyoN of maadhym from athvaa unke binaa only raajniitik change laane of prytn does is  /  such dbaav smuuhoN to vidhaanmnnddl in raajniitik dloN as any prtinidhitv does not occur  /  ” said pribhaassaa smbndhit is",
+    option: ["pii. oddiigaardd", "liikoNk", "phraaNsis kaisels", "ec. jeglr"],
+    answer: "phraaNsis kaisels"
+},
+{
+    question: "following in from dbaav group of means is",
+    option: ["gheraav and prdrshn", "jnsNcaar of saadhnoN use of", "hdddhtaal", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "India in which type shaasn system paayii goes is ?",
+    option: ["sNsdiiy shaasn system", "adhykssiiy shaasn system", "( a ) and ( b ) dono", "None of these"],
+    answer: "sNsdiiy shaasn system"
+},
+{
+    question: "piittr maarkl ne dbaav group to how many bhaagoN in vrgiikRt done is ?",
+    option: ["three", "four", "six", "eight"],
+    answer: "six"
+},
+{
+    question: "Indian sNsd two sdnoN in vibhaajit is  /  prthm sdn to loksbhaa said goes is and dvitiiy sdn of name is",
+    option: ["vidhaan sbhaa", "vidhaan prissd", "raajy sbhaa", "None of these"],
+    answer: "raajy sbhaa"
+},
+{
+    question: "following from sNvidhaan praaruup smiti of adhykss the",
+    option: ["rviindrnaath ttaigor", "bhiimraav ambeddkr", "mhaatmaa gaaNdhii", "srdaar pttel"],
+    answer: "bhiimraav ambeddkr"
+},
+{
+    question: "Indian sNvidhaan when implemented done was ?",
+    option: ["25 jnvrii, 1948", "20 dismbr, 1949", "26 jnvrii, 1950", "26 jnvrii, 1949"],
+    answer: "26 jnvrii, 1950"
+},
+{
+    question: "Indian sNvidhaan in Which of the following from value nihit are",
+    option: ["dhrmnirpeksstaa", "svtNtrtaa", "smaantaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "following in which kmittii of anushNsaa of basis on pNcaaytiiraaj arrangement implemented of was ?",
+    option: ["kaakaa kaalelkr kmittii", "ashok Mehta kmittii", "blvNtraay Mehta kmittii", "thuNgn kmittii"],
+    answer: "blvNtraay Mehta kmittii"
+},
+{
+    question: "sNvidhaan of which anucched in vRddhoN, ashaayoN and children to preservation provide done was is ?",
+    option: ["anucched 17", "anucched 39", "anucched 15 and 16", "anucched 39"],
+    answer: "anucched 39"
+},
+{
+    question: "sNvidhaan of which anucched in anusuucit jaati, jnjaati and pichdd'e vrgoN to loksbhaa and raajy vidhaan sbhaaoN in prtinidhitv of praavdhaan done was is ?",
+    option: ["anucched 330 and 332", "anucched 14 and 14", "anucched 23 and 24", "ine from any not"],
+    answer: "anucched 330 and 332"
+},
+{
+    question: "scheme aayog of place on nviin aayog of gtthn done was hai /  use which name from go goes is ?",
+    option: ["lok sevaa aayog", "jn sevaa aayog", "niiti aayog", "klyaann aayog"],
+    answer: "niiti aayog"
+},
+{
+    question: "following in from kise maulik adhikaaroN of suucii from httaa given was is ?",
+    option: ["education of right", "smpti of right", "shossnn of viruddh right", "svtNtrtaa of right"],
+    answer: "smpti of right"
+},
+{
+    question: "Which of the following maulik right is not ?",
+    option: ["smaantaa of right", "svtNtrtaa of right", "education of right", "hiNsaa of right"],
+    answer: "hiNsaa of right"
+},
+{
+    question: "ddoN. bhiimraav ambeddkr of birth India of which raajy in was thaa ?",
+    option: ["gujraat", "uttr prdesh", "mhaaraassttr", "mdhy prdesh"],
+    answer: "mhaaraassttr"
+},
+{
+    question: "mNddl aayog of adhykss which the ?",
+    option: ["bindeshvrii prsaad mNddl", "dhnik red mNddl", "mNgnii red mNddl", "cndaushvrii red mNddl"],
+    answer: "bindeshvrii prsaad mNddl"
+},
+{
+    question: "following in from kise shaardaa ektt said goes is ?",
+    option: ["special marriage ektt", "shmti age", "child marriage ektt", "hinduu marriage ektt"],
+    answer: "child marriage ektt"
+},
+{
+    question: "how many year under of children to any khtrnaak function in planting dNddniiy apraadh maanaa was is ?",
+    option: ["14", "18", "10", "20"],
+    answer: "14"
+},
+{
+    question: "India in pNcaaytiiraaj ektt when paarit was ?",
+    option: ["1951 ii. in", "1947 ii. in", "1952 ii. in", "1959 ii. in"],
+    answer: "1959 ii. in"
+},
+{
+    question: "pNcaaytiiraaj arrangement srvprthm which raajy in implemented done was ?",
+    option: ["bihaar", "uttr prdesh", "mhaaraassttr", "raajsthaan"],
+    answer: "raajsthaan"
+},
+{
+    question: "blvNt raay Mehta smiti from whom smbndhit is ?",
+    option: ["land sudhaar from", "hrit kraaNti from", "pNcaaytii raaj from", "nksl aandoln from"],
+    answer: "pNcaaytii raaj from"
+},
+{
+    question: "bihaar in In which year Gram Panchayat establishment was ?",
+    option: ["1946", "1947", "1949", "1950"],
+    answer: "1947"
+},
+{
+    question: "‘ dlit class klyaann liig ‘ establishment who of thii ?",
+    option: ["mhaatmaa gaaNdhii", "raam vilaas paasvaan", "jgjiivn raam", "bii 0 aar 0 ambedkr"],
+    answer: "jgjiivn raam"
+},
+{
+    question: "bihaar in pNcaaytii raaj of members function ofkaal how many years of is ?",
+    option: ["five year", "three year", "seven year", "four year"],
+    answer: "five year"
+},
+{
+    question: "following in which rural society characteristic of is ?",
+    option: ["shrm vibhaajn", "social gtishiiltaa", "ghnii aabaadii", "agricultural vyfaty"],
+    answer: "agricultural vyfaty"
+},
+{
+    question: "following in from which raajy in bhuu – sudhaar kaarykrm most sphl rhaa is ?",
+    option: ["bihaar", "krnaattk", "pshcim bNgaal", "uttraakhnndd"],
+    answer: "pshcim bNgaal"
+},
+{
+    question: "hrit kraaNti of main kaark which is ?",
+    option: ["upjaauu land", "chemical khaad and seeds", "rain", "education"],
+    answer: "chemical khaad and seeds"
+},
+{
+    question: "jmiiNdaarii unmuuln Act In which year paarit done was ?",
+    option: ["1961 ii. in", "1948 ii. in", "1950 ii. in", "1955 ii. in"],
+    answer: "1950 ii. in"
+},
+{
+    question: "life jiine for necessary employment or function jisse money of obtaining be use called are",
+    option: ["jiivikaa", "bicaulie", "bttaaiidaarii", "kaashtkaarii"],
+    answer: "jiivikaa"
+},
+{
+    question: "India in what percentage national income agricultural from obtained occurs ?",
+    option: ["28 %", "29 %", "30 %", "40 %"],
+    answer: "29 %"
+},
+{
+    question: "ghn agricultural jilaa kaarykrm aarmbh done was",
+    option: ["1961 ii. in", "1951 ii. in", "1971 ii. in", "1991 ii. in"],
+    answer: "1961 ii. in"
+},
+{
+    question: "India in hrit kraaNti laane in whose yogdaan is ?",
+    option: ["jgdiishcndr bsu", "cndrshekhr veNktt rmn", "ddoN. homii jhaaNgiir bhaabhaa", "ddoN. em.es. svaamiinaathn"],
+    answer: "ddoN. em.es. svaamiinaathn"
+},
+{
+    question: "mdhyaahn dining where implemented was ?",
+    option: ["school", "college", "oNphis", "All of the above"],
+    answer: "school"
+},
+{
+    question: "India in jmiiNdaarii arrangement of under land of how many percent part comes thaa ?",
+    option: ["20 percent", "40 percent", "60 percent", "80 percent"],
+    answer: "20 percent"
+},
+{
+    question: "raabrtt reddphiildd according to kRssk society characteristic of is",
+    option: ["smruup society", "agricultural land on control", "svyN utpaadnkrtaa", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "thiyoddor shniin ne kRssk society of how many maulik pkssoN of ullekh done is ?",
+    option: ["three", "four", "five", "six"],
+    answer: "four"
+},
+{
+    question: "hrit kraaNti of prthm crnn as ‘ ghn agricultural jilaa kaarykrm ‘ when implemented done was ?",
+    option: ["sn 1960", "sn 1962", "sn 1961", "sn 1963"],
+    answer: "sn 1961"
+},
+{
+    question: "Government of India of or from land of punrgtthn for which – saa pryaas done was ?",
+    option: ["land – prbndhn", "shkaarii agricultural", "ckbndii", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "hrit kraaNti of utprerk which is ?",
+    option: ["ndiyaaN", "sNkrit seeds", "upjaauu jmiin", "rain"],
+    answer: "sNkrit seeds"
+},
+{
+    question: "hrit kraanti which raajy in more sphl rhii ?",
+    option: ["gujraat", "asm ( asom )", "pNjaab", "bihaar"],
+    answer: "pNjaab"
+},
+{
+    question: "following in which hrit kraanti of element are ?",
+    option: ["good seeds use of", "bhu phsl", "siNcaaii on force", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "following in which hrit kraanti of prkaary is ?",
+    option: ["shaikssnnik development", "kssetriiy asmaantaa", "economy in development", "All of the above"],
+    answer: "economy in development"
+},
+{
+    question: "Which of these primitive economy of duusraa level is ?",
+    option: ["shikaar and dining sNgrh level", "agricultural level", "pshucaarnn level", "industrial level"],
+    answer: "agricultural level"
+},
+{
+    question: "‘ sblaa ‘ skiim kendrit is",
+    option: ["ashaay women", "kishoriyaaN", "maatRtv profit", "All of these"],
+    answer: "kishoriyaaN"
+},
+{
+    question: "bihaar in which – sii institution rural vivaadoN of nipttaaraa does is ?",
+    option: ["nyaay pNcaayt", "pNcaayt kchrii", "grams kchrii", "None of these"],
+    answer: "grams kchrii"
+},
+{
+    question: "bhuumNddliikrnn of smbndh from whom is ?",
+    option: ["udaariikrnn from", "nijiikrnn from", "(a) and (b) both from", "None of these"],
+    answer: "(a) and (b) both from"
+},
+{
+    question: "udaariikrnn from what meaning nikltaa is ?",
+    option: ["smaajvaad", "mnussy of udaar honaa", "kaaphii unnti honaa", "mukt baajaar arrangement"],
+    answer: "mukt baajaar arrangement"
+},
+{
+    question: "Which of the following – sii dshaa udaariikrnn of prinnaam is not ?",
+    option: ["upbhoktaavaad", "rural industry of vighttn", "berojgaarii", "combined family of vighttn"],
+    answer: "upbhoktaavaad"
+},
+{
+    question: "In which year aNtrraassttriiy shrm sNgtthn establishment was ?",
+    option: ["1918 ii. in", "1919 ii. in", "1941 ii. in", "1949 ii. in"],
+    answer: "1919 ii. in"
+},
+{
+    question: "world vyaapaar sNgtthn when was established done was ?",
+    option: ["1990 ii. in", "1980 ii. in", "1977 ii. in", "1995 ii. in"],
+    answer: "1995 ii. in"
+},
+{
+    question: "vaishviikrnn of relation is",
+    option: ["saarvbhaumikrnn of with", "ekiikrnn of with", "sjaatiiytaa of with", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "world vyaapaar sNgtthn of mukhyaaly where is ?",
+    option: ["nii dillii", "peris", "jinevaa", "islaamaabaad"],
+    answer: "jinevaa"
+},
+{
+    question: "among these which videshii cainl is ?",
+    option: ["shaaraa", "sttaar", "aaj up to", "None of these"],
+    answer: "sttaar"
+},
+{
+    question: "following in which viksit desh is ?",
+    option: ["shriilNkaa", "nepaal", "amerikaa", "India"],
+    answer: "amerikaa"
+},
+{
+    question: "such kNpniyaaN jo one from more deshoN in apnaa production does is athvaa baajaar sevaaeN provide does is, use what called are ?",
+    option: ["svdeshii Corporation", "paaraa national Corporation", "small industry", "vRht industry"],
+    answer: "paaraa national Corporation"
+},
+{
+    question: "bhuumnnddliikrnn vh prkriyaa is jo puuNjiivaad of vistaar and uskii smRddhi because of produced was hai /  this pribhaassaa of prstutkrttaa which are ?",
+    option: ["giddddens", "belrstten", "inttrneshnl soshiyaaloNjii", "None of these"],
+    answer: "belrstten"
+},
+{
+    question: "The Consequence of Modernity book of lekhk which are ?",
+    option: ["diipk guptaa", "giddddens", "belrstten", "None of these"],
+    answer: "giddddens"
+},
+{
+    question: "Historical Capitalism of lekhk which are ?",
+    option: ["kaarl maarks", "joNrj rittyr", "diipNkr guptaa", "belrstten"],
+    answer: "belrstten"
+},
+{
+    question: "bhuumnnddliikrnn to front increasing which prmukh prerk which from are ?",
+    option: ["baajaar of khoj", "bhuraassttriiy vinivesh", "praudyogikii, ilekttroNnik of ne upkrnn and nettvrk", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "Which of the following – saa one effect India on bhuumnnddliikrnn of effect is not ?",
+    option: ["national income in growth", "woman awareness", "raassttriiykrnn", "agricultural production in growth"],
+    answer: "raassttriiykrnn"
+},
+{
+    question: "smaajshaastriiy dRssttikonn from bhuumnnddliikrnn of avdhaarnnaa of vishlessnn who done ?",
+    option: ["of. ddevis", "ttii.bii. baattomor", "maikaaivr and pej", "eNthnii giddddens"],
+    answer: "eNthnii giddddens"
+},
+{
+    question: "bhuumnnddliikrnn of maulik uddeshy each raassttr to world level on what sugm form from available kraanaa is ?",
+    option: ["resource", "knowledge", "tkniikii", "these all"],
+    answer: "these all"
+},
+{
+    question: "ydypi bhuumnnddliikrnn prkriyaa function of field economic maanaa goes is tthaapi which – saa field isse achuutaa is not ?",
+    option: ["social", "saaNskRtik", "raajniitik", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "bhuumnnddliikrnn of prmukh basis is",
+    option: ["physicalvaadii drshn", "raajdrshn", "social drshn", "None of these"],
+    answer: "physicalvaadii drshn"
+},
+{
+    question: "India in bhuumnnddliikrnn of praarmbh In which year was ?",
+    option: ["sn 1990", "sn 1991", "sn 2000", "sn 2001"],
+    answer: "sn 1991"
+},
+{
+    question: "Which of the followingmaajik change characteristic of is not ?",
+    option: ["vishvvyaapii", "saamudaayik change", "sthaayii avdhaarnnaa", "uncertain bhvissyvaannii"],
+    answer: "uncertain bhvissyvaannii"
+},
+{
+    question: "Which of the following – saa one effect India in vaishviikrnn of effect is not ?",
+    option: ["national income in growth", "woman awareness", "raassttriiykrnn", "agricultural production in growth"],
+    answer: "raassttriiykrnn"
+},
+{
+    question: "among these from kisko prjaatNtr of cauthaa stNbh said goes is ?",
+    option: ["kaarypaalikaa", "vidhaayikaa", "pres", "nyaaypaalikaa"],
+    answer: "pres"
+},
+{
+    question: "reddiyo of aavisskaar when was ?",
+    option: ["1895 ii. in", "1795 ii. in", "1695 ii. in", "1595 ii. in"],
+    answer: "1895 ii. in"
+},
+{
+    question: "prsaar bhaartii of gtthn was",
+    option: ["1985 ii. in", "1987 ii. in", "1997 ii. in", "1999 ii. in"],
+    answer: "1997 ii. in"
+},
+{
+    question: "India in vidhivt ttii.vii. sevaa of aarNbh when was ?",
+    option: ["15 agst, 1965 in", "15 agst, 1970 in", "15 agst, 1968 in", "15 agst, 1966 in"],
+    answer: "15 agst, 1965 in"
+},
+{
+    question: "F.M. reddiyo of shuruuaat was",
+    option: ["1960 ii. in", "1980 ii. in", "1975 ii. in", "1993 ii. in"],
+    answer: "1993 ii. in"
+},
+{
+    question: "BBC ne apnaa tteliivijn sevaa start of",
+    option: ["1936 ii. in", "1940 ii. in", "1942 ii. in", "1945 ii. in"],
+    answer: "1936 ii. in"
+},
+{
+    question: "jnsNcaar of prbhaavsvruup Indian society ne which value to aatmsaat done is ?",
+    option: ["svtNtrtaavaadii", "dhrmnirpekssvaadii", "smaantaavaadii", "All of the above"],
+    answer: "smaantaavaadii"
+},
+{
+    question: "vrtmaan Indian sNskRti srvaadhik form from from whom prbhaavit is ?",
+    option: ["naitiktaa from", "paashcaaty sNskRti from", "prbuddh class from", "aadrshvaad from"],
+    answer: "paashcaaty sNskRti from"
+},
+{
+    question: "India of normal graamiinnoN in jnsNcaar of which means of prcln most more is ?",
+    option: ["smaacaar letter", "clcitr", "tteliivijn", "reddiyo"],
+    answer: "reddiyo"
+},
+{
+    question: "this whose kthn is ki “jnsNcaar one such prkriyaa is jiske by kuch vicaaroN to vibhinn saadhnoN of maadhym from smpuurnn smudaay up to phuNcaayaa goes hai / ”",
+    option: ["laipiyr", "vilsn", "maikaaivr", "mrttn"],
+    answer: "maikaaivr"
+},
+{
+    question: "following in from jnsNcaar of type is",
+    option: ["mudrit sNcaar", "vidyut sNcaar", "dRshy – shrvy sNcaar", "All of the above"],
+    answer: "All of the above"
+},
+{
+    question: "mobile phon, phaiks and inttrnett aadi jnsNcaar of which means of under come are ?",
+    option: ["vidyut sNcaar of means", "mudrit sNcaar", "dRshy – shrvy sNcaar of means of means", "None of these"],
+    answer: "vidyut sNcaar of means"
+},
+{
+    question: "cipko aaNdoln of aguaayii who of ?",
+    option: ["iNdresh cipklaanii", "meghaa paattekr", "suNdrlaal bhugunnaa", "svaamii agnivess"],
+    answer: "suNdrlaal bhugunnaa"
+},
+{
+    question: "following in from whose smbndh jnjaatiiy aaNdoln from is ?",
+    option: ["raam jypaal siNh of", "birsaa muNddaa of", "shibuu soren of", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "Which of the following woman aaNdoln from judd'e are ?",
+    option: ["srojnii naaydduu", "mohinii gri", "rNjnaa kumaarii", "All of these"],
+    answer: "All of these"
+},
+{
+    question: "pichdd'e vrgoN for made was prthm aayog of adhykss which the ?",
+    option: ["krpuurii tthaakur", "muNgerii red", "vii.pii. mNddl", "kaakaa kaalelkr"],
+    answer: "kaakaa kaalelkr"
+},
+{
+    question: "maansrovr baaNdh of khilaaph aaNdoln to leadership who provide done ?",
+    option: ["suNdrlaal bhugunnaa", "aruuNdhtii raay", "medhaa paattkr", "sunitaa naaraaynn"],
+    answer: "medhaa paattkr"
+},
+{
+    question: "following in which farmer netaa maane go are ?",
+    option: ["jyprkaash naaraaynn", "svaamii shjaanNd srsvtii", "laalaa laajpt", "None of these"],
+    answer: "svaamii shjaanNd srsvtii"
+},
+{
+    question: "India of which raajy in pichdd'ii jaati aandoln srvprthm start was ?",
+    option: ["bihaar", "pshcim bNgaal", "aandhr prdesh", "tmilnaaddu"],
+    answer: "tmilnaaddu"
+},
+{
+    question: "taanaa bhgt aandoln related is",
+    option: ["pichdd'ii jaati from", "dlit from", "jnjaati from", "All of these"],
+    answer: "jnjaati from"
+},
+{
+    question: "phrvrii – March 2015 from which Indian ne farmer aandoln in pdaarpnn done ?",
+    option: ["raakesh ttikait", "annaa hjaare", "arvind kejriivaal", "Any of these"],
+    answer: "annaa hjaare"
+},
+{
+    question: "India in naariivaadii aandoln of purodhaa as kinkii phcaan is ?",
+    option: ["sucetaa kRplaanii", "srojinii naaydduu", "indiraa gaaNdhii", "kmlaa nehruu"],
+    answer: "srojinii naaydduu"
+},
+{
+    question: "svaamii shjaannd srsvtii of smbndh is",
+    option: ["saamyvaadii aandoln from", "farmer aandoln from", "mjduur aandoln from", "None of these"],
+    answer: "farmer aandoln from"
+},
+{
+    question: "what type of aandoln of with aap raamsvaamii naaik of name of jodd'te be ?",
+    option: ["farmer aandoln", "environment smbndhii aandoln", "naarii – svtNtrtaa aandoln", "pichdd'ii class aandoln"],
+    answer: "pichdd'ii class aandoln"
+},
+{
+    question: "cipko aandoln smbndhit is",
+    option: ["vRkssoN of protection from", "water of protection from", "pshuoN of protection from", "khnijoN of protection from"],
+    answer: "vRkssoN of protection from"
+},
+{
+    question: "jnjaatiiy aaNdoln related is",
+    option: ["jaati from", "jnjaati from", "smprdaay from", "dhrm from"],
+    answer: "jnjaati from"
+},
+{
+    question: "Indian farmer yuuniyn of farmer aandoln in ne sire from praann pheNkne of shrey kise goes is ?",
+    option: ["vijy siNh pthik", "em. es. joshii", "mhendr siNh ttikait", "None of these"],
+    answer: "mhendr siNh ttikait"
+},
+{
+    question: "aatmsmmaan aaNdoln of prnnetaa which the ?",
+    option: ["krpuurii tthaakur", "raam mnohr lohiyaa", "raamaasvaamii naaykr", "kaaNshiiraam"],
+    answer: "raamaasvaamii naaykr"
+},
+{
+    question: "‘munnddaa vidroh’ of leadership who done thaa ?",
+    option: ["jtraa bhgt", "birsaa munnddaa", "siddho kaanho", "kriyaa munnddaa"],
+    answer: "birsaa munnddaa"
+},
+{
+    question: "India in In which year prdhaanmNtrii employment scheme start of gyii ?",
+    option: ["1993", "1994", "2011", "2009"],
+    answer: "1993"
+},
+{
+    question: "In which year baalikaa smRddhi scheme of shuruuaat of was ?",
+    option: ["1997", "1998", "1999", "1986"],
+    answer: "1997"
+},
+{
+    question: "ahiNsaa of basis on claayaa was one aaNdoln jise gaaNdhiijii ne claayaa, uskaa name is",
+    option: ["tebhaagaa aaNdoln", "ttredd yuuniyn aaNdoln", "jn aaNdoln", "styaagrh aaNdoln"],
+    answer: "styaagrh aaNdoln"
+},
+{
+    question: "cipko aandoln claayaa was",
+    option: ["1973 ii. in", "1970 ii. in", "1983 ii. in", "1999 ii. in"],
+    answer: "1973 ii. in"
+},
+{
+    question: "“taadd'ii of bikrii closed kro” this aaNdoln which raajy in start was ?",
+    option: ["bihaar", "jhaarkhnndd", "gujraat", "aaNdhr prdesh"],
+    answer: "aaNdhr prdesh"
+},
+{
+    question: "dlit – paiNthrs when was established of was ?",
+    option: ["1972 ii. in", "1980 ii. in", "1970 ii. in", "1983 ii. in"],
+    answer: "1972 ii. in"
+},
+{
+    question: "The Government of India woman sshktikrnn for national niiti of ghossnnaa when of ?",
+    option: ["2003 ii. in", "2005 ii. in", "2001 ii. in", "2002 ii. in"],
+    answer: "2001 ii. in"
+},
+{
+    question: "following in from which aandoln of smbndh environment smsyaaoN from judd'aa was is ?",
+    option: ["dlit aandoln", "aadivaasii aandoln", "cipko aandoln", "pichdd'ii jaati aandoln"],
+    answer: "cipko aandoln"
+},
+{
+    question: "‘sNthaal vidroh’ of leadership who done thaa ?",
+    option: ["jtraa bhgt", "birsaa muNddaa", "siddho – kaanho", "kriyaa muNddaa"],
+    answer: "siddho – kaanho"
+},
+{
+    question: "meghaa paattekr which aandoln from judd'ii is ?",
+    option: ["environment aandoln", "dlit aandoln", "farmer aandoln", "chaatr aandoln"],
+    answer: "environment aandoln"
+},
+{
+    question: "bihaar in Gram PanchayatoN in mhilaaoN for how many percent place aarkssit kiye gye are ?",
+    option: ["25 %", "33 %", "67 %", "50 %"],
+    answer: "50 %"
+},
+{
+    question: "cipko aandoln of relation which raajy from is ?",
+    option: ["uttr prdesh", "uttraakhnndd", "mdhy prdesh", "aaNdhr prdesh"],
+    answer: "uttraakhnndd"
+},
+{
+    question: "class sNghrss of principle who given ?",
+    option: ["kaarl maarks", "maikaaivr", "rijle", "phrejr"],
+    answer: "kaarl maarks"
+},
+{
+    question: "Indian farmer yuuniyn of gtthn In which year done was ?",
+    option: ["sn 1979", "sn 1980", "sn 1982", "sn 1984"],
+    answer: "sn 1979"
+},
+{
+    question: "“life of one nii arrangement to sthaapit doing of uddeshy from done were saamuuhik pryaas only social aandoln hai / ” this kthn whose is ?",
+    option: ["em.es.e. raav", "hrbrtt bluumr", "kemraan", "None of these"],
+    answer: "hrbrtt bluumr"
+},
+{
+    question: "suugram of right for aandoln, environment bcaao, kRssk aandoln aadi what type of aandoln are ?",
+    option: ["sudhaarvaadii", "kraantikaarii", "virodhvaadii", "None of these"],
+    answer: "sudhaarvaadii"
+},
+{
+    question: "“shrmik aandoln from aashy shrmikoN of those smst sNgtthit kriyaaoN from is jo ttkaal or niktt bhvissy in unkii dshaaoN to shresstth making for is done / ” this pribhaassaa who dii is ?",
+    option: ["jii.ddii.ec. kol", "ddel yoddr", "henimn", "je.aar. kaamns"],
+    answer: "je.aar. kaamns"
+},
+{
+    question: "India in shrmik aandoln of development whose phlsvruup was ?",
+    option: ["ngriikrnn", "audyogiikrnn", "nijiikrnn", "udaariikrnn"],
+    answer: "audyogiikrnn"
+},
+{
+    question: "India in srvprthm In which year soraanjii shaahpur ne shrmikoN of durdshaa of or government of dhyaan aakrssit done ?",
+    option: ["sn 1875", "sn 1880", "sn 1895", "sn 1905"],
+    answer: "sn 1875"
+},
+{
+    question: "India in shrm sNgh of history In which year from start is ?",
+    option: ["sn 1880", "sn 1890", "sn 1900", "sn 1910"],
+    answer: "sn 1890"
+},
+{
+    question: "shrmikoN of smsyaaoN on control obtaining of vaad – vivaad Act when paarit done was ?",
+    option: ["sn 1950", "sn 1949", "sn 1948", "sn 1947"],
+    answer: "sn 1947"
+},
+{
+    question: "all shrmik sNghoN to one mNc on laane for kmyunistt paarttii (maarksvaadii) ne which sNgtthn establishment of ?",
+    option: ["yuunaaittedd ttredd yuuniyn kaaNgres", "hinduu mjduur sbhaa", "Indian shrmik sNgh center", "innddiyn neshnl ttredd yuuniyn kaaNgres"],
+    answer: "Indian shrmik sNgh center"
+},
+{
+    question: "India of which economic niiti to bhuumnnddliikrnn of with apnaayaa was ?",
+    option: ["economic niiti, 1972", "economic niiti, 1991", "economic niiti, 2001", "economic niiti, 2011"],
+    answer: "economic niiti, 1991"
+},
+{
+    question: "“any also aandoln kRssk aandoln may cause bshrte uskaa muul uddeshy kRsskoN of right of ldd'aaii be, caahe vh kRsskoN by gtthit be or other smuuhoN dvaaraa / ” this kthn whose is ?",
+    option: ["pro. aar. siNh", "aar.bii. paannddey", "ghuriye", "sii.aar. paannddey"],
+    answer: "aar.bii. paannddey"
+},
+{
+    question: "year 1928-29 in baardolii (gujraat) of farmer aandoln (baardolii styaagrh) of leadership who done ?",
+    option: ["jyprkaash naaraaynn", "bllbh brother pttel", "mhaatmaa gaaNdhii", "None of these"],
+    answer: "bllbh brother pttel"
+},
+{
+    question: "bihaar farmer sbhaa establishment In which year was ?",
+    option: ["sn 1927", "sn 1929", "sn 1931", "sn 1933"],
+    answer: "sn 1929"
+},
+{
+    question: "bihaar farmer sbhaa In which year akhil Indian farmer sbhaa in privrtit be was ?",
+    option: ["sn 1938", "sn 1937", "sn 1936", "sn 1934"],
+    answer: "sn 1936"
+},
+{
+    question: "tibhaagaa aandoln of prmukh netaa which the ?",
+    option: ["bhovaanii sen", "rtnsen", "yogesh cndr cttrjii", "None of these"],
+    answer: "bhovaanii sen"
+},
+{
+    question: "tibhaagaa aandoln In which year smaapt be was ?",
+    option: ["sn 1945", "sn 1947", "sn 1949", "sn 1953"],
+    answer: "sn 1947"
+},
+{
+    question: "telaaNgaanaa aandoln haidraabaad of nolgonnddaa jile in when start was ?",
+    option: ["sn 1992", "sn 1932", "sn 1944", "sn 1946"],
+    answer: "sn 1946"
+},
+{
+    question: "pNjaab in unniisviiN shtaabdii of ant in praarmbh were farmer aandoln of leadership who done ?",
+    option: ["laalaa laajpt raay", "srdaar ajiit siNh", "above-mentioned both", "None of these"],
+    answer: "above-mentioned both"
+},
+{
+    question: "India in Which of the following – saa kaark national ektaa in baadhk is ?",
+    option: ["jaativaad", "kssetrvaad", "dhrmaandhtaa", "All of these"],
+    answer: "All of these"
+},
 ];
 
 // --- Helper: Shuffle questions ---
