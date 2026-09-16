@@ -24,6 +24,36 @@ const MyCourses = () => {
       link: "/current-affairs-2026"
     },
     {
+      id: 8,
+      title: "SSC CHSL PYQ",
+      button: "Start",
+      link: "/bssc"
+    },
+    {
+      id: 9,
+      title: "SSC CGL PYQ",
+      button: "Start",
+      link: "/bssc"
+    },
+    {
+      id: 10,
+      title: "SSC MTS PYQ",
+      button: "Start",
+      link: "/bssc"
+    },
+    {
+      id: 11,
+      title: "NEET 10YEAR+ PYQ",
+      button: "Start",
+      link: "/bssc"
+    },
+    {
+      id: 12,
+      title: "UPSC 10 YEAR+ PYQ",
+      button: "Start",
+      link: "/bssc"
+    },
+    {
       id: 5,
       title: "RRB Group D 10 year + PYQ",
       button: "Start",
