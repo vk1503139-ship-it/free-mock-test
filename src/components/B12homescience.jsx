@@ -4716,10 +4716,4713 @@ const homeScienceHindi = [
 
 // English Questions
 const homeScienceEnglish = [
-  // Human Development: Life Span Approach
-  { question: "When does human development process begin?", option: ["From birth", "From conception", "From childhood", "From adolescence"], answer: "From conception" },
-  { question: "What age is infancy?", option: ["Birth to 2 years", "2 to 6 years", "6 to 12 years", "12 to 18 years"], answer: "Birth to 2 years" },
-  
+{
+    question: "Which of the following is a cause of malnutrition?",
+    option: [
+        "poverty",
+        "lack of nutritious food",
+        "ignorance",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following does not occur due to food adulteration?",
+    option: [
+        "proper nutrition",
+        "malnutrition",
+        "undernutrition",
+        "unhealthy life"
+    ],
+    answer: "proper nutrition"
+},
+
+{
+    question: "Which of these is the best option for opening a garment for a newborn?",
+    option: [
+        "opening from the front",
+        "opening from the back",
+        "opening from the top",
+        "opening from the bottom m"
+    ],
+    answer: "opening from the front"
+},
+
+{
+    question: "Which of the following is not a human resource?",
+    option: [
+        "energy",
+        "time",
+        "skill",
+        "money"
+    ],
+    answer: "money"
+},
+
+{
+    question: "Under which type of family income does monthly salary fall?",
+    option: [
+        "Monetary income",
+        "Real income",
+        "both",
+        "None of these"
+    ],
+    answer: "Monetary income"
+},
+
+{
+    question: "What comes under food preservation?",
+    option: [
+        "making jam and jelly",
+        "making murabba and pickles",
+        "making squash and sherbet",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "The main objective of ICDSOS is-",
+    option: [
+        "Parents",
+        "employee",
+        "Children and women",
+        "None of these"
+    ],
+    answer: "Children and women"
+},
+
+{
+    question: "Noise pollution may cause-",
+    option: [
+        "high blood pressure",
+        "deafness",
+        "sleep disturbance",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Clean water is-",
+    option: [
+        "Rohini",
+        "odorless",
+        "germ-free",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Where is interior decoration done?",
+    option: [
+        "living room",
+        "bedroom",
+        "dining room",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Food items bearing the FPO mark are-",
+    option: [
+        "jam",
+        "jelly",
+        "pickle",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of these is not a domestic method of food preservation?",
+    option: [
+        "sun drying",
+        "freezing",
+        "use of sugar/salt",
+        "pasteurization"
+    ],
+    answer: "pasteurization"
+},
+
+{
+    question: "Children's school tiffin should be-",
+    option: [
+        "balanced",
+        "jisse children of school baig, pustke bad n be",
+        "daily variety for were",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "It symbolizes stimulation, liveliness and excitement-",
+    option: [
+        "green",
+        "yellow",
+        "red",
+        "purple"
+    ],
+    answer: "red"
+},
+
+{
+    question: "What is used in dry cleaning?",
+    option: [
+        "French chalk",
+        "flour",
+        "talcum powder",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "Which of the following is pure water?",
+    option: [
+        "river water",
+        "rainwater",
+        "seawater",
+        "well water"
+    ],
+    answer: "rainwater"
+},
+
+{
+    question: "Which of the following is a digestive system disorder?",
+    option: [
+        "constipation",
+        "vomiting",
+        "indigestion",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Food can be preserved by microorganisms by",
+    option: [
+        "far keeping",
+        "killing",
+        "removing",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Which activity is needed immediately after using a garment?",
+    option: [
+        "repair",
+        "iron to do",
+        "stain removal",
+        "airing"
+    ],
+    answer: "airing"
+},
+
+{
+    question: "What is a boutique related to?",
+    option: [
+        "fabric construction",
+        "clothing design",
+        "dyeing of clothes",
+        "All of these"
+    ],
+    answer: "clothing design"
+},
+
+{
+    question: "Which color symbolizes purity, cleanliness and peace?",
+    option: [
+        "white",
+        "red",
+        "green",
+        "blue"
+    ],
+    answer: "white"
+},
+
+{
+    question: "in a garment which place on buttons used to fasten the garment etc applied go are, use called are?",
+    option: [
+        "placket",
+        "buckle",
+        "embroidery",
+        "hook-and-eye"
+    ],
+    answer: "placket"
+},
+
+{
+    question: "The fields of home science are-",
+    option: [
+        "child development",
+        "food and nutrition",
+        "Home management",
+        "None of these"
+    ],
+    answer: "Home management"
+},
+
+{
+    question: "Interior decoration is an expression of",
+    option: [
+        "taste",
+        "skill",
+        "proper use of money",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which is a self-employment opportunity through home science?",
+    option: [
+        "employee in a second-hand goods shop",
+        "production unit employee",
+        "restaurant manager",
+        "interior decorator"
+    ],
+    answer: "interior decorator"
+},
+
+{
+    question: "Which of the following is not a method of removing stains from clothes?",
+    option: [
+        "chemical",
+        "absorbent method",
+        "solvent method",
+        "physical method"
+    ],
+    answer: "physical method"
+},
+
+{
+    question: "Which savings does meal planning help with?",
+    option: [
+        "fuel",
+        "time",
+        "energy",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Why is clothing necessary?",
+    option: [
+        "to cover the body",
+        "to keep the body warm",
+        "for social status",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Vinegar is-",
+    option: [
+        "acidic substance",
+        "grease solvent",
+        "alkaline substance",
+        "grease absorbent"
+    ],
+    answer: "acidic substance"
+},
+
+{
+    question: "Vitamin E is soluble-",
+    option: [
+        "in water",
+        "in fat",
+        "in both water and fat",
+        "None of these"
+    ],
+    answer: "in fat"
+},
+
+{
+    question: "What should be done to increase money?",
+    option: [
+        "Kisan Vikas Patra",
+        "in a bank fixed deposit",
+        "motor",
+        "(A) and (B) both"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "What is produced in women's ovaries?",
+    option: [
+        "ovum",
+        "estrogen",
+        "progesterone",
+        "All of these"
+    ],
+    answer: "ovum"
+},
+
+{
+    question: "Home science of training obtained vidyaarthii, Home science by arjit knowledge and skill from self-employment of which from field in employment obtained by can are?",
+    option: [
+        "day care center",
+        "hospital",
+        "school",
+        "All of these"
+    ],
+    answer: "day care center"
+},
+
+{
+    question: "Which line gives the illusion of height?",
+    option: [
+        "vertical line",
+        "horizontal line",
+        "curved line",
+        "cross line"
+    ],
+    answer: "vertical line"
+},
+
+{
+    question: "Coins are issued by:",
+    option: [
+        "Government of India by",
+        "naabaardd by",
+        "public sector banks by",
+        "State Bank of India by"
+    ],
+    answer: "Government of India by"
+},
+
+{
+    question: "One Anganwadi center is provided for a population of:",
+    option: [
+        "1000",
+        "2000",
+        "2500",
+        "1500"
+    ],
+    answer: "1000"
+},
+
+{
+    question: "Which disease is caused by eating contaminated food?",
+    option: [
+        "diarrhea",
+        "cholera",
+        "dysentery",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of these is an animal fiber?",
+    option: [
+        "cotton",
+        "nylon",
+        "silk",
+        "jute"
+    ],
+    answer: "silk"
+},
+
+{
+    question: "Which is the largest gland in the human body?",
+    option: [
+        "liver",
+        "thyroid",
+        "testes",
+        "ovary"
+    ],
+    answer: "liver"
+},
+
+{
+    question: "Which vaccine is not given to a newborn within 24 hours?",
+    option: [
+        "bii.sii.jii.",
+        "o.pii.vii. (orl polio vaiksiin)",
+        "D.T.P. (diphtheria, tetanus and pertussis)",
+        "Hepatitis B."
+    ],
+    answer: "D.T.P. (diphtheria, tetanus and pertussis)"
+},
+
+{
+    question: "Nutrition is a need of human life-",
+    option: [
+        "primary",
+        "secondary",
+        "tertiary",
+        "None of these"
+    ],
+    answer: "primary"
+},
+
+{
+    question: "expensive garment to",
+    option: [
+        "dry clean kraanaa should",
+        "wash with soap should",
+        "wash with detergent should",
+        "starching should"
+    ],
+    answer: "dry clean kraanaa should"
+},
+
+{
+    question: "knowledge what type of resource is?",
+    option: [
+        "chemical",
+        "physical",
+        "economic",
+        "human"
+    ],
+    answer: "human"
+},
+
+{
+    question: "Which of these Meal planning in vicaarnniiy is not?",
+    option: [
+        "size of the kitchen",
+        "availability of utensils",
+        "type of cookbook",
+        "helper"
+    ],
+    answer: "helper"
+},
+
+{
+    question: "ttraaj (pheNke gye nutrient) kcre in is:",
+    option: [
+        "solid",
+        "semi-liquid mixture",
+        "liquid",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vibhinn training in various occupations giving which gRhviknowledge of sNsthaaeN which-sii is?",
+    option: [
+        "Home Science College",
+        "Industrial Training Institute",
+        "Polytechnic",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Vitamin A following substance in from in which is found?",
+    option: [
+        "amla",
+        "guava",
+        "milk",
+        "pulses"
+    ],
+    answer: "milk"
+},
+
+{
+    question: "thyroid gland from niklne which hormone is called is–",
+    option: [
+        "estrogen",
+        "thyroxine",
+        "insulin",
+        "None of these"
+    ],
+    answer: "thyroxine"
+},
+
+{
+    question: "first milk secreted from the mother's breast what is called is?",
+    option: [
+        "vitamin",
+        "protein",
+        "calcium",
+        "colostrum"
+    ],
+    answer: "colostrum"
+},
+
+{
+    question: "Which of the following Animal fiber is?",
+    option: [
+        "wool",
+        "silk",
+        "nylon",
+        "rayon"
+    ],
+    answer: "wool"
+},
+
+{
+    question: "a person's water requirement depends does is?",
+    option: [
+        "on activity",
+        "on the type of food",
+        "on climate",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "interest and dividends Family income of which-saa type is?",
+    option: [
+        "psychic income",
+        "Direct real income",
+        "Indirect real income",
+        "Monetary income"
+    ],
+    answer: "Monetary income"
+},
+
+{
+    question: "India in Swachh Bharat Abhiyan by which ministry praarmbh done was?",
+    option: [
+        "Ministry of Environment and Forests",
+        "Ministry of Drinking Water and Sanitation",
+        "Ministry of Rural Development",
+        "Ministry of Urban Development"
+    ],
+    answer: "Ministry of Drinking Water and Sanitation"
+},
+
+{
+    question: "body of weight of what percentage part water is?",
+    option: [
+        "80%",
+        "50%",
+        "65%",
+        "70%"
+    ],
+    answer: "65%"
+},
+
+{
+    question: "children to which disease to protect from Vitamin A of khuraak dii goes is?",
+    option: [
+        "night blindness",
+        "polio",
+        "diarrhea",
+        "All of these"
+    ],
+    answer: "night blindness"
+},
+
+{
+    question: "Which of these bank by given going which loan is not?",
+    option: [
+        "house",
+        "marriage",
+        "education",
+        "purchase of goods"
+    ],
+    answer: "marriage"
+},
+
+{
+    question: "pregnancy in blood in which element deficiency of be goes is?",
+    option: [
+        "thiamine",
+        "calcium",
+        "niacin",
+        "calories"
+    ],
+    answer: "calcium"
+},
+
+{
+    question: "Which of the following Environmental pollution to controlled doing in shaayk is?",
+    option: [
+        "controlling factory smoke",
+        "use of CNG gas vehicles",
+        "planting more trees",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "rural areas in children to vaccine applying of arrangement occurs-",
+    option: [
+        "at the health center",
+        "Gram Panchayat in",
+        "home in",
+        "school in"
+    ],
+    answer: "at the health center"
+},
+
+{
+    question: "which-sii line length of aabhaasii is?",
+    option: [
+        "vertical line",
+        "horizontal line",
+        "curved line",
+        "cross line"
+    ],
+    answer: "vertical line"
+},
+
+{
+    question: "Which age group Meal planning need for does not occur is?",
+    option: [
+        "newborn baby",
+        "child",
+        "adult",
+        "elderly person"
+    ],
+    answer: "newborn baby"
+},
+
+{
+    question: "following in which art of element is not?",
+    option: [
+        "line",
+        "shape",
+        "color",
+        "security"
+    ],
+    answer: "security"
+},
+
+{
+    question: "clothes of cunaav do time following in from whose dhyaan keep should?",
+    option: [
+        "washing in suvidhaajnk",
+        "color fastness",
+        "absorbing of capacity",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "more heat and power provide doing which substance is?",
+    option: [
+        "fat",
+        "carbohydrate",
+        "protein",
+        "calcium"
+    ],
+    answer: "fat"
+},
+
+{
+    question: "following in which Food preservation method of is not?",
+    option: [
+        "refrigeration",
+        "dehydration",
+        "fermentation",
+        "oxidation"
+    ],
+    answer: "oxidation"
+},
+
+{
+    question: "Which of the following Noise pollution of most common cause is?",
+    option: [
+        "construction activity",
+        "firecrackers",
+        "loudspeaker",
+        "traffic"
+    ],
+    answer: "traffic"
+},
+
+{
+    question: "Interior decoration is an expression of:",
+    option: [
+        "taste",
+        "skill",
+        "proper use of money",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Home science of up vissyoN of adequate knowledge following in which-saa training institute opening in help does is?",
+    option: [
+        "cookery classes",
+        "kociNg classes",
+        "school",
+        "hospital"
+    ],
+    answer: "cookery classes"
+},
+
+{
+    question: "family resources of proper use what is called is?",
+    option: [
+        "aNtH decoration",
+        "evaluation",
+        "economy",
+        "Home management"
+    ],
+    answer: "Home management"
+},
+
+{
+    question: "following in from which fibers from cotton clothing is produced?",
+    option: [
+        "pshuoN of child from",
+        "kiidd'e from",
+        "trees from",
+        "cotton plant from"
+    ],
+    answer: "cotton plant from"
+},
+
+{
+    question: "woman reproduction system",
+    option: [
+        "seks hormone produced does is",
+        "children to birth gives is  / ",
+        "egg produced does is",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "smoke of which source from indoor Air pollution does not occur is?",
+    option: [
+        "mosquito coil (koNil)",
+        "vehicle",
+        "cigarette",
+        "stove"
+    ],
+    answer: "vehicle"
+},
+
+{
+    question: "calcium best source of is-",
+    option: [
+        "meat",
+        "sbjiyaaN",
+        "milk from made substance",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in which Personal hygiene under comes is?",
+    option: [
+        "washing hands",
+        "brushing teeth",
+        "cutting nails",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following gas atmosphere to polluted does is?",
+    option: [
+        "oxygen",
+        "nitrogen",
+        "carbon monoxide",
+        "None of these"
+    ],
+    answer: "carbon monoxide"
+},
+
+{
+    question: "Which of the following mother of milk of with newborn of need occurs?",
+    option: [
+        "honey",
+        "glucose",
+        "water",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "rural areas in what type of pollution most common is?",
+    option: [
+        "Water pollution",
+        "Noise pollution",
+        "Air pollution",
+        "All of these"
+    ],
+    answer: "Water pollution"
+},
+
+{
+    question: "Interior decoration is not done is",
+    option: [
+        "home in",
+        "shop in lack",
+        "office in",
+        "public facility in"
+    ],
+    answer: "public facility in"
+},
+
+{
+    question: "AGMARK which substances of quality and purity determine does is?",
+    option: [
+        "beverage substance",
+        "ilekttroNnik substance",
+        "agricultural substance",
+        "All of these"
+    ],
+    answer: "agricultural substance"
+},
+
+{
+    question: "Home science important is-",
+    option: [
+        "home of management doing for",
+        "children of care doing for",
+        "life in good values for",
+        "healthy family of leadership for"
+    ],
+    answer: "home of management doing for"
+},
+
+{
+    question: "family of members success of depends does is:",
+    option: [
+        "personal cooperation on",
+        "well-planned Home management on",
+        "social environment on",
+        "None of these"
+    ],
+    answer: "well-planned Home management on"
+},
+
+{
+    question: "WHO of full form is-",
+    option: [
+        "World Health Organization",
+        "Food eNdd Agriculture Organization",
+        "Women Health Organization",
+        "None of these"
+    ],
+    answer: "World Health Organization"
+},
+
+{
+    question: "food handler of which aspect from cooking prbhaavit does not occur?",
+    option: [
+        "health",
+        "knowledge",
+        "hygiene",
+        "habits"
+    ],
+    answer: "habits"
+},
+
+{
+    question: "Indian infant of average birth height what is?",
+    option: [
+        "30 cm",
+        "40 cm",
+        "50 cm",
+        "80 cm"
+    ],
+    answer: "50 cm"
+},
+
+{
+    question: "child to At what age first tooth nikltaa is?",
+    option: [
+        "6 month",
+        "8 month",
+        "10 month",
+        "5 month"
+    ],
+    answer: "6 month"
+},
+
+{
+    question: "clothing related to which activity need for immediately occurs?",
+    option: [
+        "repair",
+        "iron to do",
+        "stain removal",
+        "airing"
+    ],
+    answer: "airing"
+},
+
+{
+    question: "blood in water what percentage is?",
+    option: [
+        "90%",
+        "80%",
+        "70%",
+        "60%"
+    ],
+    answer: "90%"
+},
+
+{
+    question: "dry washing use done go are",
+    option: [
+        "cotton of the garment for",
+        "jute of of the garment for",
+        "silk of the garment for",
+        "None of these"
+    ],
+    answer: "silk of the garment for"
+},
+
+{
+    question: "I.S.I. when was established of was is?",
+    option: [
+        "1995 AD in",
+        "1986 AD in",
+        "1990 AD in",
+        "1985 AD in"
+    ],
+    answer: "1986 AD in"
+},
+
+{
+    question: "following in which Home decoration of part is not?",
+    option: [
+        "garden of decoration",
+        "home to flower from decorate",
+        "diivaar on tsviir planting",
+        "None of these"
+    ],
+    answer: "garden of decoration"
+},
+
+{
+    question: "India in World Toilet Day On which day mnaayaa goes is?",
+    option: [
+        "19 November",
+        "25 July",
+        "15 September",
+        "2 October"
+    ],
+    answer: "19 November"
+},
+
+{
+    question: "Noise pollution from is-",
+    option: [
+        "bones related to disease",
+        "eyes of problem",
+        "skin disease",
+        "hearing of problem"
+    ],
+    answer: "hearing of problem"
+},
+
+{
+    question: "woman of first milk secretion to called are-",
+    option: [
+        "prthm diet",
+        "kolsttrm",
+        "Mother's milk",
+        "nutrient diet"
+    ],
+    answer: "kolsttrm"
+},
+
+{
+    question: "How many types of quality occurs ?",
+    option: [
+        "4",
+        "3",
+        "5",
+        "6"
+    ],
+    answer: "3"
+},
+
+{
+    question: "sign language use of is-",
+    option: [
+        "aNdhoN for",
+        "asaamaajik children for",
+        "disabled children for",
+        "mute and deaf children for"
+    ],
+    answer: "mute and deaf children for"
+},
+
+{
+    question: "Which of the following special children of type is not?",
+    option: [
+        "economic disability",
+        "physical disability",
+        "mental disability",
+        "social disability"
+    ],
+    answer: "economic disability"
+},
+
+{
+    question: "job profession which person of income occurs-",
+    option: [
+        "fixed",
+        "uncertain",
+        "irregular",
+        "regular"
+    ],
+    answer: "fixed"
+},
+
+{
+    question: "Which of the following Nutrients is?",
+    option: [
+        "carbohydrate",
+        "protein",
+        "vitamin",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "normal delivery in Breastfeeding start by give should–",
+    option: [
+        "within half an hour",
+        "one hour meNnn",
+        "within 24 hours",
+        "within 48 hours"
+    ],
+    answer: "within half an hour"
+},
+
+{
+    question: "hygiene of which function for water of maximum requirement occurs?",
+    option: [
+        "bathing",
+        "Washing clothes",
+        "cleaning teeth",
+        "cleaning hands"
+    ],
+    answer: "Washing clothes"
+},
+
+{
+    question: "following in from which item on AGMARK is applied?",
+    option: [
+        "pressure cooker",
+        "paneer",
+        "ghee",
+        "juice"
+    ],
+    answer: "ghee"
+},
+
+{
+    question: "following in cotton fibers of which-sii characteristic is?",
+    option: [
+        "warm",
+        "good absorbency",
+        "elastic",
+        "easy dyeing"
+    ],
+    answer: "easy dyeing"
+},
+
+{
+    question: "among these from in a bank which-sii deposit in interest not is received is?",
+    option: [
+        "saving deposit",
+        "fixed-term deposit",
+        "current deposit",
+        "recurring deposit"
+    ],
+    answer: "current deposit"
+},
+
+{
+    question: "following in which color is?",
+    option: [
+        "blue",
+        "yellow",
+        "green",
+        "red"
+    ],
+    answer: "red"
+},
+
+{
+    question: "Which of the following Food items related Indian standard mark is?",
+    option: [
+        "AGMARK",
+        "bulmaark",
+        "Hallmark",
+        "Ecomark"
+    ],
+    answer: "AGMARK"
+},
+
+{
+    question: "energy obtaining of main source is-",
+    option: [
+        "protein",
+        "carbohydrate",
+        "mineral salts",
+        "vitamin"
+    ],
+    answer: "carbohydrate"
+},
+
+{
+    question: "consumer of right which is not?",
+    option: [
+        "choice of",
+        "shop in cancel krvaane of",
+        "complaint drj doing of",
+        "compensation of"
+    ],
+    answer: "shop in cancel krvaane of"
+},
+
+{
+    question: "How many types of quality occurs?",
+    option: [
+        "4",
+        "3",
+        "5",
+        "6"
+    ],
+    answer: "3"
+},
+
+{
+    question: "Which of the following one Natural fiber is not?",
+    option: [
+        "nylon",
+        "cotton",
+        "flax (pttuaa)",
+        "jute"
+    ],
+    answer: "nylon"
+},
+
+{
+    question: "prestigious, old and grand symbolizes-",
+    option: [
+        "yellow",
+        "black",
+        "green",
+        "white"
+    ],
+    answer: "yellow"
+},
+
+{
+    question: "Which of the following Malnutrition related to disease is?",
+    option: [
+        "influenza",
+        "bronchitis",
+        "anemia",
+        "malaria"
+    ],
+    answer: "anemia"
+},
+
+{
+    question: "clothing necessary is-",
+    option: [
+        "to cover the body",
+        "to keep the body warm",
+        "for social status",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Air pollution to can be reduced-",
+    option: [
+        "public transport sevaa use of by doing",
+        "more tree lgaakr",
+        "plastic of thailiyoN of vrjn by",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "value of quality from what kind relation is?",
+    option: [
+        "direct",
+        "crooked",
+        "proportional",
+        "All of these"
+    ],
+    answer: "direct"
+},
+
+{
+    question: "moisture deficiency of occurs-",
+    option: [
+        "anemia from",
+        "rehydration from",
+        "dehydration from",
+        "None of these"
+    ],
+    answer: "dehydration from"
+},
+
+{
+    question: "MMR ttiike from which-which diseases of protection is?",
+    option: [
+        "measles",
+        "mumps",
+        "rubella",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "water of source and toilet between of distance what honii should?",
+    option: [
+        "at least 3 meter",
+        "at least 6 meter",
+        "at least 8 meter",
+        "at least 10 meter"
+    ],
+    answer: "at least 10 meter"
+},
+
+{
+    question: "Which of these food spoilage of external kaark is not?",
+    option: [
+        "bacteria",
+        "chemical substance",
+        "enzyme",
+        "external impact"
+    ],
+    answer: "bacteria"
+},
+
+{
+    question: "blind children to teaching for which method use of to do should?",
+    option: [
+        "Braille method",
+        "play method",
+        "history method",
+        "psychodrama method"
+    ],
+    answer: "Braille method"
+},
+
+{
+    question: "infectious disease from taatpry is-",
+    option: [
+        "disease of times-times honaa",
+        "disease of long time up to made rhnaa",
+        "one person from another person to spread",
+        "None of these"
+    ],
+    answer: "one person from another person to spread"
+},
+
+{
+    question: "following in which-saa home industry is not?",
+    option: [
+        "embroidery to do",
+        "books of binding baaNdhnaa",
+        "sweater bunnaa",
+        "hospital opening"
+    ],
+    answer: "hospital opening"
+},
+
+{
+    question: "Which of the following food poisoning being of cause is?",
+    option: [
+        "less cooked was dining",
+        "infected rsoii",
+        "cooked were dining to vertical period up to keep",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following Direct real income is?",
+    option: [
+        "office from free house",
+        "cheap value on nutritious materials khriidnaa",
+        "niHshulk health sevaaeN",
+        "None of these"
+    ],
+    answer: "office from free house"
+},
+
+{
+    question: "following in from water of source is not?",
+    option: [
+        "dining",
+        "drinking water",
+        "beverage substance",
+        "sweets"
+    ],
+    answer: "sweets"
+},
+
+{
+    question: "company of monthly v annual income and expenditure statement bnaate are-",
+    option: [
+        "accounts department",
+        "finance department",
+        "management department",
+        "government"
+    ],
+    answer: "accounts department"
+},
+
+{
+    question: "milk of which product in ease from adulteration not be paatii is?",
+    option: [
+        "curd",
+        "sweet",
+        "ghee",
+        "khoya"
+    ],
+    answer: "curd"
+},
+
+{
+    question: "in a bank how many types of account opened jaa can is?",
+    option: [
+        "4",
+        "6",
+        "8",
+        "10"
+    ],
+    answer: "4"
+},
+
+{
+    question: "Indoor air pollution of what cause is?",
+    option: [
+        "food cooking for pryukt fuel",
+        "mosquito killer",
+        "tobacco smoking",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "For whom Maternal and Child Welfare Centre in health care is done?",
+    option: [
+        "mother and infant of",
+        "bujurg of",
+        "adolescent of",
+        "All of these of"
+    ],
+    answer: "mother and infant of"
+},
+
+{
+    question: "khesari pulses of more consumption from is-",
+    option: [
+        "heart disease",
+        "respiratory disease",
+        "liver of increase",
+        "lathyrism"
+    ],
+    answer: "lathyrism"
+},
+
+{
+    question: "cheque how many types of is?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "three"
+},
+
+{
+    question: "home human life to provide does is-",
+    option: [
+        "security",
+        "status",
+        "stability",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following investment method of is?",
+    option: [
+        "bank",
+        "post office",
+        "life insurance",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Home decoration of main means which-from is?",
+    option: [
+        "feature",
+        "curtains",
+        "small decorative goods",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which saa hormone only woman in secreted is?",
+    option: [
+        "prolactin",
+        "thaaiiroNksin",
+        "prelin",
+        "insulin"
+    ],
+    answer: "prelin"
+},
+
+{
+    question: "domestic accounts-jokhaa how many types of may cause?",
+    option: [
+        "four",
+        "three",
+        "five",
+        "two"
+    ],
+    answer: "three"
+},
+
+{
+    question: "child care center to which name from bulaate are?",
+    option: [
+        "school",
+        "Anganwadi",
+        "hospital",
+        "child care center"
+    ],
+    answer: "child care center"
+},
+
+{
+    question: "impure water drinking from Which of the following disease produced occurs?",
+    option: [
+        "cholera",
+        "diarrhea",
+        "diarrhea",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Meal planning in which-sii period smmilit is not?",
+    option: [
+        "0-6 months",
+        "adolescence",
+        "old age",
+        "disease of stage"
+    ],
+    answer: "disease of stage"
+},
+
+{
+    question: "following in which primary color is not?",
+    option: [
+        "green",
+        "red",
+        "yellow",
+        "blue"
+    ],
+    answer: "green"
+},
+
+{
+    question: "standardization mark giving function of which institution by is done?",
+    option: [
+        "Indian Standards Board",
+        "Bureau of Indian Standards",
+        "viknowledge prcaar-prsaar Corporation",
+        "None of these"
+    ],
+    answer: "Bureau of Indian Standards"
+},
+
+{
+    question: "aahaariiy adulteration prtibNdhaatmk law implemented was",
+    option: [
+        "4 June, 1955 in",
+        "1 June, 1968 in",
+        "1 June, 1954 in",
+        "1 June, 1955 in"
+    ],
+    answer: "1 June, 1955 in"
+},
+
+{
+    question: "aahaariiy adulteration means-",
+    option: [
+        "Food items of quality of level following honaa",
+        "Food items of toxic honaa",
+        "Food items of contaminated honaa",
+        "None of these"
+    ],
+    answer: "Food items of quality of level following honaa"
+},
+
+{
+    question: "starch which clothes in is applied?",
+    option: [
+        "silk",
+        "suti",
+        "woolii",
+        "terylene"
+    ],
+    answer: "suti"
+},
+
+{
+    question: "following in from which activity in contaminated water use of not to do should?",
+    option: [
+        "plants in water give",
+        "vehicle wash",
+        "food making for",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "fat is a source of-",
+    option: [
+        "ghee",
+        "cereals",
+        "pulses",
+        "All of these"
+    ],
+    answer: "ghee"
+},
+
+{
+    question: "Pure water is-",
+    option: [
+        "disease-free",
+        "odorless",
+        "tasteless",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "food cooking of which-sii method most less healthy is?",
+    option: [
+        "deep frying",
+        "roasting",
+        "boiling",
+        "steaming"
+    ],
+    answer: "deep frying"
+},
+
+{
+    question: "Which of these cold color is?",
+    option: [
+        "green",
+        "red",
+        "orange",
+        "yellow"
+    ],
+    answer: "green"
+},
+
+{
+    question: "mobile child care center moves around is-",
+    option: [
+        "children of with",
+        "workers of with",
+        "vyfatyiyoN of with",
+        "Parents of with"
+    ],
+    answer: "workers of with"
+},
+
+{
+    question: "at birth average weight of a newborn baby is?",
+    option: [
+        "2 kg.",
+        "2.5 kg. – 3.5 kg.",
+        "3 kg.",
+        "4 kg."
+    ],
+    answer: "2.5 kg. – 3.5 kg."
+},
+
+{
+    question: "woolii clothes in kinaaroN to by is given",
+    option: [
+        "pico",
+        "run",
+        "spread",
+        "French"
+    ],
+    answer: "pico"
+},
+
+{
+    question: "mutilated cheque to what called are?",
+    option: [
+        "mutilated cheque",
+        "blank cheque",
+        "limited amount cheque",
+        "All of these"
+    ],
+    answer: "mutilated cheque"
+},
+
+{
+    question: "Which of these domestic function shared by husband and wife done go should?",
+    option: [
+        "washing clothes",
+        "cooking",
+        "washing dishes",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "dehydration because of mrne which patient to by giving to drink can be saved-",
+    option: [
+        "ORS",
+        "tea",
+        "boiled water",
+        "lemon water"
+    ],
+    answer: "ORS"
+},
+
+{
+    question: "Which of these start of days in children of care under comes",
+    option: [
+        "children to warm keep",
+        "umbilical cord care",
+        "giving only mother's milk",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "energy-giving foods what are?",
+    option: [
+        "protein",
+        "carbohydrate",
+        "fat",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "urban areas in Which of these-sii activity daily is?",
+    option: [
+        "defecating in the open",
+        "smoking in public places",
+        "playing loudspeakers",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "bank functions of are-",
+    option: [
+        "opening accounts",
+        "public money in various schemes deposit to do",
+        "on demand returning money by cheque, draft, etc.",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "ddiittiipii of first vaccine when seems is?",
+    option: [
+        "two month on",
+        "three month on",
+        "four month on",
+        "one month on"
+    ],
+    answer: "one month on"
+},
+
+{
+    question: "fat following substance in from in which is found?",
+    option: [
+        "butter",
+        "sugar",
+        "gram",
+        "pulses"
+    ],
+    answer: "butter"
+},
+
+{
+    question: "tea of stain which class in comes is?",
+    option: [
+        "vegetable stains",
+        "animal stains",
+        "grease stains",
+        "mineral stains"
+    ],
+    answer: "vegetable stains"
+},
+
+{
+    question: "milk most good source is-",
+    option: [
+        "calcium of",
+        "Vitamin A of",
+        "Vitamin-D of",
+        "carbohydrate of"
+    ],
+    answer: "calcium of"
+},
+
+{
+    question: "village in smucit hygiene jimmedaarii is:",
+    option: [
+        "village of people of",
+        "health worker of",
+        "Gram Panchayat of",
+        "All of these of"
+    ],
+    answer: "All of these of"
+},
+
+{
+    question: "Which of the following vegetable stain is not?",
+    option: [
+        "rsdaar vegetable",
+        "coffee",
+        "fruit",
+        "flower"
+    ],
+    answer: "rsdaar vegetable"
+},
+
+{
+    question: "one person of water need for depends does is-",
+    option: [
+        "on weather",
+        "on eating habits",
+        "on activity",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following school in phnaa going which clothing is?",
+    option: [
+        "sportswear",
+        "NCC uniform",
+        "uniform",
+        "All of these"
+    ],
+    answer: "uniform"
+},
+
+{
+    question: "following in silk fibers of which-sii characteristic is?",
+    option: [
+        "warm",
+        "easy dyeing",
+        "light in weight",
+        "elastic"
+    ],
+    answer: "light in weight"
+},
+
+{
+    question: "carbohydrate following substance in from in which is found?",
+    option: [
+        "milk",
+        "almond",
+        "cashew",
+        "potato"
+    ],
+    answer: "potato"
+},
+
+{
+    question: "temporary teeth of sNkhyaa occurs-",
+    option: [
+        "10",
+        "15",
+        "20",
+        "25"
+    ],
+    answer: "20"
+},
+
+{
+    question: "Which of the following motor development is not?",
+    option: [
+        "holding the head",
+        "speaking",
+        "crawling",
+        "grasping"
+    ],
+    answer: "speaking"
+},
+
+{
+    question: "dining of psychological function what is?",
+    option: [
+        "provide satisfaction",
+        "keep energetic",
+        "keep healthy",
+        "None of these"
+    ],
+    answer: "provide satisfaction"
+},
+
+{
+    question: "interest and dividends Family income of which-saa type is?",
+    option: [
+        "Monetary income",
+        "Direct real income",
+        "Indirect real income",
+        "psychic income"
+    ],
+    answer: "Monetary income"
+},
+
+{
+    question: "ICDSOS establishment In which year was?",
+    option: [
+        "1975",
+        "1979",
+        "1960",
+        "1990"
+    ],
+    answer: "1975"
+},
+
+{
+    question: "The Government of India Unit Trust of India when was established of?",
+    option: [
+        "1965 AD in",
+        "1964 AD in",
+        "1968 AD in",
+        "1970 AD in"
+    ],
+    answer: "1964 AD in"
+},
+
+{
+    question: "in a garment which place on buttons used to fasten the garment etc applied go is use called is ?",
+    option: [
+        "placket",
+        "buckle",
+        "embroidery",
+        "hook-and-eye"
+    ],
+    answer: "placket"
+},
+
+{
+    question: "which element development to prbhaavit not does?",
+    option: [
+        "nutrition",
+        "money",
+        "endocrine glands",
+        "disease and injury"
+    ],
+    answer: "money"
+},
+
+{
+    question: "to look taller on clothes stripes honii should?",
+    option: [
+        "diagonal",
+        "curved",
+        "vertical",
+        "broad"
+    ],
+    answer: "vertical"
+},
+
+{
+    question: "primary color how many are?",
+    option: [
+        "3",
+        "4",
+        "5",
+        "8"
+    ],
+    answer: "3"
+},
+
+{
+    question: "high quality means-",
+    option: [
+        "craftsmanship",
+        "goods",
+        "design",
+        "All of these"
+    ],
+    answer: "craftsmanship"
+},
+
+{
+    question: "Which of these animal stain is?",
+    option: [
+        "milk",
+        "tea",
+        "flower",
+        "vegetable"
+    ],
+    answer: "milk"
+},
+
+{
+    question: "what type of clothes to starch is done?",
+    option: [
+        "polyester",
+        "cotton",
+        "woolii",
+        "terylene"
+    ],
+    answer: "cotton"
+},
+
+{
+    question: "Which of the following pregnancy test is?",
+    option: [
+        "urine test",
+        "blood test",
+        "weight check",
+        "All of these"
+    ],
+    answer: "urine test"
+},
+
+{
+    question: "quality change according to how many types of diet of are?",
+    option: [
+        "four",
+        "three",
+        "five",
+        "two"
+    ],
+    answer: "three"
+},
+
+{
+    question: "which cheque on any amount not likhii be use what called are?",
+    option: [
+        "mutilated cheque",
+        "nisaar cheque",
+        "limited amount cheque",
+        "blank cheque"
+    ],
+    answer: "blank cheque"
+},
+
+{
+    question: "wool of fibers in is-",
+    option: [
+        "carbon",
+        "oxygen",
+        "nitrogen",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "prsvopraaNt period gNbhiir is",
+    option: [
+        "mother for",
+        "child for",
+        "both for",
+        "both for not"
+    ],
+    answer: "both for"
+},
+
+{
+    question: "how many percent water deficiency of from children of death be goes is?",
+    option: [
+        "20",
+        "40",
+        "30",
+        "35"
+    ],
+    answer: "20"
+},
+
+{
+    question: "AGMARK of full name what is?",
+    option: [
+        "Agriculture maarkeddaaij",
+        "Agriculture mainejmeNtt",
+        "Agriculture maarkettiNg",
+        "egro maarkettiNg"
+    ],
+    answer: "Agriculture maarkettiNg"
+},
+
+{
+    question: "carbohydrate of most srl form is-",
+    option: [
+        "phrkttoj",
+        "glucose",
+        "gailekttoj",
+        "All of these"
+    ],
+    answer: "glucose"
+},
+
+{
+    question: "Which of these food spoilage of external kaark is not?",
+    option: [
+        "bacteria",
+        "chemical substance",
+        "enzyme",
+        "external impact"
+    ],
+    answer: "enzyme"
+},
+
+{
+    question: "du:khd sNved of udaahrnn is-",
+    option: [
+        "hrss",
+        "affection",
+        "anger",
+        "jijnyaasaa"
+    ],
+    answer: "anger"
+},
+
+{
+    question: "shiitltaa provide doing which color use of which form in to do should?",
+    option: [
+        "bedroom",
+        "kicn",
+        "drawing room",
+        "baathruum"
+    ],
+    answer: "bedroom"
+},
+
+{
+    question: "kukur khaaNsii from protection for which-saa vaccine is applied?",
+    option: [
+        "biisiijii",
+        "ddiittiipii",
+        "polio",
+        "ttittnes"
+    ],
+    answer: "ddiittiipii"
+},
+
+{
+    question: "paak activity from dining be goes is-",
+    option: [
+        "supaacy",
+        "apaacy",
+        "destroyed",
+        "expensive"
+    ],
+    answer: "supaacy"
+},
+
+{
+    question: "fiber jo mjbuut is v rssiyaaN making in work comes is-",
+    option: [
+        "cotton",
+        "reyoNn",
+        "silk",
+        "nylon"
+    ],
+    answer: "cotton"
+},
+
+{
+    question: "30 September, 1993 according to Anganwadi scheme of under how many crore children and mothers complementary nutrition obtained by rhe the?",
+    option: [
+        "2.04",
+        "1.95",
+        "1.55",
+        "3.02"
+    ],
+    answer: "1.95"
+},
+
+{
+    question: "standardization mark drshaataa is-",
+    option: [
+        "item of quality",
+        "item in adulteration",
+        "item of type",
+        "None of these"
+    ],
+    answer: "item of quality"
+},
+
+{
+    question: "suujnii suii craft which raajy of craft is?",
+    option: [
+        "pNjaab",
+        "gujraat",
+        "bihaar",
+        "oddishaa"
+    ],
+    answer: "bihaar"
+},
+
+{
+    question: "kRtrim clothes from blood of stain following in from from whom chudd'aayaa jaa can is?",
+    option: [
+        "bliiciNg powder",
+        "stii",
+        "salt",
+        "terylene"
+    ],
+    answer: "bliiciNg powder"
+},
+
+{
+    question: "praamaannik field in which land pollution of cause is not?",
+    option: [
+        "drains of water",
+        "open kssetroN in feces tyaag",
+        "pesticide",
+        "forests of cutting"
+    ],
+    answer: "drains of water"
+},
+
+{
+    question: "Which of these food items related to standard prmaannn mark is?",
+    option: [
+        "Hallmark",
+        "AGMARK",
+        "bulmaark",
+        "All of the above"
+    ],
+    answer: "AGMARK"
+},
+
+{
+    question: "digestion, absorption and cyaapcy in water which source from help does is?",
+    option: [
+        "laar grNthiyoN from niklaa water",
+        "above from piyaa was water",
+        "food items from niklaa water",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "any milaavttii goods of ntr eyes by address applied jaa can is?",
+    option: [
+        "water",
+        "starch",
+        "vnspti ghee",
+        "ppiite of seeds"
+    ],
+    answer: "ppiite of seeds"
+},
+
+{
+    question: "secondary color how many primary rNgoN of mixture from becomes is?",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "two"
+},
+
+{
+    question: "vstuoN to jlaane in which-sii gas produced occurs?",
+    option: [
+        "oxygen",
+        "carbon ddaaioNksaaidd",
+        "nitrogen",
+        "amoniyaa"
+    ],
+    answer: "carbon ddaaioNksaaidd"
+},
+
+{
+    question: "which vitamin deficiency of from children in organs of asthiyaaN mudd' goes are?",
+    option: [
+        "vitamin-A",
+        "vitamin-B",
+        "vitamin-C",
+        "Vitamin-D"
+    ],
+    answer: "Vitamin-D"
+},
+
+{
+    question: "prtivrss 30 October to which-saa day mnaayaa goes is",
+    option: [
+        "world saving day",
+        "world food security day",
+        "child day",
+        "mjduur day"
+    ],
+    answer: "world saving day"
+},
+
+{
+    question: "Which of the following Food preservation of profit is?",
+    option: [
+        "food of spoilage from protection",
+        "year bhr food of availability",
+        "food of svaad brkraar",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following milk in milaayaa going adulterant is not?",
+    option: [
+        "water",
+        "starch",
+        "milk powder",
+        "wheat powder"
+    ],
+    answer: "wheat powder"
+},
+
+{
+    question: "bank following in from whose viruddh loan not gives is?",
+    option: [
+        "sone of ornament",
+        "elaaiisii (LIC) poNlisii",
+        "national saving proof letter",
+        "loNttrii ttiktt"
+    ],
+    answer: "loNttrii ttiktt"
+},
+
+{
+    question: "following in from kise reshoN of raanii said goes is?",
+    option: [
+        "cotton",
+        "silk",
+        "reyoNn",
+        "wool"
+    ],
+    answer: "silk"
+},
+
+{
+    question: "Home science means-",
+    option: [
+        "home of prbndhn doing which viknowledge",
+        "apne resources of management doing of art",
+        "home to sjaane of art",
+        "home in function doing of viknowledge"
+    ],
+    answer: "apne resources of management doing of art"
+},
+
+{
+    question: "moisture containing on garments which ciij of stain lg goes is?",
+    option: [
+        "phphuuNdii",
+        "khmiir",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "Meal planning from whose saving occurs?",
+    option: [
+        "time",
+        "mehnt",
+        "fuel",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "food cooking in time and shrm protecting which which upkrnn use of is not done is?",
+    option: [
+        "ttosttr",
+        "pressure cooker",
+        "phrij",
+        "maaikrovev ovn"
+    ],
+    answer: "phrij"
+},
+
+{
+    question: "drinking of water to clean doing for following in from whose is used?",
+    option: [
+        "salt",
+        "glucose",
+        "sodium",
+        "chlorine"
+    ],
+    answer: "chlorine"
+},
+
+{
+    question: "which-sii human activity pryaavrnniiy nimniikrnn of kaark is?",
+    option: [
+        "population visphott",
+        "forests of cutting",
+        "ngriikrnn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "woolii clothing to Which of the following from water in wash should?",
+    option: [
+        "cold",
+        "warm",
+        "lukewarm",
+        "All of these"
+    ],
+    answer: "lukewarm"
+},
+
+{
+    question: "water of which-saa source contaminated not may cause?",
+    option: [
+        "river",
+        "jhiil",
+        "kuaaN",
+        "bhuumigt water"
+    ],
+    answer: "bhuumigt water"
+},
+
+{
+    question: "mental deficiency how many types of are?",
+    option: [
+        "four",
+        "five",
+        "three",
+        "two"
+    ],
+    answer: "three"
+},
+
+{
+    question: "dining to chuune from puurv v pshcaat hand washing should-",
+    option: [
+        "soil from",
+        "raakh from",
+        "soap from",
+        "maatr water from"
+    ],
+    answer: "soap from"
+},
+
+{
+    question: "clothes of choice in which-which baatoN on dhyaan give should?",
+    option: [
+        "clothes of kism",
+        "clothes of sewing",
+        "style and phaishn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in which Human resource is notN?",
+    option: [
+        "energy",
+        "time",
+        "skill",
+        "money"
+    ],
+    answer: "money"
+},
+
+{
+    question: "Which of these prsvopraaNt period in mother of direct care is not?",
+    option: [
+        "Breastfeeding",
+        "Personal hygiene",
+        "vishraam and sleep",
+        "best possaahaar"
+    ],
+    answer: "vishraam and sleep"
+},
+
+{
+    question: "jNg of stain is-",
+    option: [
+        "animal stain",
+        "mineral stain",
+        "grease containing stain",
+        "vegetable stain"
+    ],
+    answer: "mineral stain"
+},
+
+{
+    question: "knowledgeaatmk development of how many avsthaaeN are?",
+    option: [
+        "five",
+        "two",
+        "four",
+        "seven"
+    ],
+    answer: "four"
+},
+
+{
+    question: "Food adulteration nivaarnn Act when implemented was?",
+    option: [
+        "1955",
+        "1956",
+        "1954",
+        "1965"
+    ],
+    answer: "1954"
+},
+
+{
+    question: "red and piile color of sNyog from which-saa color becomes is?",
+    option: [
+        "orange",
+        "purple",
+        "green",
+        "ktthii color"
+    ],
+    answer: "orange"
+},
+
+{
+    question: "khushii, aatmiiytaa and ruuplaapn symbolizes-",
+    option: [
+        "yellow",
+        "green",
+        "red",
+        "black"
+    ],
+    answer: "yellow"
+},
+
+{
+    question: "salt in which-saa mineral milaayaa goes is?",
+    option: [
+        "kailsiym",
+        "loh element",
+        "iodine",
+        "pottaashiym"
+    ],
+    answer: "iodine"
+},
+
+{
+    question: "Which of the following shiighr destroyed occurring Food items is?",
+    option: [
+        "milk",
+        "gram",
+        "flour",
+        "rice"
+    ],
+    answer: "milk"
+},
+
+{
+    question: "food handler of which aspect from cooking prbhaavit does not occur?",
+    option: [
+        "health",
+        "knowledge",
+        "hygiene",
+        "aadteN"
+    ],
+    answer: "aadteN"
+},
+
+{
+    question: "ngroN in water obtained doing is a source ofN-",
+    option: [
+        "wells",
+        "voNttrvrks",
+        "haiNddpmp",
+        "ttyuubvel"
+    ],
+    answer: "voNttrvrks"
+},
+
+{
+    question: "clean, clean, vikaarhit symbolizes-",
+    option: [
+        "black",
+        "green",
+        "white",
+        "yellow"
+    ],
+    answer: "white"
+},
+
+{
+    question: "following in from whose daily basis on requirement does not occur is?",
+    option: [
+        "jhaadd'uu planting",
+        "mkdd' jaaloN of cleaning",
+        "jhaadd'naa",
+        "plant planting"
+    ],
+    answer: "mkdd' jaaloN of cleaning"
+},
+
+{
+    question: "human life in home of what mhttv is?",
+    option: [
+        "security for",
+        "status for",
+        "sthirtaa for",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "F.P.O. of full form what is?",
+    option: [
+        "Food proddktt order",
+        "mitt proddksn kNttrol order",
+        "invaayrmeNtt kNjrveshn order",
+        "None of these"
+    ],
+    answer: "Food proddktt order"
+},
+
+{
+    question: "purple color is-",
+    option: [
+        "primary",
+        "secondary",
+        "tertiary",
+        "None of these"
+    ],
+    answer: "secondary"
+},
+
+{
+    question: "Meal planning in Which of the following necessary is not?",
+    option: [
+        "vyNjn pustikaa",
+        "rsoiie characteristic of",
+        "cooking of utensils",
+        "time"
+    ],
+    answer: "rsoiie characteristic of"
+},
+
+{
+    question: "following in from which item on I.S.I. mark is applied?",
+    option: [
+        "powder milk",
+        "ghee",
+        "butter",
+        "food oil"
+    ],
+    answer: "powder milk"
+},
+
+{
+    question: "water of shuddhiikrnn of triikaa is-",
+    option: [
+        "filtering",
+        "chlorine use of",
+        "water shuddhiikrnn device",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "sukhd sNveg of udaahrnn is?",
+    option: [
+        "anger",
+        "affection",
+        "bhy",
+        "iirssyaa"
+    ],
+    answer: "affection"
+},
+
+{
+    question: "how many percent skuulii children in asmrthtaaeN occursN?",
+    option: [
+        "20%",
+        "5%",
+        "15%",
+        "18%"
+    ],
+    answer: "15%"
+},
+
+{
+    question: "consumer preservation Act under upbhoktaaoN to what-what right given was is?",
+    option: [
+        "choice of right",
+        "consumer education of right",
+        "security of right",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "newborn baby within 24 hours how much der sotaa is?",
+    option: [
+        "9-10 hours",
+        "11-15 hours",
+        "16-18 hours",
+        "20-22 hours"
+    ],
+    answer: "16-18 hours"
+},
+
+{
+    question: "children of vaiklpik see-rekh need for occurs [2013A]",
+    option: [
+        "mother of sick pdd'ne on",
+        "pitaa of job on going on",
+        "Parents of anupsthiti in",
+        "All of these"
+    ],
+    answer: "Parents of anupsthiti in"
+},
+
+{
+    question: "human of muul requirement is not-",
+    option: [
+        "mnorNjn",
+        "dining",
+        "clothing",
+        "aavaas"
+    ],
+    answer: "mnorNjn"
+},
+
+{
+    question: "suury of roshnii from which-saa vitamin is received is?",
+    option: [
+        "vitamin-A",
+        "vitamin-B",
+        "vitamin-C",
+        "Vitamin-D"
+    ],
+    answer: "Vitamin-D"
+},
+
+{
+    question: "home expense rikoNrdd keeping from-",
+    option: [
+        "expenditure good trh done jaa can is",
+        "apvyy to promotion given jaa can is",
+        "more expenditure on aNkush applied jaa can is",
+        "None of these"
+    ],
+    answer: "more expenditure on aNkush applied jaa can is"
+},
+
+{
+    question: "khesari pulses milaayii goes is-",
+    option: [
+        "muuNg pulses in",
+        "msuur pulses in",
+        "pigeon pea pulses in",
+        "urad pulses in"
+    ],
+    answer: "pigeon pea pulses in"
+},
+
+{
+    question: "Monetary income Which of the following is?",
+    option: [
+        "skuuttr",
+        "kaar",
+        "tnkhvaah",
+        "All of these"
+    ],
+    answer: "tnkhvaah"
+},
+
+{
+    question: "Which of the following disease Air pollution because of occurs?",
+    option: [
+        "diabetes",
+        "asthma",
+        "malaria",
+        "dysentery"
+    ],
+    answer: "asthma"
+},
+
+{
+    question: "saving surkssit not does is-",
+    option: [
+        "bhuutkaal",
+        "vrtmaan kaal",
+        "bhvissykaal",
+        "appropriate all"
+    ],
+    answer: "bhuutkaal"
+},
+
+{
+    question: "soap making in is used",
+    option: [
+        "fat",
+        "alkali",
+        "besn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "mental deficiency how many types of occurs?",
+    option: [
+        "five",
+        "seven",
+        "nine",
+        "ten"
+    ],
+    answer: "nine"
+},
+
+{
+    question: "Which of the following scheme ddaakghr from sNcaalit occurs?",
+    option: [
+        "national saving letter",
+        "farmer development letter",
+        "(A) and (B) both",
+        "None of these"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "Which of the following Food preservation of physical method is?",
+    option: [
+        "dehydration",
+        "ghrii himiikirnn",
+        "paashcuriikrnn",
+        "fermentation"
+    ],
+    answer: "dehydration"
+},
+
+{
+    question: "decay disease phailne of maadhym is-",
+    option: [
+        "contaminated air",
+        "polluted dining",
+        "polluted soil",
+        "All of these"
+    ],
+    answer: "contaminated air"
+},
+
+{
+    question: "Which of these man reproduction system of part is not?",
+    option: [
+        "shukraashy",
+        "testes",
+        "prosttett gland",
+        "ovary mii"
+    ],
+    answer: "ovary mii"
+},
+
+{
+    question: "Which of the following Food items in adulteration of address applying method of is?",
+    option: [
+        "dRshy test",
+        "chemical test",
+        "physical test",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "kRtrim/lupt organ which children of special requirement which-which sii are?",
+    option: [
+        "natural medical treatment",
+        "physical requirements",
+        "shaikssnnik requirements",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following toxic dining of lkssnn is?",
+    option: [
+        "jii miclaanaa",
+        "vomiting",
+        "dst",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in whose assistance adulteration rokne in apekssit is?",
+    option: [
+        "food niriikssk",
+        "common man",
+        "Food adulteration nivaarnn Act",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "clothes to sukhaane of best method is-",
+    option: [
+        "sunlight and air by",
+        "idhr by",
+        "istrii by",
+        "hiittr by"
+    ],
+    answer: "sunlight and air by"
+},
+
+{
+    question: "investment of means what are?",
+    option: [
+        "bank",
+        "ddaakghr",
+        "baajaar",
+        "(A) and (B) both"
+    ],
+    answer: "(A) and (B) both"
+},
+
+{
+    question: "Which of these most mjbuut fiber is?",
+    option: [
+        "wool",
+        "cotton",
+        "silk",
+        "siNthettik"
+    ],
+    answer: "silk"
+},
+
+{
+    question: "mother of milk in paaye jaanevaale ennttiiboNddiij provide do are-",
+    option: [
+        "disease-rodhn capacity",
+        "infection",
+        "cleaning",
+        "visNkrmnn"
+    ],
+    answer: "disease-rodhn capacity"
+},
+
+{
+    question: "decorative citr which kmre in planting should?",
+    option: [
+        "drawing room",
+        "bedd room",
+        "rsoii home",
+        "baathruum"
+    ],
+    answer: "drawing room"
+},
+
+{
+    question: "ekiikRt child development scheme of start of was?",
+    option: [
+        "1960 AD in",
+        "1975 AD in",
+        "1980 AD in",
+        "1990 AD in"
+    ],
+    answer: "1975 AD in"
+},
+
+{
+    question: "pregnancy in blood in which element deficiency of be goes is?",
+    option: [
+        "thiamine",
+        "iron element",
+        "niacin",
+        "calories"
+    ],
+    answer: "iron element"
+},
+
+{
+    question: "ttaayphoNydd and cholera biimaariyaaN which infection from occursN?",
+    option: [
+        "water",
+        "dining",
+        "appropriate both",
+        "both in from any not"
+    ],
+    answer: "appropriate both"
+},
+
+{
+    question: "O.R.S. beverage making for ise whose with receive should?",
+    option: [
+        "milk",
+        "juus",
+        "suup",
+        "any not"
+    ],
+    answer: "any not"
+},
+
+{
+    question: "growth and development to prbhaavit krnevaalaa kaark is-",
+    option: [
+        "nutrition",
+        "endocrine glands",
+        "vaataavrnn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "following in which buniyaadii jruurtoN of suucii in shaamil is?",
+    option: [
+        "aavaas",
+        "clothing",
+        "dining",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "kiidd'oN to clothes from far keeping for following in from whichuse of to do should?",
+    option: [
+        "dry niim of pttiyaaN",
+        "naiphthliin of goliyaaN",
+        "smaacaar-letter of syaahii",
+        "All of these"
+    ],
+    answer: "dry niim of pttiyaaN"
+},
+
+{
+    question: "one grams in fat how many calories occurs?",
+    option: [
+        "5 calories",
+        "6 calories",
+        "7 calories",
+        "9 calories"
+    ],
+    answer: "9 calories"
+},
+
+{
+    question: "Which of the following-one aaii.es.aaii. mark product is? [2021A]",
+    option: [
+        "gas stove",
+        "jam",
+        "sonaa",
+        "ghee"
+    ],
+    answer: "gas stove"
+},
+
+{
+    question: "plaikett called are",
+    option: [
+        "turpn",
+        "sewing",
+        "jodd'",
+        "buttons of pttttii"
+    ],
+    answer: "buttons of pttttii"
+},
+
+{
+    question: "pesticide dvaaiyoN of kuprbhaav far doing for materials to good trh should-",
+    option: [
+        "wash",
+        "keep",
+        "cooking",
+        "decorate"
+    ],
+    answer: "wash"
+},
+
+{
+    question: "following in which one gRhinnii of prmukh krtvy is not?",
+    option: [
+        "home of prbNdhn",
+        "family for kmaanaa",
+        "domestic maamloN of prbNdhn",
+        "family of members of care"
+    ],
+    answer: "family for kmaanaa"
+},
+
+{
+    question: "following from which-saa clothes to nuksaan phuNcaataa is?",
+    option: [
+        "tilcttttaa",
+        "silvr phish",
+        "flies",
+        "khttml"
+    ],
+    answer: "silvr phish"
+},
+
+{
+    question: "Which of the following element development to prbhaavit not does?",
+    option: [
+        "disease and injury",
+        "nutrition",
+        "vaataavrnn",
+        "money"
+    ],
+    answer: "money"
+},
+
+{
+    question: "family life cycle to mukhytH how many bhaagoN in baaNttaa was is?",
+    option: [
+        "5",
+        "6",
+        "7",
+        "4"
+    ],
+    answer: "4"
+},
+
+{
+    question: "which biNdu to clothing khriidte time dhyaan in not rkhaa goes is?",
+    option: [
+        "silvtt avrodhktaa",
+        "koml",
+        "color of tiivrtaa",
+        "washing in ease"
+    ],
+    answer: "koml"
+},
+
+{
+    question: "one milk pilaanevaalii mother to before six months daily diet in how much additional protein give should?",
+    option: [
+        "10 grams",
+        "17 grams",
+        "15 grams",
+        "25 grams"
+    ],
+    answer: "17 grams"
+},
+
+{
+    question: "mnussy of daily need foroN to how many bhaagoN in baaNttte are?",
+    option: [
+        "4",
+        "3",
+        "2",
+        "6"
+    ],
+    answer: "3"
+},
+
+{
+    question: "plant of Which of the following part eating yogy is?",
+    option: [
+        "seeds",
+        "ptte",
+        "flower",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "by whom body of suukssmtm unit (koshikaa) of rgram occurs?",
+    option: [
+        "energy",
+        "protein",
+        "mineral salts",
+        "iodine"
+    ],
+    answer: "protein"
+},
+
+{
+    question: "following in which correct is not?",
+    option: [
+        "feces-urine water in aghulnshiil is",
+        "water dining to balanced does hai / ",
+        "dehydration ghaatk may cause / ",
+        "water of obtaining dining from occurs"
+    ],
+    answer: "feces-urine water in aghulnshiil is"
+},
+
+{
+    question: "body of uutkoN of muul basis is-",
+    option: [
+        "sodium",
+        "fat",
+        "phloraaidd",
+        "water"
+    ],
+    answer: "water"
+},
+
+{
+    question: "following in from utensils to from whom clean to do should?",
+    option: [
+        "raakh",
+        "soap",
+        "viim",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "bhaarii kd which mhilaaoN to which-from line which clothing phnnaa proper remains is?",
+    option: [
+        "horizontal line",
+        "curved line",
+        "diagonal line",
+        "vertical line which"
+    ],
+    answer: "vertical line which"
+},
+
+{
+    question: "quality of mark is",
+    option: [
+        "sewing",
+        "bNdhk",
+        "astr",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "basis kaardd on following in from whose ullekh is not?",
+    option: [
+        "age",
+        "name",
+        "jaati",
+        "address"
+    ],
+    answer: "jaati"
+},
+
+{
+    question: "Water pollution rokne for which-saa chemical substance is used?",
+    option: [
+        "sodium kloraaidd",
+        "calcium kloraaidd",
+        "pottaishiym mettaabaaislphett",
+        "bliciNg powder"
+    ],
+    answer: "bliciNg powder"
+},
+
+{
+    question: "children in asmrthtaa be sktii is-",
+    option: [
+        "birth-puurv from",
+        "at birth from",
+        "birth of pshcaat from",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "water of sNrgram occurs-",
+    option: [
+        "oxygen and haaiddrojn from",
+        "nitrogen from",
+        "chlorine from",
+        "hiiliym from"
+    ],
+    answer: "oxygen and haaiddrojn from"
+},
+
+{
+    question: "infant to bii.sii.jii. of vaccine when is applied?",
+    option: [
+        "four month",
+        "five month",
+        "three month",
+        "two month"
+    ],
+    answer: "three month"
+},
+
+{
+    question: "following in from in which Vitamin C prcur quantity in is found?",
+    option: [
+        "lemon",
+        "laukii",
+        "potato",
+        "baiNgn"
+    ],
+    answer: "lemon"
+},
+
+{
+    question: "Which of these ekbaar of investment is not?",
+    option: [
+        "fixed-term deposit",
+        "national saving proof letter",
+        "ddaakghr monthly income scheme",
+        "farmer development letter"
+    ],
+    answer: "ddaakghr monthly income scheme"
+},
+
+{
+    question: "mother of milk",
+    option: [
+        "adulterated not be can",
+        "if child to diarrhea is then also given jaa can hai / ",
+        "only children for sNtossprd is",
+        "always taajaa is"
+    ],
+    answer: "always taajaa is"
+},
+
+{
+    question: "following in nylon fibers of which-sii characteristic is?",
+    option: [
+        "warm",
+        "tthNdde",
+        "light in weight",
+        "diirghtaa and lck"
+    ],
+    answer: "diirghtaa and lck"
+},
+
+{
+    question: "bank saving deposit on interest of bhugtaan how is done?",
+    option: [
+        "prtimaah",
+        "timaahii",
+        "ardhvaarssik",
+        "annual"
+    ],
+    answer: "timaahii"
+},
+
+{
+    question: "Interior decoration is an expression of",
+    option: [
+        "taste",
+        "skill",
+        "proper use of money",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "birth from only infant in which sNveg of prdrshn is",
+    option: [
+        "pyaar",
+        "anger",
+        "bhy",
+        "naapsNd"
+    ],
+    answer: "pyaar"
+},
+
+{
+    question: "vertical and mottii woman for which-from line which clothing proper remain are?",
+    option: [
+        "horizontal line",
+        "vertical line",
+        "diagonal line",
+        "curved line"
+    ],
+    answer: "diagonal line"
+},
+
+{
+    question: "khsre of vaccine when is applied?",
+    option: [
+        "five mhiinaa on",
+        "nine mhiinaa on",
+        "ten mhiinaa on",
+        "one year on"
+    ],
+    answer: "nine mhiinaa on"
+},
+
+{
+    question: "Which of these investment aaykr from chuutt not gives is?",
+    option: [
+        "fixed-term deposit",
+        "national saving proof letter",
+        "pblik bhvissy nidhi",
+        "life insurance"
+    ],
+    answer: "fixed-term deposit"
+},
+
+{
+    question: "wheat, rice and baajraa in adhiktr milaaye go are-",
+    option: [
+        "ddnnddl",
+        "kNkdd', ptthr, soil",
+        "lohe of cuuraa",
+        "ttailkm powder"
+    ],
+    answer: "kNkdd', ptthr, soil"
+},
+
+{
+    question: "alkali of smprk in coming from woolii clothing",
+    option: [
+        "nikhr go are",
+        "destroyed be go are",
+        "mjbuut be go are",
+        "any effect not falls is"
+    ],
+    answer: "destroyed be go are"
+},
+
+{
+    question: "Which of the following water to pure doing of domestic method is?",
+    option: [
+        "boiling",
+        "kloriiniikrnn",
+        "filtering",
+        "All of these"
+    ],
+    answer: "boiling"
+},
+
+{
+    question: "protein following substance in from in which is found?",
+    option: [
+        "sugar",
+        "ghee",
+        "oil",
+        "pulses"
+    ],
+    answer: "pulses"
+},
+
+{
+    question: "Which of the following home on Food preservation of most common triikaa is?",
+    option: [
+        "ddibbaabNdii",
+        "drying",
+        "himiikirnn",
+        "All of these"
+    ],
+    answer: "drying"
+},
+
+{
+    question: "following in which food cooking of cause is not?",
+    option: [
+        "dining to more svaadisstt making",
+        "dining to use for surkssit making",
+        "dining of quantity bddh'aanaa",
+        "dining to pcaane in easy making"
+    ],
+    answer: "dining of quantity bddh'aanaa"
+},
+
+{
+    question: "sundr cttkiile rNgoN of of the garment use is-",
+    option: [
+        "marriage-marriage in",
+        "oNphis in",
+        "hospital in",
+        "school-college in"
+    ],
+    answer: "marriage-marriage in"
+},
+
+{
+    question: "soap production of mixture from is",
+    option: [
+        "oil-water from",
+        "kaimikl from",
+        "fat and alkali from",
+        "None of these"
+    ],
+    answer: "fat and alkali from"
+},
+
+{
+    question: "vegetable stain-dhbboN to which maadhym by httaayaa goes is?",
+    option: [
+        "boreks",
+        "amoniyaa",
+        "vaashiNg soddaa",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "sNvedaatmk development how many types of are?",
+    option: [
+        "three",
+        "two",
+        "one",
+        "four"
+    ],
+    answer: "two"
+},
+
+{
+    question: "Which of the following Interior decoration of one field is?",
+    option: [
+        "baagiice of decoration",
+        "cht of decoration",
+        "aas-near of decoration",
+        "kmroN of decoration"
+    ],
+    answer: "kmroN of decoration"
+},
+
+{
+    question: "physical development of most important stage is-",
+    option: [
+        "shaishvaavsthaa",
+        "baalyaavsthaa",
+        "prauddh'aavsthaa",
+        "old age"
+    ],
+    answer: "baalyaavsthaa"
+},
+
+{
+    question: "clothes hmaarii protection not do are :",
+    option: [
+        "weather from",
+        "kiitt from",
+        "shtru from",
+        "dhuul from"
+    ],
+    answer: "shtru from"
+},
+
+{
+    question: "Which of the following Natural fiber is?",
+    option: [
+        "silk",
+        "polyester",
+        "nylon",
+        "viskos"
+    ],
+    answer: "silk"
+},
+
+{
+    question: "pregnancy in requirement bddh' goes is-",
+    option: [
+        "protein of",
+        "calcium of",
+        "mineral salts of",
+        "iron element of"
+    ],
+    answer: "iron element of"
+},
+
+{
+    question: "Which of the following function self-employment and institution in employment both kssetroN in sNbhv is?",
+    option: [
+        "ddaaittishiyn",
+        "iNttiiriyr designr",
+        "byuuttiishiyn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "life insurance from profit is-",
+    option: [
+        "aaksmik death on economic assistance",
+        "aaykr from chuutt",
+        "saving of good means",
+        "these all"
+    ],
+    answer: "these all"
+},
+
+{
+    question: "plastic by mukhytH what type of pollution is?",
+    option: [
+        "land",
+        "noise",
+        "air",
+        "water"
+    ],
+    answer: "land"
+},
+
+{
+    question: "which employment, anytr employment and self-employment both kssetroN in sNbhv is ?",
+    option: [
+        "ddres designr",
+        "Interior decorationkaar",
+        "ddaayttiishiyn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "vikaasaatmk mnoviknowledge laabhdaayk is?",
+    option: [
+        "children for",
+        "abhibhaavkoN for",
+        "shiksskoN for",
+        "these all for"
+    ],
+    answer: "these all for"
+},
+
+{
+    question: "saving of mtlb is-",
+    option: [
+        "income to expense not to do",
+        "expense to less to do",
+        "expense after bcii amount",
+        "vilNbit expense"
+    ],
+    answer: "expense after bcii amount"
+},
+
+{
+    question: "following in from whose cleaning daily to do necessary is not?",
+    option: [
+        "phrsh",
+        "utensils",
+        "slaib",
+        "khidd'kii and drvaajaa"
+    ],
+    answer: "khidd'kii and drvaajaa"
+},
+
+{
+    question: "complete washing activity under which shaamil is not?",
+    option: [
+        "stain-stains remove",
+        "washing",
+        "drying",
+        "istrii to do"
+    ],
+    answer: "istrii to do"
+},
+
+{
+    question: "AGMARK of beginning when was?",
+    option: [
+        "1940 AD in",
+        "1945 AD in",
+        "1936 AD in",
+        "1938 AD in"
+    ],
+    answer: "1938 AD in"
+},
+
+{
+    question: "food hygiene to prbhaavit doing which Which of the following kaark are?",
+    option: [
+        "rsoii home of cleaning",
+        "dining of hstn in hygiene",
+        "Personal hygiene",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "saamudaayik sevaaeN iskaa most bdd'aa means are-",
+    option: [
+        "real direct income of",
+        "aatmik income of",
+        "indirect income of",
+        "Monetary income of"
+    ],
+    answer: "real direct income of"
+},
+
+{
+    question: "iodine deficiency of from which-saa disease is?",
+    option: [
+        "gheNghaa disease",
+        "diabetes",
+        "baunaapn",
+        "riketts"
+    ],
+    answer: "gheNghaa disease"
+},
+
+{
+    question: "bank of paasbuk from hmeN what jaankaarii is received is?",
+    option: [
+        "khaataadhaark of vivrnn",
+        "len-den of vivrnn",
+        "khaate of shess",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "consumer preservation Act 1986 to when implemented done was ?",
+    option: [
+        "10 May, 1986",
+        "15 April 1987",
+        "20 March, 1989",
+        "25 June, 1988"
+    ],
+    answer: "15 April 1987"
+},
+
+{
+    question: "vaiklpik see-rekh of meaning is",
+    option: [
+        "mother of sick pdd'ne on children of see-rekh",
+        "pitaa by children to see-rekh",
+        "Parents of anupsthiti in children of see-rekh",
+        "None of these"
+    ],
+    answer: "Parents of anupsthiti in children of see-rekh"
+},
+
+{
+    question: "The Government of India small udyogoN in assistance giving for which-sii institution establishment of is?",
+    option: [
+        "small industry sevaa institute",
+        "vRhd industry sevaa institute",
+        "private industry sevaa institute",
+        "All of these"
+    ],
+    answer: "small industry sevaa institute"
+},
+
+{
+    question: "cooking of correct upaay use doing from obtained are-",
+    option: [
+        "more hygiene",
+        "more paussttiktaa",
+        "more upyogitaa",
+        "None of these"
+    ],
+    answer: "more paussttiktaa"
+},
+
+{
+    question: "children to supossy making for what necessary is?",
+    option: [
+        "proper dining",
+        "good clothing",
+        "good home",
+        "proper nirdeshn"
+    ],
+    answer: "proper nirdeshn"
+},
+
+{
+    question: "which months in child binaa shaare khdd'aa may cause?",
+    option: [
+        "6 months in",
+        "7 months in",
+        "9-12 months in",
+        "12 months in"
+    ],
+    answer: "9-12 months in"
+},
+
+{
+    question: "water of nisskaasn does not occur-",
+    option: [
+        "gudaa from",
+        "phephdd'e from",
+        "pett from",
+        "tvcaa from"
+    ],
+    answer: "pett from"
+},
+
+{
+    question: "Which of the following children of family smaajiikrnn of means is not?",
+    option: [
+        "children of jnmkrm",
+        "Parents of relation",
+        "dostoN from relation",
+        "brother-bhnoN from relation"
+    ],
+    answer: "dostoN from relation"
+},
+
+{
+    question: "edds how phailtaa is?",
+    option: [
+        "hand milaane from",
+        "with-with khelne from",
+        "infected suiyoN from",
+        "water and dining from"
+    ],
+    answer: "infected suiyoN from"
+},
+
+{
+    question: "vh child jiskii physical, mental, bhaavaatmk and social kssmtaaeN normal from httkr occurs-",
+    option: [
+        "asmrth child is",
+        "skssm child is",
+        "andhaa child is",
+        "bhuraa child is"
+    ],
+    answer: "asmrth child is"
+},
+
+{
+    question: "complete pregnancy in grbhvtii woman to how many mg lohe to shossit to do jruurii is?",
+    option: [
+        "700-1000 mg",
+        "600-1000 mg",
+        "800-1000 mg",
+        "400-1000 mg"
+    ],
+    answer: "700-1000 mg"
+},
+
+{
+    question: "Which of the following family budget is?",
+    option: [
+        "balanced budget",
+        "saving of budget",
+        "both",
+        "None of these"
+    ],
+    answer: "balanced budget"
+},
+
+{
+    question: "Which of the following Noise pollution of normal source is?",
+    option: [
+        "loudspeaker",
+        "firecrackers",
+        "sdd'k traffic",
+        "house construction function"
+    ],
+    answer: "sdd'k traffic"
+},
+
+{
+    question: "vivRddhi from abhipraay is-",
+    option: [
+        "gunnaatmk development",
+        "sNkhyaatmk development",
+        "social development",
+        "knowledgeaatmk development"
+    ],
+    answer: "sNkhyaatmk development"
+},
+
+{
+    question: "sikkii craft in whichuse of is?",
+    option: [
+        "grass of",
+        "clothes of",
+        "jute of",
+        "dhaagaa of"
+    ],
+    answer: "grass of"
+},
+
+{
+    question: "rural field in which land pollution of cause is not?",
+    option: [
+        "drains of water",
+        "open field in feces tyaag",
+        "pesticide",
+        "forests of cutting"
+    ],
+    answer: "drains of water"
+},
+
+{
+    question: "boutique whichrelated to is ?",
+    option: [
+        "fabric construction",
+        "clothing design",
+        "of garments rNgaaii",
+        "All of these"
+    ],
+    answer: "clothing design"
+},
+
+{
+    question: "infant of most appropriate diet which-saa is?",
+    option: [
+        "gaay of milk",
+        "bhaiNs of milk",
+        "Mother's milk",
+        "honey"
+    ],
+    answer: "Mother's milk"
+},
+
+{
+    question: "children in vitamin-A deficiency of from which-saa disease is?",
+    option: [
+        "night blindness",
+        "berii-berii",
+        "polio",
+        "diarrhea"
+    ],
+    answer: "night blindness"
+},
+
+{
+    question: "Swachh Bharat Abhiyan Government of India by which tithi to aarmbh done was?",
+    option: [
+        "2 October, 2013",
+        "2 October, 2014",
+        "2 October, 2015",
+        "2 October, 2016"
+    ],
+    answer: "2 October, 2014"
+},
+
+{
+    question: "body from water of expenditure by whom does not occur?",
+    option: [
+        "shvsn",
+        "bathing",
+        "psiinaa",
+        "body of vrjy substance"
+    ],
+    answer: "bathing"
+},
+
+{
+    question: "milk of adulteration in which substance of is used?",
+    option: [
+        "saikrin",
+        "rodhk",
+        "additional water",
+        "anaanaas"
+    ],
+    answer: "additional water"
+},
+
+{
+    question: "sile-silaaye of garments shrenniyaaN occursN",
+    option: [
+        "one",
+        "two",
+        "three",
+        "four"
+    ],
+    answer: "three"
+},
+
+{
+    question: "Which of these of garments care is?",
+    option: [
+        "pin of saavdhaaniipuurvk use",
+        "phne were clothes to different keep",
+        "iron to do",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "Which of the following Home decoration of prmukh style is?",
+    option: [
+        "prmpraagt deshii style",
+        "videshii style",
+        "mishrit style",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "cotton clothing to Which of the following from water in wash should?",
+    option: [
+        "cold",
+        "warm",
+        "lukewarm",
+        "All of these"
+    ],
+    answer: "cold"
+},
+
+{
+    question: "dining in whichdeficiency of from mother and infant both to glgNdd and gheghaa disease being of sNbhaavnaa rhtii is?",
+    option: [
+        "sodium",
+        "calcium",
+        "iodine",
+        "phoNsphors"
+    ],
+    answer: "iodine"
+},
+
+{
+    question: "Which of the following protein of most smRddh source is?",
+    option: [
+        "urd pulses",
+        "mttr daanaa",
+        "pigeon pea pulses",
+        "soyaabiin"
+    ],
+    answer: "soyaabiin"
+},
+
+{
+    question: "Which of the following life insurance Corporation of profit is?",
+    option: [
+        "jokhim kvrej",
+        "loan facility",
+        "by-profit",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "money and sNptti to maanaa goes is-",
+    option: [
+        "human means",
+        "physical means",
+        "necessary means",
+        "haanikaark means"
+    ],
+    answer: "physical means"
+},
+
+{
+    question: "Family income to how many vrgoN in vibhaajit done jaa can is?",
+    option: [
+        "2",
+        "4",
+        "3",
+        "5"
+    ],
+    answer: "3"
+},
+
+{
+    question: "vh which-sii endocrine gland is jise maasttr gland said goes is?",
+    option: [
+        "piiyuuss gland",
+        "adhivRkk gland",
+        "thaairaaidd",
+        "thaaims"
+    ],
+    answer: "piiyuuss gland"
+},
+
+{
+    question: "following in from which opportunity on special garment need for does not occur is?",
+    option: [
+        "marriage",
+        "death",
+        "birth",
+        "paarttii"
+    ],
+    answer: "birth"
+},
+
+{
+    question: "ddaakghr in account khole go are-",
+    option: [
+        "puure family of combined",
+        "shikssnn institute of krmii of",
+        "maatr vyaapaarii class of",
+        "ekl or combined"
+    ],
+    answer: "ekl or combined"
+},
+
+{
+    question: "Interior decoration is not done is-",
+    option: [
+        "home in",
+        "shop in",
+        "public facility in",
+        "None of these"
+    ],
+    answer: "public facility in"
+},
+
+{
+    question: "natural asmrthtaa occurs-",
+    option: [
+        "polio because of aNgbhNgtaa",
+        "jo birth from occurs",
+        "vyskaavsthaa in viklaaNgtaa",
+        "None of these"
+    ],
+    answer: "jo birth from occurs"
+},
+
+{
+    question: "Which of these school in phnaa going which clothing is?",
+    option: [
+        "yuuniphaarm",
+        "en0sii0sii0",
+        "sportswear",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+
+{
+    question: "value of quality from what kind relation is ?",
+    option: [
+        "direct",
+        "crooked",
+        "proportional",
+        "All of these"
+    ],
+    answer: "direct"
+},
+
+{
+    question: "Water pollution because ofoN for main form from Which of the following jimmedaar is?",
+    option: [
+        "vnropnn",
+        "oil riphaainrii",
+        "kaagj kaarkhaanaa",
+        "(B) and (C) both"
+    ],
+    answer: "(B) and (C) both"
+},
+
+{
+    question: "Which of the following Home science of shaakhaa is not?",
+    option: [
+        "prsaar education",
+        "ddaayttettiks",
+        "clothing viknowledge",
+        "human development"
+    ],
+    answer: "ddaayttettiks"
+},
+
+{
+    question: "two year from six year up to of age to called are?",
+    option: [
+        "shaishvaavsthaa",
+        "baalyaavsthaa",
+        "adolescence",
+        "prauddh'aavsthaa"
+    ],
+    answer: "baalyaavsthaa"
+},
+
+{
+    question: "disease-nirodhk capacity how many types of occurs?",
+    option: [
+        "3",
+        "2",
+        "4",
+        "6"
+    ],
+    answer: "2"
+},
+
+{
+    question: "kuudd'edaan in whose chidd'kaav to do should?",
+    option: [
+        "salt of",
+        "sugar of",
+        "ddii.ttii.ttii. of",
+        "gobr of"
+    ],
+    answer: "ddii.ttii.ttii. of"
+},
+
+{
+    question: "one milk pilaane which mother to before six months daily of diet in how much additional protein give should?",
+    option: [
+        "20 grams",
+        "15 grams",
+        "17 grams",
+        "25 grams"
+    ],
+    answer: "20 grams"
+},
+
+{
+    question: "Vitamin C deficiency of from which-sii disease occurs?",
+    option: [
+        "night blindness",
+        "skrvii",
+        "anemia",
+        "beriiberii"
+    ],
+    answer: "skrvii"
+},
+
+{
+    question: "following in from which utensils in Food items to more time up to keeping on toxicity produced be goes is?",
+    option: [
+        "sttiil",
+        "taaNbaa",
+        "shiishaa",
+        "lohaa"
+    ],
+    answer: "taaNbaa"
+},
+
+{
+    question: "ddhoklaa which method from is made?",
+    option: [
+        "kinnvn",
+        "seNk by",
+        "vaasspn",
+        "tl by"
+    ],
+    answer: "vaasspn"
+},
+
+{
+    question: "Which of the following food toxicity of lkssnn is?",
+    option: [
+        "jii miclaanaa",
+        "vomiting",
+        "dst",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following dining to nutritious ttvoN from smRddh making method of is?",
+    option: [
+        "mixture",
+        "fermentation",
+        "aNkuriikrnn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which-saa disease air by not phailtaa is?",
+    option: [
+        "measles",
+        "cholera",
+        "srdii",
+        "decay disease"
+    ],
+    answer: "cholera"
+},
+
+{
+    question: "family for Meal planning ____basis on bnnii caahie / ",
+    option: [
+        "daily",
+        "saaptaahik",
+        "monthly",
+        "kbhii-kbhii"
+    ],
+    answer: "saaptaahik"
+},
+
+{
+    question: "one day in hours e.ttii.em. by how money nikaale jaa can are?",
+    option: [
+        "12",
+        "6",
+        "24",
+        "9"
+    ],
+    answer: "24"
+},
+
+{
+    question: "ghroN in sNgrhiikrnn for following in which-saa honaa jruurii is?",
+    option: [
+        "bhNddaargRh",
+        "kitchen",
+        "shynkkss",
+        "All of these"
+    ],
+    answer: "bhNddaargRh"
+},
+
+{
+    question: "ekiikRt child development scheme of lkssy group what is?",
+    option: [
+        "0-6 year of age of children",
+        "15-40 year of age of women",
+        "grbhvtii v Breastfeeding kraane which all mothers",
+        "uprokt all"
+    ],
+    answer: "uprokt all"
+},
+
+{
+    question: "rephriijrettr use of is?",
+    option: [
+        "refrigeration in",
+        "kinnvn in",
+        "dehydration in",
+        "None of these"
+    ],
+    answer: "refrigeration in"
+},
+
+{
+    question: "following in which dining bad being of cause is?",
+    option: [
+        "micro jiiv",
+        "air",
+        "temperature",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Contaminated water drinking from which-saa disease is?",
+    option: [
+        "polio",
+        "decay disease",
+        "diabetes",
+        "malaria"
+    ],
+    answer: "polio"
+},
+
+{
+    question: "msaaloN of adulteration in which-saa substance milaayaa goes is?",
+    option: [
+        "ghodd'e of liid",
+        "pigeon pea",
+        "gram pulses",
+        "rice"
+    ],
+    answer: "ghodd'e of liid"
+},
+
+{
+    question: "children to polio and DPT of buusttr ddoj At what age is given?",
+    option: [
+        "2-4 month",
+        "16-24 month",
+        "0-3 month",
+        "6-9 month"
+    ],
+    answer: "16-24 month"
+},
+
+{
+    question: "following in woolii fibers of which-sii characteristic is?",
+    option: [
+        "grmii",
+        "tthNdde",
+        "light in weight",
+        "elastic"
+    ],
+    answer: "grmii"
+},
+
+{
+    question: "natural fiber are-",
+    option: [
+        "silk",
+        "wool",
+        "jute",
+        "None of these"
+    ],
+    answer: "wool"
+},
+
+{
+    question: "Food items of spoilage of what cause is?",
+    option: [
+        "mausmii utaar-cddh'aav",
+        "micro bacteria",
+        "excessive grmii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "gudd' of adulteration in which-saa substance milaayaa goes is?",
+    option: [
+        "mettaanil yellow color",
+        "contaminated gnne of juice",
+        "bhiNddii kyuumises",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Man-made fiber is-",
+    option: [
+        "silk",
+        "wool",
+        "nylon",
+        "liln"
+    ],
+    answer: "nylon"
+},
+
+{
+    question: "following in from what type of dining in growth of bacteria tej gti from occurs?",
+    option: [
+        "proteincontaining dining",
+        "fatcontaining dining",
+        "mineral lvnnyukt dining",
+        "vittaaminyukt dining"
+    ],
+    answer: "proteincontaining dining"
+},
+
+{
+    question: "at birth Indian children of average length is-",
+    option: [
+        "40 cm.",
+        "80 cm.",
+        "50 cm.",
+        "30 cm."
+    ],
+    answer: "50 cm."
+},
+
+{
+    question: "ptlii woman for which-from line which clothing proper remain are?",
+    option: [
+        "horizontal line",
+        "vertical line",
+        "diagonal line",
+        "curved line"
+    ],
+    answer: "vertical line"
+},
+
+{
+    question: "one person of daily calories requirements which on depends not does are?",
+    option: [
+        "weight",
+        "activity level",
+        "age",
+        "economic condition"
+    ],
+    answer: "economic condition"
+},
+
+{
+    question: "following in physical deficiency which is?",
+    option: [
+        "congenital deformity",
+        "acquired defect",
+        "shrvnn-power",
+        "smallpox"
+    ],
+    answer: "shrvnn-power"
+},
+
+{
+    question: "dysentery from piidd'it children to given go should-",
+    option: [
+        "milk",
+        "ciiniiyukt warm milk",
+        "salted cold water",
+        "salt and sugar containing solution"
+    ],
+    answer: "salt and sugar containing solution"
+},
+
+{
+    question: "endocrine system related to nowadays of most common disease is-",
+    option: [
+        "diabetes",
+        "growth vikaar",
+        "sexual vikaar",
+        "reproduction"
+    ],
+    answer: "diabetes"
+},
+
+{
+    question: "eggs and sperm of combination of prkriyaa to called are-",
+    option: [
+        "fertilization",
+        "delivery",
+        "embryo",
+        "All of these"
+    ],
+    answer: "fertilization"
+},
+
+{
+    question: "Which of these wrong is? monthly cycle",
+    option: [
+        "blood of periodic flow is",
+        "always bhut painful is",
+        "pregnancy to chodd'kr one woman of entire reproduction period in is",
+        "None of these"
+    ],
+    answer: "always bhut painful is"
+},
+
+{
+    question: "Balanced diet n intake doing from what effect falls is?",
+    option: [
+        "weight in lack",
+        "physical effect of weakness",
+        "weakness",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "primitive human what type of used to wear clothes?",
+    option: [
+        "grass",
+        "tree of leaf",
+        "tree of bark",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "dining to protect should-",
+    option: [
+        "flies from",
+        "sunlight from",
+        "air from",
+        "water from"
+    ],
+    answer: "flies from"
+},
+
+{
+    question: "Which of the following Monetary income is not?",
+    option: [
+        "salary",
+        "family in doctor",
+        "rent",
+        "profit"
+    ],
+    answer: "family in doctor"
+},
+
+{
+    question: "by whom body of suukssmtm unit (koshikaa) of rgram occurs?",
+    option: [
+        "energy",
+        "protein",
+        "mineral salts",
+        "iodine"
+    ],
+    answer: "protein"
+},
+
+{
+    question: "Vitamin C following substance in from in which is found?",
+    option: [
+        "double bread",
+        "paneer",
+        "tomato",
+        "amla"
+    ],
+    answer: "amla"
+},
+
+{
+    question: "stain stains removing of principle are",
+    option: [
+        "clothes of test",
+        "stains removing which agent",
+        "agent of behavior",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Swachh Bharat Abhiyan what is the benefit is?",
+    option: [
+        "hygiene facilities to promotion",
+        "cleaning towards people in awareness",
+        "rural areas in life level in sudhaar",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "children to complementary diet how many month after from denii should?",
+    option: [
+        "six months",
+        "eight months",
+        "three month",
+        "nine months"
+    ],
+    answer: "six months"
+},
+
+{
+    question: "rope making for use done going fiber is:",
+    option: [
+        "wool",
+        "jute",
+        "silk",
+        "cotton/cotton"
+    ],
+    answer: "jute"
+},
+
+{
+    question: "water of purification of triikaa is?",
+    option: [
+        "filtering",
+        "chlorine use of",
+        "water purification device",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following before kuch days during children of care under comes is?",
+    option: [
+        "children to warm keep *",
+        "umbilical cord care",
+        "mother of milk of alaavaa kuch not give",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "shishuoN and children for additional arrangements which-sii are?",
+    option: [
+        "elder brother sister from",
+        "relatives/neighbors from",
+        "creche/ddekeyr seNttr from",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "cotton clothing characteristic of is not-",
+    option: [
+        "durability",
+        "cool",
+        "comfortable",
+        "hard"
+    ],
+    answer: "hard"
+},
+
+{
+    question: "tuberculosis to prevent which-saa vaccine is applied?",
+    option: [
+        "DPT",
+        "MMR",
+        "biisiijii",
+        "hepatitis bii"
+    ],
+    answer: "biisiijii"
+},
+
+{
+    question: "Which of the following one Natural fiber is not?",
+    option: [
+        "cotton",
+        "wool",
+        "nylon",
+        "silk"
+    ],
+    answer: "nylon"
+},
+
+{
+    question: "noNn-baiNkiNg system under come are-",
+    option: [
+        "Unit Trust of India",
+        "Life Insurance Corporation of India",
+        "General Insurance of India",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following secondary color is?",
+    option: [
+        "red",
+        "green",
+        "purple",
+        "yellow"
+    ],
+    answer: "green"
+},
 ];
 
 // --- Helper: Shuffle questions ---
