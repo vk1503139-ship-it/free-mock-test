@@ -7059,10 +7059,7056 @@ const politicalScienceHindi = [
 
 // English Questions
 const politicalScienceEnglish = [
-  // Chapter 1: The Cold War Era
-  { question: "What was the Cold War?", option: ["Tension between USA and USSR", "None", "Both", "None"], answer: "Tension between USA and USSR" },
-  { question: "When did the Cold War begin?", option: ["1945", "1919", "1939", "1950"], answer: "1945" },
-  
+{
+    question: "which pNcvrssiiy scheme to yojnaaeN said was ?",
+    option: [
+        "duusrii scheme (1956-61)",
+        "cauthii scheme (1969-74)",
+        "paaNcviiN scheme (1974-79)",
+        "chtthii scheme (1980-85)"
+    ],
+    answer: "chtthii scheme (1980-85)"
+},
+
+{
+    question: "shiit yuddh for uttrdaayii cause is not",
+    option: [
+        "both mhaashktiyoN in saiddhaantik mtbhed",
+        "dvitiiy morce on question",
+        "yuddhkaaliin nirnnyoN of atikrmnn",
+        "vrsaay of sndhi"
+    ],
+    answer: "vrsaay of sndhi"
+},
+
+{
+    question: "India by duusraa sphl prmaannu test when was ?",
+    option: [
+        "1971",
+        "1974",
+        "1980",
+        "1998"
+    ],
+    answer: "1998"
+},
+
+{
+    question: "raajyoN of punrgtthn aayog of adhykss which thaa ?",
+    option: [
+        "govind vllbh pnt",
+        "srdaar of.em. pnnikr",
+        "pnnddit hRdynaath kuNjruu",
+        "nyaaymuurtiphjl alii"
+    ],
+    answer: "nyaaymuurtiphjl alii"
+},
+
+{
+    question: "sNvidhaan of which – saa anucched sNsd to raajy suucii of any vissy on vidhaan making of power gives is ?",
+    option: [
+        "anucched 115",
+        "anucched 183",
+        "anucched 221",
+        "anucched 249"
+    ],
+    answer: "anucched 249"
+},
+
+{
+    question: "India in paalaa prmaannu test when was ?",
+    option: [
+        "1973 ii. in",
+        "1974 ii. in",
+        "1975 ii. in",
+        "1976 ii. in"
+    ],
+    answer: "1974 ii. in"
+},
+
+{
+    question: "Indian sNvidhaan of which part in raajy of niiti – nirdeshk element nihit is ? –",
+    option: [
+        "part– II",
+        "part– III",
+        "part– IV",
+        "part– V"
+    ],
+    answer: "part– IV"
+},
+
+{
+    question: "puurv saamyvaadii deshoN ne which-sii arrangement apnaaii is ?",
+    option: [
+        "smaajvaadii",
+        "maarksvaadii",
+        "udaarvaadii",
+        "phaasiivaad"
+    ],
+    answer: "udaarvaadii"
+},
+
+{
+    question: "pNcaayt arrangement which desh in sthaapit of was ?",
+    option: [
+        "bNglaadesh",
+        "paakistaan",
+        "nepaal",
+        "bhuuttaan"
+    ],
+    answer: "nepaal"
+},
+
+{
+    question: "two mhaashktiyoN of bhuumikaa ne which – sii condition paidaa of jisse tiisraa mhaayuddh ghttit n be skaa ?",
+    option: [
+        "sttaa of sntuln",
+        "aatNk of sntuln",
+        "shiityuddh",
+        "tnaav shaithily"
+    ],
+    answer: "aatNk of sntuln"
+},
+
+{
+    question: "littuutte one aatNkvaadii sNgtthn is",
+    option: [
+        "shriilNkaa of",
+        "paakistaan of",
+        "India of",
+        "ruus of"
+    ],
+    answer: "shriilNkaa of"
+},
+
+{
+    question: "sNvidhaan sbhaa of adhykss which is ?",
+    option: [
+        "ddoN. ambeddkr",
+        "ddoN. raajendr prsaad",
+        "ddoN. raadhaa kRssnnn",
+        "inmeNse any not"
+    ],
+    answer: "ddoN. raajendr prsaad"
+},
+
+{
+    question: "security prissd in kul temporary members of sNkhyaa how many is ?",
+    option: [
+        "10",
+        "6",
+        "7",
+        "14"
+    ],
+    answer: "10"
+},
+
+{
+    question: "India to which institution in full sNvaadii of place obtained is ?",
+    option: [
+        "yuuropiiy sNgh",
+        "dkssinn eshiyaaii raajyoN of kssetriiy cooperation",
+        "eshiyaaii kssetriiy mNc",
+        "shNghaaii cooperation mNc"
+    ],
+    answer: "eshiyaaii kssetriiy mNc"
+},
+
+{
+    question: "vRht naagaalainndd of aandoln of which smrthk is ?",
+    option: [
+        "phiijo",
+        "ijaak",
+        "vishvmutiyaarii",
+        "laalddeNgaa"
+    ],
+    answer: "ijaak"
+},
+
+{
+    question: "emnesttii iNttrneshnl whichrelated to is ?",
+    option: [
+        "baalshrm",
+        "maanvaadhikaar",
+        "environment",
+        "education"
+    ],
+    answer: "maanvaadhikaar"
+},
+
+{
+    question: "kaaNgres phoNr ddemokresii of sNsthaapk netaa which the ?",
+    option: [
+        "bhugunnaa",
+        "indiraa gaaNdhii",
+        "jgjiivn raam",
+        "raamvilaas paasvaan"
+    ],
+    answer: "jgjiivn raam"
+},
+
+{
+    question: "” India mukhytH ekaatmk raajy is ‘ – this vicaar of prtipaadk is .",
+    option: [
+        "ddii 0 ddii0 bsu",
+        "jii0 en 0 joshii",
+        "moNris jons",
+        "ke0 sii 0 vhiilr"
+    ],
+    answer: "ke0 sii 0 vhiilr"
+},
+
+{
+    question: "smvrtii suucii in how many vissy are ?",
+    option: [
+        "97",
+        "47",
+        "61",
+        "67"
+    ],
+    answer: "61"
+},
+
+{
+    question: "cipko aandoln of uddeshy thaa ki",
+    option: [
+        "vRkssoN of andhaadhundh cutting to rokaa jaae / ",
+        "vissailii gaisoN of utsrjn to siimit done jaae",
+        "ttehrii baaNdh of height more n ho / ",
+        "visthaapit people of punrvaas done jaae / "
+    ],
+    answer: "vRkssoN of andhaadhundh cutting to rokaa jaae / "
+},
+
+{
+    question: "1971 in made “mhaan gtthbndhn” of what dhyey thaa ?",
+    option: [
+        "griibii httaao",
+        "indiraa httaao",
+        "vipkss to sbl bnaao",
+        "raajniitik dl – bdl to roko"
+    ],
+    answer: "indiraa httaao"
+},
+
+{
+    question: "saaNvidhaanik vissy on nirnny giving for less – from – less srvocc nyaayaaly of how many nyaayaadhiishoN of beNc honii should ?",
+    option: [
+        "3",
+        "1",
+        "4",
+        "5 or more"
+    ],
+    answer: "5 or more"
+},
+
+{
+    question: "first environment shikhr smmeln where was thaa?",
+    option: [
+        "jenevaa in",
+        "viynaa in",
+        "moNnnttriyl in",
+        "kyotto in"
+    ],
+    answer: "kyotto in"
+},
+
+{
+    question: "raajy sbhaa in mnoniit members of sNkhyaa is",
+    option: [
+        "12",
+        "13",
+        "21",
+        "11"
+    ],
+    answer: "12"
+},
+
+{
+    question: "saamrik security upkrm or nksstr yuddh kaarykrm which desh ne made?",
+    option: [
+        "combined raajy amerikaa",
+        "soviyt sNgh",
+        "ciin",
+        "phraaNs"
+    ],
+    answer: "combined raajy amerikaa"
+},
+
+{
+    question: "prthm pNcvrssiiy scheme of period what thii ?",
+    option: [
+        "1951-56",
+        "1952-57",
+        "1947-52",
+        "1955-60"
+    ],
+    answer: "1951-56"
+},
+
+{
+    question: "which gutt – nirpekssaa smmeln in nyii antrraassttriiy economic arrangement sthaapit doing of prstaav near done was ?",
+    option: [
+        "1961 of belgredd smmeln in",
+        "1964 of kro smmeln in",
+        "1973 of ailjiyrs smmeln in",
+        "1983 of nyii dillii smmeln in"
+    ],
+    answer: "1973 of ailjiyrs smmeln in"
+},
+
+{
+    question: "Indian sNvidhaan to when implemented done was thaa ?",
+    option: [
+        "26 jnvrii 1950",
+        "26 jnvrii 1951",
+        "26 jnvrii 1952",
+        "inmeNse any not"
+    ],
+    answer: "26 jnvrii 1950"
+},
+
+{
+    question: "India ne long sNghrss after svtntr paayii",
+    option: [
+        "15 agst , 1947 in",
+        "26 jnvrii , 1950 in",
+        "15 agst , 1948 in",
+        "26 jnvrii , 1951 in"
+    ],
+    answer: "15 agst , 1947 in"
+},
+
+{
+    question: "soviyt arrangement of nirmaataaoN ne following in from kisko mhtv not given ?",
+    option: [
+        "private smpti of smaapti",
+        "smaantaa of principle on society production of",
+        "virodhii dl athvaa prtipkss of any place not",
+        "economy on raajy of any niyntrnn not"
+    ],
+    answer: "private smpti of smaapti"
+},
+
+{
+    question: "gutt – nirpekss deshoN of shikhr smmeln nii dillii in when aayojit done was thaa ?",
+    option: [
+        "1982",
+        "1983",
+        "1969",
+        "1970"
+    ],
+    answer: "1983"
+},
+
+{
+    question: "combined raajy amerikaa in kul how many raajy are?",
+    option: [
+        "49",
+        "50",
+        "51",
+        "52"
+    ],
+    answer: "50"
+},
+
+{
+    question: "kshmiir of India in vily letter on who hstaakssr done ?",
+    option: [
+        "loNrdd maaunnttbettn",
+        "srdaar pttel",
+        "jvaahr red nehruu",
+        "raajaahrii siNh"
+    ],
+    answer: "raajaahrii siNh"
+},
+
+{
+    question: "kise ne social aandoln of shrennii in not rkhaa jaa can is ?",
+    option: [
+        "cipko aandoln",
+        "nrmdaa bcaao aandoln",
+        "ttihrii baaNdh aandoln",
+        "home svraajy aandoln"
+    ],
+    answer: "home svraajy aandoln"
+},
+
+{
+    question: "shimlaa smjhautaa In which year hstaakssaarit was ?",
+    option: [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+    ],
+    answer: "1972"
+},
+
+{
+    question: "India in nii economic niiti of shuruuaat which prdhaanmNtrii ne of ?",
+    option: [
+        "mnmohn siNh",
+        "nrsimhaa raav",
+        "raajiiv gaaNdhii",
+        "vii.pii. siNh"
+    ],
+    answer: "nrsimhaa raav"
+},
+
+{
+    question: "India ne which sndhi on hstaakssr done ?",
+    option: [
+        "paakssik test prtibndh sndhi",
+        "prmaannu aprsaar sndhi",
+        "vyaapk test prtibndh sndhi",
+        "baagdaad sndhi"
+    ],
+    answer: "paakssik test prtibndh sndhi"
+},
+
+{
+    question: "Which of the following one gutt nirpekss aaNdoln of jnk not",
+    option: [
+        "sukrnno",
+        "araaphaat",
+        "Marshall ttiitto",
+        "pNddit nehruu"
+    ],
+    answer: "araaphaat"
+},
+
+{
+    question: "vaishviikrnn of baare in which saa kthn correct is ?",
+    option: [
+        "vaishviikrnn only economic prighttnaa is  / ",
+        "vaishviikrnn of shuruuaat 1991 ii . in was  / ",
+        "vaishviikrnn and pshcimiikrnn smaan is  / ",
+        "vaishviikrnn one bhuaayaamii prighttnaa is  / "
+    ],
+    answer: "vaishviikrnn one bhuaayaamii prighttnaa is  / "
+},
+
+{
+    question: "avshisstt vissyoN on law making of right is–",
+    option: [
+        "raajyoNke near",
+        "center and raajyoN kepaas",
+        "center of near",
+        "kisiike near not"
+    ],
+    answer: "center of near"
+},
+
+{
+    question: "kaaNgres of vibhaajn In which year was ?",
+    option: [
+        "1967",
+        "1969",
+        "1968",
+        "1970"
+    ],
+    answer: "1969"
+},
+
+{
+    question: "twenty – suutrii kaarykrm which prdhaanmNtrii related to is ?",
+    option: [
+        "raajiiv gaaNdhii",
+        "indiraa gaaNdhii",
+        "vii.pii. siNh",
+        "aaii.of. gujraal"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "nehruu of gutt – nirpeksstaa of niiti of most first test when was ?",
+    option: [
+        "1950 in koriyaa of ldd'aaii in",
+        "1962 in ciin of aakrmnn in",
+        "1965 in paakistaan of aakrmnn in",
+        "1971 of baaNglaadesh yuddh in"
+    ],
+    answer: "1950 in koriyaa of ldd'aaii in"
+},
+
+{
+    question: "combined raassttr sNgh when was established was ?",
+    option: [
+        "1945",
+        "1950",
+        "1952",
+        "1955"
+    ],
+    answer: "1945"
+},
+
+{
+    question: "viitto of praavdhaan of phaislaa which smmeln in done was ?",
+    option: [
+        "ddmbaarttn oks",
+        "yaalttaa",
+        "sain phraaNsisko",
+        "lndn"
+    ],
+    answer: "yaalttaa"
+},
+
+{
+    question: "prdhaanmntrii shrii nrendr daamodr daas modii which dl of are ?",
+    option: [
+        "Indian jntaa paarttii",
+        "common man paarttii",
+        "lok dl",
+        "national jntaa dl"
+    ],
+    answer: "Indian jntaa paarttii"
+},
+
+{
+    question: "nehruu of nidhn after unkaa raajniitik uttraadhikaarii which bnaa ?",
+    option: [
+        "indiraa gaaNdhii",
+        "guljaariilaal nndaa",
+        "of. kaamraaj",
+        "red bhaadur shaastrii"
+    ],
+    answer: "red bhaadur shaastrii"
+},
+
+{
+    question: "Indian national kaaNgres of which netaa ne two times apnii paarttii todd'ii and uskaa punrnirmaann done ?",
+    option: [
+        "jvaahrlaal nehruu",
+        "red bhaadur shaastrii",
+        "indiraagaaNdhii",
+        "raajiiv gaaNdhii"
+    ],
+    answer: "indiraagaaNdhii"
+},
+
+{
+    question: "sNvidhaan nirmaatrii sbhaa in ” uddeshy prstaav ‘ by whom prstut done was ?",
+    option: [
+        "jvaahrlaal nehr",
+        "ddoN 0 raajendr prsaad",
+        "bhiimraav ambedkr",
+        "srdaar bllbh brother pttel"
+    ],
+    answer: "jvaahrlaal nehr"
+},
+
+{
+    question: "lok accounts smiti in are is",
+    option: [
+        "only loksbhaa of member",
+        "only raajysbhaa kesdsy",
+        "15 member loksbhaa setthaa 7 member raajysbhaase",
+        "7 member loksbhaa setthaa 15 member raajysbhaase"
+    ],
+    answer: "15 member loksbhaa setthaa 7 member raajysbhaase"
+},
+
+{
+    question: "dkssinn eshiyaa of which desh of prdhaanmntrii to uske uttraadhikaarii ne apdst by phaaNsii of sjaa dii ?",
+    option: [
+        "India",
+        "shriilNkaa",
+        "paakistaan",
+        "nepaal"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "world maanvaadhikaar day when mnaayaa goes is ?",
+    option: [
+        "26 jnvrii to",
+        "15 agst to",
+        "1 May to",
+        "10 dismbr to"
+    ],
+    answer: "10 dismbr to"
+},
+
+{
+    question: "“mnussy svtNtr produced is, kintu srvtr vh bndhnoN in bNdhaa was hai / ” who said ?",
+    option: [
+        "hoNbs",
+        "loNk",
+        "ruuso",
+        "maarks"
+    ],
+    answer: "ruuso"
+},
+
+{
+    question: "1974 ii. in India ne apnaa first prmaannu test where done ?",
+    option: [
+        "pokhrn",
+        "biikaaner",
+        "mirjaapur",
+        "trivendrm"
+    ],
+    answer: "pokhrn"
+},
+
+{
+    question: "which desh of sNvidhaan world of most bdd'aa sNvidhaan is ?",
+    option: [
+        "yuu.es.e.",
+        "ruus",
+        "dkssinniiaphriikaa",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "India in adult mtaadhikaar obtained doing of nyuuntm age what is ?",
+    option: [
+        "18 year",
+        "21 year",
+        "25 year",
+        "35 year"
+    ],
+    answer: "18 year"
+},
+
+{
+    question: "India in uttr – puurvii field in asm of part kaattkr first raajy",
+    option: [
+        "naagaalainndd",
+        "meghaaly",
+        "mijorm",
+        "tripuraa"
+    ],
+    answer: "naagaalainndd"
+},
+
+{
+    question: "kaarn laa which desh of law thaa ?",
+    option: [
+        "India of",
+        "ciin of",
+        "amerikaa of",
+        "britten of"
+    ],
+    answer: "britten of"
+},
+
+{
+    question: "nimnaaNkit in from which – saa kthn gutt – nirpekss aaNdoln of uddeshyoN on prkaash not ddaaltaa ?",
+    option: [
+        "upniveshvaad from mukt were deshoN to svtNtr niiti apnaane in smrth making",
+        "any also sainy sNgtthn in shaamil being from inkaar krnaa / ",
+        "vaishvik maamloN in tttsthtaa of niiti apnaanaa",
+        "vaishvik economic asmaantaa of smaapti on dhyaan kendrit to do"
+    ],
+    answer: "vaishvik economic asmaantaa of smaapti on dhyaan kendrit to do"
+},
+
+{
+    question: "ojon prt in be rhe tiivr decay because of which–sii kirnn pRthvii of vaataavrnn to nuksaan phuNcaa rhii is?",
+    option: [
+        "gaamaa re",
+        "eks re",
+        "inphraaredd re",
+        "alttraavaaylett re"
+    ],
+    answer: "alttraavaaylett re"
+},
+
+{
+    question: "” India mukhytH ekaatmk raajy is ‘ – this vicaar of prtipaadk is .",
+    option: [
+        "ddii 0 ddii0 bsu",
+        "jii0 en 0 joshii",
+        "moNris jons",
+        "ke0 sii 0 vhiilr"
+    ],
+    answer: "ke0 sii 0 vhiilr"
+},
+
+{
+    question: "language to not blki saamrik mhtv of element to dekhte were sbbefore which raajy of rgram was ?",
+    option: [
+        "aandhr prdesh",
+        "naagaalainndd",
+        "meghaaly",
+        "govaa"
+    ],
+    answer: "naagaalainndd"
+},
+
+{
+    question: "bglaadesh to India ne when maanytaa dii ?",
+    option: [
+        "1965 in",
+        "1970 in",
+        "1971 in",
+        "1972 in"
+    ],
+    answer: "1971 in"
+},
+
+{
+    question: "raajyoN of sNvaidhaanik prmukh which is ?",
+    option: [
+        "raajypaal",
+        "mukhymNtrii",
+        "up– mukhymNtrii",
+        "vidhaan sbhaa of adhykss"
+    ],
+    answer: "raajypaal"
+},
+
+{
+    question: "who said– ” svtntrtaa hmaaraa jnmsiddh right is  /  “",
+    option: [
+        "srdaar pttel",
+        "bhgt siNh",
+        "baalgNgaadhr tilk",
+        "cndrshekhr aajaad"
+    ],
+    answer: "baalgNgaadhr tilk"
+},
+
+{
+    question: "medhaa paattkr of name which aandoln from judd'aa is?",
+    option: [
+        "cipko aandoln",
+        "ttehrii baaNdh aandoln",
+        "bhuudaan aandoln",
+        "nrmdaa bcaao aandoln"
+    ],
+    answer: "nrmdaa bcaao aandoln"
+},
+
+{
+    question: "India v paakistaan between taashknd of smjhautaa kraane in which soviyt netaa ne mhttvpuurnn bhuumikaa nibhaaii ?",
+    option: [
+        "sttaalin",
+        "khushcev",
+        "kosigin",
+        "brejnev"
+    ],
+    answer: "kosigin"
+},
+
+{
+    question: "Indian videsh niiti of basis stmbh",
+    option: [
+        "vishvshaaNti",
+        "peace sh – astitv",
+        "pNcshiil",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "1975 aapaatkaal of ghossnnaa doing which raassttrpti of name is",
+    option: [
+        "phkhruuddiin alii ahmd",
+        "jaakir husain",
+        "knowledgeii jail siNh",
+        "None of these"
+    ],
+    answer: "phkhruuddiin alii ahmd"
+},
+
+{
+    question: "India ne which desh of with sndhi of jiskii prstaavnaa in pNcshiil of suutr rkhe were is ?",
+    option: [
+        "paakistaan of with",
+        "ciin of with",
+        "amriikaa of with",
+        "soviyt sNgh of with"
+    ],
+    answer: "ciin of with"
+},
+
+{
+    question: "raajysbhaa of sdsytaa for nyuuntm age what is ?",
+    option: [
+        "25 year",
+        "30 year",
+        "21 year",
+        "35 year"
+    ],
+    answer: "30 year"
+},
+
+{
+    question: "world baajaar of vistaar aadhunik kaal in which time from aarmbh was ?",
+    option: [
+        "15 viiN shtaabdii",
+        "18 viiN shtaabdii",
+        "19 viiN shtaabdii",
+        "20 viiN shtaabdii"
+    ],
+    answer: "18 viiN shtaabdii"
+},
+
+{
+    question: "vidhaanprissd of member nirvaacit being for nyuuntm age what",
+    option: [
+        "18 year",
+        "25 year",
+        "21 year",
+        "30 year"
+    ],
+    answer: "30 year"
+},
+
+{
+    question: "lok accounts smiti in are is",
+    option: [
+        "only loksbhaa of member",
+        "only raajysbhaa kesdsy",
+        "15 member loksbhaa setthaa 7 member raajysbhaase",
+        "7 member loksbhaa setthaa 15 member raajysbhaase"
+    ],
+    answer: "15 member loksbhaa setthaa 7 member raajysbhaase"
+},
+
+{
+    question: "mNddl kmiishn of siphaarishoN to who implemented done ?",
+    option: [
+        "vii.pii. siNh",
+        "crnn siNh",
+        "moraarjii desaaii",
+        "iNdiraa gaaNdhii"
+    ],
+    answer: "vii.pii. siNh"
+},
+
+{
+    question: "India of prthm woman raassttrpti which thii ?",
+    option: [
+        "raabdd'iidevii",
+        "prtibhaa deviisiNh paattil",
+        "soniyaagaaNdhii",
+        "iNdiraagaaNdhii"
+    ],
+    answer: "prtibhaa deviisiNh paattil"
+},
+
+{
+    question: "India of raassttrpti prtibhaa devii siNh paattil of krm of hisaab from place what thaa ?",
+    option: [
+        "12 vaaN",
+        "13 vaaN",
+        "14 vaaN",
+        "11 vaaN"
+    ],
+    answer: "12 vaaN"
+},
+
+{
+    question: "nv-construction aandoln which raajy in viphl was?",
+    option: [
+        "uttr prdesh",
+        "gujraat",
+        "raajsthaan",
+        "bihaar"
+    ],
+    answer: "bihaar"
+},
+
+{
+    question: "center – raajy sNbNdhoN in prmukh add'cneN what rhii are ?",
+    option: [
+        "raajypaal of bhuumikaa",
+        "anucched 356",
+        "raajyoNkii center on dependence",
+        "inmeNse all"
+    ],
+    answer: "inmeNse all"
+},
+
+{
+    question: "laalbhaadur shaastrii of nidhn which",
+    option: [
+        "1965 ii . in",
+        "1966 ii . in",
+        "1967 ii . in",
+        "1968 ii . in"
+    ],
+    answer: "1966 ii . in"
+},
+
+{
+    question: "India of sNvidhaan sbhaa of gtthn which scheme of basis on was",
+    option: [
+        "krips mishn",
+        "maaunnttbettn scheme",
+        "vevel scheme",
+        "kaibinett mishn scheme"
+    ],
+    answer: "kaibinett mishn scheme"
+},
+
+{
+    question: "combined raassttrsNgh of mhaasciv which are ?",
+    option: [
+        "mnmohn siNh",
+        "baan of muun",
+        "baaraak obaamaa",
+        "maadhv nepaalii"
+    ],
+    answer: "baan of muun"
+},
+
+{
+    question: "which desh ne India on aakrmnn by pNcshiil of ullNghn done ?",
+    option: [
+        "ciin",
+        "paakistaan",
+        "phraaNs",
+        "sN.raa. amerikaa"
+    ],
+    answer: "ciin"
+},
+
+{
+    question: "boddolainndd svaayttshaasii prissd which raajy in sthit is ?",
+    option: [
+        "asm",
+        "naagaalainndd",
+        "meghaaly",
+        "mijorm"
+    ],
+    answer: "asm"
+},
+
+{
+    question: "world in most more sshstr sNghrss where are ?",
+    option: [
+        "aphriikaa of shaaraa mrusthl of dkssinnaavrtii deshoN in",
+        "eshiyaa of ciin and India in",
+        "laittin amerikii deshoN in",
+        "combined raajy amerikaa in"
+    ],
+    answer: "aphriikaa of shaaraa mrusthl of dkssinnaavrtii deshoN in"
+},
+
+{
+    question: "who said– ” svtntrtaa hmaaraa jnmsiddh right is  /  “",
+    option: [
+        "srdaar pttel",
+        "bhgt siNh",
+        "baalgNgaadhr tilk",
+        "cndrshekhr aajaad"
+    ],
+    answer: "baalgNgaadhr tilk"
+},
+
+{
+    question: "yuuropiiy sNgh when was established was ?",
+    option: [
+        "1957",
+        "1992",
+        "2005",
+        "2006"
+    ],
+    answer: "1957"
+},
+
+{
+    question: "srvocc nyaayaaly of nyaayaadhiish of niyukti which does is ?",
+    option: [
+        "prdhaanmNtrii",
+        "mNtrimNddl",
+        "raassttrpti",
+        "up – raassttrpti"
+    ],
+    answer: "raassttrpti"
+},
+
+{
+    question: "world environment day hm log when mnaate are?",
+    option: [
+        "May",
+        "10 agst",
+        "5 June",
+        "10 dismbr"
+    ],
+    answer: "5 June"
+},
+
+{
+    question: "soviyt sNgh ne which saa sainik gutt made ?",
+    option: [
+        "naatto",
+        "sautto",
+        "sentto",
+        "vaarsaa sndhi"
+    ],
+    answer: "vaarsaa sndhi"
+},
+
+{
+    question: "which pNcvrssiiy scheme in griibii httaao ‘ to special place given was ?",
+    option: [
+        "before scheme (1951-56)",
+        "tiisrii scheme (1961-66)",
+        "paaNcvii scheme (1974-79)",
+        "chtthii scheme (1980-85)"
+    ],
+    answer: "paaNcvii scheme (1974-79)"
+},
+
+{
+    question: "siNddikett pdbndh from kinkaa smbndh thaa ?",
+    option: [
+        "kaaNgres of vrisstth netaagnn",
+        "yuvaa turk",
+        "kaaNgres of all netaagnn",
+        "kaaNgres of indiraa virodhii vrisstth netaagnn"
+    ],
+    answer: "kaaNgres of indiraa virodhii vrisstth netaagnn"
+},
+
+{
+    question: "combined raassttr sNgh of mhaasciv baan of – muun which desh of are ?",
+    option: [
+        "amerikaa",
+        "britten",
+        "ciin",
+        "dkssinn koriyaa"
+    ],
+    answer: "dkssinn koriyaa"
+},
+
+{
+    question: "nv-construction aandoln of leadership who done?",
+    option: [
+        "mhaatmaa gaaNdhii",
+        "vinobaa bhaave",
+        "jyprkaash naaraaynn",
+        "raammnohr lohiyaa"
+    ],
+    answer: "jyprkaash naaraaynn"
+},
+
+{
+    question: "1930 in gaaNdhiijii ne which aaNdoln of shuruuaat of thii ?",
+    option: [
+        "sviny avjnyaa aaNdoln",
+        "India chodd'o aaNdoln",
+        "svraaj aaNdoln",
+        "ashyog aaNdoln"
+    ],
+    answer: "sviny avjnyaa aaNdoln"
+},
+
+{
+    question: "golknaath mukdmaa when aayaa was ?",
+    option: [
+        "1965 ii. in",
+        "1966 ii. in",
+        "1970 ii. in",
+        "1960 ii. in"
+    ],
+    answer: "1965 ii. in"
+},
+
+{
+    question: "kssetrvaad of one kuprinnaam is ?",
+    option: [
+        "apne field from lgaav",
+        "algaavvaad",
+        "national ektaa",
+        "national hiit"
+    ],
+    answer: "algaavvaad"
+},
+
+{
+    question: "govaa , dmn v dviip which yuuropiiy raajy of upnivesh thaa ?",
+    option: [
+        "britten",
+        "phraaNs",
+        "ittlii",
+        "purtgaal"
+    ],
+    answer: "purtgaal"
+},
+
+{
+    question: "sikkim India of shvrtii raajy when bnaa ?",
+    option: [
+        "1974 ii. in",
+        "1975 ii. in",
+        "1978 ii. in",
+        "1976 ii. in"
+    ],
+    answer: "1975 ii. in"
+},
+
+{
+    question: "any also raajy of vidhaansbhaa of maximum anujnyey member sNkhyaa of siimaa is",
+    option: [
+        "400 member",
+        "425 member",
+        "500 member",
+        "545 member"
+    ],
+    answer: "500 member"
+},
+
+{
+    question: "puunaa paiktt smbndhit thaa",
+    option: [
+        "dlit class from",
+        "hinduu – muslim ektaa from",
+        "sNvaidhaanik development from",
+        "shaikssik sudhaar from"
+    ],
+    answer: "dlit class from"
+},
+
+{
+    question: "blvnt raay Mehta smiti prtivedn in pNcaaytii raaj sNsthaaoN to how many stroN home doing of sujhaav given was ?",
+    option: [
+        "dvi– striiy",
+        "one– striiy",
+        "tri– striiy",
+        "inmeNse any not"
+    ],
+    answer: "tri– striiy"
+},
+
+{
+    question: "amerikaa of which raassttrpti to peace of nobel purskaar provide done was hai / ",
+    option: [
+        "baaraak obaamaa",
+        "bil miln",
+        "joNrj bush",
+        "None of these"
+    ],
+    answer: "baaraak obaamaa"
+},
+
+{
+    question: "ciin in kraaNti when was thii ?",
+    option: [
+        "1949 ii . in",
+        "1947 ii . in",
+        "1950 ii . in",
+        "1948 ii . in"
+    ],
+    answer: "1949 ii . in"
+},
+
+{
+    question: "who said ki “saamraajyvaad puuNjiivaad of antim crnn is ?",
+    option: [
+        "ec.je. laaskii",
+        "vii.aaii. lenin",
+        "of.en. kruumaah",
+        "saamir amiin"
+    ],
+    answer: "vii.aaii. lenin"
+},
+
+{
+    question: "bhaassaaii basis on sbbefore which raajy of rgram was ?",
+    option: [
+        "aandhr prdesh",
+        "mdhy prdesh",
+        "uttr prdesh",
+        "aruunnaacl prdesh"
+    ],
+    answer: "aandhr prdesh"
+},
+
+{
+    question: "any gair srkaarii sNgtthn to tdrth maanytaa which de can is ?",
+    option: [
+        "mhaasciv",
+        "mhaasbhaa of adhykss",
+        "surkssaaprissd of adhykss",
+        "antrraassttriiy nyaayaaly of adhykss"
+    ],
+    answer: "mhaasciv"
+},
+
+{
+    question: "raajysbhaa of sdsytaa for nyuuntm age what is ?",
+    option: [
+        "25 year",
+        "30 year",
+        "21 year",
+        "35 year"
+    ],
+    answer: "30 year"
+},
+
+{
+    question: "duusrii duniyaa in Which of the following desh not thaa?",
+    option: [
+        "soviyt sNgh",
+        "amerikaa",
+        "yugoslaaviyaa",
+        "cekoslvaakiyaa"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "1955 of vaarsaa sndhi in which saa desh member not thaa ?",
+    option: [
+        "soviyt sNgh",
+        "polainndd",
+        "pshcimii jrmnii",
+        "puurvii jrmnii"
+    ],
+    answer: "pshcimii jrmnii"
+},
+
+{
+    question: "braak obaamaa which desh of raassttrpti the?",
+    option: [
+        "amerikaa",
+        "britten",
+        "phraaNs",
+        "jrmnii"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "raajy punrgtthn Act according to India in which basis on raajyoN of rgram of was ?",
+    option: [
+        "population",
+        "kssetrphl",
+        "saamrik mhtv",
+        "language"
+    ],
+    answer: "language"
+},
+
+{
+    question: "e.aaii.ddii.em.of. which raajy of kssetriiy paarttii is ?",
+    option: [
+        "asm",
+        "mijorm",
+        "tmilnaaddu",
+        "kerl"
+    ],
+    answer: "tmilnaaddu"
+},
+
+{
+    question: "sNghaatmk ddhaaNce for aprihaary lkssnn is",
+    option: [
+        "sNvidhaan of srvocctaa",
+        "svtNtr nyaaypaalikaa",
+        "shktiyoNkaa vibhaajn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "Which of the following saa desh saark of member is not ?",
+    option: [
+        "India",
+        "paakistaan",
+        "nepaal",
+        "jaapaan"
+    ],
+    answer: "jaapaan"
+},
+
+{
+    question: "Indian economy kise called are ?",
+    option: [
+        "private economy to",
+        "puuNjiivaadii economy to",
+        "mishrit economy to",
+        "None of these"
+    ],
+    answer: "mishrit economy to"
+},
+
+{
+    question: "1956 in which – from dvibhaassii raajy made ?",
+    option: [
+        "bmbii v pNjaab",
+        "uttr prdesh v bihaar",
+        "kerl v tmilnaaddu",
+        "pshcim bNgaal v udd'iisaa"
+    ],
+    answer: "bmbii v pNjaab"
+},
+
+{
+    question: "shoNk therepii of moNddl which on implemented done was?",
+    option: [
+        "puuNjiivaadii deshoN on",
+        "saamyvaadii deshoN on",
+        "mitr raassttroN on",
+        "dhurii raassttroN on"
+    ],
+    answer: "saamyvaadii deshoN on"
+},
+
+{
+    question: "1975 in raassttrvyaapii styaagrh of leadership who done thaa?",
+    option: [
+        "jyprkaash naaraaynn ne",
+        "vii.pii. siNh ne",
+        "moraarjii desaaii ne",
+        "cndrshekhr ne"
+    ],
+    answer: "jyprkaash naaraaynn ne"
+},
+
+{
+    question: "Which of the following one shiityuddh of smaapti of prinnaam is not ?",
+    option: [
+        "one dhruviiy world-arrangement of udy",
+        "amerikaa and soviyt sNgh between vaicaarik yuddh of smaapti",
+        "sii.es.aaii. of birth",
+        "India and paakistaan by prmaannu test"
+    ],
+    answer: "India and paakistaan by prmaannu test"
+},
+
+{
+    question: "Indian naagrikoN to how many maulik right obtained is ?",
+    option: [
+        "7",
+        "5",
+        "6",
+        "8"
+    ],
+    answer: "6"
+},
+
+{
+    question: "which sndhi ne prmaannu priikssnnoN to puurnntyaa vrjit done ?",
+    option: [
+        "prmaannu aprsaar sndhi",
+        "paakssik test prtibndh sndhi",
+        "vyaapk test prtibndh sndhi",
+        "dkssinn – puurv eshiyaaii prmaannu shstroN from mukt field sndhi"
+    ],
+    answer: "vyaapk test prtibndh sndhi"
+},
+
+{
+    question: "raajniitik dloN to which sNvaidhaanik institution by cunaav mark aavNttit is done ?",
+    option: [
+        "cunaav aayog",
+        "niiti aayog",
+        "scheme aayog",
+        "sNsd"
+    ],
+    answer: "cunaav aayog"
+},
+
+{
+    question: "dvitiiy world yuddh of upraant two mhaashktiyaaN ubhr by saamne aayii thii",
+    option: [
+        "combined raajy amerikaa and ciin",
+        "soviyt sNgh and yuunaaittedd kiNgddm",
+        "combined raajy amerikaa and soviyt sNgh",
+        "above-mentioned in from any not"
+    ],
+    answer: "combined raajy amerikaa and soviyt sNgh"
+},
+
+{
+    question: "which raajniitik dl ne 1975 in aapaatkaaliin ghossnnaa of svaagt done thaa ?",
+    option: [
+        "jnsNgh",
+        "akaaliidl",
+        "ddii.em.of.",
+        "sii.pii.aaii."
+    ],
+    answer: "sii.pii.aaii."
+},
+
+{
+    question: "who dviraassttr principle ‘ of prtipaadn done ?",
+    option: [
+        "gaaNdhii ne",
+        "nehruu ne",
+        "jinnaane",
+        "pttel ne"
+    ],
+    answer: "jinnaane"
+},
+
+{
+    question: "kyuubaa in soviyt sNgh by prmaannu hthiyaar tainaat doing of bhnk amriikiyoN to jitne hptoN after lgii thii, unkii sNkhyaa thii",
+    option: [
+        "three",
+        "terh",
+        "teiis",
+        "None of these"
+    ],
+    answer: "three"
+},
+
+{
+    question: "saark of mukhyaaly where is ?",
+    option: [
+        "islaamaabaad",
+        "India",
+        "bhuuttaan",
+        "kaatthmaanndduu"
+    ],
+    answer: "kaatthmaanndduu"
+},
+
+{
+    question: "sNvidhaan nirmaatrii sbhaa of praaruup smiti of adhykss which cune were ?",
+    option: [
+        "ddoN0 raajendr prsaad",
+        "maulaanaaaajaad",
+        "bii0 en 0 raav",
+        "ddoN0 ambeddkr"
+    ],
+    answer: "ddoN0 ambeddkr"
+},
+
+{
+    question: "Indian national kaaNgres when was established was ?",
+    option: [
+        "1985",
+        "1885",
+        "1886",
+        "1906"
+    ],
+    answer: "1885"
+},
+
+{
+    question: "India which sNgtthn of full sNvaadii bhaagiidaar is ?",
+    option: [
+        "yuuropiiy sNgh",
+        "aasiyaan",
+        "aasiyaan of eshiyaaii kssetriiy mNc",
+        "any of not"
+    ],
+    answer: "aasiyaan of eshiyaaii kssetriiy mNc"
+},
+
+{
+    question: "Indian national kaaNgres in society of smaajvaadii prtimaan of baare in of sNklp liyaa ?",
+    option: [
+        "1948 of jypur adhiveshn in",
+        "1955 of avaaddii adhiveshn in",
+        "1960 of bNglaur adhiveshn in",
+        "1964 of bhuvneshvr adhiveshn in"
+    ],
+    answer: "1955 of avaaddii adhiveshn in"
+},
+
+{
+    question: "world vyaapaar sNgtthn nimnaaNkit in which sNgtthn of uttraadhikaarii is ?",
+    option: [
+        "General egriimeNtt oNn ttredd enndd ttairiph",
+        "raassttr sNgh of prissd",
+        "world health sNgtthn",
+        "combined raassttr development kaarykrm"
+    ],
+    answer: "General egriimeNtt oNn ttredd enndd ttairiph"
+},
+
+{
+    question: "India of which prdhaanmntrii ne amriikaa of with asainik kaaryoN of for prmaannu smjhaute of sbl smrthn done?",
+    option: [
+        "indiraa gaaNdhii",
+        "raajiiv gaaNdhii",
+        "attl bihaarii vaajpeyii",
+        "mnmohn siNh"
+    ],
+    answer: "mnmohn siNh"
+},
+
+{
+    question: "mijorm In which year India sNgh of raajy bnaa ?",
+    option: [
+        "1986",
+        "1987",
+        "1988",
+        "1985"
+    ],
+    answer: "1987"
+},
+
+{
+    question: "‘girmittiyaa mjduur‘ bihaar of which field from bheje go the ?",
+    option: [
+        "puurvii field",
+        "pshcimii field",
+        "uttrii field",
+        "dkssinnii field"
+    ],
+    answer: "pshcimii field"
+},
+
+{
+    question: "India in ‘ vividhtaa in ektaa ‘ characteristic of who btaayii ?",
+    option: [
+        "mhaatmaagaaNdhii",
+        "subhaass cndr bos",
+        "raajendr prsaad",
+        "jvaahr red nehruu"
+    ],
+    answer: "jvaahr red nehruu"
+},
+
+{
+    question: "dkssinn eshiyaa in which – saa dhrm – saapekss raajy is ?",
+    option: [
+        "India",
+        "paakistaan",
+        "shriilNkaa",
+        "bhuuttaan"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "grams kchrii of prdhaan which is ?",
+    option: [
+        "srpNc",
+        "mukhiyaa",
+        "vaardd member",
+        "inmeNse any not"
+    ],
+    answer: "srpNc"
+},
+
+{
+    question: "naagrik svtNtrtaa sNgh from whose name judd'aa is?",
+    option: [
+        "vii.em. taarkunndde",
+        "raajendr sccr",
+        "adhivktaa mukhii",
+        "ec.ddii. suurii"
+    ],
+    answer: "vii.em. taarkunndde"
+},
+
+{
+    question: "gutt – nirpeksstaa means",
+    option: [
+        "prspr virodhii guttoN in shaamil honaa",
+        "world of any also gutt in shaamil not honaa",
+        "world of all guttoN in shaamil honaa",
+        "maujuudaa prspr virodhii guttoN in saamNjsy bnaae keep"
+    ],
+    answer: "world of any also gutt in shaamil not honaa"
+},
+
+{
+    question: "amerikaa of address who applied ?",
+    option: [
+        "maigln",
+        "vaaskoddigaamaa",
+        "kolNbs",
+        "henrii"
+    ],
+    answer: "kolNbs"
+},
+
+{
+    question: "1971 of gtthbNdhn in Which of the following – sii paarttii shaamil not thii ?",
+    option: [
+        "Indian jnsNgh",
+        "combined smaajvaadii dl",
+        "saamyvaadii dl",
+        "Indian kraanti dl"
+    ],
+    answer: "saamyvaadii dl"
+},
+
+{
+    question: "raajy sbhaa in mnoniit members of sNkhyaa is",
+    option: [
+        "12",
+        "13",
+        "21",
+        "11"
+    ],
+    answer: "12"
+},
+
+{
+    question: "vii.es. naaypaal which the ?",
+    option: [
+        "nobel purskaar vijetaa",
+        "vyaapaarii",
+        "iNjiiniyr",
+        "mjduur netaa"
+    ],
+    answer: "nobel purskaar vijetaa"
+},
+
+{
+    question: "ddii.em.of. which raajy of kssetriiy paarttii is ?",
+    option: [
+        "asm",
+        "naagaalainndd",
+        "kerl",
+        "tmilnaaddu"
+    ],
+    answer: "tmilnaaddu"
+},
+
+{
+    question: "India which anucched of tht national aapaatkaal applied goes",
+    option: [
+        "anucched 350",
+        "anucched 356",
+        "anucched 360",
+        "anucched 368"
+    ],
+    answer: "anucched 356"
+},
+
+{
+    question: "eknuviiy of condition which raajy of ekmaatr prbhutv of pricaayk is?",
+    option: [
+        "ruusii sNgh",
+        "ciin",
+        "phraaNs",
+        "combined raajy amriikaa"
+    ],
+    answer: "combined raajy amriikaa"
+},
+
+{
+    question: "which raajy to haal in vibhkt by India of 29 veN raajy as telNgaanaa establishment of gyii is ?",
+    option: [
+        "aaNdhr prdesh",
+        "tmilnaaddu",
+        "kerl",
+        "krnaattk"
+    ],
+    answer: "aaNdhr prdesh"
+},
+
+{
+    question: "1990 in taalibaan ne which raajy in apnaa shaasn sthaapit done jise 2001 in amriikaa ne mittaa given?",
+    option: [
+        "iiraan",
+        "paakistaan",
+        "iraak",
+        "aphaagaanistaan"
+    ],
+    answer: "aphaagaanistaan"
+},
+
+{
+    question: "public field for development of lkssy sbbefore which pNcvrssiiy scheme in rkhaa was ?",
+    option: [
+        "phlii pNcvrssiiy scheme",
+        "duusrii pNcvrssiiy scheme",
+        "tiisrii pNcvrssiiy scheme",
+        "cauthii pNcvrssiiy scheme"
+    ],
+    answer: "duusrii pNcvrssiiy scheme"
+},
+
+{
+    question: "Indian national kaaNgres ne what type of smaajvaad apnaayaa ?",
+    option: [
+        "maarks of vaiknowledgeik smaajvaad",
+        "britten of loktaantrik smaajvaad",
+        "gaaNdhii of srvody",
+        "lenin of saamyvaad"
+    ],
+    answer: "britten of loktaantrik smaajvaad"
+},
+
+{
+    question: "prthm guttnirpekss smmeln of adhykss which the ?",
+    option: [
+        "jvaahrlaal nehruu",
+        "sukrnnoN",
+        "abdul naasir",
+        "Marshall ttiitto"
+    ],
+    answer: "Marshall ttiitto"
+},
+
+{
+    question: "who saamrik bhaagiidaarii of sujhaav rkhaa ?",
+    option: [
+        "amriikii raassttrpti kliNttn",
+        "ruusii raassttrpti putin",
+        "Indian prdhaanmntrii vaajpeyii",
+        "sugar raassttrpti jemin"
+    ],
+    answer: "ruusii raassttrpti putin"
+},
+
+{
+    question: "following in which – saa desh saark of member is ?",
+    option: [
+        "mleshiyaa",
+        "innddoneshiyaa",
+        "jaapaan",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "following from which – saa correct sumelit is not ?",
+    option: [
+        "soniyaagaaNdhii– kaaNgres",
+        "maayaavtii– bhujn society paarttii",
+        "laaluuprsaad yaadv– national jntaa dl",
+        "niitiish kumaar– Indian jntaa paarttii"
+    ],
+    answer: "niitiish kumaar– Indian jntaa paarttii"
+},
+
+{
+    question: "antrraassttriiy annu energy abhikrnn when was established was ?",
+    option: [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+    ],
+    answer: "1957"
+},
+
+{
+    question: "Indian sNvidhaan of which – saa anucched sNsd of combined adhiveshn of anumti gives is ?",
+    option: [
+        "anucched-105",
+        "anucched-108",
+        "anucched-111",
+        "anucched-113"
+    ],
+    answer: "anucched-108"
+},
+
+{
+    question: "Indian sNvidhaan of 73 vaaN sNshodhn smbndhit is–",
+    option: [
+        "Gram Panchayat from",
+        "pNcaaytiiraaj from",
+        "ngrpaalikaase",
+        "ngr Corporation from"
+    ],
+    answer: "pNcaaytiiraaj from"
+},
+
+{
+    question: "sNvidhaan in India of which raajy to special drjaa obtained is ?",
+    option: [
+        "jmmuu– kshmiir",
+        "sikkim",
+        "naagaalainndd",
+        "aruunnaacl prdesh"
+    ],
+    answer: "jmmuu– kshmiir"
+},
+
+{
+    question: "Indian sNghiiy arrangement in kise more shktiyaaN obtained are ?",
+    option: [
+        "center to",
+        "raajyoN to",
+        "jiloN to",
+        "inmeNse any not"
+    ],
+    answer: "center to"
+},
+
+{
+    question: "aasiyaan economic smudaay of uddeshy is",
+    option: [
+        "aasiyaan deshoN of shared baajaar and production taiyaar to do  / ",
+        "aasiyaan field of social and economic development in help to do  / ",
+        "aasiyaan field of deshoN of economic vivaadoN to nipttaane for made maujuudaa arrangement in sudhaar to do  / ",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "which aandoln aandhr prdesh for svaaytt prdesh of demand of thii ?",
+    option: [
+        "telNgaanaaaandoln",
+        "vishaal aandhr aandoln",
+        "redd ribn aandoln",
+        "inmeNse any not–"
+    ],
+    answer: "vishaal aandhr aandoln"
+},
+
+{
+    question: "India in ‘ vividhtaa in ektaa ‘ characteristic of who btaayii ?",
+    option: [
+        "mhaatmaagaaNdhii",
+        "subhaass cndr bos",
+        "raajendr prsaad",
+        "jvaahr red nehruu"
+    ],
+    answer: "jvaahr red nehruu"
+},
+
+{
+    question: "any ngr Corporation of meyr of cunaav which does is ?",
+    option: [
+        "vaardd kaaunsilr",
+        "sthaayiismiti",
+        "jntaa",
+        "inmeNse any not"
+    ],
+    answer: "vaardd kaaunsilr"
+},
+
+{
+    question: "India in which basis on naagriktaa obtained of jaa sktii is ?",
+    option: [
+        "fixed nivaas",
+        "marriage",
+        "srkaariisevaa",
+        "inmeNse any not"
+    ],
+    answer: "fixed nivaas"
+},
+
+{
+    question: "puurv bnaam pshcim ‘ of smbndh from aashy from whom is",
+    option: [
+        "world yuddh from",
+        "shiit yuddh from",
+        "tnaav shaithily from",
+        "uttr – shiit yuddh daur from"
+    ],
+    answer: "shiit yuddh from"
+},
+
+{
+    question: "world to iNttrnett of facility which desh of den is?",
+    option: [
+        "jaapaan",
+        "combined raajy amerikaa",
+        "ciin",
+        "India"
+    ],
+    answer: "combined raajy amerikaa"
+},
+
+{
+    question: "sii.ttii.bii.ttii. prstaav combined raassttr sNgh by when sviikaaraa was ?",
+    option: [
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    answer: "1996"
+},
+
+{
+    question: "svtntrtaa pshcaat deshii riyaast the",
+    option: [
+        "haidraabaad",
+        "juunaagddh'",
+        "njphgddh'",
+        "( a ) and ( b )"
+    ],
+    answer: "( a ) and ( b )"
+},
+
+{
+    question: "svtntr India of prthm gvrnr General which the ?",
+    option: [
+        "loNrdd krjn",
+        "sii . raajgopaalaacaarii",
+        "loNrdd maaunnttbettn",
+        "bii.aar. ambeddkr"
+    ],
+    answer: "sii . raajgopaalaacaarii"
+},
+
+{
+    question: "aanndpur saahb prstaav (1973) of aapttijnk bindu what is ?",
+    option: [
+        "sikhoN of vaidh adhikaaroN of protection of jaae",
+        "sikh one pRthk kaum (raassttr) is",
+        "sikhoN of with bhedbhaav n done jaae",
+        "amRtsr to holy ngr ghossit done jaae / "
+    ],
+    answer: "sikh one pRthk kaum (raassttr) is"
+},
+
+{
+    question: "following in from which raajy in sbbefore gair-kaaNgresii government bnii ?",
+    option: [
+        "tmilnaaddu",
+        "kerl",
+        "uttr prdesh",
+        "pshcimii bNgaal"
+    ],
+    answer: "kerl"
+},
+
+{
+    question: "sNvidhaan by which language to raajbhaassaa of drjaa given was is ?",
+    option: [
+        "aNgrejii",
+        "urduu",
+        "hindii",
+        "hindustaanii"
+    ],
+    answer: "hindii"
+},
+
+{
+    question: "soviyt gutt from sbbefore which saa desh different was ?",
+    option: [
+        "polnndd",
+        "yuugoslaaviyaa",
+        "puurvii jrmnii",
+        "albaaniyaa"
+    ],
+    answer: "yuugoslaaviyaa"
+},
+
+{
+    question: "which deshmaatto in amerikaa leadership of virodh done?",
+    option: [
+        "britten",
+        "phraaNs",
+        "pshcim jrmnii",
+        "ittlii"
+    ],
+    answer: "phraaNs"
+},
+
+{
+    question: "India in vrtmaan in how many national dl is ?",
+    option: [
+        "4",
+        "5",
+        "6",
+        "7"
+    ],
+    answer: "6"
+},
+
+{
+    question: "India in kul how many raajy are ?",
+    option: [
+        "26",
+        "27",
+        "28",
+        "29"
+    ],
+    answer: "28"
+},
+
+{
+    question: "India in kmpyunistt paarttii to sttaa in coming of srvprthm opportunity when mixed ?",
+    option: [
+        "1952 of before cunaav after",
+        "1957 in another cunaav after",
+        "1962 of tiisre cunaav after",
+        "1967 of caathe cunaav after"
+    ],
+    answer: "1957 in another cunaav after"
+},
+
+{
+    question: "brlin of diivaar production of whichsymbol of thaa ?",
+    option: [
+        "shiityuddh of crmotkrss",
+        "dvitiiy vishvyuddh of aarNbh",
+        "shiityuddh of aNt",
+        "dvitiiy vishvyuddh of aNt"
+    ],
+    answer: "shiityuddh of crmotkrss"
+},
+
+{
+    question: "which raajy in mdrse cl rhe is where taalibaan to aatNkvaad of shikssnn v training is given?",
+    option: [
+        "aphaagaanistaan",
+        "paakistaan",
+        "iiraan",
+        "iraak"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "dksses (saark) in how many desh are ?",
+    option: [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    answer: "8"
+},
+
+{
+    question: "vighttit Indian scheme aayog of pden adhykss which is thaa ?",
+    option: [
+        "raassttrpti",
+        "upraassttrpti",
+        "prdhaanmntrii",
+        "scheme mntrii"
+    ],
+    answer: "prdhaanmntrii"
+},
+
+{
+    question: "2003 in amerikaa ne which desh on hmlaa done?",
+    option: [
+        "kuvait",
+        "iraak",
+        "iiraan",
+        "tehraan"
+    ],
+    answer: "iraak"
+},
+
+{
+    question: "India in phlii times national aapaatkaal when applied was?",
+    option: [
+        "1975",
+        "1976",
+        "1977",
+        "1980"
+    ],
+    answer: "1975"
+},
+
+{
+    question: "which bhuumnnddliikrnn of aalock not",
+    option: [
+        "e.jii. phraiNk",
+        "ii . baalrsttiin",
+        "nom comskii",
+        "mnmohn siNh"
+    ],
+    answer: "mnmohn siNh"
+},
+
+{
+    question: "India of prdhaanmNtrii",
+    option: [
+        "niyukt are is",
+        "nirvaacit are",
+        "mnoniit are",
+        "inmeNse any not"
+    ],
+    answer: "niyukt are is"
+},
+
+{
+    question: "”pNcshiil‘ smjhautaa which deshoN between hstaakssrit was ?",
+    option: [
+        "India and paakistaan",
+        "India and ciin",
+        "India and yuu.es.e.",
+        "None of these"
+    ],
+    answer: "India and ciin"
+},
+
+{
+    question: "maikmohn where is ?",
+    option: [
+        "jmmuu – kshmiir in",
+        "aruunnaacl prdesh in",
+        "uttr prdesh in",
+        "asm in"
+    ],
+    answer: "aruunnaacl prdesh in"
+},
+
+{
+    question: "taashknd smjhaute at the time of soviyt sNgh of prtinidhitv which netaa by rhaa thaa ?",
+    option: [
+        "sttaalin",
+        "kosijin",
+        "putiin",
+        "None of these"
+    ],
+    answer: "kosijin"
+},
+
+{
+    question: "India of prthm gair kaaNgresii prdhaanmntrii which the ?",
+    option: [
+        "attl bihaarii vaajpeyii",
+        "moraarjiidesaaii",
+        "devgaudd'aa",
+        "caudhriicrnn siNh"
+    ],
+    answer: "moraarjiidesaaii"
+},
+
+{
+    question: "sNvidhaan nirmaatrii sbhaa of praaruup smiti of adhykss which cune were ?",
+    option: [
+        "ddoN0 raajendr prsaad",
+        "maulaanaaaajaad",
+        "bii0 en 0 raav",
+        "ddoN0 ambeddkr"
+    ],
+    answer: "ddoN0 ambeddkr"
+},
+
+{
+    question: "Indian sNvidhaan in how many bhaassaaoN of ullekh done was is ?",
+    option: [
+        "22",
+        "24",
+        "18",
+        "25"
+    ],
+    answer: "22"
+},
+
+{
+    question: "eshiyaaii kssetriiy mNc of smbndh which sNgtthn from is ?",
+    option: [
+        "yuuropiiy sNgh",
+        "dksses",
+        "uttrii amriikaa mukt vyaapaar field",
+        "aasiyaan"
+    ],
+    answer: "aasiyaan"
+},
+
+{
+    question: "center – raajy sNbNdhoN in prmukh add'cneN what rhii are ?",
+    option: [
+        "raajypaal of bhuumikaa",
+        "anucched 356",
+        "raajyoNkii center on dependence",
+        "inmeNse all"
+    ],
+    answer: "inmeNse all"
+},
+
+{
+    question: "sauraassttr which raajy of organ is ?",
+    option: [
+        "mhaaraassttr",
+        "raajsthaan",
+        "krnaattk",
+        "gujraat"
+    ],
+    answer: "gujraat"
+},
+
+{
+    question: "India in first ngr Corporation sthaapit done was thaa ?",
+    option: [
+        "pttnaa",
+        "muNbii",
+        "mdraas",
+        "kolkaataa"
+    ],
+    answer: "mdraas"
+},
+
+{
+    question: "11 September, 2001 to Which of the following-sii ghttnaa ghttii?",
+    option: [
+        "Indian sNsd on aatNkvaadii hmlaa",
+        "hottl taaj on aatNkvaadii hmlaa",
+        "world vyaapaar center on aatNkvaadii hmlaa",
+        "None of these"
+    ],
+    answer: "world vyaapaar center on aatNkvaadii hmlaa"
+},
+
+{
+    question: "Which of the following one raajy of element is not ?",
+    option: [
+        "bhuu– part",
+        "population",
+        "sNprbhutaa",
+        "raajniitik dl"
+    ],
+    answer: "raajniitik dl"
+},
+
+{
+    question: "1967 of cauthe cunaav after kaaNgres of aadhipty of tejii from ptn in which element ne prbl bhuumikaa nibhaaii is ?",
+    option: [
+        "raajniitik bhulvaad",
+        "raajniitik dl – bdl",
+        "kssetriiy gtthbndhnoN of udy",
+        "dloN in anushaasn of abhaav"
+    ],
+    answer: "raajniitik dl – bdl"
+},
+
+{
+    question: "combined raassttr sNgh of how many organ are ?",
+    option: [
+        "two",
+        "three",
+        "four",
+        "six"
+    ],
+    answer: "six"
+},
+
+{
+    question: "prmaannu praudyogikii of shaantipuurnn use and uskii security from smbddh combined raassttr sNgh of ejensii of name is",
+    option: [
+        "combined raassttr sNgh nirstriikrnn smiti",
+        "antrraassttriiy aannvik energy ejeNsii",
+        "combined raassttr sNgh antrraassttriiy security smiti",
+        "None of these"
+    ],
+    answer: "antrraassttriiy aannvik energy ejeNsii"
+},
+
+{
+    question: "svtntrtaa pshcaat deshii riyaast the",
+    option: [
+        "haidraabaad",
+        "juunaagddh'",
+        "njphgddh'",
+        "( a ) and ( b )"
+    ],
+    answer: "( a ) and ( b )"
+},
+
+{
+    question: "1957 in apnii establishment at the time of yuuropiiy sNgh of what name thaa ?",
+    option: [
+        "yuurop of arthik smudaay",
+        "economic smudaay",
+        "yuurop of ispaat v koylaa smudaay",
+        "yuuropiiy sNgh"
+    ],
+    answer: "yuurop of arthik smudaay"
+},
+
+{
+    question: "sNvidhaan sNshodhn of prkriyaa of vrnnn done was is –",
+    option: [
+        "anucched 370 in",
+        "anucched 368 in",
+        "anucched 356 in",
+        "anucched 352 in"
+    ],
+    answer: "anucched 368 in"
+},
+
+{
+    question: "when 1969 in kaaNgres in phuutt horizontal, that time paarttii of adhykss which thaa ?",
+    option: [
+        "of. kaamraaj",
+        "jgjiivn raam",
+        "es. nijliNgppaa",
+        "cndrshekhr"
+    ],
+    answer: "es. nijliNgppaa"
+},
+
+{
+    question: "gutt – nirpekss aandoln of astitv in aayaa ?",
+    option: [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+    ],
+    answer: "1961"
+},
+
+{
+    question: "dksses when was established was ?",
+    option: [
+        "1957 ii. in",
+        "1985 ii. in",
+        "1990 ii. in",
+        "2008 ii. in"
+    ],
+    answer: "1985 ii. in"
+},
+
+{
+    question: "sNvidhaan by which language to raajbhaassaa of drjaa given was is ?",
+    option: [
+        "aNgrejii",
+        "urduu",
+        "hindii",
+        "hindustaanii"
+    ],
+    answer: "hindii"
+},
+
+{
+    question: "raajy punrgtthn aayog when was established was ?",
+    option: [
+        "1953 ii . in",
+        "1955 ii . in",
+        "1956 ii . in",
+        "1957 ii . in"
+    ],
+    answer: "1953 ii . in"
+},
+
+{
+    question: "18 vaaN saark smmeln where was thaa ?",
+    option: [
+        "India",
+        "kaatthmaaNdduu",
+        "paakistaan",
+        "shriilNkaa"
+    ],
+    answer: "kaatthmaaNdduu"
+},
+
+{
+    question: "puurv of ne economic baaghoN of kotti in kise rkhaa jaa can is ?",
+    option: [
+        "jrmnii",
+        "jaapaan",
+        "mleshiyaa",
+        "ciin"
+    ],
+    answer: "mleshiyaa"
+},
+
+{
+    question: "duusrii duniyaa of deshoN in what type of desh come are ?",
+    option: [
+        "puuNjiivaadii desh",
+        "vikaasshiil desh",
+        "guttnirpekss desh",
+        "saamyvaadii desh"
+    ],
+    answer: "saamyvaadii desh"
+},
+
+{
+    question: "Which of the following soviyt sNgh of vikhnnddn of prinnaam is not ?",
+    option: [
+        "sii.aaii.es. of birth",
+        "amerikaa and soviyt sNgh between vaicaarik yuddh of smaapti",
+        "shiityuddh of smaapti",
+        "mdhy – puurv in sNktt"
+    ],
+    answer: "sii.aaii.es. of birth"
+},
+
+{
+    question: "following in which-saa soviyt sNgh of vighttn of prinnaam is not ?",
+    option: [
+        "combined raajy amerikaa and soviyt sNgh between vicaardhaaraatmk ldd'aaii of aNt / ",
+        "svtNtr raajyoN of raassttrkul (sii.aaii.es.) of jnm / ",
+        "world-arrangement of power-sNtuln in bdlaav / ",
+        "mdhy-puurv in sNktt / "
+    ],
+    answer: "mdhy-puurv in sNktt / "
+},
+
+{
+    question: "saapukaa raa amerikaa of prthm raassttrpti which thaa?",
+    option: [
+        "jrj vaashiNgttn",
+        "joNrj bush",
+        "asaahm likn",
+        "None of these"
+    ],
+    answer: "jrj vaashiNgttn"
+},
+
+{
+    question: "India in vrtmaan in kul how many sNgh – shaasit prdesh are ?",
+    option: [
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    answer: "8"
+},
+
+{
+    question: "nksstr yuddh kaarykrm which desh ne made ?",
+    option: [
+        "combined raajy amriikaa",
+        "soviyt sNgh",
+        "ciin",
+        "amriikaa v soviyt sNgh"
+    ],
+    answer: "combined raajy amriikaa"
+},
+
+{
+    question: "Which of the following one sNvaidhaanik institution is not ?",
+    option: [
+        "niiti aayog",
+        "finance aayog",
+        "sNgh lok sevaa aayog",
+        "cunaav aayog"
+    ],
+    answer: "niiti aayog"
+},
+
+{
+    question: "guttnirpeksstaa of niiNv keeping in which Indian netaa of prmukh yogdaan thaa ?",
+    option: [
+        "mhaatmaa gaaNdhii",
+        "ddoN. bii.aar. ambeddkr",
+        "jvaahrlaal nehruu",
+        "srdaar pttel"
+    ],
+    answer: "jvaahrlaal nehruu"
+},
+
+{
+    question: "who dviraassttr principle ‘ of prtipaadn done ?",
+    option: [
+        "gaaNdhii ne",
+        "nehruu ne",
+        "jinnaane",
+        "pttel ne"
+    ],
+    answer: "jinnaane"
+},
+
+{
+    question: "Which of the following security prissd of sthaayii member is not ?",
+    option: [
+        "phraaNs",
+        "britten",
+        "ittlii",
+        "ciin"
+    ],
+    answer: "ittlii"
+},
+
+{
+    question: "Which of the following one nyaay of type is ?",
+    option: [
+        "kaanuuniinyaay",
+        "raajniitik nyaay",
+        "economic nyaay",
+        "inmeNse all"
+    ],
+    answer: "inmeNse all"
+},
+
+{
+    question: "combined raassttr sNgh of economic v social prissd in kul how many member are ?",
+    option: [
+        "9",
+        "18",
+        "27",
+        "54"
+    ],
+    answer: "54"
+},
+
+{
+    question: "Indian naagrikoN to how many maulik right obtained is ?",
+    option: [
+        "7",
+        "5",
+        "6",
+        "8"
+    ],
+    answer: "6"
+},
+
+{
+    question: "who said ki svtntrtaa after kaaNgres maatr paarttii not blki vh government, raajy here up to ki desh jaisii be was ?",
+    option: [
+        "sttenlekoshnek",
+        "maayron viinr",
+        "moris–jons",
+        "jiyovaaniisaartorii"
+    ],
+    answer: "sttenlekoshnek"
+},
+
+{
+    question: "In which year in world vyaapaar sNgtthn establishment was ?",
+    option: [
+        "1945",
+        "1965",
+        "1975",
+        "1995"
+    ],
+    answer: "1995"
+},
+
+{
+    question: "following in which aasiyaan of member is ?",
+    option: [
+        "India",
+        "innddoneshiyaa",
+        "ciin",
+        "paakistaan"
+    ],
+    answer: "innddoneshiyaa"
+},
+
+{
+    question: "1977 of loksbhaa cunaavoN in which paarttii to most more place mile?",
+    option: [
+        "indiraa kaaNgres",
+        "jntaa paarttii",
+        "kaaNgres phor ddemokresii",
+        "maarksvaadii kmyunistt paarttii"
+    ],
+    answer: "jntaa paarttii"
+},
+
+{
+    question: "1950 in combined raassttr sNgh of mhaasbhaa ne which nyii arrangement to birth given ?",
+    option: [
+        "saamuuhik security",
+        "sttaasntuln",
+        "shaantisthaapnaa",
+        "shaantinirmaann"
+    ],
+    answer: "shaantisthaapnaa"
+},
+
+{
+    question: "Indian sNvidhaan of 8 viiN anusuucii in what vrnnit is ?",
+    option: [
+        "bhaassaaoNkii suucii",
+        "aarkssnn of suucii",
+        "inmeNse any not",
+        "pNcaaytiiraaj functions of"
+    ],
+    answer: "bhaassaaoNkii suucii"
+},
+
+{
+    question: "shaanti – construction method of use of sbbefore where was ?",
+    option: [
+        "koriyaa of yuddh in",
+        "khaadd'ii yuddh in",
+        "kaaNgo of home yuddh in",
+        "iraak yuddh in"
+    ],
+    answer: "kaaNgo of home yuddh in"
+},
+
+{
+    question: "‘ law of smaan preservation ‘ shbdaavlii where from liyaa was is ?",
+    option: [
+        "amerikaa",
+        "britten",
+        "knaaddaa",
+        "aasttreliyaa"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "dhaaraa 370 of smbndh which prdesh from is ?",
+    option: [
+        "uttr prdesh",
+        "bihaar",
+        "uttraakhnndd",
+        "jmmuuaur kshmiir"
+    ],
+    answer: "jmmuuaur kshmiir"
+},
+
+{
+    question: "combined raassttr sNgh of which mhaasciv of air durghttnaa in death was ?",
+    option: [
+        "ttraagiv loNrdd",
+        "ddaig haimrsholdd",
+        "uuthaaNtt",
+        "ddoN. bii.bii. ghaalii"
+    ],
+    answer: "ddaig haimrsholdd"
+},
+
+{
+    question: "desh in ‘interior disorder’ because of sNkttkaaliin condition of",
+    option: [
+        "1975 in",
+        "1974 in",
+        "1972 in",
+        "1977"
+    ],
+    answer: "1975 in"
+},
+
+{
+    question: "soviyt economy of prkRti of baare in Which of the following kthn wrong is ?",
+    option: [
+        "soviyt economy in smaajvaad prbhaavii vicaardhaaraa thii / ",
+        "production of saadhnoN on raajy of svaamitv/control honaa / ",
+        "jntaa to economic aajaadii thii / ",
+        "economy of hr aspect of niyojn and control raajy does thaa / "
+    ],
+    answer: "jntaa to economic aajaadii thii / "
+},
+
+{
+    question: "India in dvitiiy common cunaav when was ?",
+    option: [
+        "1955",
+        "1956",
+        "1957",
+        "inmeNse any not"
+    ],
+    answer: "1957"
+},
+
+{
+    question: "loktaaNtrik vikendriikrnn of sujhaav given",
+    option: [
+        "raaj mnnaar smiti ne",
+        "ashok Mehta smiti ne",
+        "cndaa smiti ne",
+        "blvnt raay Mehta smitine"
+    ],
+    answer: "blvnt raay Mehta smitine"
+},
+
+{
+    question: "main cunaav aayukt and other cunaav aayuktoN of niyukti by whom is done ?",
+    option: [
+        "raassttrpti",
+        "prdhaanmNtrii",
+        "loksbhaaadhykss",
+        "vidhimNtrii"
+    ],
+    answer: "raassttrpti"
+},
+
+{
+    question: "jii -77 of aashy duniyaa of which deshoN from is ?",
+    option: [
+        "viksit desh",
+        "vikaasshiil desh",
+        "viksit and vikaasshiil desh",
+        "aviksit desh"
+    ],
+    answer: "vikaasshiil desh"
+},
+
+{
+    question: "kyuudaa sNktt In which year produced was ?",
+    option: [
+        "year 1960",
+        "year 1961",
+        "year 1962",
+        "year 1963"
+    ],
+    answer: "year 1962"
+},
+
+{
+    question: "kuvait to which raajy of avaidh cNgul from mukt kraayaa was?",
+    option: [
+        "iraak",
+        "iiraan",
+        "paakistaan",
+        "soviyt sNgh"
+    ],
+    answer: "iraak"
+},
+
+{
+    question: "India in nii economic niiti of shuruuaat when was ?",
+    option: [
+        "1989 ii. in",
+        "1991 ii. in",
+        "1970 ii. in",
+        "1993 ii. in"
+    ],
+    answer: "1991 ii. in"
+},
+
+{
+    question: "taadd'ii virodh aandoln which raajy from smbndhit is ?",
+    option: [
+        "gujraat",
+        "bihaar",
+        "aandhr prdesh",
+        "mhaaraassttr"
+    ],
+    answer: "aandhr prdesh"
+},
+
+{
+    question: "Indian sNvidhaan in how many maulik krtvy are ?",
+    option: [
+        "8",
+        "9",
+        "10",
+        "11"
+    ],
+    answer: "11"
+},
+
+{
+    question: "kaaNgres establishment who done thaa ?",
+    option: [
+        "e.o. hyuum",
+        "laardd maauntt bettn",
+        "raaj raammohn raay",
+        "srdaar pttel"
+    ],
+    answer: "e.o. hyuum"
+},
+
+{
+    question: "following which naatto of member is not ?",
+    option: [
+        "India",
+        "britten",
+        "phraaNs",
+        "jrmnii"
+    ],
+    answer: "India"
+},
+
+{
+    question: "” saaphttaa ‘ smjhaute on In which year hstaakssr were ?",
+    option: [
+        "2004 in",
+        "2006 in",
+        "2007 in",
+        "2008 in"
+    ],
+    answer: "2004 in"
+},
+
+{
+    question: "nv – upniveshvaad pdbndh who gddh'aa ?",
+    option: [
+        "misr of krnl naasir",
+        "India of jvaahrlaal nehruu",
+        "ghaanaa of en. kruumaah",
+        "ciin of maao jeduNg"
+    ],
+    answer: "ghaanaa of en. kruumaah"
+},
+
+{
+    question: "govaa , dmn v dviip which yuuropiiy raajy of upnivesh thaa ?",
+    option: [
+        "britten",
+        "phraaNs",
+        "ittlii",
+        "purtgaal"
+    ],
+    answer: "purtgaal"
+},
+
+{
+    question: "Which of the following one desh is not ?",
+    option: [
+        "myaaNmaar",
+        "India",
+        "haaNgkaaNg",
+        "ciin"
+    ],
+    answer: "haaNgkaaNg"
+},
+
+{
+    question: "India of sNvidhaan In which year aNgiikRt done was ?",
+    option: [
+        "year 1948",
+        "year 1949",
+        "year 1950",
+        "inmeNse any not"
+    ],
+    answer: "year 1949"
+},
+
+{
+    question: "raajysbhaa in prtinidhitv is .",
+    option: [
+        "center of",
+        "raajyoN of",
+        "( a ) and ( b ) both of",
+        "inmeNse any not"
+    ],
+    answer: "raajyoN of"
+},
+
+{
+    question: "desh of vibhaajn from which – which – from raajy prbhaavit were the ?",
+    option: [
+        "bmbii v mdraas",
+        "bihaar v udd'iisaa",
+        "pNjaab v bNgaal",
+        "inmeNse any not"
+    ],
+    answer: "pNjaab v bNgaal"
+},
+
+{
+    question: "jntaa paarttii of gtthn was thaa",
+    option: [
+        "25 June, 1975 in",
+        "6 April, 1980 in",
+        "25 July, 1978 in",
+        "6 March, 1982 in"
+    ],
+    answer: "6 April, 1980 in"
+},
+
+{
+    question: "‘ vaarsaa sndhi ‘ which desh of sainik gutt thaa ?",
+    option: [
+        "soviyt sNgh",
+        "amerikaa",
+        "pshcimii jrmnii",
+        "phraaNs"
+    ],
+    answer: "soviyt sNgh"
+},
+
+{
+    question: "sNvidhaan of prstaavnaa in bndhutaa of aadrsh why rkhaa was ?",
+    option: [
+        "social development for",
+        "social nyaay for",
+        "svtntrtaahetu",
+        "national ektaa for"
+    ],
+    answer: "national ektaa for"
+},
+
+{
+    question: "soviyt sNgh of vighttn of what prinnaam was ?",
+    option: [
+        "duusrii duniyaa of aNt",
+        "prthm duniyaa of aNt",
+        "shiityuddh of aarNbh",
+        "combined raassttr sNgh establishment"
+    ],
+    answer: "duusrii duniyaa of aNt"
+},
+
+{
+    question: "world of deshoN between vyaapaar sNgtthnoN for which – saa antrraassttriiy sNgtthn is ?",
+    option: [
+        "world vyaapaar sNgtthn",
+        "antrraassttriiy money koss",
+        "world bank",
+        "All of these"
+    ],
+    answer: "world vyaapaar sNgtthn"
+},
+
+{
+    question: "soviyt sNgh of vibhaajn after ruus of prthm nirvaacit raassttrpti which thaa ?",
+    option: [
+        "brejnev",
+        "yeltsiin",
+        "sttaaliin",
+        "gorvaacov"
+    ],
+    answer: "yeltsiin"
+},
+
+{
+    question: "bhaakhdd'aa naaNgl priyojnaa sthit is",
+    option: [
+        "gNgaa on",
+        "kaaverii on",
+        "stlj on",
+        "sindhu on"
+    ],
+    answer: "stlj on"
+},
+
+{
+    question: "1952 ii. in which sNgtthn establishment was thii ?",
+    option: [
+        "scheme aayog",
+        "finance aayog",
+        "national development prissd",
+        "None of these"
+    ],
+    answer: "national development prissd"
+},
+
+{
+    question: "below of deshoN in aasiyaan of member which is not ?",
+    option: [
+        "innddoneshiyaa",
+        "philiipiins",
+        "siNgaapur",
+        "shriilNkaa"
+    ],
+    answer: "shriilNkaa"
+},
+
+{
+    question: "hoNtt laain smjhautaa of was thaa ?",
+    option: [
+        "1963 ii.",
+        "1964 ii",
+        "1961 ii.",
+        "1965 ii."
+    ],
+    answer: "1963 ii."
+},
+
+{
+    question: "which desh ne security prissd in srvaadhik times nissedhaadhikaar of prstaav done ?",
+    option: [
+        "combined raajy amerikaa",
+        "ciin",
+        "ruus",
+        "phraaNs sthaapit was ?"
+    ],
+    answer: "ruus"
+},
+
+{
+    question: "Which of the following one raajy of element is not ?",
+    option: [
+        "bhuu– part",
+        "population",
+        "sNprbhutaa",
+        "raajniitik dl"
+    ],
+    answer: "raajniitik dl"
+},
+
+{
+    question: "India in gair kaaNgres government of before prdhaanmNtrii which the ?",
+    option: [
+        "cndrshekhr",
+        "moraarjii desaaii",
+        "vii.pii. siNh",
+        "aaii.of. gujraal"
+    ],
+    answer: "moraarjii desaaii"
+},
+
+{
+    question: "following in which sty is ?",
+    option: [
+        "gorbaacyov ne ‘ glaasnostt ‘ and ‘ prestroekaa ‘ of vicaar done  / ",
+        "taalibaan arrangement baaNglaadesh in 1996 from 2001 up to sthaapit rhaa  / ",
+        "naatto one sainy sNgtthn thaa whichestablishment combined raajy amerikaa by of was thii  / ",
+        "dkssinn eshiyaa of all desh loktaantrik are  / "
+    ],
+    answer: "gorbaacyov ne ‘ glaasnostt ‘ and ‘ prestroekaa ‘ of vicaar done  / "
+},
+
+{
+    question: "Indian scheme aayog to when smaapt by given was ?",
+    option: [
+        "1977",
+        "1980",
+        "2007",
+        "2014"
+    ],
+    answer: "2014"
+},
+
+{
+    question: "Indian naagriktaa Act when paarit done was ?",
+    option: [
+        "1950 in",
+        "1952 in",
+        "1955 in",
+        "1958 in"
+    ],
+    answer: "1955 in"
+},
+
+{
+    question: "dvitiiy mhaayuddh after in yuurop in which – sii institution of udy economic dussprbhaavoN to smaapt doing for was ?",
+    option: [
+        "saark",
+        "naatto",
+        "opek",
+        "yuuropiiy sNgh"
+    ],
+    answer: "yuuropiiy sNgh"
+},
+
+{
+    question: "Indian sNvidhaan of which – saa anucched sNsd of combined adhiveshn of anumti gives is ?",
+    option: [
+        "anucched-105",
+        "anucched-108",
+        "anucched-111",
+        "anucched-113"
+    ],
+    answer: "anucched-108"
+},
+
+{
+    question: "world ahiNsaa day which tithi to mnaayaa goes is?",
+    option: [
+        "30 jnvrii",
+        "24 October",
+        "10 dismbr",
+        "2 October"
+    ],
+    answer: "2 October"
+},
+
+{
+    question: "India – ciin yuddh In which year was ?",
+    option: [
+        "1971 ii. in",
+        "1982 ii. in",
+        "1972 ii. in",
+        "1962 ii. in"
+    ],
+    answer: "1962 ii. in"
+},
+
+{
+    question: "vishvaas prstaav of basis on srvprthm which prdhaanmNtrii to tyaagptr give pdd'aa ?",
+    option: [
+        "moraarjii desaaii",
+        "caudhrii crnn siNh",
+        "vii.pii. siNh",
+        "cndrshekhr"
+    ],
+    answer: "moraarjii desaaii"
+},
+
+{
+    question: "which prdhaanmNtrii ne mnnddl aayog of siphaarishoN to implemented done ?",
+    option: [
+        "vii.pii. siNh",
+        "attl bihaarii vaajpeyii",
+        "indiraa gaaNdhii",
+        "moraarjii desaaii"
+    ],
+    answer: "vii.pii. siNh"
+},
+
+{
+    question: "world shrm sNgtthn of mukhyaaly avsthit is–",
+    option: [
+        "jinevaa in",
+        "peris in",
+        "dillii in",
+        "lNdn in"
+    ],
+    answer: "jinevaa in"
+},
+
+{
+    question: "glaasnaastt v peristtroykaa of mntr who given ?",
+    option: [
+        "lenin",
+        "sttaalin",
+        "khushcev",
+        "gorbaacyov"
+    ],
+    answer: "gorbaacyov"
+},
+
+{
+    question: "bhujn society paarttii of sNsthaapk which the ?",
+    option: [
+        "maayaavtii",
+        "ambeddkr",
+        "kaaNshiiraam",
+        "None of these"
+    ],
+    answer: "kaaNshiiraam"
+},
+
+{
+    question: "shiityuddh of smbndh in Which of the following – saa kthn correct is not ?",
+    option: [
+        "two mhaashktiyoN between vicaaroN of hodd'",
+        "amerikaa, soviytsNgh and unke mitr deshoN between prtisprdhaa",
+        "shstriikrnn of hodd'",
+        "combined raajy amerikaa and soviyt sNgh yuddh in smmilit"
+    ],
+    answer: "combined raajy amerikaa and soviyt sNgh yuddh in smmilit"
+},
+
+{
+    question: "smaajvaadii baajaarii economy which desh in sthaapit was ?",
+    option: [
+        "soviyt sNgh",
+        "polainndd",
+        "ciin",
+        "kyuubaa"
+    ],
+    answer: "ciin"
+},
+
+{
+    question: "combined raassttr sNgh of prthm eshiyaaii mhaasciv which the ?",
+    option: [
+        "baan of muun",
+        "yuu thaaNtt",
+        "kophii annaan",
+        "butrs ghaalii"
+    ],
+    answer: "yuu thaaNtt"
+},
+
+{
+    question: "1952 from 1967 up to India in which raajniitik dl of prbhutv rhaa thaa ?",
+    option: [
+        "bii.je.pii.",
+        "jntaa dl",
+        "kaaNgres",
+        "shiv senaa"
+    ],
+    answer: "kaaNgres"
+},
+
+{
+    question: "anusuucit jaati sNgh establishment who of thii ?",
+    option: [
+        "bii.aar. ambedkr",
+        "kaaNshiiraam",
+        "maayaavtii",
+        "raamvilaas paasvaan"
+    ],
+    answer: "bii.aar. ambedkr"
+},
+
+{
+    question: "world bank when was established was ?",
+    option: [
+        "1946 ii. in",
+        "1947 ii. in",
+        "1948 ii. in",
+        "1944 ii. in"
+    ],
+    answer: "1944 ii. in"
+},
+
+{
+    question: "which desh ne security prissd in nissedhaadhikaar of srvaadhik times use done ?",
+    option: [
+        "yuu.es.e.",
+        "phraaNs",
+        "ruus",
+        "ciin"
+    ],
+    answer: "ruus"
+},
+
+{
+    question: "world raajniiti of two dhruv which-which the ?",
+    option: [
+        "India and ciin",
+        "amerikaa and soviyt sNgh",
+        "jrmnii and jaapaan",
+        "britten and phraaNs"
+    ],
+    answer: "amerikaa and soviyt sNgh"
+},
+
+{
+    question: "Which of the following one pryaavrnnvid is not",
+    option: [
+        "suniitaa naaraaynn",
+        "medhaa paattekr",
+        "aar. of. pcaurii",
+        "arvind kejriivaal"
+    ],
+    answer: "arvind kejriivaal"
+},
+
+{
+    question: "hmaarii niyojn arrangement kisN vicaardhaaraa on aashrit is ?",
+    option: [
+        "udaarvaad",
+        "saamyvaad",
+        "loktaantrik smaajvaad",
+        "gaaNdhiivaad"
+    ],
+    answer: "loktaantrik smaajvaad"
+},
+
+{
+    question: "prtinidhi loktNtr of basis is",
+    option: [
+        "svtNtr nyaaypaalikaa",
+        "sshkt kaarypaalikaa",
+        "lok sbhaa",
+        "adult mtaadhikaar"
+    ],
+    answer: "adult mtaadhikaar"
+},
+
+{
+    question: "sNvidhaan of which anucched in center and raajy between vidhaayii sNbNdhoN of ullekh is ?",
+    option: [
+        "anucched– 245-255",
+        "anucched– 240-250",
+        "anucched– 352-360",
+        "inmeNse any not"
+    ],
+    answer: "anucched– 245-255"
+},
+
+{
+    question: "raajyoN of punrgtthn aayog of adhykss which thaa ?",
+    option: [
+        "govind vllbh pnt",
+        "srdaar of.em. pnnikr",
+        "pnnddit hRdynaath kuNjruu",
+        "nyaaymuurtiphjl alii"
+    ],
+    answer: "nyaaymuurtiphjl alii"
+},
+
+{
+    question: "vidhaanprissd of member nirvaacit being for nyuuntm age what",
+    option: [
+        "18 year",
+        "25 year",
+        "21 year",
+        "30 year"
+    ],
+    answer: "30 year"
+},
+
+{
+    question: "India of sNvidhaan in first sNvidhaan sNshodhn In which year was ?",
+    option: [
+        "1951",
+        "1952",
+        "1953",
+        "1954"
+    ],
+    answer: "1951"
+},
+
+{
+    question: "shoNk therepii to apnaayaa was",
+    option: [
+        "1990 ii. in",
+        "1991 ii. in",
+        "1989 ii. in",
+        "1992 ii. in"
+    ],
+    answer: "1990 ii. in"
+},
+
+{
+    question: "1959 in svtntr paarttii who bnaaii ?",
+    option: [
+        "raajgopaalaacaarii",
+        "caudhrii crnn siNh",
+        "kaamraaj naadr",
+        "jyprkaash naaraaynn"
+    ],
+    answer: "raajgopaalaacaarii"
+},
+
+{
+    question: "first guttnirpekss smmeln where was ?",
+    option: [
+        "nii dillii in",
+        "belgredd in",
+        "kairo in",
+        "hvaanaa in"
+    ],
+    answer: "belgredd in"
+},
+
+{
+    question: "vishvvyaapii economic sNktt In which year aarNbh was thaa ?",
+    option: [
+        "1914 ii .",
+        "1922 ii .",
+        "1929 ii .",
+        "1927 ii ."
+    ],
+    answer: "1929 ii ."
+},
+
+{
+    question: "prthm gutt nirpekss smmeln of adhykss which the ?",
+    option: [
+        "jvaahrlaal nehruu",
+        "sukrnnoN",
+        "abdul naasir",
+        "Marshall ttiitto"
+    ],
+    answer: "Marshall ttiitto"
+},
+
+{
+    question: "loktaaNtrik vikendriikrnn of sujhaav given",
+    option: [
+        "raaj mnnaar smiti ne",
+        "ashok Mehta smiti ne",
+        "cndaa smiti ne",
+        "blvnt raay Mehta smitine"
+    ],
+    answer: "blvnt raay Mehta smitine"
+},
+
+{
+    question: "vaishvik taapvRddhi from which desh to most more khtraa is?",
+    option: [
+        "maaldviip",
+        "baaNglaadesh",
+        "India",
+        "paakistaan"
+    ],
+    answer: "maaldviip"
+},
+
+{
+    question: "Which of the following desh saark of member is not ?",
+    option: [
+        "paakistaan",
+        "India",
+        "nepaal",
+        "thaaiilainndd"
+    ],
+    answer: "thaaiilainndd"
+},
+
+{
+    question: "sNghaatmk ddhaaNce for aprihaary lkssnn is",
+    option: [
+        "sNvidhaan of srvocctaa",
+        "svtNtr nyaaypaalikaa",
+        "shktiyoNkaa vibhaajn",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "kshmiir of India in vily on kise aaptti is ?",
+    option: [
+        "neshnl kaaNphrens",
+        "hurriyt kaaNphrens",
+        "paiNthrs paarttii",
+        "piipuls ddemokrettik paarttii"
+    ],
+    answer: "hurriyt kaaNphrens"
+},
+
+{
+    question: "Indian sNvidhaan in smvrtii suucii of prernnaa where from lii was ?",
+    option: [
+        "amerikaa",
+        "svittjrlainndd",
+        "aasttreliyaa",
+        "soviyt sNgh"
+    ],
+    answer: "aasttreliyaa"
+},
+
+{
+    question: "India of prthm raassttrpti which the ?",
+    option: [
+        "pN. nehruu",
+        "srdaar pttel",
+        "ddoN. raadhaakRssnnn",
+        "ddoN. raajendr prsaad"
+    ],
+    answer: "ddoN. raajendr prsaad"
+},
+
+{
+    question: "following in which – saa kthn sty is ?",
+    option: [
+        "dkssinn eshiyaa of all desh prjaataaNtrik are",
+        "nepaal one such desh is , where raajtntr is",
+        "saark 1985 in astitv in aayaa",
+        "bhuuttaan one gnntNtr is"
+    ],
+    answer: "saark 1985 in astitv in aayaa"
+},
+
+{
+    question: "national development prissd of adhykss which is ?",
+    option: [
+        "raassttrpti",
+        "up – raassttrpti",
+        "prdhaanmNtrii",
+        "main nyaayaadhiish"
+    ],
+    answer: "prdhaanmNtrii"
+},
+
+{
+    question: "India of prthm educationmntrii which the ?",
+    option: [
+        "ddoN. bii.aar. ambeddkr",
+        "abul klaam aajaad",
+        "sucetaakRplaanii",
+        "of.em. muNshii"
+    ],
+    answer: "abul klaam aajaad"
+},
+
+{
+    question: "combined raassttr sNgh establishment of uttrdaayii element Which of these is not ?",
+    option: [
+        "lndn ghossnnaa",
+        "moNsko ghossnnaa",
+        "attlaaNttik caarttr",
+        "cenjus smjhautaa"
+    ],
+    answer: "cenjus smjhautaa"
+},
+
+{
+    question: "dvitiiy pNcvrssiiy scheme function ofkaal what thaa ?",
+    option: [
+        "1956-56",
+        "1956-61",
+        "1961-66",
+        "None of these"
+    ],
+    answer: "1956-61"
+},
+
+{
+    question: "India of sNvidhaan of which anucched of adhiin India of raassttrpti on mhaabhiyog claayaa jaa can is ?",
+    option: [
+        "anucched 356",
+        "anucched 75",
+        "anucched 76",
+        "anucched 61"
+    ],
+    answer: "anucched 61"
+},
+
+{
+    question: "1992 of pRthvii shikhr smmeln was jiskaa planning",
+    option: [
+        "combined raajy amerikaa ne done",
+        "combined raassttr sNgh ne done",
+        "braajiil of government of aagrh on done was",
+        "gutt–nirpekss deshoN of upkrm on done was"
+    ],
+    answer: "combined raassttr sNgh ne done"
+},
+
+{
+    question: "muslim liig when was established was ?",
+    option: [
+        "1905 ii . in",
+        "1906 ii . in",
+        "1907 ii . in",
+        "1908 ii . in"
+    ],
+    answer: "1906 ii . in"
+},
+
+{
+    question: "1992 in which shhr in pRthvii smmeln was thaa?",
+    option: [
+        "kyotto",
+        "riyo–ddii jenero",
+        "lndn",
+        "nyuuyaark"
+    ],
+    answer: "riyo–ddii jenero"
+},
+
+{
+    question: "which pNcvrssiiy scheme in society of smaajvaadii prtimaan to saakaar doing of dhyey rkhaa was ?",
+    option: [
+        "phlii pNcvrssiiy scheme",
+        "duusrii pNcvrssiiy scheme",
+        "tiisrii pNcvrssiiy scheme",
+        "cauthii pNcvrssiiy scheme"
+    ],
+    answer: "duusrii pNcvrssiiy scheme"
+},
+
+{
+    question: "soviyt sNgh of antim raassttrpti which the ?",
+    option: [
+        "bresnev",
+        "ennddropov",
+        "mikhaail gorvaacyov",
+        "sttaalin"
+    ],
+    answer: "mikhaail gorvaacyov"
+},
+
+{
+    question: "dksses of first smmeln where was thaa ?",
+    option: [
+        "India",
+        "baaNglaadesh",
+        "paakistaan",
+        "shriilNkaa"
+    ],
+    answer: "baaNglaadesh"
+},
+
+{
+    question: "praaciin kaal in which sthl maarg from eshiyaa and yuurop of vyaapaar is thaa ?",
+    option: [
+        "cotton maarg",
+        "silk maarg",
+        "uttraapth",
+        "dkssinn pth"
+    ],
+    answer: "silk maarg"
+},
+
+{
+    question: "India in vrtmaan in kul how many sNgh – shaasit prdesh are ?",
+    option: [
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    answer: "8"
+},
+
+{
+    question: "Which of the following amerikaa by aatNkvaad of viruddh iske vaishvik yuddh of hissaa thaa?",
+    option: [
+        "oNpreshn ddejrtt sttoNrm",
+        "kmpyuuttr voNr",
+        "oNpreshn ennddyoriNg phriiddm",
+        "viiddiyogem voNr"
+    ],
+    answer: "oNpreshn ennddyoriNg phriiddm"
+},
+
+{
+    question: "kssetriiy dloN of udy of most bdd'aa cause what is ?",
+    option: [
+        "kaaNgres of leadership of ptn",
+        "kssetriiy asntuln",
+        "India of sNghiiy arrangement",
+        "bhu – dliiy arrangement"
+    ],
+    answer: "kaaNgres of leadership of ptn"
+},
+
+{
+    question: "India in iron man of sNjnyaa kise dii was is ?",
+    option: [
+        "mhaatmaagaaNdhii to",
+        "pN. jvaahrlaal nehruko",
+        "bllbhbhaaii pttel to",
+        "inmeNse any not"
+    ],
+    answer: "bllbhbhaaii pttel to"
+},
+
+{
+    question: "yuuropiiy economic smudaay when was established was ?",
+    option: [
+        "1957 ii. in",
+        "1992 ii. in",
+        "2005 ii. in",
+        "2006 ii. in"
+    ],
+    answer: "1957 ii. in"
+},
+
+{
+    question: "‘ law of smaan preservation ‘ shbdaavlii where from liyaa was is ?",
+    option: [
+        "amerikaa",
+        "britten",
+        "knaaddaa",
+        "aasttreliyaa"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "Which of the following combined raassttr sNgh of organ is not ?",
+    option: [
+        "mhaasbhaa",
+        "surkssaaprissd",
+        "aNtrraassttriiy nyaayaaly",
+        "yuuniseph"
+    ],
+    answer: "yuuniseph"
+},
+
+{
+    question: "before world baajaar as which – saa shhr ubhr by aayaa ?",
+    option: [
+        "alekjennddriyaa",
+        "dilmuun",
+        "maincesttr",
+        "bhriin"
+    ],
+    answer: "alekjennddriyaa"
+},
+
+{
+    question: "Indian sNvidhaan of 42vaaN sNshodhn when was?",
+    option: [
+        "1971 in",
+        "1976 in",
+        "1977 in",
+        "1978 in"
+    ],
+    answer: "1976 in"
+},
+
+{
+    question: "‘social nyaay of with development’ of suutr which pNcvrssiiy scheme in apnaayaa was ?",
+    option: [
+        "tiisrii pNcvrssiiy scheme",
+        "cauthii pNcvrssiiy scheme",
+        "paaNcviiN pNcvrssiiy scheme",
+        "chtthii pNcvrssiiy scheme"
+    ],
+    answer: "cauthii pNcvrssiiy scheme"
+},
+
+{
+    question: "Indian jntaa paarttii which paarttii of nyaa name is?",
+    option: [
+        "Indian jnsNgh",
+        "Indian kraaNti dl",
+        "Indian lok dl",
+        "Indian jntaa dl"
+    ],
+    answer: "Indian jnsNgh"
+},
+
+{
+    question: "indiraa gaaNdhii ne which smjhaute on hstaakssr done ?",
+    option: [
+        "1960 of sindhu river water saamjhautaa",
+        "1963 of paakssik prmaannu test sndhi",
+        "1966 of taashknd smjhautaa",
+        "1972 of shimlaa smjhautaa"
+    ],
+    answer: "1972 of shimlaa smjhautaa"
+},
+
+{
+    question: "India in videshii niiti of handler haiN / ",
+    option: [
+        "ddoN. mnmohn siNh",
+        "yshvnt siNh",
+        "vii.pii. siNh",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "India in finance aayog function ofkaal how much is ?",
+    option: [
+        "five year",
+        "four year",
+        "six year",
+        "any siimaa not"
+    ],
+    answer: "five year"
+},
+
+{
+    question: "shimlaa smjhautaa In which year hstaakssaarit was ?",
+    option: [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+    ],
+    answer: "1972"
+},
+
+{
+    question: "73 veN sNvidhaan sNshodhn according to 11 viiN anusuucii in pNcaaytii raaj sNsthaaoN to how many vissy sauNpe were are ?",
+    option: [
+        "97",
+        "66",
+        "47",
+        "29"
+    ],
+    answer: "29"
+},
+
+{
+    question: "which sNvidhaan sNshodhn of by pNcaaytoN in mhilaaoN to aarkssnn provide done was ?",
+    option: [
+        "42 vaaN",
+        "44 vaaN",
+        "65 vaaN",
+        "73 vaaN"
+    ],
+    answer: "73 vaaN"
+},
+
+{
+    question: "raajysbhaa of up – sbhaapti nirvaacit is",
+    option: [
+        "raajysbhaake nirvaacit sdsyoNdvaaraa",
+        "raajysbhaake members by",
+        "sNsd of nirvaacit sdsyoNdvaaraa",
+        "sNsd of all sdsyoNdvaaraa"
+    ],
+    answer: "raajysbhaake members by"
+},
+
+{
+    question: "kyuubaa misaail sNktt at the time of soviyt sNgh of netRttv which netaa of haathoN in thaa, uskaa name thaa",
+    option: [
+        "phidel kaastro",
+        "nikitaa khushcev",
+        "staalin",
+        "gorbaacov"
+    ],
+    answer: "nikitaa khushcev"
+},
+
+{
+    question: "national pNcaayt which desh of sNsd is ?",
+    option: [
+        "baaNglaadesh",
+        "bhuuttaan",
+        "nepaal",
+        "paakistaan"
+    ],
+    answer: "nepaal"
+},
+
+{
+    question: "India of raassttrpti of condition tulnaatmk dRsstti from following in from whose smaan is ?",
+    option: [
+        "amriikiiraassttrpti",
+        "knaaddaake gvrnr – General",
+        "brittish mhaaraanii",
+        "puurv soviyt sNgh keraassttrpti"
+    ],
+    answer: "brittish mhaaraanii"
+},
+
+{
+    question: "history of ant of suutr who given?",
+    option: [
+        "phraaNsis phukuyaamaa",
+        "ddainiyl bel",
+        "en. comskii",
+        "jibignyu brejejinskii"
+    ],
+    answer: "phraaNsis phukuyaamaa"
+},
+
+{
+    question: "uttr – puurvii kssetriiy prissd in aatthveN member as kise shaamil done was is ?",
+    option: [
+        "aruunnaacl prdesh",
+        "meghaaly",
+        "sikkim",
+        "tripuraa"
+    ],
+    answer: "sikkim"
+},
+
+{
+    question: "bihaar vidhaan prissd of members function ofkaal what is ?",
+    option: [
+        "6 year",
+        "5 year",
+        "4 year",
+        "7 year"
+    ],
+    answer: "6 year"
+},
+
+{
+    question: "India in kul how many raajy are?",
+    option: [
+        "26",
+        "27",
+        "28",
+        "29"
+    ],
+    answer: "28"
+},
+
+{
+    question: "‘griin haaus gaiseN’ smbndhit is",
+    option: [
+        "vaishvik taapvRddhi from",
+        "vaishvik baajaar from",
+        "vaishvik vyaapaar from",
+        "All of these"
+    ],
+    answer: "vaishvik taapvRddhi from"
+},
+
+{
+    question: "world woman day when mnaayaa goes is ?",
+    option: [
+        "10 dismbr to",
+        "8 March to",
+        "1 dismbr to",
+        "2 October to"
+    ],
+    answer: "8 March to"
+},
+
+{
+    question: "anusuucit jaati sNgh establishment who of thii ?",
+    option: [
+        "maayaavtii",
+        "bii.aar. ambeddkr",
+        "pNddit nehruu",
+        "kaaNshiiraam"
+    ],
+    answer: "bii.aar. ambeddkr"
+},
+
+{
+    question: "national jntaa dl India of which raajy in skriy is ?",
+    option: [
+        "uttr prdesh",
+        "hriyaannaa",
+        "bihaar",
+        "chttiisgddh'"
+    ],
+    answer: "bihaar"
+},
+
+{
+    question: "sttaalin sNvidhaan when implemented was ?",
+    option: [
+        "1936 ii. in",
+        "1924 ii. in",
+        "1977 ii. in",
+        "1999 ii. in"
+    ],
+    answer: "1936 ii. in"
+},
+
+{
+    question: "India in raassttrpti pd of ummiidvaar of nyuuntm age what is ?",
+    option: [
+        "30 year",
+        "35 year",
+        "40 year",
+        "45 year"
+    ],
+    answer: "35 year"
+},
+
+{
+    question: "‘saanii praasdii’ of suutr who given?",
+    option: [
+        "indiraagaaNdhii",
+        "gairett haarddin",
+        "ec. bruunnddttlainndd",
+        "bii.bii. ghaalii"
+    ],
+    answer: "gairett haarddin"
+},
+
+{
+    question: "maanvaadhikaaroN of saarvbhaumik ghossnnaa when was ?",
+    option: [
+        "1645 ii .",
+        "1946 ii .",
+        "1947 ii .",
+        "1948 ii ."
+    ],
+    answer: "1948 ii ."
+},
+
+{
+    question: "2010 ii. of bihaar vidhaansbhaa cunaavoN in which raajniitik dl ne prthm place obtained done ?",
+    option: [
+        "jntaa dl (yuu)",
+        "kaaNgres",
+        "national jntaa dl",
+        "Indian jntaa paarttii"
+    ],
+    answer: "jntaa dl (yuu)"
+},
+
+{
+    question: "India in nii economic niiti of shuruuaat which prdhaanmNtrii ne of thii ?",
+    option: [
+        "mnmohn siNh",
+        "nrsimhaa raav",
+        "raajiiv gaaNdhii",
+        "vii.pii. siNh"
+    ],
+    answer: "nrsimhaa raav"
+},
+
+{
+    question: "which raajy in sNvidhaanvaad of paavntaa from times – times khilvaadd' is done ?",
+    option: [
+        "India",
+        "paakistaan",
+        "baaNglaadesh",
+        "shriilNkaa"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "keshvaannd bhaartii vaad in srvocc nyaayaaly ne which vissy on nirnny given thaa ?",
+    option: [
+        "sNsd maulik adhikaaroN in sNshodhn not by can",
+        "compensation of principle",
+        "sNsd sNvidhaan of muul ddhaaNce to sNshodhit not by sktii",
+        "bank raassttriiykrnn Act"
+    ],
+    answer: "sNsd sNvidhaan of muul ddhaaNce to sNshodhit not by sktii"
+},
+
+{
+    question: "budget of relation which pkss of with is ?",
+    option: [
+        "income",
+        "expenditure",
+        "income and expenditure",
+        "None of these"
+    ],
+    answer: "income and expenditure"
+},
+
+{
+    question: "India of which paarttii to dkssinnpNthii paarttiyoN of kotti in rkhaa jaa can is ?",
+    option: [
+        "bhujn society paarttii",
+        "maarksvaadii kmpyunistt paarttii",
+        "Indian jntaa paarttii",
+        "kraantikaarii smaajvaadii paarttii"
+    ],
+    answer: "Indian jntaa paarttii"
+},
+
+{
+    question: "bihaar of prthm mukhymNtrii which the ?",
+    option: [
+        "anugrh naaraaynn siNh",
+        "shriikRssnn siNh",
+        "krpuurii tthaakur",
+        "None of these"
+    ],
+    answer: "shriikRssnn siNh"
+},
+
+{
+    question: "Which of the following one soviyt sNgh of vikhnnddn of prinnaam is not ?",
+    option: [
+        "sii.aaii.es. of birth",
+        "amerikaa v soviyt sNgh between vaicaarik yuddh of smaapti",
+        "shiit yuddh of smaapti",
+        "mdhy puurv in sNktt"
+    ],
+    answer: "mdhy puurv in sNktt"
+},
+
+{
+    question: "Indian sNvidhaan of which anucched of tht vittiiy aapaatkaal is applied ?",
+    option: [
+        "anucched -352",
+        "anucched -356",
+        "anucched -360",
+        "anucched -364"
+    ],
+    answer: "anucched -360"
+},
+
+{
+    question: "raajy punrgtthn Act according to India in which basis on raajyoN of rgram of was ?",
+    option: [
+        "population",
+        "kssetrphl",
+        "saamrik mhtv",
+        "language"
+    ],
+    answer: "language"
+},
+
+{
+    question: "jrmnii of ekiikrnn when was ?",
+    option: [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    answer: "1990"
+},
+
+{
+    question: "India in first ngr Corporation sthaapit done was thaa ?",
+    option: [
+        "pttnaa",
+        "muNbii",
+        "mdraas",
+        "kolkaataa"
+    ],
+    answer: "mdraas"
+},
+
+{
+    question: "telugudeshm paarttii which raajy of kssetriiy paarttii is ?",
+    option: [
+        "pNjaab",
+        "asm",
+        "tmilnaaddu",
+        "aaNdhr prdesh"
+    ],
+    answer: "aaNdhr prdesh"
+},
+
+{
+    question: "aadhunik yug in economy of field in being which most bdd'ii kraanti which – sii thii ?",
+    option: [
+        "vaannijyik kraaNti",
+        "industrial kraaNti",
+        "saamyvaadii kraaNti",
+        "bhaugolik khoj"
+    ],
+    answer: "industrial kraaNti"
+},
+
+{
+    question: "prmaannu aprsaar sNdhi on which raajy ne hstaakssr not done is ?",
+    option: [
+        "iiraan",
+        "uttrii koriyaa",
+        "India",
+        "ciin"
+    ],
+    answer: "India"
+},
+
+{
+    question: "1971 of common cunaav in indiraa gaaNdhii ne which-saa naaraa given ?",
+    option: [
+        "dhej httaao",
+        "griibii httaao",
+        "bhrssttaacaar httaao",
+        "berojgaarii httaao"
+    ],
+    answer: "griibii httaao"
+},
+
+{
+    question: "India prthm raassttrpti which the ?",
+    option: [
+        "ddoN. raajendr prsaad",
+        "srdaar pttel",
+        "raajgopaalaacaarii",
+        "raadhaakRssnnn"
+    ],
+    answer: "ddoN. raajendr prsaad"
+},
+
+{
+    question: "Which of the following saa desh naatto of member is ?",
+    option: [
+        "ciin",
+        "ruus",
+        "India",
+        "britten"
+    ],
+    answer: "britten"
+},
+
+{
+    question: "2014 in India – ciin smbndh sudhaarne of or which Indian prdhnmntrii ne phl of ?",
+    option: [
+        "mnmohn siNh",
+        "nrendr modii",
+        "( a ) and ( b ) denoN ne",
+        "None of these"
+    ],
+    answer: "nrendr modii"
+},
+
+{
+    question: "svtntr raajyoN of raassttrkul establishment who of ?",
+    option: [
+        "gorbaacyov",
+        "maaotsetuNg",
+        "yeltsiin",
+        "loc vlesaa"
+    ],
+    answer: "yeltsiin"
+},
+
+{
+    question: "India ne long sNghrss after svtntr paayii",
+    option: [
+        "15 agst , 1947 in",
+        "26 jnvrii , 1950 in",
+        "15 agst , 1948 in",
+        "26 jnvrii , 1951 in"
+    ],
+    answer: "15 agst , 1947 in"
+},
+
+{
+    question: "‘mnregaa’ kaarykrm of beginning whose shaasn kaal in was ?",
+    option: [
+        "attl bihaarii baajpeyii",
+        "indr kumaar gujraal",
+        "mnmohn siNh",
+        "ec. ddii. devgaudd'aa"
+    ],
+    answer: "mnmohn siNh"
+},
+
+{
+    question: "Which of the following jmmuu – kshmiir of ugrvaadii sNgtthn is not ?",
+    option: [
+        "lshkr – e – toybaa",
+        "al – jihaad",
+        "thriik – ul – mujaahiddiin",
+        "taalibaan"
+    ],
+    answer: "taalibaan"
+},
+
+{
+    question: "combined raassttr sNgh of caarttr in how many dhaaraaeN are ?",
+    option: [
+        "111",
+        "112",
+        "115",
+        "120"
+    ],
+    answer: "111"
+},
+
+{
+    question: "India of antim gvrnr General which thaa ?",
+    option: [
+        "sii . raajgopaalaacaarii",
+        "sii.aar. daas",
+        "loNrdd maaunnttbettn",
+        "raajendr prsaad"
+    ],
+    answer: "sii . raajgopaalaacaarii"
+},
+
+{
+    question: "pii.o.of. avsthit is",
+    option: [
+        "paakistaan in",
+        "India in",
+        "aphgaanistaan in",
+        "ciin in"
+    ],
+    answer: "paakistaan in"
+},
+
+{
+    question: "blvnt raay Mehta smiti prtivedn in pNcaaytii raaj sNsthaaoN to how many stroN home doing of sujhaav given was ?",
+    option: [
+        "dvi– striiy",
+        "one– striiy",
+        "tri– striiy",
+        "inmeNse any not"
+    ],
+    answer: "tri– striiy"
+},
+
+{
+    question: "Indian sNvidhaan of which part to sNvidhaan of aatmaa said goes is ?",
+    option: [
+        "prstaavnaa",
+        "maulik right",
+        "nirdeshk principle",
+        "inmeNse any not"
+    ],
+    answer: "prstaavnaa"
+},
+
+{
+    question: "scheme aayog which – saa nikaay thaa ?",
+    option: [
+        "sNvaidhaanik nikaay",
+        "gair – sNvaidhaanik nikaay",
+        "personal nikaay",
+        "None of these"
+    ],
+    answer: "gair – sNvaidhaanik nikaay"
+},
+
+{
+    question: "India in vittiiy year is",
+    option: [
+        "1 jnvrii from 31 dismbr up to",
+        "1 July from 30 June up to",
+        "1 April from 31 March up to",
+        "1 September from 31 agst up to"
+    ],
+    answer: "1 April from 31 March up to"
+},
+
+{
+    question: "nehruu of nidhn after unkaa raajniitik uttraadhikaarii which bnaa ?",
+    option: [
+        "indiraa gaaNdhii",
+        "guljaariilaal nndaa",
+        "of. kaamraaj",
+        "red bhaadur shaastrii"
+    ],
+    answer: "red bhaadur shaastrii"
+},
+
+{
+    question: "in which any one raassttr on was aakrmnn all raassttroN on aakrmnn smjhaate were saamnaa is done ?",
+    option: [
+        "interior security",
+        "saamuuhik security",
+        "vaishvik security",
+        "All of these"
+    ],
+    answer: "saamuuhik security"
+},
+
+{
+    question: "prthm common cunaav in following in from which praant in kaaNgres to full bhumt obtained not was thaa ?",
+    option: [
+        "udd'iisaa( oddishaa )",
+        "bihaar",
+        "uttr prdesh",
+        "mdhy prdesh"
+    ],
+    answer: "udd'iisaa( oddishaa )"
+},
+
+{
+    question: "cipko aandoln of sNsthaapk the",
+    option: [
+        "cNddii prsaad bhtttt",
+        "sundrlaal bhugunnaa",
+        "caudhrii deviilaal",
+        "None of these"
+    ],
+    answer: "sundrlaal bhugunnaa"
+},
+
+{
+    question: "India in uttr – puurvii field in asm of part kaattkr first raajy",
+    option: [
+        "naagaalainndd",
+        "meghaaly",
+        "mijorm",
+        "tripuraa"
+    ],
+    answer: "naagaalainndd"
+},
+
+{
+    question: "vrsaa sndhi to sbbefore which raajy ne chodd'aa ?",
+    option: [
+        "polainndd",
+        "yuugoslaaviyaa",
+        "albaaniyaa",
+        "puurvii jrmnii"
+    ],
+    answer: "albaaniyaa"
+},
+
+{
+    question: "Which of the following one desh naatto of member is ?",
+    option: [
+        "ciin",
+        "ruus",
+        "India",
+        "britten"
+    ],
+    answer: "britten"
+},
+
+{
+    question: "Indian sNvidhaan of which part in raajy of niiti – nirdeshk element nihit is ? –",
+    option: [
+        "part– II",
+        "part– III",
+        "part– IV",
+        "part– V"
+    ],
+    answer: "part– IV"
+},
+
+{
+    question: "jnsNgh of sNsthaapk which the ?",
+    option: [
+        "attl bihaarii vaajpeyii",
+        "aaddvaannii",
+        "shyaamaa prsaad mukhrjii",
+        "diindyaal upaadhyaay"
+    ],
+    answer: "shyaamaa prsaad mukhrjii"
+},
+
+{
+    question: "Indian sNvidhaan of which saa anucched nirvaacn for praavdhaan does is ?",
+    option: [
+        "anucched-320",
+        "anucched-321",
+        "anucched-322",
+        "anucched-324"
+    ],
+    answer: "anucched-324"
+},
+
+{
+    question: "who said ki “bhuumnnddliikrnn vishissttvaad of saarvbhaumiikrnn or saarvbhaumvaad of vishissttiikrnn is .” ?",
+    option: [
+        "ainthonii giddins",
+        "roNbrttsn",
+        "roNbrtt o . kyuuhen",
+        "baalrsttiin"
+    ],
+    answer: "roNbrttsn"
+},
+
+{
+    question: "suugram of right aandoln of shuruuaat where from was ?",
+    option: [
+        "raajsthaan",
+        "dillii",
+        "tmilnaaddu",
+        "bihaar"
+    ],
+    answer: "raajsthaan"
+},
+
+{
+    question: "when jntaa government bnii then prdhaanmNtrii of pd kise mixed?",
+    option: [
+        "moraarjii desaaii",
+        "jgjiivn raam",
+        "crnn siNh",
+        "jyprkaash naaraaynn"
+    ],
+    answer: "moraarjii desaaii"
+},
+
+{
+    question: "two dhruviiytaa of what meaning hai / ",
+    option: [
+        "amerikaa of prbhutv",
+        "soviyt sNgh of prbhutv",
+        "amerikaa v soviyt sNgh of prtidvndvii prbhutv",
+        "soviyt sNgh v ciin of prbhutv"
+    ],
+    answer: "amerikaa v soviyt sNgh of prtidvndvii prbhutv"
+},
+
+{
+    question: "Which of the following netaa shriimtii indiraa gaaNdhii of government in the ?",
+    option: [
+        "moraarjii desaaii",
+        "jgjiivn raam",
+        "vaaii.bii. cauhaan",
+        "caudhrii crnn siNh"
+    ],
+    answer: "moraarjii desaaii"
+},
+
+{
+    question: "India of prdhaanmNtrii",
+    option: [
+        "niyukt are is",
+        "nirvaacit are",
+        "mnoniit are",
+        "inmeNse any not"
+    ],
+    answer: "niyukt are is"
+},
+
+{
+    question: "sNvidhaan nirmaatrii sbhaa in ” uddeshy prstaav ‘ by whom prstut done was ?",
+    option: [
+        "jvaahrlaal nehr",
+        "ddoN 0 raajendr prsaad",
+        "bhiimraav ambedkr",
+        "srdaar bllbh brother pttel"
+    ],
+    answer: "jvaahrlaal nehr"
+},
+
+{
+    question: "1971 of cunaavoN in kaaNgres to loksbhaa in kul how many place mile ?",
+    option: [
+        "283",
+        "300",
+        "320",
+        "352"
+    ],
+    answer: "352"
+},
+
+{
+    question: "which desh of prbhutv from one dhruviiytaa kaaym was ?",
+    option: [
+        "ruusii sNgh",
+        "ciin",
+        "phraaNs",
+        "amerikaa"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "Indian sNvidhaan of which anucched in nyaayik punrvilokn of power antrnihit is?",
+    option: [
+        "anucched-368",
+        "anucched-13",
+        "anucched-72",
+        "anucched-108"
+    ],
+    answer: "anucched-13"
+},
+
+{
+    question: "jvaahrlaal nehruu of dehaant when was ?",
+    option: [
+        "27 May , 1964 to",
+        "30 May , 1964 to",
+        "27 May , 1960 to",
+        "28 May , 1968 to"
+    ],
+    answer: "27 May , 1964 to"
+},
+
+{
+    question: "ulphaa one aatNkvaadii sNgtthn is",
+    option: [
+        "shriilNkaa of",
+        "paakistaan of",
+        "India of",
+        "ruus of"
+    ],
+    answer: "India of"
+},
+
+{
+    question: "society kraaNti kraaii  / ",
+    option: [
+        "smaajvaadii soviyt gnnraajy of construction of puurv",
+        "smaajvaadii soviyt gnnraajy of ptn after",
+        "prthm vishvyuddh of puurv",
+        "dvitiiy vishvyuddh after"
+    ],
+    answer: "smaajvaadii soviyt gnnraajy of construction of puurv"
+},
+
+{
+    question: "India in sNvidhaan of which anucched of tht vittiiy aapaatkaal is applied?",
+    option: [
+        "anucched-352",
+        "anucched-356",
+        "anucched-360",
+        "anucched-364"
+    ],
+    answer: "anucched-360"
+},
+
+{
+    question: "‘jy jvaan jy farmer’ of naaraa who given ?",
+    option: [
+        "pN . jvaahrlaal nehruu",
+        "srdaar pttel",
+        "jyprkaash naaraaynn",
+        "red bhaadur shaastrii"
+    ],
+    answer: "red bhaadur shaastrii"
+},
+
+{
+    question: "1917 in ruus in smaajvaadii raajy establishment who of ?",
+    option: [
+        "kaarl maarks",
+        "phreddrik eNjils",
+        "lenin",
+        "sttaalin"
+    ],
+    answer: "lenin"
+},
+
+{
+    question: "jntaa paarttii when was established was ?",
+    option: [
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+    ],
+    answer: "1977"
+},
+
+{
+    question: "maikmohn line what is ?",
+    option: [
+        "India and paakistaan between of siimaa line",
+        "ciin and paakistaan between of siimaa line",
+        "India and ciin between of siimaa line",
+        "None of these"
+    ],
+    answer: "India and ciin between of siimaa line"
+},
+
+{
+    question: "raajy punrgtthn aayog of vissy in which – saa kthn asty is ?",
+    option: [
+        "iskiisthaapnaa 1953 ii. in of was thii  / ",
+        "iskeriportt keaadhaar on 1966 meNraajy punrgtthn Act paarit done gyaa / ",
+        "isnebhaassaayii raajyoN kenirmaann kelie siphaarish kiithii  / ",
+        "sbhiikthn asty haiN / "
+    ],
+    answer: "iskiisthaapnaa 1953 ii. in of was thii  / "
+},
+
+{
+    question: "raajysbhaa of up – sbhaapti nirvaacit is",
+    option: [
+        "raajysbhaake nirvaacit sdsyoNdvaaraa",
+        "raajysbhaake members by",
+        "sNsd of nirvaacit sdsyoNdvaaraa",
+        "sNsd of all sdsyoNdvaaraa"
+    ],
+    answer: "raajysbhaake members by"
+},
+
+{
+    question: "combined raassttr sNgh of ttvaavdhaan niHshstriikrnn aayog when bnaa ?",
+    option: [
+        "1945 in",
+        "1952 in",
+        "1960 in",
+        "1965 in"
+    ],
+    answer: "1952 in"
+},
+
+{
+    question: "hrit krnti of what dussprbhaav was ?",
+    option: [
+        "vaannijyik vstuoN of more production",
+        "agricultural of mshiiniikrnn",
+        "kiittnaashkoN of adhikaadhik use",
+        "social tnaavoN of bddh'otrii"
+    ],
+    answer: "kiittnaashkoN of adhikaadhik use"
+},
+
+{
+    question: "svtntr India in prthm common cunaav when were ?",
+    option: [
+        "1950",
+        "1952",
+        "1955",
+        "1957"
+    ],
+    answer: "1952"
+},
+
+{
+    question: "which dkssinn eshiyaaii desh in sNvaidhaanik sNktt is ?",
+    option: [
+        "paakistaan",
+        "baaNglaadesh",
+        "bhuuttaan",
+        "nepaal"
+    ],
+    answer: "nepaal"
+},
+
+{
+    question: "India of sNvidhaan in first sNvidhaan sNshodhn In which year was ?",
+    option: [
+        "1951",
+        "1952",
+        "1953",
+        "1954"
+    ],
+    answer: "1951"
+},
+
+{
+    question: "India in iron man of sNjnyaa kise dii was is ?",
+    option: [
+        "mhaatmaagaaNdhii to",
+        "pN. jvaahrlaal nehruko",
+        "bllbhbhaaii pttel to",
+        "inmeNse any not"
+    ],
+    answer: "bllbhbhaaii pttel to"
+},
+
+{
+    question: "following in which – saa kthn sty is ?",
+    option: [
+        "Indian svtntrtaa at the time of world of two shktishaalii guttoN in prbhutv field of phailaav to lekr rssaakshii thii  / ",
+        "pshcimii gutt of leadership combined raajy amerikaa and saamyvaadii gutt of leadership soviyt sNgh by rhaa thaa  / ",
+        "these both guttoN of aapsii khiiNctaan from world in shiityuddh of condition produced be was thii  / ",
+        "All of these  / "
+    ],
+    answer: "All of these  / "
+},
+
+{
+    question: "following in from saark of member is not",
+    option: [
+        "India",
+        "paakistaan",
+        "shriilNkaa",
+        "innddoneshiyaa"
+    ],
+    answer: "innddoneshiyaa"
+},
+
+{
+    question: "‘griibii httaao’ of naare ne which cunaav in apnaa cmtkaarii effect dikhaayaa ?",
+    option: [
+        "1957 of duusraa cunaav",
+        "1962 of tiisraa cunaav",
+        "1967 of cauthaa cunaav",
+        "1971 of mdhyaavdhi cunaav"
+    ],
+    answer: "1971 of mdhyaavdhi cunaav"
+},
+
+{
+    question: "which Indian raajy of apnaa sNvidhaan is ?",
+    option: [
+        "mnnipur",
+        "naagaalainndd",
+        "himaacl prdesh",
+        "jmmuu and kshmiir"
+    ],
+    answer: "jmmuu and kshmiir"
+},
+
+{
+    question: "which element ne India-amriikii smbndhoN to ttuuttne of kgaar up to phuNcaa given?",
+    option: [
+        "India of prmaannu aprsaar sndhi on hstaakssr n to do",
+        "baaNglaadesh yuddh",
+        "India of prmaannu test",
+        "India in vaampNthii dloN of bhuumikaa"
+    ],
+    answer: "baaNglaadesh yuddh"
+},
+
+{
+    question: "bhuumnnddliikrnn of beginning which dshk in was ?",
+    option: [
+        "1990 of dshk in",
+        "1970 of dshk in",
+        "1960 of dshk in",
+        "1980 of dshk in"
+    ],
+    answer: "1990 of dshk in"
+},
+
+{
+    question: "svtntr India of prthm gRhmNtrii which the ?",
+    option: [
+        "of.em. muNshii",
+        "ddoN . bii.aar. ambedkr",
+        "srdaar",
+        "inmeNse any not"
+    ],
+    answer: "srdaar"
+},
+
+{
+    question: "bhaassaaii basis on sbbefore which raajy of rgram was ?",
+    option: [
+        "aandhr prdesh",
+        "mdhy prdesh",
+        "uttr prdesh",
+        "aruunnaacl prdesh"
+    ],
+    answer: "aandhr prdesh"
+},
+
+{
+    question: "shivsenaa one kssetriiy dl is",
+    option: [
+        "gujraat of",
+        "mhaaraassttr of",
+        "bihaar of",
+        "uttr prdesh of"
+    ],
+    answer: "mhaaraassttr of"
+},
+
+{
+    question: "yuuropiiy sNgh of members to which kotti in rkhaa jaa can is ?",
+    option: [
+        "saamntii raajy",
+        "raassttr – raajy",
+        "praa – raassttr – raajy",
+        "any not"
+    ],
+    answer: "praa – raassttr – raajy"
+},
+
+{
+    question: "which sNvidhaan sNshodhn urban sthaaniiy shaasn from judd'aa is ?",
+    option: [
+        "75 vaaN",
+        "74 vaaN",
+        "73 vaaN",
+        "72 vaaN"
+    ],
+    answer: "74 vaaN"
+},
+
+{
+    question: "shiv senaa which praant in skriy is ?",
+    option: [
+        "mhaaraassttr",
+        "gujraat",
+        "pNjaab",
+        "hriyaannaa"
+    ],
+    answer: "mhaaraassttr"
+},
+
+{
+    question: "India in anaav aayog of gtthn when was ?",
+    option: [
+        "jnvrii, 1950",
+        "phrvrii1950",
+        "June 1950",
+        "agst 1950"
+    ],
+    answer: "jnvrii, 1950"
+},
+
+{
+    question: "five suutrii kaarykrm of shuruuaat by whom of was ?",
+    option: [
+        "pNddit nehruu",
+        "raajiiv gaaNdhii",
+        "sNjy gaaNdhii",
+        "red bhaadur shaastrii"
+    ],
+    answer: "sNjy gaaNdhii"
+},
+
+{
+    question: "avshisstt vissyoN on law making of right is–",
+    option: [
+        "raajyoNke near",
+        "center and raajyoN kepaas",
+        "center of near",
+        "kisiike near not"
+    ],
+    answer: "center of near"
+},
+
+{
+    question: "desh of vibhaajn from which – which – from raajy prbhaavit were the ?",
+    option: [
+        "bmbii v mdraas",
+        "bihaar v udd'iisaa",
+        "pNjaab v bNgaal",
+        "inmeNse any not"
+    ],
+    answer: "pNjaab v bNgaal"
+},
+
+{
+    question: "eshiyaa of which – saa desh is jo jii -8 group of member is ?",
+    option: [
+        "ciin",
+        "jaapaan",
+        "India",
+        "paakistaan"
+    ],
+    answer: "jaapaan"
+},
+
+{
+    question: "any ngr Corporation of meyr of cunaav which does is ?",
+    option: [
+        "vaardd kaaunsilr",
+        "sthaayiismiti",
+        "jntaa",
+        "inmeNse any not"
+    ],
+    answer: "vaardd kaaunsilr"
+},
+
+{
+    question: "‘guttnirpekss aaNdoln’ on main form from vicaar done was thaa",
+    option: [
+        "two mhaashktiyoN of dbdbe to cunautii giving of dRsstti from",
+        "India in supr paavr (srvocc power) making for",
+        "nv – antrraassttriiy economic arrangement laane for",
+        "above-mentioned in from any not"
+    ],
+    answer: "two mhaashktiyoN of dbdbe to cunautii giving of dRsstti from"
+},
+
+{
+    question: "India and paakistaan between siNdhu river water sNdhi when was ?",
+    option: [
+        "1958 ii. in",
+        "1959 ii. in",
+        "1960 ii. in",
+        "1961 ii. in"
+    ],
+    answer: "1960 ii. in"
+},
+
+{
+    question: "26 jnvrii to hm mnaate are",
+    option: [
+        "gnntntr day as",
+        "svtntrtaadivs as",
+        "shikssk day as",
+        "jhnnddaadivs as"
+    ],
+    answer: "gnntntr day as"
+},
+
+{
+    question: "direct prjaatNtr which desh in is ?",
+    option: [
+        "amerikaa",
+        "India",
+        "sviittjrlaiNdd",
+        "nepaal"
+    ],
+    answer: "sviittjrlaiNdd"
+},
+
+{
+    question: "paakistaan of which amriikii sainik gutt in shaamil being on nehruu ne tiikhii aalogram of ?",
+    option: [
+        "naatto",
+        "riyo sndhi",
+        "siitto",
+        "aajNs sndhi"
+    ],
+    answer: "siitto"
+},
+
+{
+    question: "siimaant gaaNdhii of name from which going go are ?",
+    option: [
+        "mhaatmaagaaNdhii",
+        "subhaass cndr bos",
+        "khaan abdul gphphaar khaaN",
+        "srdaar pttel"
+    ],
+    answer: "khaan abdul gphphaar khaaN"
+},
+
+{
+    question: "aNtrraassttriiy nyaayaaly of mukhyaaly where avsthit is ?",
+    option: [
+        "jenevaa",
+        "brlin",
+        "nyuuyaark",
+        "heg"
+    ],
+    answer: "heg"
+},
+
+{
+    question: "India and bNglaadesh between phrkkaa smjhautaa on hstaakssr when was ?",
+    option: [
+        "1967 ii. in",
+        "1971 ii. in",
+        "1996 ii. in",
+        "2000 ii. in"
+    ],
+    answer: "1996 ii. in"
+},
+
+{
+    question: "India of antim gvrnr General which thaa ?",
+    option: [
+        "sii . raajgopaalaacaarii",
+        "sii.aar. daas",
+        "loNrdd maaunnttbettn",
+        "raajendr prsaad"
+    ],
+    answer: "sii . raajgopaalaacaarii"
+},
+
+{
+    question: "sundrlaal bhugunnaa which aandoln from smbndhit is ?",
+    option: [
+        "nrmdaa bcaao aandoln",
+        "oNpreshn phldd",
+        "cipko aandoln",
+        "smpuurnn kraanti"
+    ],
+    answer: "cipko aandoln"
+},
+
+{
+    question: "polainndd in soNlidderittii aandoln of leadership who done ?",
+    option: [
+        "lec vlesaa",
+        "brejnev",
+        "Marshall ttiitto",
+        "gomulkaa"
+    ],
+    answer: "lec vlesaa"
+},
+
+{
+    question: "jntaa government at the time of in kise vishessaadhikaar hnn of aarop on loksbhaa of sdsytaa from vNcit done was?",
+    option: [
+        "raajnaaraaynn",
+        "cndrshekhr",
+        "mdhulimye",
+        "indiraa gaaNdhii"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "tnaav shaithily of daur when start was ?",
+    option: [
+        "1945 after",
+        "1960 after",
+        "1970 after",
+        "1980 after"
+    ],
+    answer: "1970 after"
+},
+
+{
+    question: "shimlaa smjhautaa on 3 July 1972 ii. to by whom hstaakssr done was ?",
+    option: [
+        "julphikaar alii bhuutttto and indiraa gaaNdhii",
+        "attl bihaarii vaajpeyii and indiraa gaaNdhii",
+        "jvaahrlaal nehruu and kosiijiin",
+        "None of these"
+    ],
+    answer: "julphikaar alii bhuutttto and indiraa gaaNdhii"
+},
+
+{
+    question: "smvrtii suucii in how many vissy are ?",
+    option: [
+        "97",
+        "47",
+        "61",
+        "67"
+    ],
+    answer: "61"
+},
+
+{
+    question: "combined raassttr sNgh of caarttr in which arrangement to place given was is ?",
+    option: [
+        "sttaa of sntuln",
+        "shaanti establishment",
+        "shaanti construction",
+        "saamuuhik security"
+    ],
+    answer: "saamuuhik security"
+},
+
+{
+    question: "nehruu of raajniitik uttraadhikaarii of choice in who nirnnaayk bhuumikaa nibhaaii ?",
+    option: [
+        "raassttrpti raadhaakRssnnn",
+        "kaaryvaahk prdhaanmNtrii guljaariilaal nndaa",
+        "paarttii adhykss kaamraaj",
+        "up-raassttrpti jaakir husain"
+    ],
+    answer: "paarttii adhykss kaamraaj"
+},
+
+{
+    question: "aaii.em.eph. and world bank ne work to do start done ?",
+    option: [
+        "1945 ii . in",
+        "1947 ii . in",
+        "1951 ii . in",
+        "1950 ii . in"
+    ],
+    answer: "1945 ii . in"
+},
+
+{
+    question: "Indian national kaaNgres when was established was ?",
+    option: [
+        "1985",
+        "1885",
+        "1886",
+        "1906"
+    ],
+    answer: "1885"
+},
+
+{
+    question: "national development prissd of gtthn when was thaa ?",
+    option: [
+        "1950 ii. in",
+        "1951 ii. in",
+        "1952 ii. in",
+        "1953 ii. in"
+    ],
+    answer: "1952 ii. in"
+},
+
+{
+    question: "‘girmittiyaa‘ kise said goes is ?",
+    option: [
+        "anubNdhit mjduur to",
+        "rogiyoN to",
+        "chipklii to",
+        "aNgrejoN to"
+    ],
+    answer: "anubNdhit mjduur to"
+},
+
+{
+    question: "which aphriikii raassttrpti ne nyii world arrangement of citr prstut done?",
+    option: [
+        "ricrdd niksn",
+        "jimmii kaarttr",
+        "ronaaldd riign",
+        "joNrj bush"
+    ],
+    answer: "joNrj bush"
+},
+
+{
+    question: "neshnl kaaNphreNs which raajy of paarttii is ?",
+    option: [
+        "asm",
+        "jmmuu – kshmiir",
+        "naagaalaiNdd",
+        "tripuraa"
+    ],
+    answer: "jmmuu – kshmiir"
+},
+
+{
+    question: "Which of the following one maulik right is not ?",
+    option: [
+        "smaantaakaa right",
+        "shossnn of viruddh right",
+        "dhaarmik svtNtrtaa kaaadhikaar",
+        "smpttikaa right"
+    ],
+    answer: "smpttikaa right"
+},
+
+{
+    question: "Indian sNvidhaan in how many maulik krtvy are ?",
+    option: [
+        "8",
+        "9",
+        "10",
+        "11"
+    ],
+    answer: "11"
+},
+
+{
+    question: "loksbhaa of maximum member sNkhyaa",
+    option: [
+        "552 be sktii is",
+        "545 be sktii is",
+        "525 be sktii is",
+        "550 be sktii is"
+    ],
+    answer: "545 be sktii is"
+},
+
+{
+    question: "bhuumnnddliikrnn which vicaardhaaraa on ttikaa is ?",
+    option: [
+        "smaajvaad",
+        "saamyvaad",
+        "araajktaavaad",
+        "udaarvaad"
+    ],
+    answer: "udaarvaad"
+},
+
+{
+    question: "who ne economic hitoN to ubhaaraa ?",
+    option: [
+        "private field ne",
+        "public field ne",
+        "private and public field ne",
+        "these all ne"
+    ],
+    answer: "public field ne"
+},
+
+{
+    question: "children of adhikaaroN for which–saa antrraassttriiy sNgtthn",
+    option: [
+        "reddkroNs sosaaittii",
+        "imnesttii inttrneshnl",
+        "yuuniseph",
+        "None of these"
+    ],
+    answer: "yuuniseph"
+},
+
+{
+    question: "1992 of pRthvii shikhr smmeln in fixed done was",
+    option: [
+        "all raajy saajhii smpdaa of shossnn by can haiN / ",
+        "environment of security of daayitv maatr combined raassttr on hai / ",
+        "all raajy environment of pollution to rokeN and jaiv vividhtaa bnaae rkheN / ",
+        "ejennddaa-21 of paaln to do raajyoN of svecchaa on hai / "
+    ],
+    answer: "all raajy environment of pollution to rokeN and jaiv vividhtaa bnaae rkheN / "
+},
+
+{
+    question: "govaa India sNgh of raajy In which year bnaa ?",
+    option: [
+        "1967",
+        "1987",
+        "1985",
+        "1950"
+    ],
+    answer: "1987"
+},
+
+{
+    question: "ronaaldd riign which desh of raassttrpti the?",
+    option: [
+        "yuu.es.e.",
+        "ruus",
+        "phraaNs",
+        "jrmnii"
+    ],
+    answer: "yuu.es.e."
+},
+
+{
+    question: "iNglainndd of vrtmaan prdhaanmNtrii which is ?",
+    option: [
+        "joNn mejr",
+        "ttonii bleyr",
+        "ddevidd kaimrun",
+        "None of these"
+    ],
+    answer: "joNn mejr"
+},
+
+{
+    question: "11 September 2001 to Which of the following – sii ghttnaa ghttii ?",
+    option: [
+        "Indian sNsd on aatNkvaadii hmlaa",
+        "hottl taaj on aatNkvaadii hmlaa",
+        "world vyaapaar center on aatNkvaadii hmlaa",
+        "None of these"
+    ],
+    answer: "world vyaapaar center on aatNkvaadii hmlaa"
+},
+
+{
+    question: "India in anaav aayog of gtthn when was ?",
+    option: [
+        "jnvrii, 1950",
+        "phrvrii1950",
+        "June 1950",
+        "agst 1950"
+    ],
+    answer: "jnvrii, 1950"
+},
+
+{
+    question: "dkssinn – eshiyaa of which saa raajy nsliiy ugrvaad from piidd'it is ?",
+    option: [
+        "nepaal",
+        "bhuuttaan",
+        "shriilNkaa",
+        "India"
+    ],
+    answer: "shriilNkaa"
+},
+
+{
+    question: "ten – suutriiy kaarykrm by whom start done was ?",
+    option: [
+        "pN. jvaahrlaal nehruu",
+        "red bhaadur shaastrii",
+        "indiraa gaaNdhii",
+        "raajiiv gaaNdhii"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "smpuurnn kraanti of naaraa who given?",
+    option: [
+        "aacaary kRplaanii",
+        "raajnaaraaynn",
+        "cndrshekhr",
+        "jyprkaash naaraaynn"
+    ],
+    answer: "jyprkaash naaraaynn"
+},
+
+{
+    question: "which desh of with smbndh sthaapit by doing aapriikaa ne apnii power to bhut bddh'aayaa jisse one-muviiplaa of prvRti ubhrii?",
+    option: [
+        "India",
+        "ciin",
+        "britten",
+        "jaapaan"
+    ],
+    answer: "ciin"
+},
+
+{
+    question: "India of uttr – puurvii field in asm of part kaattkr sbbefore which – saa raajy bnaa ?",
+    option: [
+        "naagaalainndd",
+        "meghaaly",
+        "mijorm",
+        "tripuraa"
+    ],
+    answer: "naagaalainndd"
+},
+
+{
+    question: "Which of the following – saa desh aasiyaan of member is not ?",
+    option: [
+        "mleshiyaa",
+        "innddoneshiyaa",
+        "India",
+        "thaaiilainndd"
+    ],
+    answer: "India"
+},
+
+{
+    question: "which desh of with India ne mitrtaa v vyaapaar of sndhi of jiskii prstaavnaa in pNcshiil of suutr rkhe are ?",
+    option: [
+        "soviyt sNgh",
+        "combined raajy amriikaa",
+        "ciin",
+        "paakistaan"
+    ],
+    answer: "ciin"
+},
+
+{
+    question: "kshmiir of India in vily letter on who hstaakssr done ?",
+    option: [
+        "loNrdd maaunnttbettn",
+        "srdaar pttel",
+        "jvaahr red nehruu",
+        "raajaahrii siNh"
+    ],
+    answer: "raajaahrii siNh"
+},
+
+{
+    question: "suugram of right ‘law when implemented was ?",
+    option: [
+        "2001",
+        "2003",
+        "2005",
+        "2007"
+    ],
+    answer: "2005"
+},
+
+{
+    question: "‘gair-kaaNgresvaad’ of naaraa who given ?",
+    option: [
+        "jyprkaash naaraaynn",
+        "moraarjii desaaii",
+        "raammnohr lohiyaa",
+        "raajnaaraaynn"
+    ],
+    answer: "raammnohr lohiyaa"
+},
+
+{
+    question: "environment v development on world aayog of riportt of what shiirssk",
+    option: [
+        "saajhii traasdii",
+        "hmaaraa shared bhvissy",
+        "maatr one pRthvii",
+        "ttikaauu development"
+    ],
+    answer: "hmaaraa shared bhvissy"
+},
+
+{
+    question: "guttnirpeksstaa to this also said goes is",
+    option: [
+        "tttsthtaa",
+        "algaav",
+        "aprtibddhtaa",
+        "gtishiil tttsthtaa"
+    ],
+    answer: "aprtibddhtaa"
+},
+
+{
+    question: "vh which – saa raajy is jibefore up – raajy made was, phir use full raajy of drjaa mixed ?",
+    option: [
+        "naagaalainndd",
+        "aruunnaacl prdesh",
+        "tripuraa",
+        "meghaaly"
+    ],
+    answer: "meghaaly"
+},
+
+{
+    question: "India in gyaarhviiN pNcvrssiiy scheme when smaapt was ?",
+    option: [
+        "2010",
+        "2012",
+        "2011",
+        "2009"
+    ],
+    answer: "2012"
+},
+
+{
+    question: "‘On Liberty’ shiirssk book of lekhk which is ?",
+    option: [
+        "je0 es0 mil",
+        "benthm",
+        "pletto",
+        "maarks"
+    ],
+    answer: "je0 es0 mil"
+},
+
+{
+    question: "1969 in nyii kaaNgres of bmbii adhiveshn in who adhyksstaa of ?",
+    option: [
+        "shNkr dyaal shrmaa",
+        "sii. subrhmnniym",
+        "of. kaamraaj",
+        "jgjiivn raam"
+    ],
+    answer: "jgjiivn raam"
+},
+
+{
+    question: "soviyt sNgh aphgaanistaan in when hstkssep done ?",
+    option: [
+        "1917 ii. to",
+        "1924 ii. to",
+        "1930 to",
+        "1979 to"
+    ],
+    answer: "1979 to"
+},
+
+{
+    question: "India in prthm pNcvrssiiy scheme of shuruuaat when was ?",
+    option: [
+        "1950 ii. to",
+        "1951 ii. to",
+        "1952 ii. to",
+        "None of these"
+    ],
+    answer: "1951 ii. to"
+},
+
+{
+    question: "Indian sNvidhaan of 73 vaaN sNshodhn smbndhit is–",
+    option: [
+        "Gram Panchayat from",
+        "pNcaaytiiraaj from",
+        "ngrpaalikaase",
+        "ngr Corporation from"
+    ],
+    answer: "pNcaaytiiraaj from"
+},
+
+{
+    question: "jntaa dl (yuunaaittedd) which raajy of paarttii is ?",
+    option: [
+        "bihaar",
+        "jhaarkhnndd",
+        "pNjaab",
+        "uttr prdesh"
+    ],
+    answer: "bihaar"
+},
+
+{
+    question: "Indian national kaaNgres of prthm woman adhykss which thii ?",
+    option: [
+        "enii besentt",
+        "srojinii naaydduu",
+        "indiraa gaaNdhii",
+        "soniyaa gaaNdhii"
+    ],
+    answer: "enii besentt"
+},
+
+{
+    question: "raajy punrgtthn aayog when was established was ?",
+    option: [
+        "1953 ii . in",
+        "1955 ii . in",
+        "1956 ii . in",
+        "1957 ii . in"
+    ],
+    answer: "1953 ii . in"
+},
+
+{
+    question: "raajyoN of sNvaidhaanik prmukh which is ?",
+    option: [
+        "raajypaal",
+        "mukhymNtrii",
+        "up– mukhymNtrii",
+        "vidhaan sbhaa of adhykss"
+    ],
+    answer: "raajypaal"
+},
+
+{
+    question: "dvitiiy world yuddh in amerikaa ne jaapaan of which shhr on prmaannu bm giraayaa thaa?",
+    option: [
+        "naagaasaakii",
+        "itoshimaa",
+        "mijaamisomaa",
+        "haashimaa"
+    ],
+    answer: "naagaasaakii"
+},
+
+{
+    question: "scheme ayog to bhNg by which – saa aayog bnaa ?",
+    option: [
+        "niiti aayog",
+        "finance aayog",
+        "raajy finance aayog",
+        "None of these"
+    ],
+    answer: "niiti aayog"
+},
+
+{
+    question: "following in which naatto of member is not ?",
+    option: [
+        "amerikaa",
+        "India",
+        "phraaNs",
+        "britten"
+    ],
+    answer: "India"
+},
+
+{
+    question: "hmaarii niyojn arrangement which vicaardhaaraa on aadhaarit is ?",
+    option: [
+        "udaarvaad",
+        "saamyvaad",
+        "gaaNdhiivaad",
+        "loktaaNtrik smaajvaad"
+    ],
+    answer: "loktaaNtrik smaajvaad"
+},
+
+{
+    question: "iNglaiNdd of vrtmaan prdhaanmNtrii which is?",
+    option: [
+        "joNn mejr",
+        "ttonii bleyr",
+        "ddevidd kaimruun",
+        "Any of these nhii"
+    ],
+    answer: "Any of these nhii"
+},
+
+{
+    question: "taashknd smjhautaa on 10 jnvrii, 1966 to kinke by hstaakssr done was ?",
+    option: [
+        "ayuub khaan and red bhaadur shaastrii",
+        "jedd.e. bhutttto and red bhaadur shaastrii",
+        "ayuub khaan and jvaahrlaal nehruu",
+        "None of these"
+    ],
+    answer: "ayuub khaan and red bhaadur shaastrii"
+},
+
+{
+    question: "which desh ne naatto in amriikii leadership of virodh done ?",
+    option: [
+        "britten",
+        "phraaNs",
+        "jrmnii",
+        "ittlii"
+    ],
+    answer: "phraaNs"
+},
+
+{
+    question: "sNvidhaan sbhaa of adhykss which is ?",
+    option: [
+        "ddoN. ambeddkr",
+        "ddoN. raajendr prsaad",
+        "ddoN. raadhaa kRssnnn",
+        "inmeNse any not"
+    ],
+    answer: "ddoN. raajendr prsaad"
+},
+
+{
+    question: "India of prthm up – raassttrpti which the ?",
+    option: [
+        "vii.vii. giri",
+        "ddoN. es . raadhaakRssnnn",
+        "ddoN. jaakir husain",
+        "ddoN. shNkr dyaal shrmaa"
+    ],
+    answer: "ddoN. es . raadhaakRssnnn"
+},
+
+{
+    question: "India in which basis on naagriktaa obtained of jaa sktii is ?",
+    option: [
+        "fixed nivaas",
+        "marriage",
+        "srkaariisevaa",
+        "inmeNse any not"
+    ],
+    answer: "fixed nivaas"
+},
+
+{
+    question: "India in vrtmaan in kul how many national dl are ?",
+    option: [
+        "4",
+        "5",
+        "6",
+        "7"
+    ],
+    answer: "6"
+},
+
+{
+    question: "1885 in which raajniitik dl establishment was thii ?",
+    option: [
+        "Indian national kaaNgres",
+        "muslim liig",
+        "bii.je.pii.",
+        "jntaa paarttii"
+    ],
+    answer: "Indian national kaaNgres"
+},
+
+{
+    question: "below of deshoN in aasiyaan of member which is not ?",
+    option: [
+        "innddoneshiyaa",
+        "philiipins",
+        "siNgaapur",
+        "shriilNkaa"
+    ],
+    answer: "shriilNkaa"
+},
+
+{
+    question: "amerikaa of bldd ttrett seNttr on aatNkvaadiyoN of hmlaa by",
+    option: [
+        "11 September, 2001",
+        "11 November, 2003",
+        "21 July, 2005",
+        "30 October, 2008"
+    ],
+    answer: "11 September, 2001"
+},
+
+{
+    question: "which smiti of anushNsaa on India in prthm times pNcaaytii raaj sNsthaaoN of gtthn done was thaa ?",
+    option: [
+        "ashok Mehta smiti",
+        "girdhaarii red vyaas smiti",
+        "saadik alii smiti",
+        "blvNt raay Mehta smiti"
+    ],
+    answer: "blvNt raay Mehta smiti"
+},
+
+{
+    question: "India in hrit kraaNti of jnk which are ?",
+    option: [
+        "indiraagaaNdhii",
+        "aamrth sen",
+        "em.es. svaamiinaathn",
+        "red bhaadur shaastrii"
+    ],
+    answer: "em.es. svaamiinaathn"
+},
+
+{
+    question: "raassttrpti riign ne kisko dusstt saamraajy said ?",
+    option: [
+        "soviyt sNgh to",
+        "ciin to",
+        "hoNlainndd to",
+        "None of these"
+    ],
+    answer: "soviyt sNgh to"
+},
+
+{
+    question: "which kmittii of riportt on The Government of India environment di sthaapit done?",
+    option: [
+        "tivaarii kmittii",
+        "siNghvii kmittii",
+        "sNghaanm kmittii",
+        "svrnn siNh kmittii"
+    ],
+    answer: "tivaarii kmittii"
+},
+
+{
+    question: "who said ki defect are were also naukrshaahii one aprihaary requirement is?",
+    option: [
+        "kaarl maarks",
+        "maiks vebr",
+        "hairoldd loNskii",
+        "eph.em. maarks"
+    ],
+    answer: "hairoldd loNskii"
+},
+
+{
+    question: "which – saa desh gaajr v chdd'ii of niiti of anukrnnkrtaa said goes is ?",
+    option: [
+        "combined raajy amriikaa",
+        "ruusii sNgh",
+        "paakistaan",
+        "ciin"
+    ],
+    answer: "ciin"
+},
+
+{
+    question: "dismbr, 1992 to following in which-sii ghttnaa was?",
+    option: [
+        "godhraa kaanndd",
+        "baabrii msjid of vidhvNs",
+        "jntaa dl of gtthn",
+        "raa.j.g. government of gtthn"
+    ],
+    answer: "baabrii msjid of vidhvNs"
+},
+
+{
+    question: "loksbhaa of maximum member sNkhyaa",
+    option: [
+        "552 be sktii is",
+        "545 be sktii is",
+        "525 be sktii is",
+        "550 be sktii is"
+    ],
+    answer: "552 be sktii is"
+},
+
+{
+    question: "iNdiraa gaaNdhii of htyaa In which year was ?",
+    option: [
+        "1983 ii. in",
+        "1984 ii. in",
+        "1985 ii. in",
+        "1986 ii. in"
+    ],
+    answer: "1984 ii. in"
+},
+
+{
+    question: "environment of security for most first antrraassttriiy smmeln where was?",
+    option: [
+        "riyoddii jenro in",
+        "kyotto in",
+        "sttoNkhom in",
+        "nyuuyaark in"
+    ],
+    answer: "sttoNkhom in"
+},
+
+{
+    question: "aasiyaan to mukt vyaapaar field making of nirnny liyaa was",
+    option: [
+        "1994 in",
+        "1999 in",
+        "1995 in",
+        "2003 in"
+    ],
+    answer: "2003 in"
+},
+
+{
+    question: "India in adult mtaadhikaar obtained doing of nyuuntm age what is ?",
+    option: [
+        "18 year",
+        "21 year",
+        "25 year",
+        "35 year"
+    ],
+    answer: "18 year"
+},
+
+{
+    question: "Indian sNvidhaan to when implemented done was thaa ?",
+    option: [
+        "26 jnvrii 1950",
+        "26 jnvrii 1951",
+        "26 jnvrii 1952",
+        "inmeNse any not"
+    ],
+    answer: "26 jnvrii 1950"
+},
+
+{
+    question: "bejnes which desh of raassttrpti the ?",
+    option: [
+        "amerikaa",
+        "iNglaiNdd",
+        "soviyt sNgh",
+        "ciin"
+    ],
+    answer: "soviyt sNgh"
+},
+
+{
+    question: "prtinidhi loktNtr of basis is",
+    option: [
+        "svtNtr nyaaypaalikaa",
+        "sshkt kaarypaalikaa",
+        "lok sbhaa",
+        "adult mtaadhikaar"
+    ],
+    answer: "adult mtaadhikaar"
+},
+
+{
+    question: "India in prtibddh naukrshaahii of vicaar of smrthn who done?",
+    option: [
+        "raajendr prsaad",
+        "jvaahrlaal nehruu",
+        "red bhaadur shaastrii",
+        "indiraa gaaNdhii"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "govaa India sNgh of raajy In which year bnaa ?",
+    option: [
+        "1967",
+        "1987",
+        "1985",
+        "1950"
+    ],
+    answer: "1987"
+},
+
+{
+    question: "1967 up to India in what type of dliiy arrangement thii ?",
+    option: [
+        "one – dliiy arrangement",
+        "two – dliiy arrangement",
+        "bhu–dliiy arrangement",
+        "ekl–aadhiptyshaalii dl arrangement"
+    ],
+    answer: "ekl–aadhiptyshaalii dl arrangement"
+},
+
+{
+    question: "one with how many private baiNkoN of raassttriiykrnn done was ?",
+    option: [
+        "8",
+        "10",
+        "12",
+        "14"
+    ],
+    answer: "14"
+},
+
+{
+    question: "main cunaav aayukt and other cunaav aayuktoN of niyukti by whom is done ?",
+    option: [
+        "raassttrpti",
+        "prdhaanmNtrii",
+        "loksbhaaadhykss",
+        "vidhimNtrii"
+    ],
+    answer: "raassttrpti"
+},
+
+{
+    question: "anusuucit jaati sNgh establishment who of thii ?",
+    option: [
+        "maayaavtii",
+        "bii.aar. ambeddkr",
+        "pNddit nehruu",
+        "kaaNshiiraam"
+    ],
+    answer: "bii.aar. ambeddkr"
+},
+
+{
+    question: "India and paakistaan between 1972 ii. in which – from smjhaute on hstaakssr was ?",
+    option: [
+        "phrkkaa smjhautaa",
+        "aagraa smjhautaa",
+        "shimlaa smjhautaa",
+        "laahaur smjhautaa"
+    ],
+    answer: "shimlaa smjhautaa"
+},
+
+{
+    question: "combined raajy amerikaa of vrtmaan raassttrpti which are?",
+    option: [
+        "joNrj bush",
+        "boris yeltsin",
+        "bil kliNttn",
+        "ddonaaldd ttrmp"
+    ],
+    answer: "ddonaaldd ttrmp"
+},
+
+{
+    question: "‘shaanti for ekjutt be jaao’ scheme of prstaavk which thaa ?",
+    option: [
+        "ddiin acesn",
+        "e. gromaaiko",
+        "enthonii eddin",
+        "Marshall ttiitto"
+    ],
+    answer: "ddiin acesn"
+},
+
+{
+    question: "‘griibii httaao’ of naaraa who given ?",
+    option: [
+        "jvaahrlaal nehruu ne",
+        "indiraa gaaNdhii ne",
+        "srdaar pttel ne",
+        "jyprkaash naaraaynn ne"
+    ],
+    answer: "indiraa gaaNdhii ne"
+},
+
+{
+    question: "which desh ne sbbefore smaajvaadii raassttrkul chodd'aa ?",
+    option: [
+        "yugoslaaviyaa",
+        "polainndd",
+        "albaaniyaa",
+        "ciin"
+    ],
+    answer: "yugoslaaviyaa"
+},
+
+{
+    question: "mukhymNtrii of niyukti which does is ?",
+    option: [
+        "raassttrpti",
+        "prdhaanmNtriiy",
+        "raajypaal",
+        "high nyaayaaly kemukhy nyaayaadhiish"
+    ],
+    answer: "raajypaal"
+},
+
+{
+    question: "India of prthm up – raassttrpti which the ?",
+    option: [
+        "vii.vii. giri",
+        "ddoN. es . raadhaakRssnnn",
+        "ddoN. jaakir husain",
+        "ddoN. shNkr dyaal shrmaa"
+    ],
+    answer: "ddoN. es . raadhaakRssnnn"
+},
+
+{
+    question: "vlaadimiir lenin of relation from whom ?",
+    option: [
+        "soviyt sNgh",
+        "amerikaa",
+        "britten",
+        "jrmnii"
+    ],
+    answer: "soviyt sNgh"
+},
+
+{
+    question: "yuuro what is ?",
+    option: [
+        "saark deshoN of money",
+        "paakistaan of nyii money",
+        "yuuropiiy sNgh of members of money",
+        "None of these"
+    ],
+    answer: "yuuropiiy sNgh of members of money"
+},
+
+{
+    question: "shiit yuddh of ant when was ?",
+    option: [
+        "1991 ii. in",
+        "1891 ii. in",
+        "2001 ii. in",
+        "2002 ii. in"
+    ],
+    answer: "1991 ii. in"
+},
+
+{
+    question: "which aandoln aandhr prdesh for svaaytt prdesh of demand of thii ?",
+    option: [
+        "telNgaanaaaandoln",
+        "vishaal aandhr aandoln",
+        "redd ribn aandoln",
+        "inmeNse any not–"
+    ],
+    answer: "vishaal aandhr aandoln"
+},
+
+{
+    question: "security prissd in sthaayii members of sNkhyaa how many is ?",
+    option: [
+        "5",
+        "6",
+        "7",
+        "14"
+    ],
+    answer: "5"
+},
+
+{
+    question: "which sNvidhaan sNshodhn of by ngr – nikaayoN to sNvaidhaanik drjaa given was ?",
+    option: [
+        "72 vaaN",
+        "73 vaaN",
+        "74 vaaN",
+        "75 vaaN"
+    ],
+    answer: "74 vaaN"
+},
+
+{
+    question: "1967 after kaaNgres of aadhiptyshaalii condition of ptn of which – saa cause not thaa ?",
+    option: [
+        "puraanii chvi of ant",
+        "skssm v prbhaavii leadership of abhaav",
+        "kssetriiy dloN of udy",
+        "smyaanukuul vicaardhaaraa of n honaa"
+    ],
+    answer: "smyaanukuul vicaardhaaraa of n honaa"
+},
+
+{
+    question: "India of prthm raassttrpti which the ?",
+    option: [
+        "pN. nehruu",
+        "srdaar pttel",
+        "ddoN. raadhaakRssnnn",
+        "ddoN. raajendr prsaad"
+    ],
+    answer: "ddoN. raajendr prsaad"
+},
+
+{
+    question: "kaargil (India and paakistaan) yuddh when was thaa ?",
+    option: [
+        "1997 ii. in",
+        "1998 ii. in",
+        "1999 ii. in",
+        "None of these"
+    ],
+    answer: "1999 ii. in"
+},
+
+{
+    question: "economic sNktt (mNdii) because of yuurop in which – sii nii shaasn system of udy was ?",
+    option: [
+        "saamyvaadii shaasn system",
+        "loktaaNtrik shaasn system",
+        "phaasiivaadii – naajiivaadii shaasn",
+        "puuNjiivaadii shaasn system"
+    ],
+    answer: "phaasiivaadii – naajiivaadii shaasn"
+},
+
+{
+    question: "”world of sndrbh in soco, desh of hit kro  / ” this suutr who prcaarit done ?",
+    option: [
+        "Marshall maikluhaan",
+        "aar . roNbrttsn",
+        "aamrty sen",
+        "mnmohn siNh"
+    ],
+    answer: "mnmohn siNh"
+},
+
+{
+    question: "Which of the following one nyaay of type is ?",
+    option: [
+        "kaanuuniinyaay",
+        "raajniitik nyaay",
+        "economic nyaay",
+        "inmeNse all"
+    ],
+    answer: "inmeNse all"
+},
+
+{
+    question: "which prdhaanmntrii ne India of ciin of with ttuutte smbndhoN to sudhaarne of kdm utthaayaa ?",
+    option: [
+        "jvaahrlaal nehruu",
+        "red bhaadur shaastrii",
+        "indiraa gaaNdhii",
+        "raajiiv gaaNdhii"
+    ],
+    answer: "raajiiv gaaNdhii"
+},
+
+{
+    question: "antrraassttriiy money koss of mukhyaaly where is ?",
+    option: [
+        "mniilaa in",
+        "jkaartaa in",
+        "peris in",
+        "vaashiNgttn in"
+    ],
+    answer: "vaashiNgttn in"
+},
+
+{
+    question: "mukhymNtrii of niyukti which does is ?",
+    option: [
+        "raassttrpti",
+        "prdhaanmNtriiy",
+        "raajypaal",
+        "high nyaayaaly kemukhy nyaayaadhiish"
+    ],
+    answer: "raajypaal"
+},
+
+{
+    question: "prmpraagt security niiti of which – which from element are ?",
+    option: [
+        "power sNtuln",
+        "gtthbNdhn of raajniiti",
+        "saamuuhik security",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+
+{
+    question: "1956 in which – from dvibhaassii raajy made ?",
+    option: [
+        "bmbii v pNjaab",
+        "uttr prdesh v bihaar",
+        "kerl v tmilnaaddu",
+        "pshcim bNgaal v udd'iisaa"
+    ],
+    answer: "bmbii v pNjaab"
+},
+
+{
+    question: "shaaii cooperation sNgtthn in how many desh shaamil haiN / ",
+    option: [
+        "4",
+        "5",
+        "6",
+        "7"
+    ],
+    answer: "6"
+},
+
+{
+    question: "India of sNvidhaan sbhaa of gtthn which scheme of basis on was",
+    option: [
+        "krips mishn",
+        "maaunnttbettn scheme",
+        "vevel scheme",
+        "kaibinett mishn scheme"
+    ],
+    answer: "kaibinett mishn scheme"
+},
+
+{
+    question: "akaalii aandolnkaariyoN of what demand thii ?",
+    option: [
+        "different pNjaab",
+        "khaalistaan",
+        "pRthk raassttr",
+        "None of these"
+    ],
+    answer: "khaalistaan"
+},
+
+{
+    question: "dkssinn eshiyaa of which raajy in maaovaadiyoN ne uthl – puthl mcaaii is ?",
+    option: [
+        "India",
+        "paakistaan",
+        "baaNglaadesh",
+        "nepaal"
+    ],
+    answer: "nepaal"
+},
+
+{
+    question: "sNvidhaan of which – saa anucched sNsd to raajy suucii of any vissy on vidhaan making of power gives is ?",
+    option: [
+        "anucched 115",
+        "anucched 183",
+        "anucched 221",
+        "anucched 249"
+    ],
+    answer: "anucched 249"
+},
+
+{
+    question: "yuuropiiy sNgh when was established was ?",
+    option: [
+        "1957 ii. in",
+        "1992 ii. in",
+        "2005 ii. in",
+        "2006 ii. in"
+    ],
+    answer: "1992 ii. in"
+},
+
+{
+    question: "India prmaannu aprsaar sndhi on hstaakssr why not does is ?",
+    option: [
+        "India prmaannu bmoN of prsaar caahtaa is",
+        "vh ise bhedbhaavpuunn maantaa is",
+        "guttnirpeksstaa of niiti prbhaavit hogii",
+        "None of these"
+    ],
+    answer: "vh ise bhedbhaavpuunn maantaa is"
+},
+
+{
+    question: "raajy punrgtthn aayog of vissy in which – saa kthn asty is ?",
+    option: [
+        "iskiisthaapnaa 1953 ii. in of was thii  / ",
+        "iskeriportt keaadhaar on 1966 meNraajy punrgtthn Act paarit done gyaa / ",
+        "isnebhaassaayii raajyoN kenirmaann kelie siphaarish kiithii  / ",
+        "sbhiikthn asty haiN / "
+    ],
+    answer: "iskiisthaapnaa 1953 ii. in of was thii  / "
+},
+
+{
+    question: "which prdhaanmNtrii at the time of this baat utthii ki jj of pd on niyukti from puurv that person of social drshn to dekhaa go should?",
+    option: [
+        "jvaahrlaal nehruu",
+        "red bhaadur shaastrii",
+        "indiraa gaaNdhii",
+        "raajiiv gaaNdhii"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "1965 and 1971 in India of which desh from yuddh was thaa ?",
+    option: [
+        "ciin",
+        "shriilNkaa",
+        "paakistaan",
+        "baaNglaadesh"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "sNvidhaan of which anucched in center and raajy between vidhaayii sNbNdhoN of ullekh is ?",
+    option: [
+        "anucched– 245-255",
+        "anucched– 240-250",
+        "anucched– 352-360",
+        "inmeNse any not"
+    ],
+    answer: "anucched– 245-255"
+},
+
+{
+    question: "sNvidhaan of prstaavnaa in bndhutaa of aadrsh why rkhaa was ?",
+    option: [
+        "social development for",
+        "social nyaay for",
+        "svtntrtaahetu",
+        "national ektaa for"
+    ],
+    answer: "national ektaa for"
+},
+
+{
+    question: "bhuumnnddliikrnn which vicaardhaaraa on ttikaa is ?",
+    option: [
+        "smaajvaad",
+        "saamyvaad",
+        "araajktaavaad",
+        "udaarvaad"
+    ],
+    answer: "udaarvaad"
+},
+
+{
+    question: "1975 ii. in aapaatkaal of ghossnnaa doing which Indian raassttrpti of name is",
+    option: [
+        "niilm sNjiiv reddddii",
+        "knowledgeii jail siNh",
+        "jaakir husain",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+
+{
+    question: "combined raassttr sNgh of most bdd'aa organ which is ?",
+    option: [
+        "surkssaaprissd",
+        "mhaasbhaa",
+        "scivaaly",
+        "antrraassttriiy nyaayaaly"
+    ],
+    answer: "mhaasbhaa"
+},
+
+{
+    question: "1975 in yuurop in security v cooperation smmeln where was ?",
+    option: [
+        "lndn in",
+        "peris in",
+        "moNsko in",
+        "helsiNkii in"
+    ],
+    answer: "helsiNkii in"
+},
+
+{
+    question: "‘India vividhtaa ektaa of desh is  / ’ who said ?",
+    option: [
+        "gaaNdhii jii",
+        "nehruujii",
+        "subhaasscndr bos",
+        "srdaar pttel"
+    ],
+    answer: "nehruujii"
+},
+
+{
+    question: "world in shaanti bnaae keeping of daayitv which on is ?",
+    option: [
+        "mhaasbhaa",
+        "security prissd",
+        "economic v social prissd",
+        "mhaasciv"
+    ],
+    answer: "security prissd"
+},
+
+{
+    question: "which – saa year India – ciin mitrtaa year as mnaayaa was ?",
+    option: [
+        "1954",
+        "1962",
+        "1988",
+        "2006"
+    ],
+    answer: "2006"
+},
+
+{
+    question: "ttehrii baaNdh of virodh doing of back cause is ki",
+    option: [
+        "isse visthaapit people of punrvaas of problem paidaa hogii / ",
+        "height from water girne because of dhrtii in kmpn paidaa be can",
+        "pryaavrnniiy sntuln bigdd' jaaegaa / ",
+        "this on excessive money expense hogaa / "
+    ],
+    answer: "height from water girne because of dhrtii in kmpn paidaa be can"
+},
+
+{
+    question: "soviyt sNgh of vighttn of was ?",
+    option: [
+        "25 dismbr, 1991",
+        "25 dismbr, 1990",
+        "25 dismbr, 1992",
+        "25 dismbr, 1993"
+    ],
+    answer: "25 dismbr, 1991"
+},
+
+{
+    question: "which sNvidhaan sNshodhn urban sthaaniiy shaasn from judd'aa is ?",
+    option: [
+        "75 vaaN",
+        "74 vaaN",
+        "73 vaaN",
+        "72 vaaN"
+    ],
+    answer: "74 vaaN"
+},
+
+{
+    question: "dkssinn eshiyaa in most bdd'aa desh which is ?",
+    option: [
+        "India",
+        "paakistaan",
+        "shriilNkaa",
+        "bNglaadesh"
+    ],
+    answer: "India"
+},
+
+{
+    question: "dvidhuviiy world arrangement in puurvii gtthbndhn of leadership who done",
+    option: [
+        "grett britten",
+        "phraaNs",
+        "amerikaa",
+        "soviyt sNgh"
+    ],
+    answer: "soviyt sNgh"
+},
+
+{
+    question: "tiisrii pNcvrssiiy scheme of period what thii ?",
+    option: [
+        "1961-66",
+        "1962-67",
+        "1963-78",
+        "None of these"
+    ],
+    answer: "1961-66"
+},
+
+{
+    question: "any also raajy of vidhaansbhaa of maximum anujnyey member sNkhyaa of siimaa is",
+    option: [
+        "400 member",
+        "425 member",
+        "500 member",
+        "545 member"
+    ],
+    answer: "500 member"
+},
+
+{
+    question: "May, 1945 in raaisttaig bilddiNg (brlin, jrmnii) on which desh of sainikoN ne jhnnddaa phhraayaa thaa, uskaa name thaa",
+    option: [
+        "soviyt sNgh",
+        "phraaNs",
+        "britten",
+        "None of these"
+    ],
+    answer: "soviyt sNgh"
+},
+
+{
+    question: "India of sNvidhaan In which year aNgiikRt done was ?",
+    option: [
+        "year 1948",
+        "year 1949",
+        "year 1950",
+        "inmeNse any not"
+    ],
+    answer: "year 1949"
+},
+
+{
+    question: "scheme aayog when was established was ?",
+    option: [
+        "1950 ii. in",
+        "1952 ii. in",
+        "1955 ii. in",
+        "1960 ii. in"
+    ],
+    answer: "1950 ii. in"
+},
+
+{
+    question: "Which of the following Indian sNghiiy arrangement characteristic of is not ?",
+    option: [
+        "dohrii naagriktaa",
+        "shktiyoN of vibhaajn",
+        "svtNtr nyaayik arrangement",
+        "sNvidhaan of srvocctaa"
+    ],
+    answer: "dohrii naagriktaa"
+},
+
+{
+    question: "jntaa paarttii of government when bnii ?",
+    option: [
+        "1974 ii. in",
+        "1977 ii. in",
+        "1980 ii. in",
+        "1983 ii. in"
+    ],
+    answer: "1977 ii. in"
+},
+
+{
+    question: "India of raassttrpti of condition tulnaatmk dRsstti from following in from whose smaan is ?",
+    option: [
+        "amriikiiraassttrpti",
+        "knaaddaake gvrnr – General",
+        "brittish mhaaraanii",
+        "puurv soviyt sNgh keraassttrpti"
+    ],
+    answer: "brittish mhaaraanii"
+},
+
+{
+    question: "koriyaa of ldd'aaii rokne for combined raassttr sNgh to security prissd ne which arrangement of aahvaan done ?",
+    option: [
+        "shaanti establishment",
+        "shaanti construction",
+        "sttaa of sntuln",
+        "saamuuhik security"
+    ],
+    answer: "saamuuhik security"
+},
+
+{
+    question: "Indian sNsd in mhilaaoN to how many percent aarkssnn giving of demand of gyii is ?",
+    option: [
+        "25 percent",
+        "30 percent",
+        "33 percent",
+        "35 percent"
+    ],
+    answer: "33 percent"
+},
+
+{
+    question: "NATO establishment In which year was ?",
+    option: [
+        "year 1948",
+        "year 1947",
+        "year 1949",
+        "year 1950"
+    ],
+    answer: "year 1949"
+},
+
+{
+    question: "1945 in combined raassttr sNgh establishment was, uskaa maulik member which thaa ?",
+    option: [
+        "paakistaan",
+        "baaNglaadesh",
+        "shriilNkaa",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "brettn vudds smmeln In which year was ?",
+    option: [
+        "1945 ii .",
+        "1947 ii .",
+        "1944 ii .",
+        "1952 ii ."
+    ],
+    answer: "1944 ii ."
+},
+
+{
+    question: "mijorm In which year India sNgh of raajy bnaa ?",
+    option: [
+        "1986",
+        "1987",
+        "1988",
+        "1985"
+    ],
+    answer: "1987"
+},
+
+{
+    question: "puurvottr India of ‘seven bhnoN’ in which – saa raajy shaamil is not ?",
+    option: [
+        "jmmuu kshmiir",
+        "naagaalainndd",
+        "mijorm",
+        "meghaaly"
+    ],
+    answer: "jmmuu kshmiir"
+},
+
+{
+    question: "aaivo jiiv of ldd'aaii (23 phrvrii, 1945) jin two deshoN in was thii, ve the",
+    option: [
+        "jaapaan and amerikaa",
+        "jaapaan and soviyt sNgh",
+        "jrmnii and amerikaa",
+        "None of these"
+    ],
+    answer: "jaapaan and amerikaa"
+},
+
+{
+    question: "which desh of sNvidhaan world of most bdd'aa sNvidhaan is ?",
+    option: [
+        "yuu.es.e.",
+        "ruus",
+        "dkssinniiaphriikaa",
+        "India"
+    ],
+    answer: "India"
+},
+
+{
+    question: "1955 ii. in which shhr in ephro–eshiyaaii smmeln was thaa?",
+    option: [
+        "jkaartaa in",
+        "baaiiNg in",
+        "siNgaapur in",
+        "haaNgkaaNg in"
+    ],
+    answer: "baaiiNg in"
+},
+
+{
+    question: "Indian sNvidhaan in smvrtii suucii of prernnaa where from lii was ?",
+    option: [
+        "amerikaa",
+        "svittjrlainndd",
+        "aasttreliyaa",
+        "soviyt sNgh"
+    ],
+    answer: "aasttreliyaa"
+},
+
+{
+    question: "Indian naagriktaa Act when paarit done was ?",
+    option: [
+        "1950 in",
+        "1952 in",
+        "1955 in",
+        "1958 in"
+    ],
+    answer: "1955 in"
+},
+
+{
+    question: "neshnl kaaNphreNs paarttii which raajy in skriy is ?",
+    option: [
+        "uttr prdesh",
+        "aruunnaacl prdesh",
+        "jmmuu and kshmiir",
+        "mijorm"
+    ],
+    answer: "jmmuu and kshmiir"
+},
+
+{
+    question: "Indian raajniitik dliiy arrangement to which shrennii in rkhaa was is ?",
+    option: [
+        "one–dliiy arrangement",
+        "dvi–dliiy arrangement",
+        "bhudliiy arrangement",
+        "ekl dl prbhutv arrangement"
+    ],
+    answer: "bhudliiy arrangement"
+},
+
+{
+    question: "tnaav shaithily of duusraa crnn start doing of shrey kisko is given ?",
+    option: [
+        "amriikii raassttrpti riign",
+        "Indian prdhaanmntrii indiraagaaNdhii",
+        "soviyt raassttrpti gorvaacyov",
+        "ciin netaa maao"
+    ],
+    answer: "soviyt raassttrpti gorvaacyov"
+},
+
+{
+    question: "combined raassttr pdbddh of rgram who of ?",
+    option: [
+        "eph.ddii. ruujveltt",
+        "joseph sttaalin",
+        "vinsttn crcil",
+        "cyaaNg kaaii shek"
+    ],
+    answer: "eph.ddii. ruujveltt"
+},
+
+{
+    question: "abhii up to dksses of smmeln which member raajy in not was is ?",
+    option: [
+        "aphgaanistaan",
+        "bhuuttaan",
+        "nepaal",
+        "shriilNkaa"
+    ],
+    answer: "bhuuttaan"
+},
+
+{
+    question: "India of sNvidhaan of which anucched of adhiin India of raassttrpti on mhaabhiyog claayaa jaa can is ?",
+    option: [
+        "anucched 356",
+        "anucched 75",
+        "anucched 76",
+        "anucched 61"
+    ],
+    answer: "anucched 61"
+},
+
+{
+    question: "world edds day when mnaayaa goes is ?",
+    option: [
+        "1 dismbr to",
+        "10 dismbr to",
+        "24 dismbr to",
+        "None of these"
+    ],
+    answer: "1 dismbr to"
+},
+
+{
+    question: "1980 of nirvaacn at the time of India of prdhaanmNtrii the",
+    option: [
+        "indiraa gaaNdhii",
+        "moraarjii desaaii",
+        "caudhrii crnn siNh",
+        "vii.pii. siNh up prdhaanmNtrii"
+    ],
+    answer: "indiraa gaaNdhii"
+},
+
+{
+    question: "saaNvidhaanik vissy on nirnny giving for less – from – less srvocc nyaayaaly of how many nyaayaadhiishoN of beNc honii should ?",
+    option: [
+        "3",
+        "1",
+        "4",
+        "5 or more"
+    ],
+    answer: "5 or more"
+},
+
+{
+    question: "following in from which desh ne ‘ open dvaar of niiti ‘ apnaaii ?",
+    option: [
+        "India ne",
+        "britten ne",
+        "paakistaan ne",
+        "ciin ne"
+    ],
+    answer: "ciin ne"
+},
+
+{
+    question: "Which of the following one maulik right is not ?",
+    option: [
+        "smaantaakaa right",
+        "shossnn of viruddh right",
+        "dhaarmik svtNtrtaa kaaadhikaar",
+        "smpttikaa right"
+    ],
+    answer: "smpttikaa right"
+},
+
+{
+    question: "India and baaNglaadesh between phrkkaa smjhaute on hstaakssr when",
+    option: [
+        "1967 in",
+        "1971 in",
+        "1996 in",
+        "2000 in"
+    ],
+    answer: "1996 in"
+},
+
+{
+    question: "Indian sNvidhaan of which part to sNvidhaan of aatmaa said goes is ?",
+    option: [
+        "prstaavnaa",
+        "maulik right",
+        "nirdeshk principle",
+        "inmeNse any not"
+    ],
+    answer: "prstaavnaa"
+},
+
+{
+    question: "grams kchrii of prdhaan which is ?",
+    option: [
+        "srpNc",
+        "mukhiyaa",
+        "vaardd member",
+        "inmeNse any not"
+    ],
+    answer: "srpNc"
+},
+
+{
+    question: "73 veN sNvidhaan sNshodhn according to 11 viiN anusuucii in pNcaaytii raaj sNsthaaoN to how many vissy sauNpe were are ?",
+    option: [
+        "97",
+        "66",
+        "47",
+        "29"
+    ],
+    answer: "29"
+},
+
+{
+    question: "India of air polluted ngr",
+    option: [
+        "mumbii",
+        "kolkaataa",
+        "kaanpur",
+        "all ngr"
+    ],
+    answer: "all ngr"
+},
+
+{
+    question: "sNvidhaan sNshodhn of prkriyaa of vrnnn done was is –",
+    option: [
+        "anucched 370 in",
+        "anucched 368 in",
+        "anucched 356 in",
+        "anucched 352 in"
+    ],
+    answer: "anucched 368 in"
+},
+
+{
+    question: "India and ciin between pNcshiil smjhautaa on hstaakssr In which year was thaa ?",
+    option: [
+        "1950 ii. in",
+        "1952 ii. in",
+        "1953 ii. in",
+        "1954 ii. in"
+    ],
+    answer: "1954 ii. in"
+},
+
+{
+    question: "dkssinn – eshiyaaii deshoN in sainik shaasn sbbefore which raajy in",
+    option: [
+        "shriilNkaa",
+        "nepaal",
+        "paakistaan",
+        "bhuuttaan"
+    ],
+    answer: "paakistaan"
+},
+
+{
+    question: "smpuurnn kraaNti of udghoss done thaa",
+    option: [
+        "indiraa gaaNdhii",
+        "lok naayk jyprkaash naaraaynn",
+        "joNrj phrnaaddis",
+        "moraarjii desaaii"
+    ],
+    answer: "lok naayk jyprkaash naaraaynn"
+},
+
+{
+    question: "whose siphaarish on mhaasbhaa mhaasciv of niyukti does is ?",
+    option: [
+        "surkssaaprissd",
+        "economic v social prissd",
+        "antrraassttriiy nyaayaaly",
+        "nyaasiiprissd"
+    ],
+    answer: "surkssaaprissd"
+},
+
+{
+    question: "svtNtr India of another raassttrpti which the ?",
+    option: [
+        "jaakir husain",
+        "raadhaakRssnnn",
+        "shNkr dyaal shrmaa",
+        "aar. veNkttrmn"
+    ],
+    answer: "raadhaakRssnnn"
+},
+
+{
+    question: "subhaasscndr bos of birth when was ?",
+    option: [
+        "23 jnvrii, 1897 to",
+        "25 jnvrii, 1890 to",
+        "30 jnvrii, 1897 to",
+        "None of these"
+    ],
+    answer: "23 jnvrii, 1897 to"
+},
+
+{
+    question: "sNvidhaan in India of which raajy to special drjaa obtained is ?",
+    option: [
+        "jmmuu– kshmiir",
+        "sikkim",
+        "naagaalainndd",
+        "aruunnaacl prdesh"
+    ],
+    answer: "jmmuu– kshmiir"
+},
+
+{
+    question: "combined raassttr of vyaapaar v development smmeln when sthaapit was ?",
+    option: [
+        "1945 in",
+        "1950 in",
+        "1964 in",
+        "1977 in"
+    ],
+    answer: "1964 in"
+},
+
+{
+    question: "srvocc nyaayaaly of nyaayaadhiish of niyukti which does is ?",
+    option: [
+        "prdhaanmNtrii",
+        "mNtrimNddl",
+        "raassttrpti",
+        "up – raassttrpti"
+    ],
+    answer: "raassttrpti"
+},
+
+{
+    question: "shaanti establishment functions ofoN of see – rekh which adhikaarii of adhiin is ?",
+    option: [
+        "mhaasbhaa of adhykss",
+        "security prissd of adhykss",
+        "antrraassttriiy nyaayaaly of adhykss",
+        "mhaasciv"
+    ],
+    answer: "mhaasciv"
+},
+
+{
+    question: "gutt – nirpekss deshoN of shikhr smmeln nii dillii in aayojit done was thaa ?",
+    option: [
+        "1982 ii. in",
+        "1983 ii. in",
+        "1984 ii. in",
+        "1985 ii. in"
+    ],
+    answer: "1983 ii. in"
+},
+
+{
+    question: "aasiyaan of 20 vaaN shikhr smmeln April , 2012 in where aayojit was ?",
+    option: [
+        "mniilaa in",
+        "nyuuyaark in",
+        "nom penh in",
+        "johaaNsbrg in"
+    ],
+    answer: "nom penh in"
+},
+
+{
+    question: "1991 in soviyt sNgh of vighttn of upraant which-saa desh mhaashkti as ubhraa ?",
+    option: [
+        "jrmnii",
+        "ittlii",
+        "amerikaa",
+        "ciin"
+    ],
+    answer: "amerikaa"
+},
+
+{
+    question: "following in which-saa kthn soviyt sNgh of vighttn related not thaa ?",
+    option: [
+        "gtirodh–economy",
+        "jntaa of asNtoss",
+        "vibhinn gnnraajyoN in raassttrvaadii aaNdoln",
+        "people of vishessaadhikaar increase"
+    ],
+    answer: "people of vishessaadhikaar increase"
+},
+
+{
+    question: "antrraassttriiy money koss of mukhyaaly where is ?",
+    option: [
+        "mniilaa in",
+        "jkaartaa in",
+        "peris in",
+        "vaashiNgttn in"
+    ],
+    answer: "vaashiNgttn in"
+},
+
+{
+    question: "iNdiraa gaaNdhii ne India in aapaatkaal In which year applied thaa ?",
+    option: [
+        "1975 ii. in",
+        "1976 ii. in",
+        "1977 ii. in",
+        "1978 ii. in"
+    ],
+    answer: "1975 ii. in"
+},
+
+{
+    question: "muslim liig when was established was ?",
+    option: [
+        "1905 ii . in",
+        "1906 ii . in",
+        "1907 ii . in",
+        "1908 ii . in"
+    ],
+    answer: "1906 ii . in"
+},
+
+{
+    question: "ciin ne videsh vyaapaar for open dvaar of niiti when apnaaii ?",
+    option: [
+        "1978 in",
+        "1975 in",
+        "1985 in",
+        "1990 in"
+    ],
+    answer: "1978 in"
+},
+
+{
+    question: "Indian sNvidhaan of 8 viiN anusuucii in what vrnnit is ?",
+    option: [
+        "bhaassaaoNkii suucii",
+        "aarkssnn of suucii",
+        "pNcaaytiiraaj functions of",
+        "inmeNse any not"
+    ],
+    answer: "bhaassaaoNkii suucii"
+},
+
+{
+    question: "1938 in Indian national kaaNgres of niyojn smiti of gtthn who done ?",
+    option: [
+        "mhaatmaa gaaNdhii ne",
+        "jvaahrlaal nehruu ne",
+        "subhaass cndr bos ne",
+        "jyprkaash naaraaynn ne"
+    ],
+    answer: "subhaass cndr bos ne"
+},
+
+{
+    question: "sn 1953 ii. in amerikii raassttrpti which bnaa ?",
+    option: [
+        "ttumen",
+        "aaiijnhovr",
+        "khushcev",
+        "bulgaanin"
+    ],
+    answer: "aaiijnhovr"
+},
+
+{
+    question: "kaaNgres of yuvaa turkoN in kise go goes is ?",
+    option: [
+        "red bhaadur shaastrii",
+        "kaamraaj",
+        "nijliNggppaa",
+        "cndrshekhr"
+    ],
+    answer: "cndrshekhr"
+},
+
+{
+    question: "vrtmaan in which aasiyaan of member raassttr is not ?",
+    option: [
+        "innddoneshiyaa",
+        "philiipiins",
+        "aljiiriyaa",
+        "mleshiyaa"
+    ],
+    answer: "aljiiriyaa"
+},
+
+{
+    question: "1992 in pRthvii shikhr smmeln of udghaattn who done?",
+    option: [
+        "maargrett thaicr",
+        "ddoN. gholii",
+        "indiraagaaNdhii",
+        "bruunddttlainndd"
+    ],
+    answer: "ddoN. gholii"
+},
+
+{
+    question: "Which of the following – saa desh aasiyaan of member is not ?",
+    option: [
+        "innddoneshiyaa",
+        "philiipiins",
+        "siNgaapur",
+        "shriilNkaa"
+    ],
+    answer: "shriilNkaa"
+},
+
+{
+    question: "language to not blki saamrik mhtv of element to dekhte were sbbefore which raajy of rgram was ?",
+    option: [
+        "aandhr prdesh",
+        "naagaalainndd",
+        "meghaaly",
+        "govaa"
+    ],
+    answer: "naagaalainndd"
+},
 ];
 
 // --- Helper: Shuffle questions ---
