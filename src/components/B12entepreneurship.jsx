@@ -3369,10 +3369,3366 @@ const entrepreneurshipHindi = [
 
 // English Questions
 const entrepreneurshipEnglish = [
-  // Entrepreneurial Opportunity
-  { question: "What is entrepreneurship?", option: ["Process of starting a business", "Doing a job", "Only investment", "None"], answer: "Process of starting a business" },
-  { question: "Who is an entrepreneur?", option: ["One who starts a business", "Employee", "Investor", "None"], answer: "One who starts a business" },
-  
+{
+    question: "are included in your market:",
+    option: [
+        "all persons in your area",
+        "persons who need your services or products / ",
+        "persons who are able to pay for them",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "the process of production planning is divided:",
+    option: [
+        "into two categories",
+        "into three categories",
+        "into four categories",
+        "into six categories"
+    ],
+    answer: "into two categories"
+},
+{
+    question: "................ in the amount of investment is large :",
+    option: [
+        "labor-intensive technology",
+        "capital-intensive technology",
+        "vikrii intensive technology",
+        "None of these"
+    ],
+    answer: "capital-intensive technology"
+},
+{
+    question: "integration means :",
+    option: [
+        "internal expansion",
+        "external expansion",
+        "internal and external expansion",
+        "None of these"
+    ],
+    answer: "external expansion"
+},
+{
+    question: "contribution equals:",
+    option: [
+        "sales − variable cost",
+        "sales − fixed cost",
+        "sales − total cost",
+        "All of the above"
+    ],
+    answer: "sales − variable cost"
+},
+{
+    question: "is included in current assets :",
+    option: [
+        "equipment",
+        "investment",
+        "goodwill",
+        "creditors"
+    ],
+    answer: "creditors"
+},
+{
+    question: "sources of long-term finance include:",
+    option: [
+        "issue of shares",
+        "issue of debentures",
+        "loans from financial institutions",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "which of the following is a type of opportunity ?",
+    option: [
+        "first opportunity",
+        "created opportunity",
+        "last opportunity",
+        "None of these"
+    ],
+    answer: "created opportunity"
+},
+{
+    question: "the burden of marketing expenditure is:",
+    option: [
+        "udyog on",
+        "businessmen on",
+        "consumeroN on",
+        "All of these on"
+    ],
+    answer: "consumeroN on"
+},
+{
+    question: "the entrepreneur incorporates venture capital into new firms –",
+    option: [
+        "necessary capacity",
+        "marketing niiti",
+        "firm of organizing",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "which of the following is not a stage in starting a new venture ?",
+    option: [
+        "preliminary pre-start stage",
+        "initial stage",
+        "product-market stage",
+        "later growth stage"
+    ],
+    answer: "product-market stage"
+},
+{
+    question: "IDBI jis year was established ?",
+    option: [
+        "1944",
+        "1954",
+        "1964",
+        "1974"
+    ],
+    answer: "1964"
+},
+{
+    question: "risks undertaken by venture capitalists :",
+    option: [
+        "high are are",
+        "low are are",
+        "any khtraa not is",
+        "None of these"
+    ],
+    answer: "high are are"
+},
+{
+    question: "which of the following is not factory overhead",
+    option: [
+        "factory insurance",
+        "depreciation on plant",
+        "engineering office salary",
+        "salary"
+    ],
+    answer: "salary"
+},
+{
+    question: "net working capital means :",
+    option: [
+        "CA-CL",
+        "CA + CL",
+        "CL-CA",
+        "None of these"
+    ],
+    answer: "CA-CL"
+},
+{
+    question: "techno-economic analysis identifies",
+    option: [
+        "supply feasibility",
+        "demand potential",
+        "export potential",
+        "import potential"
+    ],
+    answer: "demand potential"
+},
+{
+    question: "is included in fixed cost",
+    option: [
+        "kcce goods of cost",
+        "shrm of cost",
+        "power of cost",
+        "factory cost"
+    ],
+    answer: "factory cost"
+},
+{
+    question: "investment analysis is related to –",
+    option: [
+        "nisskrnn necessarytaaeN",
+        "material requirements",
+        "labor requirements",
+        "resource requirements"
+    ],
+    answer: "resource requirements"
+},
+{
+    question: "the statement showing increase or decrease in funds ............ khte are :",
+    option: [
+        "fund flow statement",
+        "cash flow statement",
+        "income statement",
+        "financial statement"
+    ],
+    answer: "fund flow statement"
+},
+{
+    question: "B.E.P. that is where",
+    option: [
+        "maximum profit is",
+        "minimum profit is is",
+        "neither profit nor loss",
+        "None of these"
+    ],
+    answer: "neither profit nor loss"
+},
+{
+    question: "a bond is a debt instrument",
+    option: [
+        "long-term loan of",
+        "medium-term loan of",
+        "short-term loan of",
+        "None of these"
+    ],
+    answer: "medium-term loan of"
+},
+{
+    question: "profit - quantity ratio :",
+    option: [
+        "contribution / sales ×100",
+        "sales / contribution ×100",
+        "contribution / sales",
+        "None of these"
+    ],
+    answer: "contribution / sales ×100"
+},
+{
+    question: "a project for installing new machines and equipment in place of old machines :",
+    option: [
+        "expansion projects",
+        "replacement projects",
+        "current projects",
+        "All of the above"
+    ],
+    answer: "replacement projects"
+},
+{
+    question: "what is included in demand forecasting ?",
+    option: [
+        "customer",
+        "product planning",
+        "short-term forecasting",
+        "consumer forecasting"
+    ],
+    answer: "short-term forecasting"
+},
+{
+    question: "the entrepreneur's duty is :",
+    option: [
+        "more value lenaa",
+        "kr corii do",
+        "environmental pollution bddh'aanaa",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+{
+    question: "how will you prepare the general plan of business?",
+    option: [
+        "by doing production planning",
+        "by doing cost planning",
+        "by doing financial planning",
+        "by doing all of the above"
+    ],
+    answer: "by doing all of the above"
+},
+{
+    question: "the main objective of marketing is :",
+    option: [
+        "sales growth",
+        "wealth maximization",
+        "profit growth",
+        "consumer satisfaction"
+    ],
+    answer: "consumer satisfaction"
+},
+{
+    question: "debt capacity ratio is:",
+    option: [
+        "liquidity ratio",
+        "profitdaayktaa",
+        "turnover ratio",
+        "solvency"
+    ],
+    answer: "solvency"
+},
+{
+    question: "aspects of project appraisal :",
+    option: [
+        "tkniiof",
+        "financial",
+        "managerial",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "planning is / ",
+    option: [
+        "profitpuurnn",
+        "permanent",
+        "dRddh'",
+        "None of these"
+    ],
+    answer: "profitpuurnn"
+},
+{
+    question: "what is included in the nature of marketing ?",
+    option: [
+        "product planning",
+        "product classification",
+        "consumer",
+        "customer"
+    ],
+    answer: "product planning"
+},
+{
+    question: "the project is prepared / ",
+    option: [
+        "promoters by",
+        "managers by",
+        "entrepreneur by",
+        "in all of by"
+    ],
+    answer: "in all of by"
+},
+{
+    question: "which of the following must be considered while selecting a product or service ?",
+    option: [
+        "competition",
+        "production cost",
+        "profit potential",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "by whom is the project prepared ?",
+    option: [
+        "investmentkoN by",
+        "customeroN by",
+        "promoters by",
+        "None of these"
+    ],
+    answer: "promoters by"
+},
+{
+    question: "gross capital employed is equal to",
+    option: [
+        "total assets of",
+        "net assets of",
+        "shareholders' funds of",
+        "gross profit of"
+    ],
+    answer: "total assets of"
+},
+{
+    question: "real accounts are related to—",
+    option: [
+        "all types of assets from",
+        "losses and gains from",
+        "person from",
+        "None of these"
+    ],
+    answer: "all types of assets from"
+},
+{
+    question: "personal selling is -",
+    option: [
+        "oral presentation",
+        "written",
+        "visual presentation",
+        "None of these"
+    ],
+    answer: "oral presentation"
+},
+{
+    question: "the objective of advertising is :",
+    option: [
+        "smbhaavit buyers to attract",
+        "customer to inform and guide",
+        "promote products",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "the dividend rate on preference shares is",
+    option: [
+        "fixed",
+        "variable",
+        "semi-variable",
+        "None of these"
+    ],
+    answer: "fixed"
+},
+{
+    question: "‘Management is the development of people, not the direction of things ................. / ’ this statement is by :",
+    option: [
+        "Lawrence A. Appley",
+        "R. C. Davis",
+        "Kothari and Brown",
+        "None of these"
+    ],
+    answer: "Lawrence A. Appley"
+},
+{
+    question: "what are those undertaken by the enterprise this vaisii raay is jis on that variabletii is and this that nirnny is jisof by this success of definite level on phuNctii hai / ",
+    option: [
+        "production",
+        "distribution",
+        "marketing",
+        "strategies"
+    ],
+    answer: "strategies"
+},
+{
+    question: "financial assistance is",
+    option: [
+        "concession",
+        "discount",
+        "repayment",
+        "None of these"
+    ],
+    answer: "repayment"
+},
+{
+    question: "management is a ................ power / ",
+    option: [
+        "separate",
+        "visible",
+        "invisible",
+        "any not"
+    ],
+    answer: "invisible"
+},
+{
+    question: "net present value method is related to :",
+    option: [
+        "time value of money from",
+        "mudraa of increased value from",
+        "all future present values from",
+        "None of the above"
+    ],
+    answer: "time value of money from"
+},
+{
+    question: "according to the guidelines issued by the Government of India venture capital funds for debt-equity ratio is as follows",
+    option: [
+        "1.5",
+        "2.0",
+        "0.5",
+        "2.5"
+    ],
+    answer: "1.5"
+},
+{
+    question: "venture capital is available",
+    option: [
+        "for highly risky units",
+        "for technical units",
+        "for institutional units",
+        "for all of these"
+    ],
+    answer: "for all of these"
+},
+{
+    question: "business social responsibility is in the interest of / ",
+    option: [
+        "long-term",
+        "for some time",
+        "governmental",
+        "None of these"
+    ],
+    answer: "long-term"
+},
+{
+    question: "advertising is selling",
+    option: [
+        "a personal communication process",
+        "a non-personal communication process",
+        "a written communication process",
+        "None of these"
+    ],
+    answer: "a non-personal communication process"
+},
+{
+    question: "which aspect or aspects must be considered for preliminary investigation?",
+    option: [
+        "in accordance with government priorities",
+        "compatibility with the promoter",
+        "availability of investment",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "the main components of business planning are / ",
+    option: [
+        "business description",
+        "executive summary",
+        "'A' and 'B' both",
+        "'A' and 'B' both not"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "gestation period related is is :",
+    option: [
+        "idea generation period from",
+        "incubation period from",
+        "implementation period from",
+        "commercialization period from"
+    ],
+    answer: "implementation period from"
+},
+{
+    question: "marketing of benefit is :",
+    option: [
+        "to consumers",
+        "to businessmen",
+        "to manufacturers",
+        "to all"
+    ],
+    answer: "to all"
+},
+{
+    question: "profit and loss account of debit surplus to khte are—",
+    option: [
+        "electric profit",
+        "electric loss",
+        "gross profit",
+        "gross loss"
+    ],
+    answer: "electric loss"
+},
+{
+    question: "diversification jisin related business to jodd'aa jaataa is None of these",
+    option: [
+        "sNofNdrit from",
+        "smuuh from",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "sNofNdrit from"
+},
+{
+    question: "project report summary is :",
+    option: [
+        "tthyoN of",
+        "suucnaaoN of",
+        "analysis of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "planning all managerial krioroN of is :",
+    option: [
+        "beginning",
+        "objective-oriented",
+        "both beginning and end",
+        "None of these"
+    ],
+    answer: "both beginning and end"
+},
+{
+    question: "project report summary is :",
+    option: [
+        "tthyoN of",
+        "suucnaaoN of",
+        "analysis of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "jnyaan resources from related ghttk in are included:",
+    option: [
+        "jnyaan punH obtained kreN",
+        "jnyaan baaNttnaa",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "planning is is",
+    option: [
+        "past for",
+        "future for",
+        "present for",
+        "all for"
+    ],
+    answer: "future for"
+},
+{
+    question: "fund flow statement in meaning of funds is",
+    option: [
+        "cash",
+        "current assets",
+        "current liabilitiesoN",
+        "net working capital"
+    ],
+    answer: "net working capital"
+},
+{
+    question: "Risk Capital Foundation was established :",
+    option: [
+        "aaii eph sii aaii by",
+        "aaii ddii bii aaii by",
+        "aaii sii aaii sii aaii by",
+        "yuu ttii aaii by"
+    ],
+    answer: "aaii eph sii aaii by"
+},
+{
+    question: "investment analysis is related toN..",
+    option: [
+        "financing requirements",
+        "material requirements",
+        "labor requirements",
+        "resource requirements"
+    ],
+    answer: "resource requirements"
+},
+{
+    question: "production management is",
+    option: [
+        "production planning",
+        "production control",
+        "quality control",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "current liability on current assets of adhiktaa to is called:",
+    option: [
+        "net working capital",
+        "gross working capital",
+        "net capital",
+        "All of the above"
+    ],
+    answer: "net working capital"
+},
+{
+    question: ".................. share is the share, which dividend of daathey or repayment of capital of maamle in do not enjoy any preferential right / ",
+    option: [
+        "equity",
+        "preference",
+        "bonus",
+        "None of these"
+    ],
+    answer: "equity"
+},
+{
+    question: "trltaa oniikssnn of sbfrom srl ratio is:",
+    option: [
+        "current ratio",
+        "acid-test ratio",
+        "absolute quick ratio",
+        "solvency ratio"
+    ],
+    answer: "absolute quick ratio"
+},
+{
+    question: "management ................ klaa hai / ",
+    option: [
+        "doing the work oneself",
+        "getting work done through others",
+        " 'A' and 'B'",
+        "None of these"
+    ],
+    answer: "getting work done through others"
+},
+{
+    question: "permanent cost prti unit decreases is when",
+    option: [
+        "production low is is",
+        "production increases is",
+        "production puurvvt remains is",
+        "None of these"
+    ],
+    answer: "production increases is"
+},
+{
+    question: "actual sales and break-even point sales of endr to khte are :",
+    option: [
+        "margin of safety",
+        "contribution",
+        "profit",
+        "cost"
+    ],
+    answer: "margin of safety"
+},
+{
+    question: "joNrj aar0 tterii according to planning of profr are",
+    option: [
+        "8",
+        "6",
+        "4",
+        "2"
+    ],
+    answer: "4"
+},
+{
+    question: "saahsii of duty is :",
+    option: [
+        "munaaphaa vsuulii",
+        "kr corii",
+        "environmental pollution",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+{
+    question: "expansioniikrnn oniyojnaa mdd does is :",
+    option: [
+        "supplementing existing resources",
+        "meeting the requirements of decisive investments",
+        "take advantage of additional opportunities",
+        "None of these"
+    ],
+    answer: "take advantage of additional opportunities"
+},
+{
+    question: "sbfrom more vorpk kssetr is-",
+    option: [
+        "brand",
+        "labeling",
+        "packaging",
+        "trade mark"
+    ],
+    answer: "packaging"
+},
+{
+    question: "one vorvsaayik firm of day-to-day of operation to to meet capital of necessarytaa is is :",
+    option: [
+        "avariable capital",
+        "working capital",
+        "share capital",
+        "debt capital"
+    ],
+    answer: "working capital"
+},
+{
+    question: "regulatory framework of business whichfrom related is is :",
+    option: [
+        "business of direction",
+        "business of quantity",
+        "administration",
+        "None of the above"
+    ],
+    answer: "administration"
+},
+{
+    question: "declining growth situation in",
+    option: [
+        "the enterprise finds it difficult to survive",
+        "the enterprise incurs losses rapidly",
+        "the enterprise considers closing the shop preferable",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "capital-intensive technology of is advocated because :",
+    option: [
+        "rapid economic development",
+        "social impact",
+        "increase in employment opportunities",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "aspects of project appraisal are",
+    option: [
+        "technical appraisal",
+        "financial appraisal",
+        "managerial appraisal",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "production of initial market among the following by whom by nirdhaarit to be caahie?",
+    option: [
+        "puurti",
+        "maaNg",
+        "primary maaroftt",
+        "secondary maaroftt"
+    ],
+    answer: "maaNg"
+},
+{
+    question: "social responsibility to who onibhaassit kior is?",
+    option: [
+        "ec aar botheynot",
+        "maarshl",
+        "joNrj aar. tterii",
+        "None of these"
+    ],
+    answer: "ec aar botheynot"
+},
+{
+    question: "venture capital vifour originated",
+    option: [
+        "in India",
+        "in England",
+        "in America",
+        "in Japan"
+    ],
+    answer: "in America"
+},
+{
+    question: "personal selling is :",
+    option: [
+        "oral presentation",
+        "written presentation",
+        "fact presentation",
+        "None of these"
+    ],
+    answer: "oral presentation"
+},
+{
+    question: "niymit working capital of share is is :",
+    option: [
+        "permanent working capital",
+        "variable working capital",
+        "net working capital",
+        "None of these"
+    ],
+    answer: "permanent working capital"
+},
+{
+    question: "telephone interview in how many ways kior jaataa is ?",
+    option: [
+        "two",
+        "three",
+        "five",
+        "seven"
+    ],
+    answer: "three"
+},
+{
+    question: "profitability ratio to generally is expressed :",
+    option: [
+        "in ordinary ratio",
+        "in percentage",
+        "in times",
+        "None of these"
+    ],
+    answer: "in percentage"
+},
+{
+    question: "indirect production in followingwritten stage smmilit are :",
+    option: [
+        "primary",
+        "secondary",
+        "auxiliary",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "management is:",
+    option: [
+        "klaa",
+        "vijnyaan",
+        "both art and science",
+        "None of these"
+    ],
+    answer: "both art and science"
+},
+{
+    question: "techno-economic analysis in identification kior jaataa is :",
+    option: [
+        "supply potential",
+        "demand potential",
+        "export potential",
+        "import potential"
+    ],
+    answer: "demand potential"
+},
+{
+    question: "labor-intensive technology is suitable because isof prkRti",
+    option: [
+        "is static",
+        "dynamic is",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "use of funds is :",
+    option: [
+        "operation from loss",
+        "long-term liability of repayment",
+        "preference shares capital of repayment",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "labeling is:",
+    option: [
+        "mandatory",
+        "necessary",
+        "optional",
+        "waste of money"
+    ],
+    answer: "necessary"
+},
+{
+    question: "“company of marketing vaataavrnn un sb ghttkoN and shktiyoN from is is jinof marketing management of capacity to viksit doing and vaaNchit to consumers successpuurvk marketing krioroN to doing from is hai / ” this statement whose is ?",
+    option: [
+        "kretheyns",
+        "kottlr and aarmsttraaNg",
+        "maarshl",
+        "thoNms"
+    ],
+    answer: "kottlr and aarmsttraaNg"
+},
+{
+    question: "planning causes .............. reduces / ",
+    option: [
+        "coordination in",
+        "resources of appropriate use in",
+        "future uncertainties in",
+        "control in"
+    ],
+    answer: "future uncertainties in"
+},
+{
+    question: "IDBI in which year was established?",
+    option: [
+        "1944",
+        "1954",
+        "1964",
+        "1974"
+    ],
+    answer: "1964"
+},
+{
+    question: "production prkrior not should be caahie -",
+    option: [
+        "long",
+        "time-consuming",
+        "complex",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "naked debentures are are :",
+    option: [
+        "puurnntH surkssit",
+        "aaNshik surkssit",
+        "asurkssit",
+        "None of these"
+    ],
+    answer: "asurkssit"
+},
+{
+    question: "bhaartiiy technology development and basic corporation was established, year :",
+    option: [
+        "1975",
+        "1986",
+        "1988",
+        "1990"
+    ],
+    answer: "1988"
+},
+{
+    question: "planning is :",
+    option: [
+        "goal-oriented",
+        "objective-oriented",
+        "mental process",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "Risk Capital Foundation (Risk Capital Foundation) was established :",
+    option: [
+        "1970 in",
+        "1975 in",
+        "1986 in",
+        "1987 in"
+    ],
+    answer: "1975 in"
+},
+{
+    question: "Risk Capital Foundation, following by was established :",
+    option: [
+        "aaii eph sii aaii",
+        "yuu ttii aaii",
+        "aaii ddii bii aaii",
+        "aaii sii aaii sii aaii"
+    ],
+    answer: "aaii eph sii aaii"
+},
+{
+    question: "telephone expense is :",
+    option: [
+        "permanent",
+        "variable",
+        "semi-variable",
+        "None of these"
+    ],
+    answer: "semi-variable"
+},
+{
+    question: "among the following which break-even analysis of limit not is ?",
+    option: [
+        "tkniiof fixedtaa",
+        "cost vibhaajn",
+        "bRhd product firmoN of suitability",
+        "selling price in onivrtn"
+    ],
+    answer: "tkniiof fixedtaa"
+},
+{
+    question: "gross working capital related does is :",
+    option: [
+        "total current assetsyoN to",
+        "current assets-current liabilities to",
+        "fixed assets to",
+        "None of these"
+    ],
+    answer: "total current assetsyoN to"
+},
+{
+    question: "resources of dynamicnot in entrepreneur of landof in among the following which baat on should be caahie :",
+    option: [
+        "resources of necessarytaa",
+        "resources of identification",
+        "ruofvttoN of adhyyn",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "skndh turnover ratio aataa is:",
+    option: [
+        "liquidity ratio",
+        "profitdaayktaa ratio",
+        "activity ratio",
+        "financial position ratio"
+    ],
+    answer: "activity ratio"
+},
+{
+    question: "among the following which ghttk market evaluation on prbhaav ddaaltaa is ?",
+    option: [
+        "micro environment",
+        "product of cost",
+        "maaNg",
+        "None of the above"
+    ],
+    answer: "micro environment"
+},
+{
+    question: "project appraisal objective are :",
+    option: [
+        "cost and benefit of anumaan lgaanaa",
+        "maximum productivity haasil do",
+        "risk and uncertainty to low do",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "among the following which opportunity recognition of ttv is ?",
+    option: [
+        "power of understanding",
+        "watching for change",
+        "innovative qualities",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "thinking before acting management of which ofry is ?",
+    option: [
+        "planning",
+        "directing",
+        "organizing",
+        "control"
+    ],
+    answer: "planning"
+},
+{
+    question: "equity shareholder to is called :",
+    option: [
+        "owner",
+        "creditors",
+        "employee",
+        "None of these"
+    ],
+    answer: "owner"
+},
+{
+    question: "the project is prepared :",
+    option: [
+        "promoters by",
+        "managers by",
+        "entrepreneur by",
+        "in all of by"
+    ],
+    answer: "in all of by"
+},
+{
+    question: "social behavior related not is is :",
+    option: [
+        "production of goods for the public from",
+        "change in unethical behavior",
+        "fulfillment of social obligations",
+        "profit-earning process"
+    ],
+    answer: "profit-earning process"
+},
+{
+    question: "which proposed oniyojnaa for kior jaataa is, ufrom project appraisal is called :",
+    option: [
+        "proposed oniyojnaa analysis",
+        "executed oniyojnaa analysis",
+        "'A' and 'B' both",
+        "'A' and 'B' both not"
+    ],
+    answer: "proposed oniyojnaa analysis"
+},
+{
+    question: "among the following which break-even analysis of gnnnaa of triiof is ?",
+    option: [
+        "gnnitiiy method",
+        "lekhaacitriy method",
+        "'A' and 'B' both",
+        "Neither 'A' nor 'B'"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "oniyojnaa of taiorr doing on expenditure kior gor dhn is :",
+    option: [
+        "investment",
+        "expenditure",
+        "waste",
+        "None of these"
+    ],
+    answer: "investment"
+},
+{
+    question: "IFCI was established year in :",
+    option: [
+        "1939",
+        "1948",
+        "1950",
+        "1956"
+    ],
+    answer: "1948"
+},
+{
+    question: "working capital to jaanaa jaataa is-",
+    option: [
+        "biij capital",
+        "ckriiy capital",
+        "actual capital",
+        "None of these"
+    ],
+    answer: "biij capital"
+},
+{
+    question: "one good yojnaa is is :",
+    option: [
+        "khrciilii",
+        "time giving vaalii",
+        "profitpuurnn",
+        "sNofrnn"
+    ],
+    answer: "profitpuurnn"
+},
+{
+    question: "project appraisal is :",
+    option: [
+        "nirort analysis",
+        "expert analysis",
+        "profitability analysis",
+        "None of these"
+    ],
+    answer: "profitability analysis"
+},
+{
+    question: "followingwritten in which finance of alpofliin source is?",
+    option: [
+        "equity shares",
+        "preference shares",
+        "debenture",
+        "overdraft"
+    ],
+    answer: "overdraft"
+},
+{
+    question: "fixed capital of necessarytaa is is :",
+    option: [
+        "daily expenses to payment to",
+        "purchasing land for",
+        "purchasing stock for",
+        "payment of creditors to"
+    ],
+    answer: "purchasing land for"
+},
+{
+    question: "franchising of under",
+    option: [
+        "product on control franchisor of paas",
+        "product on control franchisee of haath in",
+        "both",
+        "None of the above"
+    ],
+    answer: "product on control franchisor of paas"
+},
+{
+    question: "aspects of project appraisal are :",
+    option: [
+        "technical appraisal",
+        "financial appraisal",
+        "managerial appraisal",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "factory cost to jaanaa jaataa is :",
+    option: [
+        "works cost from",
+        "cost of sales from",
+        "prime cost from",
+        "All of the above from"
+    ],
+    answer: "works cost from"
+},
+{
+    question: "any also country of development in sbfrom more necessarytaa is-",
+    option: [
+        "bhautik resources of",
+        "economic resources of",
+        "kushl managementnot of",
+        "None of these"
+    ],
+    answer: "kushl managementnot of"
+},
+{
+    question: "feasibility study in shaamil is is :",
+    option: [
+        "market feasibility",
+        "technical feasibility",
+        "financial feasibility",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "India investment funds by was established",
+    option: [
+        "aaii eph sii aaii",
+        "grinnddle baiNk",
+        "sttett baiNk",
+        "ofnot baiNk"
+    ],
+    answer: "grinnddle baiNk"
+},
+{
+    question: "contribution :",
+    option: [
+        "sales minus total cost",
+        "sales minus fixed cost",
+        "sales minus variable cost",
+        "None of these"
+    ],
+    answer: "sales minus variable cost"
+},
+{
+    question: "expansion strategies in are included:",
+    option: [
+        "concentration strategies",
+        "integration strategies",
+        "diversification strategies",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "break-even point",
+    option: [
+        "fixed cost / profit-volume ratio",
+        "fixed cost / profit-volume ratio ×100",
+        "profit-volume ratio / fixed cost",
+        "None of these"
+    ],
+    answer: "fixed cost / profit-volume ratio"
+},
+{
+    question: "marketing on expense kior gor dhn ............ hai / ",
+    option: [
+        "brbaadii",
+        "unnecessary expenditure",
+        "investment",
+        "burden on customers"
+    ],
+    answer: "investment"
+},
+{
+    question: "followingwritten in from which operating expense not is?",
+    option: [
+        "advertising expenditure",
+        "written-off preliminary expenditure",
+        "wages",
+        "rent"
+    ],
+    answer: "written-off preliminary expenditure"
+},
+{
+    question: "diversification of triiof in are included:",
+    option: [
+        "mergers and acquisitions",
+        "joint ventures",
+        "strategic alliances",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "project formulation of objective, nirdhaarnn do is is",
+    option: [
+        "proposed oniyojnaa of total prbhaav",
+        "proposed oniyojnaa of majority prbhaav",
+        "proposed oniyojnaa of minority prbhaav",
+        "None of the above"
+    ],
+    answer: "proposed oniyojnaa of total prbhaav"
+},
+{
+    question: "successful enterprise of essential condition—",
+    option: [
+        "suonibhaassit sNsthaagt lkssy",
+        "prbhaavpuurnn planning",
+        "(A) and (B) both",
+        "uonokt not (A) and not (B)"
+    ],
+    answer: "(A) and (B) both"
+},
+{
+    question: "entrepreneur of responsibility is :",
+    option: [
+        "society of prti",
+        "governmentoN of prti",
+        "environment of prti",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "oniyojnaa management related not is is :",
+    option: [
+        "profrortmk prstaav",
+        "ofndriikRt niiti nirdhaarnn from",
+        "viofndriikRt ofrornvyn from",
+        "viofndriikRt niiti nirdhaarnn from"
+    ],
+    answer: "viofndriikRt niiti nirdhaarnn from"
+},
+{
+    question: "if profit to total cost in jodd'aa jaataa is, then kor is obtained is?",
+    option: [
+        "sales",
+        "nuksaan",
+        "capital",
+        "investment"
+    ],
+    answer: "sales"
+},
+{
+    question: "among the following who new enterprise of shuruaat for preliminary pre-start stage in shaamil not are ?",
+    option: [
+        "business concept of identification",
+        "financial planning",
+        "product market study",
+        "initial growth stage"
+    ],
+    answer: "initial growth stage"
+},
+{
+    question: "venture capital is available / ",
+    option: [
+        "for highly risky units",
+        "for technical units",
+        "for institutional units",
+        "for all of these"
+    ],
+    answer: "for all of these"
+},
+{
+    question: "‘management is a profession / ’ this statement is by :",
+    option: [
+        "joNrj aar. tterii",
+        "amerikn management esosieshn",
+        "henrii pheyol",
+        "None of these"
+    ],
+    answer: "amerikn management esosieshn"
+},
+{
+    question: "social responsibility of management is :",
+    option: [
+        "all of prti",
+        "ofvl krmfouriyoN of prti",
+        "government of prti",
+        "None of these"
+    ],
+    answer: "all of prti"
+},
+{
+    question: "followingwritten in from which operating expense not is ?",
+    option: [
+        "advertising expenditure",
+        "preliminary expenditure",
+        "wages",
+        "rent"
+    ],
+    answer: "preliminary expenditure"
+},
+{
+    question: "working capital requirements to determining factors in are included",
+    option: [
+        "nature of business",
+        "size of business",
+        "stock turnover rate",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "public deposits instrument are :",
+    option: [
+        "short-term finance of",
+        "long-term finance of",
+        "medium-term finance of",
+        "social investmentk"
+    ],
+    answer: "medium-term finance of"
+},
+{
+    question: "state of perfection in the market to kor creates which ultimately sales and profit in increase does is?",
+    option: [
+        "invention",
+        "innovation",
+        "marketing",
+        "None of the above"
+    ],
+    answer: "invention"
+},
+{
+    question: "operation ratio is:",
+    option: [
+        "profitability ratio",
+        "nisspaadn ratio",
+        "solvency ratio",
+        "None of these"
+    ],
+    answer: "profitability ratio"
+},
+{
+    question: "in India videshii enterpriseiyoN of landof is—",
+    option: [
+        "notofraatmk",
+        "sofraatmk",
+        "vinaashofrii",
+        "None of these"
+    ],
+    answer: "sofraatmk"
+},
+{
+    question: "aadrsh current ratio is is :",
+    option: [
+        "2: 1",
+        "1: 2",
+        "3: 2",
+        "4: 1"
+    ],
+    answer: "2: 1"
+},
+{
+    question: "zero-level channel of distribution in producer goods bectaa hai / ",
+    option: [
+        "agent to",
+        "customer to",
+        "retailer to",
+        "wholesaler to"
+    ],
+    answer: "customer to"
+},
+{
+    question: "project appraisal is :",
+    option: [
+        "nirort analysis",
+        "expert analysis",
+        "profitability analysis",
+        "None of these"
+    ],
+    answer: "profitability analysis"
+},
+{
+    question: "planning all managerial krioroN of is",
+    option: [
+        "beginning",
+        "end",
+        "both beginning and end",
+        "None of these"
+    ],
+    answer: "both beginning and end"
+},
+{
+    question: "if small-scale production do be then one entrepreneur business of which praaruup to psNd does is?",
+    option: [
+        "sole proprietorship",
+        "partnership",
+        "company",
+        "None of the above"
+    ],
+    answer: "sole proprietorship"
+},
+{
+    question: "long-term loan on is is",
+    option: [
+        "fixed interest rate",
+        "variable interest rate",
+        "zero interest rate",
+        "None of these"
+    ],
+    answer: "fixed interest rate"
+},
+{
+    question: "oniyojnaa to taiorr doing on expenditure kior gor dhn is",
+    option: [
+        "investment",
+        "expenditure",
+        "waste",
+        "None of these"
+    ],
+    answer: "investment"
+},
+{
+    question: "followingwritten in who non-current asset is ?",
+    option: [
+        "goodwill",
+        "bills receivable",
+        "prepaid expenses",
+        "creditors"
+    ],
+    answer: "goodwill"
+},
+{
+    question: "management to universal activity is called because this laaguu is is :",
+    option: [
+        "business organizations in",
+        "non-business organizations in",
+        "all organizations in",
+        "uonyukt any not"
+    ],
+    answer: "all organizations in"
+},
+{
+    question: "margin of safety :",
+    option: [
+        "sales minus contribution",
+        "actual sales ghttaav break-even point sales",
+        "B.E.P. on sales ghttaav actual sales",
+        "None of these"
+    ],
+    answer: "actual sales ghttaav break-even point sales"
+},
+{
+    question: "establishment in easy is—",
+    option: [
+        "sole proprietorship",
+        "partnership firm",
+        "joint stock company",
+        "None of the above"
+    ],
+    answer: "sole proprietorship"
+},
+{
+    question: "\"à¤à¤¿à¤¸à¥à¤® à¤¨à¤¿à¤¯à¤à¤¤à¥à¤°à¤£ à¤µà¥à¤à¥à¤à¤¾à¤¨à¤¿à¤ à¤ªà¥à¤°à¤¬à¤¨à¥à¤§ à¤à¥ à¤à¤ à¤¤à¤à¤¨à¥à¤ à¤¹à¥ à¤à¤¿à¤¸à¤à¤¾ à¤à¤¦à¥à¤¦à¥à¤¶à¥à¤¯ à¤à¤¤à¥à¤à¥à¤·à¥à¤ à¤ªà¥à¤°à¤®à¤¾à¤£à¥à¤ à¤à¥ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤à¤¦à¥à¤¯à¥à¤à¤¿à¤ à¤à¤¾à¤°à¥à¤¯à¤à¥à¤·à¤®à¤¤à¤¾ à¤®à¥à¤ à¤µà¥à¤¦à¥à¤§à¤¿ à¤à¤°à¤¨à¤¾ à¤¹à¥à¥¤\" à¤¯à¤¹ à¤à¤¥à¤¨ à¤à¤¿à¤¸à¤à¤¾ à¤¹à¥ ?",
+    option: [
+        "littepik",
+        "je. of. sherpaanndde",
+        "bogaardds",
+        "ddeso"
+    ],
+    answer: "je. of. sherpaanndde"
+},
+{
+    question: "labor-intensive technology is suitable because isof relation is :",
+    option: [
+        "favorable in nature",
+        "dynamic in nature",
+        "none in nature",
+        "All of these"
+    ],
+    answer: "favorable in nature"
+},
+{
+    question: "production management of tht important nirnny is :",
+    option: [
+        "product design",
+        "plant location",
+        "quality control",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "production planning in is included :",
+    option: [
+        "program planning",
+        "product inspection",
+        " 'A' and 'B'",
+        "None of these"
+    ],
+    answer: " 'A' and 'B'"
+},
+{
+    question: "generally diversification vrgiikRt kior jaataa is :",
+    option: [
+        "into two categories",
+        "into three categories",
+        "into four categories",
+        "into five categories"
+    ],
+    answer: "into four categories"
+},
+{
+    question: "one successful entrepreneur in avshy only following qualities being caahie—",
+    option: [
+        "leadership of",
+        "control of",
+        "innovation of",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "short-term forecasting period of how many months to shaamil does is ?",
+    option: [
+        "12 month",
+        "24 month",
+        "18 month",
+        "36 month"
+    ],
+    answer: "24 month"
+},
+{
+    question: "planning management of which ofry is ?",
+    option: [
+        "first",
+        "second",
+        "third",
+        "fourth"
+    ],
+    answer: "first"
+},
+{
+    question: ".................... planning of saar hai / ",
+    option: [
+        "organizing",
+        "control",
+        "forecasting",
+        "directing"
+    ],
+    answer: "forecasting"
+},
+{
+    question: "business for marketing is :",
+    option: [
+        "mandatory",
+        "necessary",
+        "unnecessary",
+        "luxury"
+    ],
+    answer: "mandatory"
+},
+{
+    question: "financial management of under is—",
+    option: [
+        "cost control",
+        "budget control",
+        "management accounting",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "one enterprise of establishment do time entrepreneur to jis ttv of dhornot keep caahie that is—",
+    option: [
+        "business of selection",
+        "unit of aaofr",
+        "financial resources",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "high level management in shaamil not is is-",
+    option: [
+        "board of directors",
+        "chief executive officer",
+        "auditor",
+        "None of these"
+    ],
+    answer: "auditor"
+},
+{
+    question: "enterprise of selection do time point to be considered is—",
+    option: [
+        "product",
+        "marketing",
+        "availability of capital",
+        "None of the above"
+    ],
+    answer: "availability of capital"
+},
+{
+    question: "if development of objective maximization of employment is, then .................... use technology caahie / ",
+    option: [
+        "shrm intensive technology",
+        "capital-intensive technology",
+        "vikrii intensive technology",
+        "None of these"
+    ],
+    answer: "shrm intensive technology"
+},
+{
+    question: "beginningik hstiorN is",
+    option: [
+        "sources of funds",
+        "uses of funds",
+        "funds of prvaah not",
+        "None of these"
+    ],
+    answer: "uses of funds"
+},
+{
+    question: "working capital of gnnnaa kaifrom is is ?",
+    option: [
+        "current liabilities – current assetsorN",
+        "current assetsorN – current liabilities",
+        "permanent liability – current assetsorN",
+        "All of the above"
+    ],
+    answer: "current assetsorN – current liabilities"
+},
+{
+    question: "venture capital of vishesstaaeN are :",
+    option: [
+        "lNbe time tk profit",
+        "equity capital in investment do",
+        "managementnot in bhaagiidaarii",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "oniyojnaaeN which maujuudaa vorpaar organizing for necessary",
+    option: [
+        "oniyojnaa aadhuniofkrnn for oniyojnaaeN",
+        "vorpaar bddh'aane for oniyojnaaeN",
+        "any business to punH sNgtthit doing of oniyojnaaeN",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "enterprise of selection nirbhr does is—",
+    option: [
+        "sole proprietorship",
+        "saahsii of adhiofr",
+        "saahsii of self of yogytaa",
+        "None of the above"
+    ],
+    answer: "saahsii of self of yogytaa"
+},
+{
+    question: "vorvsaayik opportunity…………………from related is hai / ",
+    option: [
+        "vaannijyik smbhaavy oniyojnaaoN from",
+        "personal smbhaavy oniyojnaaoN",
+        "uonokt not a and not b",
+        "None of the above"
+    ],
+    answer: "vaannijyik smbhaavy oniyojnaaoN from"
+},
+{
+    question: "trl assetyoN in shaamil not is",
+    option: [
+        "prepaid expenses",
+        "baiNk shess",
+        "cash shess",
+        "sharedhaarii investment"
+    ],
+    answer: "prepaid expenses"
+},
+{
+    question: "prbhaav kssetr konn jitnaa large is is:",
+    option: [
+        "profit utnaa only jordaa is is",
+        "profit utnaa only low is hai / ",
+        "inin 'A' and 'B' both",
+        "uonokt any not not"
+    ],
+    answer: "profit utnaa only jordaa is is"
+},
+{
+    question: "development of onipkv condition in",
+    option: [
+        "profit low is is",
+        "profit in bddh'ne of prvRtti is hai / ",
+        "profit fixed remains is",
+        "All of these"
+    ],
+    answer: "profit fixed remains is"
+},
+{
+    question: "funds source is :",
+    option: [
+        "operation from dhn",
+        "share capital jaarii krof",
+        "long-term loan obtained krof",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "working capital of source is",
+    option: [
+        "dendaar",
+        "baiNk adhivikrss",
+        "cashii kredditt",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "smfuture customer are are",
+    option: [
+        "log jinheN service or product of necessarytaa is",
+        "which log service or product khriidne yogy are",
+        "which serviceeN or product kry doing of icchuk are",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "audyogik development yojnaa when beginning of gii?",
+    option: [
+        "1980",
+        "1985",
+        "1990",
+        "1995"
+    ],
+    answer: "1980"
+},
+{
+    question: "one good entrepreneur ofrgaar and ................ both only is is ?",
+    option: [
+        "investmentk",
+        "managementk",
+        "owner",
+        "None of these"
+    ],
+    answer: "owner"
+},
+{
+    question: "vibhinn saarvjnik upyogitaa of sNsthaaoN to large quantity in investment do is is :",
+    option: [
+        "current assetsyoN",
+        "permanent assetyoN",
+        "oflpnik assetyoN",
+        "None of these"
+    ],
+    answer: "permanent assetyoN"
+},
+{
+    question: "plaaNtt and mshiin on haas is:",
+    option: [
+        "funds of source",
+        "uses of funds",
+        "funds of prvaah not",
+        "None of these"
+    ],
+    answer: "funds of source"
+},
+{
+    question: "dividend is :",
+    option: [
+        "net profit",
+        "profit of planning",
+        "sNcy funds",
+        "avitrit profit of share"
+    ],
+    answer: "profit of planning"
+},
+{
+    question: "vorpaarik saakh finance of which source is?",
+    option: [
+        "diirghofliin",
+        "alpofliin",
+        "mdhyofliin",
+        "None of these"
+    ],
+    answer: "alpofliin"
+},
+{
+    question: "directing in shaamil not is hai / ",
+    option: [
+        "control",
+        "leadership",
+        "abhiprernnaa",
+        "onytheykssnn"
+    ],
+    answer: "control"
+},
+{
+    question: "product inspection of important phluu are:",
+    option: [
+        "production niriikssnn",
+        "prkrior niriikssnn",
+        "niriikssnn analysis",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "management of prkRti is :",
+    option: [
+        "jnmjaat prtibhaa of ruup in",
+        "arjit prtibhaa of ruup in",
+        "jnmjaat prtibhaa and arjit prtibhaa both of ruup in",
+        "None of the above"
+    ],
+    answer: "jnmjaat prtibhaa and arjit prtibhaa both of ruup in"
+},
+{
+    question: "project formulation is related to :",
+    option: [
+        "oniyojnaa ckr of cauthe stage from",
+        "oniyojnaa ckr of duusre stage from",
+        "oniyojnaa ckr of tiisre stage from",
+        "oniyojnaa ckr of first stage from"
+    ],
+    answer: "oniyojnaa ckr of cauthe stage from"
+},
+{
+    question: "quality control of profit :",
+    option: [
+        "brand chvi in sudhaar",
+        "maanofkrnn in auxiliary",
+        "cost in lowii",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "onisNcrnn capital related does is :",
+    option: [
+        "avariable capital to",
+        "working capital to",
+        "share capital to",
+        "debt capital to"
+    ],
+    answer: "working capital to"
+},
+{
+    question: "good oniyojnaa planning of vishesstaaeN :",
+    option: [
+        "taarkik and ythaarthvaadii",
+        "timeocit",
+        "all phluoN of basis on",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "agr country in shrm of prcurtaa is then which technology of use do caahie :",
+    option: [
+        "labor-intensive technology",
+        "capital-intensive technology",
+        "vikrii intensive technology",
+        "None of these"
+    ],
+    answer: "labor-intensive technology"
+},
+{
+    question: "sNghiiy one technology is :",
+    option: [
+        "usii udyog in expansion do",
+        "other kssetroN in vividhtaa do",
+        "other unit to lekr",
+        "organizing to up units in baaNttkr"
+    ],
+    answer: "other kssetroN in vividhtaa do"
+},
+{
+    question: "break-even point on",
+    option: [
+        "profit zero is is",
+        "total aay and cost braabr are are",
+        "contribution permanent expenditure of braabr is is",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "current ratio of gnnnaa of jaatii is",
+    option: [
+        "current assetsorN / diirghofliin liability",
+        "current assetsorN / current liabilities",
+        "current assetsorN / permanent assetorN",
+        "current liabilities / total liability"
+    ],
+    answer: "current assetsorN / current liabilities"
+},
+{
+    question: "maanv power resources from related ofrk in is included :",
+    option: [
+        "jnshkti of necessarytaa",
+        "kaushl",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "social responsibility to puuraa doing from entrepreneur of ................ hstkssep from also bcaav is hai / ",
+    option: [
+        "nijii",
+        "gair-governmentii",
+        "governmentii",
+        "All of the above"
+    ],
+    answer: "governmentii"
+},
+{
+    question: "prernnaaeN related not is are :",
+    option: [
+        "chuutt",
+        "kr from mukti",
+        "biij capital of praavdhaan",
+        "onemusht payment"
+    ],
+    answer: "onemusht payment"
+},
+{
+    question: "jmaa deposit obtained done jaate are :",
+    option: [
+        "public from",
+        "owner from",
+        "sharedhaark from",
+        "sNcaalk from"
+    ],
+    answer: "public from"
+},
+{
+    question: ".................. of use praayH graaph, ortaaort or simpleks riiti in kior jaataa is :",
+    option: [
+        "liiniyr prograamn",
+        "kraantik pth analysis",
+        "product inspection",
+        "program planning"
+    ],
+    answer: "liiniyr prograamn"
+},
+{
+    question: "profit quantity ratio is—",
+    option: [
+        "contribution / sales × 100",
+        "sales / contribution × 100",
+        "contribution / sales",
+        "None of these"
+    ],
+    answer: "contribution / sales × 100"
+},
+{
+    question: "audyogik kssetr is",
+    option: [
+        "vorvsaayik sthaan",
+        "audyogik sthaan",
+        "shrm aavaasiiy ngrii",
+        "None of these"
+    ],
+    answer: "audyogik sthaan"
+},
+{
+    question: "abhisRt soc in shaamil ttv is :",
+    option: [
+        "srvottm smaadhaan of selection",
+        "relation make",
+        "strktaa taarkik",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "SFC Act in India in which year paarit kior gor ?",
+    option: [
+        "1948",
+        "1949",
+        "1950",
+        "1951"
+    ],
+    answer: "1951"
+},
+{
+    question: "planning not is",
+    option: [
+        "unnecessary",
+        "waste of money",
+        "time of brbaadii",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "bhautik resources of yojnaa to prbhaavit doing vaale ofrk in are included:",
+    option: [
+        "saaitt maasttr plaan",
+        "future of jruurt",
+        "availability and cost",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "among the following which vorvsaayik opportunity of identification to prbhaavit doing vaalaa ghttk is ?",
+    option: [
+        "internal maaNg of quantity",
+        "created opportunity",
+        "environment in vidymaan opportunity",
+        "None of the above"
+    ],
+    answer: "internal maaNg of quantity"
+},
+{
+    question: "planning is :",
+    option: [
+        "necessary",
+        "unnecessary",
+        "time of brbaadii",
+        "waste of money"
+    ],
+    answer: "necessary"
+},
+{
+    question: "financial position ratio to generally is expressed:",
+    option: [
+        "ordinary ratio",
+        "percentage",
+        "times",
+        "None of these"
+    ],
+    answer: "ordinary ratio"
+},
+{
+    question: "that person jifrom exchange viptr of raashi of payment to nirdeshit kior jaataa is",
+    option: [
+        "lekhk",
+        "lekhaaNkit",
+        "praaptkrtaa",
+        "Rnndaataa"
+    ],
+    answer: "lekhaaNkit"
+},
+{
+    question: "smaameln of means :",
+    option: [
+        "one organizing by duusre organizing to le lenaa",
+        "two or more vyvsaayoN of mishrnn",
+        "other organizing in niyNtrk share obtained do",
+        "None of the above"
+    ],
+    answer: "two or more vyvsaayoN of mishrnn"
+},
+{
+    question: "if avsNrcnaa onivrtn, sNfour, power etc. maujuud is is, then which technology of use do is :",
+    option: [
+        "labor-intensive technology",
+        "capital-intensive technology",
+        "vikrii intensive technology",
+        "None of these"
+    ],
+    answer: "capital-intensive technology"
+},
+{
+    question: "jnyaan arjn prkrior in shaamil are are :",
+    option: [
+        "operation",
+        "mnobhaav",
+        "anukrior",
+        "operation, mnobhaav and anukrior"
+    ],
+    answer: "operation, mnobhaav and anukrior"
+},
+{
+    question: "capital-intensive technology itnii upyogii not is because this :",
+    option: [
+        "shrm power of shaaytaa does is",
+        "consumeroN of shossnn does are",
+        "sntulit kssetriiy development to sudhaartii is",
+        "capitalgt resources to niyojit does is"
+    ],
+    answer: "consumeroN of shossnn does are"
+},
+{
+    question: "among the following krmfouriyoN of prti entrepreneur of social responsibility is:",
+    option: [
+        "peNshn of surkssaa",
+        "appropriate dividend",
+        "appropriate salary",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "liquidity ratio is-",
+    option: [
+        "skndh and dendaar turnover ratio",
+        "current ratio and onicaaln ratio",
+        "caaluu and trl ratio",
+        "gross and net profit profit ratio"
+    ],
+    answer: "caaluu and trl ratio"
+},
+{
+    question: "vifour of source in are included",
+    option: [
+        "market",
+        "customer",
+        "prtisondhii",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "kor any definite nirnny of puurv internal resources on dhornot denaa necessary is is ?",
+    option: [
+        "haaN, necessary is",
+        "not, necessary not",
+        "external resources for necessary",
+        "None of the above"
+    ],
+    answer: "haaN, necessary is"
+},
+{
+    question: "oniyojnaa of jiivn-ckr followingwritten from related not is is :-",
+    option: [
+        "investment-puurv stage",
+        "rcnaatmk stage",
+        "saamaanyiikrnn stage",
+        "fixediikrnn stage"
+    ],
+    answer: "fixediikrnn stage"
+},
+{
+    question: "................ state of perfection in the market to creates which endH in sales and profit in increase does hai / ",
+    option: [
+        "innovation",
+        "aavissofr",
+        "uonokt both",
+        "None of the above"
+    ],
+    answer: "uonokt both"
+},
+{
+    question: "\"à¤¸à¤¾à¤®à¤¾à¤à¤¿à¤ à¤à¤¤à¥à¤¤à¤°à¤¦à¤¾à¤¯à¤¿à¤¤à¥à¤µ à¤¸à¥ à¤à¤¶à¤¯ à¤à¤¨ à¤¨à¥à¤¤à¤¿à¤¯à¥à¤ à¤à¥ à¤²à¤¾à¤à¥ à¤à¤°à¤¨à¤¾, à¤à¤¨ à¤¨à¤¿à¤°à¥à¤£à¤¯à¥à¤ à¤à¥ à¤²à¥à¤¨à¤¾ à¤à¤¥à¤µà¤¾ à¤à¤¨ à¤à¤¾à¤°à¥à¤¯à¥à¤ à¤à¥ à¤à¤°à¤¨à¤¾ à¤¹à¥ à¤à¥ à¤¸à¤®à¤¾à¤ à¤à¥ à¤à¤¦à¥à¤¦à¥à¤¶à¥à¤¯à¥à¤ à¤à¤µà¤ à¤®à¥à¤²à¥à¤¯à¥à¤ à¤à¥ à¤²à¤¿à¤ à¤µà¤¾à¤à¤à¤¨à¥à¤¯ à¤¹à¥à¤à¥¤\" à¤¯à¤¹ à¤à¤¥à¤¨ à¤¹à¥",
+    option: [
+        "ec. aar. botheynot of",
+        "kuuttj o' ddonel of",
+        "None of these",
+        "'A' and 'B' both"
+    ],
+    answer: "ec. aar. botheynot of"
+},
+{
+    question: "brand btlaataa is :",
+    option: [
+        "cihn",
+        "ddijaain",
+        "name",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "plaaNtt of kry of working capital on kor prbhaav pdd'egaa ?",
+    option: [
+        "lowii",
+        "increase",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "lowii"
+},
+{
+    question: "share adhimuuly in increase is:",
+    option: [
+        "sources of funds",
+        "uses of funds",
+        "funds of prvaah not",
+        "None of these"
+    ],
+    answer: "sources of funds"
+},
+{
+    question: "variable cost of shresstthtm udaahrnn is :",
+    option: [
+        "capital on borj",
+        "dhn kr",
+        "saamgrii cost",
+        "rent"
+    ],
+    answer: "saamgrii cost"
+},
+{
+    question: "when both pkssoN by bhuul from sviikRti of jaae, anubndh is-",
+    option: [
+        "vyrth",
+        "vaidh",
+        "vyrthniiy",
+        "avaidhaanik"
+    ],
+    answer: "vyrth"
+},
+{
+    question: "among the following which break-even analysis of upyogitaa is ?",
+    option: [
+        "risk muulorNkn",
+        "lekhaaNkn aaNkdd'oN to smjhnaa",
+        "profit-sudhaar",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+{
+    question: "any country of development of phlii necessarytaa is -",
+    option: [
+        "bhautik resources of",
+        "economic resources of",
+        "skssm managementnot of",
+        "None of these"
+    ],
+    answer: "skssm managementnot of"
+},
+{
+    question: "working capital of prkRti which trh of is is?",
+    option: [
+        "fixed",
+        "afixed",
+        "variable",
+        "not (A) and (B)"
+    ],
+    answer: "afixed"
+},
+{
+    question: "sNcy preference sharesoN on dividend dior jaataa is—",
+    option: [
+        "lossvaale year in",
+        "profitvaale year in",
+        "hr year profit be or loss",
+        "None of these"
+    ],
+    answer: "hr year profit be or loss"
+},
+{
+    question: "management of social responsibility of prkRti in laaguu is is",
+    option: [
+        "buyer of saavdhaanii of niym",
+        "vikretaa of saavdhaanii of niym",
+        "in both in from any also not",
+        "None of these"
+    ],
+    answer: "vikretaa of saavdhaanii of niym"
+},
+{
+    question: "acche brand of vishesstaa is:",
+    option: [
+        "suukssm",
+        "aakrssk",
+        "smrnniiy",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "anushaasn maanv persontv of ............ qualities in from one is :",
+    option: [
+        "hightm",
+        "nimntm",
+        "smaan",
+        "None of these"
+    ],
+    answer: "hightm"
+},
+{
+    question: "agr in from kisko business opportunityoN of khoj of ruup in onibhaassit kior jaataa is?",
+    option: [
+        "product",
+        "innovation",
+        "marketing",
+        "production"
+    ],
+    answer: "innovation"
+},
+{
+    question: "one good vorvsaayik vifour to be caahie :",
+    option: [
+        "bhinn",
+        "tiivr",
+        "market from prerit",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: ".................. business opportunityoN of khoj of ruup in onibhaassit of jaatii hai / ",
+    option: [
+        "marketing",
+        "aavissofr",
+        "onaavrtn",
+        "None of the above"
+    ],
+    answer: "onaavrtn"
+},
+{
+    question: "contribution is—",
+    option: [
+        "fixed cost + profit",
+        "variable cost + fixed cost",
+        "fixed cost - loss",
+        "None of these"
+    ],
+    answer: "fixed cost + profit"
+},
+{
+    question: "working capital vrgiikRt be sktii hai / ",
+    option: [
+        "permanent working capital",
+        "variable working capital",
+        "niymit and mausmii working capital",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "among the following which business of expansion from judd'ii smsor not is?",
+    option: [
+        "risk management",
+        "profit planning and expenditure control",
+        "value niiti",
+        "maaeNNg of prvRtti"
+    ],
+    answer: "maaeNNg of prvRtti"
+},
+{
+    question: "techno-economic analysis in identification of jaatii is :",
+    option: [
+        "supply potential",
+        "demand potential",
+        "export potential",
+        "import potential"
+    ],
+    answer: "demand potential"
+},
+{
+    question: "development of necessarytaa is:",
+    option: [
+        "jiivit rhne for",
+        "large paimaane of bctoN for",
+        "prtisstthaa lowaane for",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "sNcyii preference sharesoN on dividend dior jaataa is :",
+    option: [
+        "profit vaale year in",
+        "loss vaale year in",
+        "profit or loss vaalaa year",
+        "None of these"
+    ],
+    answer: "profit or loss vaalaa year"
+},
+{
+    question: "any also country of development in necessary not is",
+    option: [
+        "bhautik resources",
+        "economic resources",
+        "kushl managementnot",
+        "None of these"
+    ],
+    answer: "None of these"
+},
+{
+    question: "value niiti is is :",
+    option: [
+        "consumer of pkss in",
+        "government of pkss in",
+        "product manufacturer of pkss in",
+        "all of pkss in"
+    ],
+    answer: "all of pkss in"
+},
+{
+    question: "endim stock is :",
+    option: [
+        "funds of use",
+        "sources of funds",
+        "funds of any prvaah not",
+        "None of these"
+    ],
+    answer: "funds of use"
+},
+{
+    question: "profitoN of punH investment one source is :",
+    option: [
+        "medium-term finance of",
+        "alp - period finance of",
+        "diirgh - oflik finance of",
+        "inin from some not"
+    ],
+    answer: "diirgh - oflik finance of"
+},
+{
+    question: "social responsibility social .................. is  / ",
+    option: [
+        "vishvaas",
+        "cetnaa",
+        "mithor",
+        "any not"
+    ],
+    answer: "cetnaa"
+},
+{
+    question: "initial stage in production is is-",
+    option: [
+        "siimit quantity in",
+        "vRhd quantity in",
+        "asiimit quantity in",
+        "None of these"
+    ],
+    answer: "siimit quantity in"
+},
+{
+    question: "aadhuniofkrnn sudhaartaa is :",
+    option: [
+        "productoN to",
+        "production to",
+        "prkrioroN to",
+        "capacity"
+    ],
+    answer: "capacity"
+},
+{
+    question: "\"à¤ªà¤°à¤¿à¤¯à¥à¤à¤¨à¤¾ à¤à¤¾à¤°à¥à¤¯ à¤¸à¥ à¤à¤­à¤¿à¤ªà¥à¤°à¤¾à¤¯ à¤¸à¤¾à¤®à¤¾à¤à¤¿à¤ à¤µà¤¾à¤¤à¤¾à¤µà¤°à¤£ à¤®à¥à¤ à¤à¤¿à¤¸à¥ à¤à¤¦à¥à¤¦à¥à¤¶à¥à¤¯ à¤¸à¥ à¤ªà¥à¤°à¥à¤°à¤¿à¤¤ à¤¹à¥à¤à¤° à¤à¤¿à¤¸à¥ à¤à¤¾à¤°à¥à¤¯ à¤à¥ à¤ªà¥à¤°à¤¾ à¤à¤°à¤¨à¤¾ à¤¹à¥à¤¤à¤¾ à¤¹à¥à¥¤\" à¤¯à¤¹ à¤à¤¥à¤¨ à¤à¤¿à¤¸à¤à¤¾ à¤¹à¥ ?",
+    option: [
+        "arstuu",
+        "maikgregr",
+        "ec. ec. kuuplevik",
+        "renl"
+    ],
+    answer: "ec. ec. kuuplevik"
+},
+{
+    question: "share nirgm one source is :",
+    option: [
+        "mdhy-period finance of",
+        "alp-period finance of",
+        "diirgh-oflik finance of",
+        "inin from some not"
+    ],
+    answer: "diirgh-oflik finance of"
+},
+{
+    question: "marketing mishrnn of tttv not is:",
+    option: [
+        "product",
+        "sthaan",
+        "value",
+        "customer"
+    ],
+    answer: "customer"
+},
+{
+    question: "any also country of development in sbfrom more necessarytaa is:",
+    option: [
+        "bhautik development of",
+        "economic resources of",
+        "kushl managementnot of",
+        "None of these"
+    ],
+    answer: "kushl managementnot of"
+},
+{
+    question: "followingwritten in who gair-current liabilities is ?",
+    option: [
+        "bndhk loan",
+        "baiNk adhivikrss",
+        "adtt salary",
+        "prepaid expenses"
+    ],
+    answer: "bndhk loan"
+},
+{
+    question: "working capital of vibhinn sources in are included:",
+    option: [
+        "vorpaar loan",
+        "baiNk kredditt",
+        "customer agrim",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "product development prkrior in shaamil are are",
+    option: [
+        "one stage",
+        "two avsthaaeN",
+        "three avsthaaeN",
+        "four avsthaaeN"
+    ],
+    answer: "three avsthaaeN"
+},
+{
+    question: "DPR are",
+    option: [
+        "ofry yojnaa",
+        "ofryvaahii yojnaa",
+        "kriornvyn yojnaa",
+        "None of these"
+    ],
+    answer: "ofryvaahii yojnaa"
+},
+{
+    question: "among the following whose product or service of selection do time dhornot necessary not is?",
+    option: [
+        "market of nirdhaarnn",
+        "vorthataariktaa",
+        "competition",
+        "product planning"
+    ],
+    answer: "product planning"
+},
+{
+    question: "venture capital in remains is :",
+    option: [
+        "high risk",
+        "venture risk",
+        "any risk not",
+        "None of these"
+    ],
+    answer: "high risk"
+},
+{
+    question: "among the following who resources of profr and source is ?",
+    option: [
+        "bhautik resources",
+        "tkniiof resources",
+        "maanviiy resources",
+        "suitable all"
+    ],
+    answer: "suitable all"
+},
+{
+    question: "planning is is",
+    option: [
+        "past for",
+        "future for",
+        "present for",
+        "all for"
+    ],
+    answer: "future for"
+},
+{
+    question: "bonus niiti of nirdhaark are-",
+    option: [
+        "profit of quantity",
+        "funds of trltaa",
+        "lowpnii of aayu",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "economic niitiorN kor nirdhaarit does are ?",
+    option: [
+        "business of direction",
+        "business of quantity",
+        "business of direction and quantity",
+        "None of the above"
+    ],
+    answer: "business of direction and quantity"
+},
+{
+    question: "\"à¤¨à¤¿à¤¯à¥à¤à¤¨ à¤­à¤µà¤¿à¤·à¥à¤¯ à¤à¥ à¤ªà¤à¤¡à¤¼à¤¨à¥ à¤à¥ à¤²à¤¿à¤ à¤¬à¤¨à¤¾à¤¯à¤¾ à¤à¤¯à¤¾ à¤ªà¤¿à¤à¤à¤°à¤¾ à¤¹à¥à¥¤\" à¤¯à¤¹ à¤à¤¥à¤¨ à¤¹à¥ :",
+    option: [
+        "nyuumen",
+        "hle",
+        "ailn",
+        "tterii"
+    ],
+    answer: "ailn"
+},
+{
+    question: "product selection do time dhornot rkhne yogy baateN are :",
+    option: [
+        "cost",
+        "market",
+        "risk",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "croN of use praayH tkniiof yogytaa for kior jaataa is :",
+    option: [
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    answer: "4"
+},
+{
+    question: "future vstuoN of sales for anubndh is-",
+    option: [
+        "sales",
+        "sales of smjhautaa",
+        "vyrth",
+        "vyrthniiy"
+    ],
+    answer: "sales of smjhautaa"
+},
+{
+    question: "market of maaNg to among the following kor khte are ?",
+    option: [
+        "maaNg of futurevaannii",
+        "actual maaNg",
+        "puurti",
+        "None of the above  / "
+    ],
+    answer: "maaNg of futurevaannii"
+},
+{
+    question: "nkd kry of reason permanent asset in increase is :",
+    option: [
+        "sources of funds",
+        "uses of funds",
+        "funds of antH prvaah",
+        "None of these"
+    ],
+    answer: "uses of funds"
+},
+{
+    question: "shrm intensive technology upyogii hai / ",
+    option: [
+        "developmentshiil deshoN for",
+        "viksit deshoN for",
+        "pichdd'ii arthvyvsthaaoN for",
+        "uonyukt in from any for not"
+    ],
+    answer: "developmentshiil deshoN for"
+},
+{
+    question: "Risk Capital Foundation was established",
+    option: [
+        "1970",
+        "1975",
+        "1986",
+        "1988"
+    ],
+    answer: "1975"
+},
+{
+    question: "marketing avdhaarnnaa of mhtv",
+    option: [
+        "society for",
+        "consumeroN for",
+        "producer for",
+        "in threeoN for"
+    ],
+    answer: "in threeoN for"
+},
+{
+    question: "integration of profr are :",
+    option: [
+        "kssaitij",
+        "uurdhvaadhr",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "environment sNrkssnn from meaning environment of rkssaa which from krnii is ?",
+    option: [
+        "vaayu prduussnn",
+        "jl prduussnn",
+        "dhvni prduussnn",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "baiNk saakh one source is—",
+    option: [
+        "alp-period finance of",
+        "medium-term finance of",
+        "long-term finance of",
+        "None of these"
+    ],
+    answer: "alp-period finance of"
+},
+{
+    question: "among the following permanent cost of udaahrnn is :",
+    option: [
+        "prtykss saamgrii cost",
+        "fourj yogy cost",
+        "ofrorly managementk of salary",
+        "prtykss shrm cost"
+    ],
+    answer: "ofrorly managementk of salary"
+},
+{
+    question: "break-even point on vorpaar :",
+    option: [
+        "munaaphaa lowaataa",
+        "nuksaan bhugtaataa",
+        "not profit not loss bindu",
+        "All of the above"
+    ],
+    answer: "not profit not loss bindu"
+},
+{
+    question: "working capital of nirdhaark is :",
+    option: [
+        "sNsthaa of aaofr",
+        "creation prkrior of period",
+        "kcce goods of availability",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "................ shareoN on dividend of rate definite is hai / ",
+    option: [
+        "equity sharesoN",
+        "preference sharesoN",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "preference sharesoN"
+},
+{
+    question: "business of .............. also business of ruup to nirdhaarit does hai / ",
+    option: [
+        "aaofr",
+        "sthaan",
+        "adhyyn",
+        "None of the above"
+    ],
+    answer: "aaofr"
+},
+{
+    question: "total cost in are included:",
+    option: [
+        "main cost",
+        "factory cost",
+        "production cost",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "among the following who bhautik resources of one profr is ?",
+    option: [
+        "marketing",
+        "finance",
+        "resources",
+        "None of these"
+    ],
+    answer: "resources"
+},
+{
+    question: "smiikrnn to puuraa kreN: uoniexpenditure = aprtykss saamgrii + aprtykss shrm +",
+    option: [
+        "aprtykss expenditure",
+        "prtykss expenditure",
+        "prtykss shrm",
+        "prtykss saamgrii"
+    ],
+    answer: "aprtykss expenditure"
+},
+{
+    question: "one exchange viptr maaNg on dhaark to dey is-",
+    option: [
+        "vaidh",
+        "vyrthniiy",
+        "avaidh",
+        "shrt shit"
+    ],
+    answer: "avaidh"
+},
+{
+    question: "business planning in shaamil krioreN are :",
+    option: [
+        "organizing of planning",
+        "shrm power of necessarytaa of planning do",
+        "oniyojnaa ofry of planning",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "oniyojnaa or market srtheykssnn riportt of oral oniikssaa how many aNk of is is ?",
+    option: [
+        "five",
+        "two",
+        "ten",
+        "pcaas"
+    ],
+    answer: "five"
+},
+{
+    question: "product jinof maaNg more is is, more…………are haiN / ",
+    option: [
+        "profitprd",
+        "lossprd",
+        "more profitdaayk",
+        "None of the above"
+    ],
+    answer: "profitprd"
+},
+{
+    question: "onimaannniiy oniyojnaaoN from followingwritten related not is :",
+    option: [
+        "bijlii production",
+        "khnij production",
+        "onivaar klornn",
+        "jlaapuurti"
+    ],
+    answer: "onivaar klornn"
+},
+{
+    question: "oniyojnaa following from related not is :",
+    option: [
+        "innovation",
+        "klpnaa power",
+        "risk",
+        "sRjntaa"
+    ],
+    answer: "sRjntaa"
+},
+{
+    question: "diirghofliin capacity which ratio shows is ?",
+    option: [
+        "current ratio",
+        "net profit ratio",
+        "svaamitv ratio",
+        "stock turnover ratio"
+    ],
+    answer: "svaamitv ratio"
+},
+{
+    question: "one oniyojnaa is :",
+    option: [
+        "gtividhiyoN of smuuh",
+        "onel gtividhi",
+        "asNkhy gtividhiyoN of smuuh",
+        "None of these"
+    ],
+    answer: "gtividhiyoN of smuuh"
+},
+{
+    question: "present production vyvsthaa vaastv in is :",
+    option: [
+        "prtykss production",
+        "indirect production",
+        "primary",
+        "secondary"
+    ],
+    answer: "indirect production"
+},
+{
+    question: "current ratio is is",
+    option: [
+        "economic citttthaa ratio",
+        "profit-loss ratio",
+        "mishrit ratio",
+        "None of these"
+    ],
+    answer: "economic citttthaa ratio"
+},
+{
+    question: "business planning of main mhtv is :",
+    option: [
+        "investmentkoN to attract doing in",
+        "direction directing",
+        "uttoln power prdaan do",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "net working capital of means",
+    option: [
+        "current assetsorN – current liabilities",
+        "current assetsorN + current liabilities",
+        "current liabilities – current assetsorN",
+        "None of these"
+    ],
+    answer: "current assetsorN – current liabilities"
+},
+{
+    question: "planning .................... of increase in auxiliary hai / ",
+    option: [
+        "laagtoN",
+        "loss",
+        "ofrykushltaa",
+        "None of these"
+    ],
+    answer: "ofrykushltaa"
+},
+{
+    question: "debenture of nirgmn by goodwill of kor is :",
+    option: [
+        "uses of funds",
+        "sources of funds",
+        "funds of prvaah not",
+        "None of these"
+    ],
+    answer: "sources of funds"
+},
+{
+    question: "permanent cost of cost that cost is, which production of any also quantity on :",
+    option: [
+        "smaan remains is",
+        "onivrtit is is",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "smaan remains is"
+},
+{
+    question: "aadrsh trl ratio how much is is ?",
+    option: [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1"
+    ],
+    answer: "1:1"
+},
+{
+    question: "net present value method is related to :",
+    option: [
+        "time value of money from",
+        "mudraa of increased value from",
+        "all future present values from",
+        "None of these"
+    ],
+    answer: "time value of money from"
+},
+{
+    question: "acid-test ratio of gnnnaa doing in followingwritten assetyoN in from which asset to dhornot in not kept jaataa",
+    option: [
+        "cash",
+        "praapy viptr",
+        "stock",
+        "None of these"
+    ],
+    answer: "stock"
+},
+{
+    question: "management one ................ prkrior hai / ",
+    option: [
+        "permanent",
+        "onivrtnshiil",
+        "uonokt both",
+        "any not"
+    ],
+    answer: "onivrtnshiil"
+},
+{
+    question: "niitiorN praay .................... managementto by bnaaii jaatii hai / ",
+    option: [
+        "high-level",
+        "mdhy-level",
+        "following-level",
+        "any not"
+    ],
+    answer: "high-level"
+},
+{
+    question: "marketing avdhaarnnaa is :",
+    option: [
+        "productonmukhii",
+        "salesonmukhii",
+        "customeronmukhii",
+        "ye threeoN"
+    ],
+    answer: "ye threeoN"
+},
+{
+    question: "oniyojnaa identification in necessarytaa is is :",
+    option: [
+        "anubhv of use",
+        "mstissk of use",
+        "'A' and 'B' both",
+        "None of these"
+    ],
+    answer: "'A' and 'B' both"
+},
+{
+    question: "sthaan to prbhaavit doing vaale ofrk are",
+    option: [
+        "kcce goods of niktttaa",
+        "market from niktttaa",
+        "shrm of availability",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "product of vishess identification bnaane vaalii prkrior to khte are :",
+    option: [
+        "naamkrnn",
+        "packaging",
+        "labeling",
+        "shrenniikrnn"
+    ],
+    answer: "naamkrnn"
+},
+{
+    question: "antim hstiorN is :",
+    option: [
+        "sources of funds",
+        "uses of funds",
+        "funds of prvaah not",
+        "None of these"
+    ],
+    answer: "sources of funds"
+},
+{
+    question: "any definite nirnny of puurv internal resources on dhornot denaa………is hai / ",
+    option: [
+        "necessary",
+        "unnecessary",
+        "lossdaayk",
+        "profitprd"
+    ],
+    answer: "necessary"
+},
+{
+    question: "fund flow analysis in pryukt 'funds' shbd of aashy is ?",
+    option: [
+        "ofvl cash",
+        "current assetsorN",
+        "current liabilities",
+        "current assetsyoN of current liabilities on aadhiky"
+    ],
+    answer: "current assetsyoN of current liabilities on aadhiky"
+},
+{
+    question: "financial resources from related ofrk in are included",
+    option: [
+        "cost",
+        "working capital",
+        "break-even analysis",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "oniyojnaa of identification from is related to",
+    option: [
+        "vorthataarik product vifour",
+        "taarkik opportunity",
+        "prfuture maaNg",
+        "None of these"
+    ],
+    answer: "vorthataarik product vifour"
+},
+{
+    question: "planning is",
+    option: [
+        "goal-oriented",
+        "objective-oriented",
+        "mental process",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "feasibility study in among the following whose adhyyn kior jaataa is?",
+    option: [
+        "cost",
+        "value",
+        "operation",
+        "All of the above"
+    ],
+    answer: "All of the above"
+},
+{
+    question: "maaNg forecasting to among the following which ruup in jaanaa jaataa is ?",
+    option: [
+        "marketing",
+        "market maaNg",
+        "maaNg and puurti",
+        "All of the above"
+    ],
+    answer: "marketing"
+},
+{
+    question: "oniyojnaa identification vythataar does is :",
+    option: [
+        "vythataary oniyojnaa vifour from",
+        "taarkik opportunity from",
+        "prbhaavshaalii maaNg from",
+        "None of these"
+    ],
+    answer: "vythataary oniyojnaa vifour from"
+},
+{
+    question: "product selection prbhaavit is is",
+    option: [
+        "tkniiof jnyaan by",
+        "market of availability by",
+        "prtisondhaa of condition by",
+        "All of these"
+    ],
+    answer: "All of these"
+},
+{
+    question: "pryukt saamgrii = kry saamgrii + ................ saamgrii of smaapt stock:",
+    option: [
+        "saamgrii of beginningik stock",
+        "taiorr goods of beginningik stock",
+        "ofry prgti beginningik stock",
+        "All of the above"
+    ],
+    answer: "saamgrii of beginningik stock"
+},
+{
+    question: "planning is is :",
+    option: [
+        "alpofliin",
+        "mdhyofliin",
+        "diirghofliin",
+        "all periodyoN for"
+    ],
+    answer: "all periodyoN for"
+},
+{
+    question: "dendaar turnover ratio is :",
+    option: [
+        "dendaar / stock",
+        "dendaar / sales",
+        "net udhaar sales / aust dendaar",
+        "All of the above"
+    ],
+    answer: "net udhaar sales / aust dendaar"
+},
+{
+    question: "labor-intensive technology upyogii is :",
+    option: [
+        "developmentshiil deshoN for",
+        "viksit country for",
+        "all deshoN for",
+        "None of these"
+    ],
+    answer: "developmentshiil deshoN for"
+},
+{
+    question: "social ddhaaNcaa of rcnaa is is :",
+    option: [
+        "society of kriortmk vibhaajn from",
+        "jaati of kriortmk vibhaajn from",
+        "smudaay of kriortmk vibhaajn from",
+        "None of the above  / "
+    ],
+    answer: "smudaay of kriortmk vibhaajn from"
+},
+{
+    question: "profit-volume ratio to and which name from jaanaa jaataa is ?",
+    option: [
+        "contribution sales ratio",
+        "capital sales ratio",
+        "profit sales ratio",
+        "prtiphl sales ratio"
+    ],
+    answer: "contribution sales ratio"
+},
+{
+    question: "planning is :",
+    option: [
+        "necessary",
+        "unnecessary",
+        "time of brbaadii",
+        "waste of money"
+    ],
+    answer: "necessary"
+},
+{
+    question: "among the following who tkniiof resources in is included ?",
+    option: [
+        "production",
+        "marketing",
+        "planning",
+        "None of these"
+    ],
+    answer: "production"
+},
+{
+    question: "planning one................ prkrior hai / ",
+    option: [
+        "kbhii-kbhii being vaalii",
+        "nirNtr",
+        "year in one baar being vaalii",
+        "months in one baar being vaalii"
+    ],
+    answer: "nirNtr"
+},
+{
+    question: "vaidhaanik ruup from sales anubndh in smmilit is",
+    option: [
+        "sales",
+        "sales smjhautaa",
+        "vstu-exchange",
+        "sales and sales smjhautaa both"
+    ],
+    answer: "sales and sales smjhautaa both"
+},
+{
+    question: "oniyojnaa identification in necessary is is :",
+    option: [
+        "anubhv",
+        "mstissk of use",
+        "anubhv and mstissk of use both",
+        "None of these"
+    ],
+    answer: "anubhv and mstissk of use both"
+}, 
 ];
 
 // --- Helper: Shuffle questions ---
