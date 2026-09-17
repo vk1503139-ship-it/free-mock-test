@@ -41,12 +41,12 @@ const Contact = () => {
               <div className="contact-details">
                 <span className="label">Alternate:</span>
                 <a 
-                  href="https://wa.me/917631305758" 
+                  href="https://wa.me/917631309758" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="whatsapp-link"
                 >
-                  +91 7631305758
+                  +91 7631309758
                 </a>
                 <span className="badge whatsapp-badge">Chat Now</span>
               </div>
