@@ -5,8 +5,7 @@ import React, { useState, useEffect, useRef } from "react";
 
 // Hindi Questions
 const economicsHindi = [
-  // Part A: Introductory Macroeconomics
-  {
+{
     question: "साख नियंत्रण की कठिनाइयाँ निम्न में कौन है ?",
     option: [
         "बैंक साख के अतिरिक्त अन्य साख",
