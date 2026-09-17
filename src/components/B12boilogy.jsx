@@ -17419,7 +17419,7 @@ const biologyEnglish = [
     option:["BamHI","E. coli","BamHI and E. coli both","HindIII"],
     answer:"E. coli"
 },
- ];
+];
 
 // --- Helper: Shuffle questions ---
 const shuffleQuestions = (questions) => {
